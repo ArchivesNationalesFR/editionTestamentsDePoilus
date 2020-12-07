@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0325">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la
+               Grande Guerre</title><title type="main">[Testament de Hervé Pierre Marcel Leflem (16 mars 1915)] : édition électronique</title><author><persName ref="#pers-468">Hervé Pierre Marcel Leflem
+               (1875-1916)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+         <editionStmt>
+            <edition>Première édition électronique, fondée sur un travail de transcription
+               collaborative</edition>
+            <respStmt><resp>Numérisation</resp><orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+                        Département de la Conservation. Atelier photographique</orgName></respStmt>
+            <respStmt><resp>Identification et description du testament</resp><persName ref="#LC">Laure Cadars</persName><persName ref="#AM">Aurélie Massie</persName><persName ref="#LVieillon">Lucie Vieillon</persName><persName ref="#MLocatelli">Mélisa Locatelli</persName></respStmt>
+            <respStmt><resp>Transcription</resp><persName ref="#lelia">Lélia Picabia</persName><persName ref="#ASJPeronneau">ASJPeronneau</persName><persName ref="#GBMireille">Mireille Grais-Bruguière</persName></respStmt>
+            <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#CNougaret">Christine Nougaret</persName></respStmt>
+            <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+         </editionStmt>
+         <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AN_0325</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="will_AN_0325_tes">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives nationales</institution>
+                  <collection>Minutier central des notaires de Paris</collection>
+                  <idno>MC/ET/XXXIV/1651, minute du 10 août 1917 (dépôt du testament de Hervé Pierre
+                     Marcel Leflem)</idno>
+                  <msName>Testament de Hervé Pierre Marcel Leflem (16 mars 1915)</msName>
+               </msIdentifier>
+               <msContents>
+                  <summary><p><date type="willDate" when="1915-03-16">16 mars 1915</date>.
+                           <placeName type="willPlace" ref="#pl-716">Bray-sur-Somme</placeName>.</p><p><term type="willType">testament
+                           olographe</term> de <persName ref="#pers-468"><forename>Hervé</forename> <forename>Pierre</forename> <forename>Marcel</forename> <surname>Leflem</surname></persName>, mort
+                        pour la France le <date when="1916-07-18">18 juillet 1916</date> à
+                           <placeName ref="#pl-478">Harbonnières (Somme)</placeName>.</p></summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>Papier timbré réglé (testament). </support>
+                        <extent>2 pages. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                              <height>24,9</height>
+                              <width>17,8</width>
+                           </dimensions>.</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <p>Testament : encre.</p>
+                  </handDesc>
+               </physDesc>
+               <history>
+                  <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010161">étude
+                        notariale 34 (CRPCEN : 75018)</orgName></provenance>
+               </history>
+            </msDesc>
+            <msDesc xml:id="will_AN_0325_min">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives nationales</institution>
+                  <collection>Minutier central des notaires de Paris</collection>
+                  <idno>MC/ET/XXXIV/1651, minute du 10 août 1917 (dépôt du testament de Hervé Pierre
+                     Marcel Leflem)</idno>
+                  <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                     minute</msName>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation><date type="willDate" when="1915-03-16">16 mars 1915</date></creation>
+         <langUsage><language ident="fr">français</language></langUsage>
+         <abstract><p>16 mars 1915.
+                           Bray-sur-Somme.</p><p>testament
+                           olographe de Hervé Pierre Marcel Leflem, mort
+                        pour la France le 18 juillet 1916 à
+                           Harbonnières (Somme).</p></abstract>
+         <textClass>
+            <keywords>
+               <term type="subject">Grande Guerre</term>
+               <term type="subject">Poilu</term>
+               <term type="subject">testament</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when-iso="2020-03-28/2020-04-14" who="#lelia #ASJPeronneau #GBMireille">transcription</change>
+         <change when-iso="2020-03-28/2020-04-02" who="#PCharbonnier #CNougaret">validation</change>
+         <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements et
+            contrôle de qualité finaux</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+      <surface type="will-page" n="01">
+         <graphic url="testament_AN_0325___JPEG___FRAN_Poilus_t-0325_01.jpg" xml:id="FRAN_Poilus_t-0325_01"/>
+      </surface>
+      <surface type="will-page" n="02">
+         <graphic url="testament_AN_0325___JPEG___FRAN_Poilus_t-0325_02.jpg" xml:id="FRAN_Poilus_t-0325_02"/>
+      </surface>
+   </facsimile>
+   <text xml:id="will_AN_0325">
+      <body>
+         <div type="will">
+            <pb facs="#FRAN_Poilus_t-0325_01"/>
+            <p>Je
+                     <choice><sic>Sousigné Et Declare</sic><corr>soussigne et déclare</corr></choice> <lb/><persName ref="#pers-468"><surname>Leflem</surname> Hervé Piérre
+                     Marcel</persName><choice><sic>,</sic><corr/></choice> <lb/><choice><sic>Me</sic><corr>me</corr></choice>
+                     trouv<choice><sic>é</sic><corr>ant</corr></choice> sur la ligne de
+                     feu<choice><sic>.</sic><corr>,</corr></choice> <lb/><choice><sic>Ma</sic><corr>ma</corr></choice>
+               vie ét<choice><sic>e</sic><corr>a</corr></choice>nt en danger de
+                     mort<choice><sic/><corr>,</corr></choice> faire <choice><sic>connaitre</sic><corr>connaître</corr></choice>
+                      <lb/><choice><sic>Mai</sic><corr>mes</corr></choice> dernières <hi rend="underlined"><choice><sic>volontées</sic><corr>volontés</corr></choice></hi>
+               qui sont <choice><sic>se</sic><corr>ce</corr></choice> qui suit :</p>
+            <p>Laissez <choice><sic>a</sic><corr>à</corr></choice> <persName>Madame <surname>Duc Mauger</surname> Victorine
+                  Alice</persName> <lb/><choice><sic>Qui</sic><corr>qui</corr></choice> habite 15 rue
+               des Tournelles <choice><sic>a</sic><corr>à</corr></choice> <placeName type="willAuthorResidence" ref="#pl-2">Paris</placeName><choice><sic/><corr>,</corr></choice><lb/> <choice><sic>Qui</sic><corr>qui</corr></choice> est mon
+                  <hi rend="underlined"><choice><sic>domicille</sic><corr>domicile</corr></choice></hi> depuis le mois de
+                  <date type="otherDate"><choice><sic>Juillet</sic><corr>juillet</corr></choice>
+                  1914</date><choice><sic/><corr>,</corr></choice> <lb/><choice><sic>Une</sic><corr>une</corr></choice> malle et <choice><sic>sons contenue tout mes efets</sic><corr>son contenu, tous mes
+                     effets</corr></choice> <lb/><choice><sic>Et</sic><corr>et</corr></choice> linge
+               de corps<choice><sic/><corr>,</corr></choice> des papiers <hi rend="underlined"><choice><sic>personnelles</sic><corr>personnels</corr></choice></hi> de
+                     famille<choice><sic/><corr>,</corr></choice> <lb/><choice><sic>Une</sic><corr>une</corr></choice>
+               montre et <choice><sic>chaine</sic><corr>chaîne</corr></choice> en or<choice><sic/><corr>,</corr></choice> une bague
+                     or<choice><sic/><corr>,</corr></choice> <lb/><choice><sic>Des</sic><corr>des</corr></choice>
+               outils de menuisier<choice><sic/><corr>,</corr></choice> le tout
+                     <choice><sic>devrat</sic><corr>devant</corr></choice> rester
+                     <lb/><choice><sic>Chez</sic><corr>chez</corr></choice> Madame
+                     <persName><surname>Duc Mauger</surname> Victorine
+                     Alice</persName> <lb/><choice><sic>Qui</sic><corr>qui</corr></choice> est la
+               compagne de ma vie <hi rend="underlined"><choice><sic>futur</sic><corr>future</corr></choice></hi> <lb/><choice><sic>Et</sic><corr>et</corr></choice>
+               la mère de mon enfant <hi rend="underlined">chéri</hi><choice><sic/><corr>,</corr></choice> <lb/><persName>Monsieur <surname>Duc
+                     Mauger</surname> Pierre
+                     Marcel</persName><choice><sic/><corr>,</corr></choice> <lb/><choice><sic>Né</sic><corr>né</corr></choice> <date type="otherDate" when="1906-07-31">le 31 <choice><sic>
+                  Juillet</sic><corr>juillet</corr></choice>
+                  1906</date> <choice><sic>a</sic><corr>à</corr></choice> <placeName type="otherPlace" ref="#pl-2">Paris<choice><sic/><corr>,</corr></choice> <choice><sic>Mairie</sic><corr>mairie</corr></choice> du
+                           <choice><abbr>IV<hi rend="superscript">ème</hi></abbr><expan>quatrième</expan></choice></placeName><choice><sic/><corr>,</corr></choice> <lb/><choice><sic>Que</sic><corr>que,</corr></choice>
+               <choice><sic>tout en</sic><corr>bien que</corr></choice> ne <choice><sic>porte</sic><corr>portant</corr></choice> pas mon <hi rend="underlined"><choice><sic>Non</sic><corr>nom</corr></choice></hi><choice><sic/><corr>,</corr></choice> <lb/><choice><sic>Je</sic><corr>je</corr></choice>
+                     <choice><sic>reconnait</sic><corr>reconnais</corr></choice> être né de mes
+                     <choice><sic>âctes</sic><corr>actes</corr></choice>. <lb/>Sa bonne mère lui
+               donnera <choice><sic>a</sic><corr>à</corr></choice> son
+                     <choice><sic>grés</sic><corr>gré,</corr></choice> <hi rend="underlined">tout</hi> <lb/><choice><sic>En</sic><corr>en</corr></choice> souvenir de son
+               malheureux père <lb/><choice><sic>Qui</sic><corr>qui</corr></choice> aimait son fils
+                     <choice><sic>insi</sic><corr>ainsi</corr></choice> que 
+                     <choice><sic>la mere</sic><corr>sa mère</corr></choice> de <hi rend="underlined">tout
+                  son coeur</hi><choice><sic/><corr>.</corr></choice></p>
+            <p>En outre je <choice><sic>reconnait</sic><corr>reconnais</corr></choice> avoir reçu
+                     <lb/><choice><sic>Tout</sic><corr>tous</corr></choice> les salaires qui ont été
+                     <choice><sic>toucher</sic><corr>touchés</corr></choice> <lb/><choice><sic>Par</sic><corr>par</corr></choice> <persName>Madame
+                     <surname>Duc Mauger</surname> Victorine
+                     Alice</persName> <lb/><choice><sic>Sur</sic><corr>sur</corr></choice> ma
+               procuration <choice><sic>a</sic><corr>à</corr></choice> la <orgName>Manufacture
+                        <lb/><choice><sic>Des</sic><corr>des</corr></choice> <hi rend="underlined">tabacs</hi> de Paris<choice><sic/><corr>-</corr></choice>Reuilly</orgName><choice><sic/><corr>,</corr></choice> 319
+               rue de
+                     <choice><sic>charenton</sic><corr>Charenton,</corr></choice> <lb/><choice><sic>Avoir</sic><corr>être</corr></choice>
+                     <choice><sic>rentrée d’en</sic><corr>rentré dans</corr></choice> tout mon avoir <lb/><choice><sic>Soit</sic><corr>soit</corr></choice> en argent soit
+               en <choice><sic>marchandise</sic><corr>marchandises</corr></choice> <lb/><choice><sic>Qui mon</sic><corr>qui m’ont</corr></choice>
+               été <choice><sic>envoyer</sic><corr>envoyées</corr></choice>
+                     régulièrement<choice><sic/><corr>.</corr></choice></p>
+            <pb facs="#FRAN_Poilus_t-0325_02"/>
+            <p><choice><sic>Mai</sic><corr>Mes</corr></choice> dernières <choice><sic>volonté
+                     sons</sic><corr>volontés
+                     sont</corr></choice> <lb/><choice><sic>Que</sic><corr>que</corr></choice> si des
+               réclamations <choice><sic>sons</sic><corr>sont</corr></choice> faites
+                     <lb/><choice><sic>Soit</sic><corr>soit</corr></choice> par ma famille ou par
+                     <persName>Madame Leflem</persName><choice><sic/><corr>,</corr></choice> <lb/><choice><sic>Quel
+                     soit</sic><corr>qu’elles soient</corr></choice> <hi rend="underlined">toutes <choice><sic>repousser</sic><corr>repoussées</corr></choice></hi><choice><sic/><corr>.</corr></choice></p>
+            <p><choice><sic>J</sic><corr>J’</corr></choice>espère que tout <hi rend="underlined">homme</hi> de <hi rend="underlined">loi</hi> <lb/><choice><sic>Aura
+                     a</sic><corr>aura à</corr></choice> <hi rend="underlined">coeur</hi> de faire
+               respecter <lb/><choice><sic>Les</sic><corr>les</corr></choice> dernières
+                     <choice><sic>volonté dun <hi rend="underlined">combatent</hi></sic><corr>volontés d’un <hi rend="underlined">combattant</hi></corr></choice> <lb/><choice><sic>Qui</sic><corr>qui</corr></choice>
+               sera mort pour la <choice><sic>Defense</sic><corr>défense</corr></choice> de son
+                     <choice><sic>Pays</sic><corr>pays.</corr></choice></p>
+            <space dim="vertical" unit="lines" quantity="2"/>
+            <dateline>Fait en <choice><sic>Double a</sic><corr>double à</corr></choice> mon
+               <choice><sic>Cantonnement</sic><corr>cantonnement</corr></choice>
+                     <lb/><choice><sic>De</sic><corr>de</corr></choice> repos
+                     <choice><sic>a</sic><corr>à</corr></choice> <placeName type="willPlace" ref="#pl-716">Bray-sur-Somme</placeName> <date type="willDate" when="1915-03-16">le 16 <choice><sic>Mars</sic><corr>mars</corr></choice>
+                     1915</date><choice><sic/><corr>.</corr></choice></dateline>
+            <space dim="vertical" unit="lines" quantity="2"/>
+            <signed rend="centered"><persName ref="#pers-468">Hervé <surname>Leflem</surname> Pierre
+                  Marcel</persName></signed>
+         </div>
+      </body>
+   </text>
+</TEI>

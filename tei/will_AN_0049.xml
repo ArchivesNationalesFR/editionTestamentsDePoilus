@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0049">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Mathieu Marcel Schwab (30 juin 1916)] : édition électronique</title><author><persName ref="#pers-106">Mathieu Marcel Schwab
+                    (1894-1917)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+                        Département de la Conservation. Atelier photographique</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#AM">Aurélie Massie</persName><persName ref="#MLocatelli">Mélisa Locatelli</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#MFGarreau">MFGarreau</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#jmorvan">Josselin Morvan</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AN_0049</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0049_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1580, minute du 23 avril 1917 (dépôt du testament de Mathieu
+                            Marcel Schwab)</idno>
+                        <msName>Testament de Mathieu Marcel Schwab (30 juin 1916)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1916-06-30">30 juin 1916</date>.
+                                    <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-106"><forename>Mathieu</forename> <forename>Marcel</forename> <surname>Schwab</surname></persName>, mort
+                                pour la France le <date when="1917-03-09">9 mars 1917</date> à
+                                    <placeName ref="#pl-186" source="#will_AN_0049_min">Pontavert
+                                    (Aisne) [NOT]</placeName> ou à Gernicourt (Marne)
+                            [MDH].</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier quadrillé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>27,8</height>
+                                        <width>21,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010247">étude
+                                notariale 120 (CRPCEN : 75100)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0049_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1580, minute du 23 avril 1917 (dépôt du testament de Mathieu
+                            Marcel Schwab)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1916-06-30">30 juin 1916</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>30 juin 1916.
+                                    Paris.</p><p>testament olographe de Mathieu Marcel Schwab, mort
+                                pour la France le 9 mars 1917 à
+                                    Pontavert
+                                    (Aisne) [NOT] ou à Gernicourt (Marne)
+                            [MDH].</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2019-12-10" who="#SL. #lelia #MFGarreau">transcription</change>
+            <change when-iso="2018-01-24/2018-09-28" who="#PCharbonnier ">validation</change>
+            <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0049___JPEG___FRAN_Poilus_t-0049_01.jpg" xml:id="FRAN_Poilus_t-0049_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0049">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0049_01"/>
+                <dateline><placeName type="willPlace" ref="#pl-2">Paris</placeName> le <date type="willDate" when="1916-06-30"><choice><sic>Trente Juin
+                                Mille</sic><corr>trente juin mille</corr></choice> neuf cent
+                        seize</date></dateline>
+                <space quantity="2" unit="lines" dim="vertical"/>
+                <p>Je déclare moi <persName ref="#pers-106">Monsieur Mathieu Marcel
+                            <surname>Schwab</surname></persName><choice><sic/><corr>,</corr></choice>
+                    né à <placeName type="willAuthorBirthPlace" ref="#pl-2">Paris</placeName>
+                    <lb/>le <date type="willAuthorBirthDate" when="1894-05-04"><choice><sic>Quatre
+                                Mai Mille</sic><corr>quatre mai mille</corr></choice> huit cent
+                                <choice><sic>quatre vingt
+                                quatoze</sic><corr>quatre-vingt-quatorze</corr></choice></date>,
+                            <lb/><choice><sic>Je</sic><corr>je</corr></choice> déclare
+                            <choice><sic>fait sa</sic><corr>faire ma</corr></choice> légataire
+                    universelle, tant <supplied>de mes</supplied> biens, <lb/>meubles, immeubles,
+                            <choice><sic>son</sic><corr>mon</corr></choice> épouse <persName>Madame
+                        Schwab <lb/>Marie Antoinette, <choice><sic>- né Sorba</sic><corr>née
+                                Sorba</corr></choice></persName>.
+                            <choice><sic>marié</sic><corr>Marié</corr></choice> ci-devant à
+                        <placeName type="otherPlace" ref="#pl-2">Paris</placeName><choice><sic/><corr>,</corr></choice>
+                    <lb/><choice><sic>Mairie du treizieme</sic><corr>mairie du
+                        treizième</corr></choice>
+                        arrondissement<choice><sic>.</sic><corr>,</corr></choice> le <date type="otherDate" when="1913-08-14"><choice><sic>quatoze
+                                Août</sic><corr>quatorze août</corr></choice>
+                        <lb/><choice><sic>Mille</sic><corr>mille</corr></choice> neuf cent
+                        treize.</date></p>
+                <dateline rend="centered"><choice><sic>Ce-dit</sic><corr>Ce</corr></choice>
+                    testament fait de ma main, à <placeName type="willPlace" ref="#pl-2">Paris</placeName><choice><sic/><corr>,</corr></choice>
+                    <lb/><date type="willDate" when="1916-06-30"><choice><sic>Le Trente Juin
+                                Mille</sic><corr>le trente juin mille</corr></choice> neuf cent
+                        seize</date><choice><sic/><corr>.</corr></choice></dateline>
+                <space quantity="2" unit="lines" dim="vertical"/>
+                <signed rend="centered"><persName ref="#pers-106">Mathieu Marcel
+                            <surname>Schwab</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

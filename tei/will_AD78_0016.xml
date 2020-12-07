@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0016">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Eugène Léon Lepeinteur (29 janvier 1918)] : édition électronique</title><author><persName ref="#pers-16">Eugène Léon Lepeinteur
+                    (1888-1918)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#VLemee">Valérie Lemée</persName><persName ref="#SBlanchard">Sophie Blanchard</persName><persName ref="#MDeuve">Mathilde Deuve</persName><persName ref="#FAuriau">Françoise Auriau</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#Genea78">Genea78</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#EdChamps">Emmanuelle de Champs</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0016</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0016_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E6 546, minute du 8 décembre 1920 (dépôt du testament de Eugène Léon
+                            Lepeinteur)</idno>
+                        <msName>Testament de Eugène Léon Lepeinteur (29 janvier 1918)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1918-01-29">29 janvier 1918</date>.
+                                    <placeName type="willPlace" ref="#pl-4">Chatou</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-16"><forename>Eugène</forename> <forename>Léon</forename> <surname>Lepeinteur</surname></persName>,
+                                mort pour la France le <date when="1918-06-30">30 juin 1918</date>
+                                au <placeName ref="#pl-31">bois de Manheulles (C… Massenone) Commune
+                                    de Haudiaumont (Meuse)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de Chatou</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0016_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E6 546, minute du 8 décembre 1920 (dépôt du testament de Eugène Léon
+                            Lepeinteur)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1918-01-29">29 janvier 1918</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>29 janvier 1918.
+                                    Chatou.</p><p>testament
+                                    olographe de Eugène Léon Lepeinteur,
+                                mort pour la France le 30 juin 1918
+                                au bois de Manheulles (C… Massenone) Commune
+                                    de Haudiaumont (Meuse).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-03-23" who="#SL. #Genea78">transcription</change>
+            <change when-iso="2018-01-24/2018-03-22" who="#PCharbonnier #EdChamps ">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0016___JPEG___FRAD78_Poilus_t-0016_01.jpg" xml:id="FRAD78_Poilus_t-0016_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0016">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0016_01"/>
+                <dateline rend="centered"><placeName type="willPlace" ref="#pl-4">Chatou</placeName><date type="willDate" when="1918-01-29"> <choice><sic>Le
+                                29 Janvier</sic><corr>le 29 janvier</corr></choice>
+                    1918</date>.</dateline>
+                <space quantity="3" unit="lines" dim="vertical"/>
+                <p rend="left">Je
+                        <choice><sic>soussigne</sic><corr>soussigné</corr></choice> <persName ref="#pers-16">Léon <surname>Lepeinteur</surname></persName><choice><sic/><corr>,</corr></choice> <lb/>en cas de
+                            <choice><sic>déçès,
+                            Je</sic><corr>décès,</corr></choice> <choice><sic>délègue</sic><corr>lègue</corr></choice>
+                    à ma <lb/><choice><sic>Soeur</sic><corr>soeur</corr></choice> <choice><abbr>M<hi rend="superscript-underlined">lle</hi></abbr><expan>Mademoiselle</expan></choice> <persName><choice><sic>Eugenie</sic><corr>Eugénie</corr></choice> <surname>Lepeinteur</surname></persName> <lb/>8
+                    rue de Croissy à <placeName type="otherPlace" ref="#pl-4">Chatou</placeName>, la
+                    moitié <lb/>de la somme qui me revient pour ma <lb/>part, plus la moitié du bien
+                    qui me <lb/>revient au pays de ma
+                        mère<choice><sic>,</sic><corr>.</corr></choice></p>
+                <p>Je <choice><sic>délègue lautre</sic><corr>lègue l’autre</corr></choice>
+                    moitié de la somme <lb/>me revenant et l’autre moitié du bien <lb/>au pays de ma
+                    mère, à ma <choice><sic>Nieçè</sic><corr>nièce</corr></choice> <lb/><choice><abbr>
+                                M<hi rend="superscript-underlined">lle</hi></abbr><expan>
+                            Mademoiselle</expan></choice> <persName>Odette
+                        <surname>Tétard</surname></persName> restant chez ses <lb/><choice><sic>grand
+                            parents</sic><corr>grands-parents</corr></choice> <choice><abbr> M<hi rend="superscript-underlined">r</hi></abbr><expan>Monsieur</expan></choice> et Madame Leclaire<choice><sic/><corr>,</corr></choice> <lb/>33
+                    rue de <choice><sic>pontoise</sic><corr>Pontoise</corr></choice> à <placeName type="otherPlace" ref="#pl-57"><choice><sic>montesson</sic><corr>Montesson.</corr></choice></placeName></p>
+                <space quantity="3" unit="lines" dim="vertical"/>
+                <dateline rend="centered">Fait à <placeName type="willPlace" ref="#pl-4">Chatou</placeName> <date type="willDate" when="1918-01-29">le 29
+                                <choice><sic>Janvier <lb/>mille-neuf-cent-dix-huit</sic><corr>janvier <lb/>mille neuf cent
+                                dix-huit.</corr></choice></date></dateline>
+                <space quantity="2" unit="lines" dim="vertical"/>
+                <signed rend="centered"><persName ref="#pers-16">Léon
+                        <surname>Lepeinteur</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

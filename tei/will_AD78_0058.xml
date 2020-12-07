@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0058">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Lucien Léon Cassard (13 août 1914)] : édition électronique</title><author><persName ref="#pers-56">Lucien Léon Cassard (1876-1916)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#TR">Thierry Rihouey</persName><persName ref="#FAuriau">Françoise Auriau</persName><persName ref="#SBlanchard">Sophie Blanchard</persName><persName ref="#MDeuve">Mathilde Deuve</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#BRingot">BRingot</persName><persName ref="#GLEMOINE">GLEMOINE</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#EdChamps">Emmanuelle de Champs</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0058</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0058_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E44 1000, minute du 17 juillet 1916 (dépôt du testament de Lucien
+                            Léon Cassard)</idno>
+                        <msName>Testament de Lucien Léon Cassard (13 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-13">13 août 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-91">Le
+                                Chesnay</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-56"><forename>Lucien</forename> <forename>Léon</forename> <surname>Cassard</surname></persName>, mort
+                                pour la France le <date when="1916-05-23">23 mai 1916</date> à
+                                    <placeName ref="#pl-110">Montzéville
+                            (Meuse)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier commercial (testament). </support>
+                                <extent>2 pages. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>21,3</height>
+                                        <width>17,6</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de Versailles, étude
+                            Gayot</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0058_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E44 1000, minute du 17 juillet 1916 (dépôt du testament de Lucien
+                            Léon Cassard)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-13">13 août 1914</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>13 août 1914.
+                                    Le
+                                Chesnay.</p><p>testament
+                                    olographe de Lucien Léon Cassard, mort
+                                pour la France le 23 mai 1916 à
+                                    Montzéville
+                            (Meuse).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-02-23" who="#SL. #BRingot #GLEMOINE">transcription</change>
+            <change when-iso="2018-01-24/2018-02-20" who="#PCharbonnier #EdChamps">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0058___JPEG___FRAD78_Poilus_t-0058_01.jpg" xml:id="FRAD78_Poilus_t-0058_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AD78_0058___JPEG___FRAD78_Poilus_t-0058_02.jpg" xml:id="FRAD78_Poilus_t-0058_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0058">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0058_01"/>
+                <dateline rend="centered"><placeName type="willPlace" ref="#pl-91">Le
+                        Chesnay</placeName> <date when="1914-08-13" type="willDate">13
+                                <choice><sic>Août</sic><corr>août</corr></choice> 191 <subst><del>3</del><add>4</add></subst></date></dateline>
+                <space dim="vertical" quantity="1" unit="lines"/>
+                <p>Rejoignant mon <choice><sic>regiment</sic><corr>régiment</corr></choice> suivant
+                    la mobilisation <lb/>et ne sachant ce qu’il peut m’arriver, je <lb/>soussigné
+                    déclare donner à ma femme sa vie durant <lb/>tout <subst><del/><add>ce</add></subst> <choice><sic>qu’il</sic><corr>qui</corr></choice> m’appartient<choice><sic/><corr>,</corr></choice> mobilier et propriété <lb/>venus ou à venir ; après
+                    elle<choice><sic/><corr>,</corr></choice> cela retournera dans <lb/>ma famille.</p>
+                <p>Je désire que la reconnaissance de 3.000 francs <lb/>que je dois à ma mère, ne
+                    lui soit pas réclamée<choice><sic/><corr>.</corr></choice> <pb facs="#FRAD78_Poilus_t-0058_02"/><choice><sic>en</sic><corr>En</corr></choice> remboursement, ma
+                    femme servira la rente de <lb/>120 francs par an comme j’ai toujours
+                            fait<choice><sic/><corr>.</corr></choice> <lb/><choice><sic>au</sic><corr>Au</corr></choice>
+                    cas <choice><sic>ou</sic><corr>où</corr></choice> ma mère voudrait rentrer dans
+                    son argent<choice><sic/><corr>,</corr></choice> <lb/>j’engage ma femme à louer ma
+                            <choice><sic>propriéte</sic><corr>propriété</corr></choice>
+                                de <lb/><choice><abbr>S<hi rend="superscript">t</hi></abbr><expan>Saint</expan></choice><choice><sic> </sic><corr>-</corr></choice>Sever
+                            <choice><sic>ou</sic><corr>où</corr></choice> habite ma mère, la somme
+                    de 150 francs <lb/>par an et l’autre petit
+                            <choice><sic>batiment</sic><corr>bâtiment</corr></choice> à côté ce
+                    qu’elle <lb/>pourra<choice><sic/><corr>,</corr></choice> environ 80
+                            francs<choice><sic/><corr>,</corr></choice> à son profit
+                            également<choice><sic/><corr>.</corr></choice></p>
+                <p rend="centered">Telles sont mes dernières
+                        volontés<choice><sic/><corr>.</corr></choice></p>
+                <signed rend="centered"><persName ref="#pers-56">L.
+                    <surname>Cassard</surname></persName></signed>
+                    <postscript><p><placeName type="willPlace" ref="#pl-91">Le Chesnay Glatigny Seine et
+                    Oise</placeName></p></postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

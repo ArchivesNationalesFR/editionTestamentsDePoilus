@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0105">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Joseph Marie Glate (1er décembre 1915)] : édition électronique</title><author><persName ref="#pers-390">Joseph Marie Glate (1876-1917)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#VLemee">Valérie Lemée</persName><persName ref="#MDeuve">Mathilde Deuve</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#lelia">Lélia Picabia</persName><persName ref="#MFGarreau">MFGarreau</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0105</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0105_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E32 459, minute du 13 mars 1917 (dépôt du testament de Joseph Marie
+                            Glate)</idno>
+                        <msName>Testament de Joseph Marie Glate (1er décembre 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1915-12-01">1er décembre
+                                1915</date>. <placeName type="willPlace" ref="#pl-601">Rambouillet</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-390"><forename>Joseph</forename> <forename>Marie</forename> <surname>Glate</surname></persName>, mort
+                                pour la France le <date when="1917-02-24">24 février 1917</date> à
+                                    <placeName ref="#pl-603">Guéret (Creuse) à l’hôpital
+                                    complémentaire N°3</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). Enveloppe de courrier,
+                                    blanche, timbrée, réglée sur le devant (enveloppe). </support>
+                                <extent>2 pages et 1 enveloppe. Dimensions du testament :
+                                        <dimensions type="willPage" unit="cm">
+                                        <height>25</height>
+                                        <width>17,5</width>
+                                    </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                                        <height>11</height>
+                                        <width>17,5</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Enveloppe : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de Rambouillet</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0105_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E32 459, minute du 13 mars 1917 (dépôt du testament de Joseph Marie
+                            Glate)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-12-01">1er décembre 1915</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>1er décembre
+                                1915. Rambouillet.</p><p>testament
+                                    olographe de Joseph Marie Glate, mort
+                                pour la France le 24 février 1917 à
+                                    Guéret (Creuse) à l’hôpital
+                                    complémentaire N°3.</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-07-01/2020-05-14" who="#lelia #MFGarreau">transcription</change>
+            <change when-iso="2019-07-01/2019-11-15" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-envelope-recto" n="01">
+            <graphic url="testament_AD78_0105___JPEG___FRAD78_Poilus_t-0105_01.jpg" xml:id="FRAD78_Poilus_t-0105_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AD78_0105___JPEG___FRAD78_Poilus_t-0105_02.jpg" xml:id="FRAD78_Poilus_t-0105_02"/>
+        </surface>
+        <surface type="will-page" n="03">
+            <graphic url="testament_AD78_0105___JPEG___FRAD78_Poilus_t-0105_03.jpg" xml:id="FRAD78_Poilus_t-0105_03"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0105">
+        <body>
+            <div type="envelope">
+                <pb facs="#FRAD78_Poilus_t-0105_01"/>
+                <p rend="centered">Ceci est mon testament<choice><sic/><corr>.</corr></choice></p>
+                <signed rend="centered"><persName ref="#pers-390"><surname>Glate</surname></persName></signed>
+            </div>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0105_02"/>
+                <head rend="centered">Ceci est mon testament</head>
+                <p>Je soussigné <persName ref="#pers-390">Joseph Marie
+                        <surname>Glate</surname></persName> <lb/>demeurant à <placeName type="willAuthorResidence" ref="#pl-601">Rambouillet</placeName> rue de
+                    Groussay <choice><abbr>n<hi rend="superscript-underlined">o</hi></abbr><expan>numéro</expan></choice>
+                            28<choice><sic/><corr>,</corr></choice> <lb/>actuellement
+                            sergent mobilisé au <orgName ref="#o-313">trentième
+                            <choice><sic>regiment</sic><corr>régiment</corr></choice> <lb/>territorial
+                                d’<choice><sic>Infanterie</sic><corr>infanterie</corr></choice></orgName><choice><sic/><corr>,</corr></choice> <choice><sic>etant</sic><corr>étant</corr></choice>
+                    en ce moment en permission <lb/><choice><sic>reguliere</sic><corr>régulière</corr></choice> à
+                        <placeName type="willAuthorResidence" ref="#pl-601">Rambouillet</placeName><choice><sic/><corr>,</corr></choice> <lb/><choice><sic>Ai</sic><corr>ai</corr></choice> fait mon testament ainsi qu’il suit : </p>
+                <list>
+                    <item>1<hi rend="superscript">o</hi> La somme de quatorze mille deux cent
+                        <lb/><choice><sic>soixante dix neuf</sic><corr>soixante-dix-neuf</corr></choice>
+                        francs <choice><sic>trente cinq</sic><corr>trente-cinq</corr></choice> centimes
+                                <lb/><choice><sic>portee</sic><corr>portée</corr></choice> comme
+                        apport sur notre contrat de mari<subst><del>g</del><add>a</add></subst>ge
+                        <lb/>fera retour dès mon <choice><sic>decés</sic><corr>décès</corr></choice>
+                        à ma famille.</item>
+                    <space dim="vertical" unit="lines" quantity="1"/>
+                    <item>2<hi rend="superscript-underlined">o</hi> Ensuite
+                                <choice><sic>Je</sic><corr>je</corr></choice> lègue à <persName>Alice
+                            Marguerite Raquillet</persName> <lb/>ma femme demeurant avec moi à
+                            <placeName type="willAuthorResidence" ref="#pl-601">Rambouillet</placeName> <lb/>l’usufruit à titre alimentaire des biens
+                        mobiliers et <lb/>immobiliers qui formeront le restant de ma succession
+                        <lb/>à compter de mon décès sans être tenue de fourni <lb/>caution mais à
+                        charge de faire faire inventaire <lb/>et d’employer à son nom pour
+                        l’usufruit en <lb/>rentes sur <orgName>l’Etat
+                            <choice><sic>Francais</sic><corr>français</corr></choice></orgName> ou
+                        en obligations des <lb/>principales <orgName>compagnies des chemins de fer
+                            français</orgName> <lb/>ou de l’<choice><sic>Etat</sic><corr>État</corr></choice>, de <orgName>la ville de
+                            Paris</orgName> ou du <orgName><choice><sic>Credit
+                                    <lb/>Foncier</sic><corr>Crédit foncier</corr></choice> de
+                            France</orgName> toutes les sommes et valeurs qui <lb/>seront soumises à
+                        son usufruit.</item>
+                </list>
+                <p>Il est bien entendu qu’en cas de nouvelle union <lb/>contractée par ma
+                            femme<choice><sic/><corr>,</corr></choice> les dispositions
+                    <choice><sic>enoncées</sic><corr>énoncées</corr></choice>
+                            <lb/>ci<choice><sic/><corr>-</corr></choice>dessus, alinea 2., seront
+                    annulées et le montant <lb/>du legs ferait retour à ma
+                            famille<choice><sic/><corr>.</corr></choice></p>
+                <pb facs="#FRAD78_Poilus_t-0105_03"/>
+                <dateline>Fait et écrit en entier de ma main <lb/>à <placeName type="willPlace" ref="#pl-601">Rambouillet</placeName> <date type="willDate" when="1915-12-01">le premier
+                            <choice><sic>decembre</sic><corr>décembre</corr></choice> <lb/><add place="marginLeft">mil</add> neuf cent
+                        quinze</date><choice><sic/><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="centered"><persName ref="#pers-390"><surname>Glate</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

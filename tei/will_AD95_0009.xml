@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD95_0009">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Louis Ambroise Victor Montreau (2 août 1914)] : édition électronique</title><author><persName ref="#pers-404">Louis Ambroise Victor Montreau
+                        (1873-1915)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#LLecoutre">Lena Lecoutre</persName><persName ref="#SBlanchard">Sophie Blanchard</persName><persName ref="#SD">Sophie Delinge</persName><persName ref="#TO">Thomas Olivier</persName><persName ref="#SDechavanne">Sylvie Dechavanne</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#GBMireille">Mireille Grais-Bruguière</persName><persName ref="#lelia">Lélia Picabia</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD95_0009</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD95_0009_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales du Val-d’Oise</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>2E28 595, minute du 13 août 1918 (dépôt du testament de Louis Ambroise
+                            Victor Montreau)</idno>
+                        <msName>Testament de Louis Ambroise Victor Montreau (2 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-02">2 août 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-630">Herblay</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-404"><forename source="#will_AD95_0009_min #MDH #AS">Louis</forename> <forename source="#will_AD95_0009_min #MDH #AS  #will_AD95_0009_tes">Ambroise</forename> <forename source="#will_AD95_0009_min #MDH #AS">Victor</forename> <surname>Montreau</surname></persName>,
+                                mort pour la France le <date when="1915-04-22" source="#will_AD95_0009_min #MDH #AS">22 avril 1915 [NOT] [MDH]
+                                    [AS]</date> à <placeName ref="#pl-631" source="#will_AD95_0009_min #MDH #AS">Région d’Albert [NOT] |
+                                    Château de Bécourt ( Somme) [MDH] | Château de Bécourt
+                                    [AS]</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré ivoire réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>Dusapt Cormeilles-en-Parisis</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD95_0009_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales du Val-d’Oise</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>2E28 595, minute du 13 août 1918 (dépôt du testament de Louis Ambroise
+                            Victor Montreau)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-02">2 août 1914</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>2 août 1914.
+                                    Herblay.</p><p>testament
+                                    olographe de Louis Ambroise Victor Montreau,
+                                mort pour la France le 22 avril 1915 [NOT] [MDH]
+                                    [AS] à Région d’Albert [NOT] |
+                                    Château de Bécourt ( Somme) [MDH] | Château de Bécourt
+                                    [AS].</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-10-09/2020-03-26" who="#MFGarreau #GBMireille #lelia">transcription</change>
+            <change when-iso="2019-10-09/2019-11-05" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD95_0009___JPEG___FRAD95_Poilus_t-0009_01.jpg" xml:id="FRAD95_Poilus_t-0009_01"/>
+        </surface>
+        
+        
+    </facsimile>
+    <text xml:id="will_AD95_0009">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD95_Poilus_t-0009_01"/>
+                <p>J’institue ma mère pour ma légataire <lb/>universelle en toute
+                            propriété<choice><sic/><corr>.</corr></choice></p>
+                <p>En cas de prédécès de ma mère et de mon frère<choice><sic/><corr/></choice>
+                            <lb/><choice><sic>J</sic><corr>j</corr></choice>’institue pour mes
+                    légataires <choice><sic>universelle</sic><corr>universels</corr></choice> <lb/><persName>Madame Adrille Crosnier</persName>, ma cousine<choice><sic/><corr>,</corr></choice>
+                    <lb/><persName>Madame
+                        Gaston Gallois</persName><choice><sic/><corr>,</corr></choice> ma cousine<choice><sic/><corr>,</corr></choice>
+                    <lb/><persName>Monsieur Aramis
+                        Foissotte</persName><choice><sic/><corr>,</corr></choice> mon petit<choice><sic> </sic><corr>-</corr></choice>cousin<choice><sic/><corr>,</corr></choice>
+                    <lb/>fils de <persName>Monsieur George
+                        Foissotte gendre Daire</persName><choice><sic/><corr>,</corr></choice> <lb/><space dim="horizontal" unit="chars" quantity="10"/><choice><sic>Aux</sic><corr>aux</corr></choice> <choice><sic>condition</sic><corr>conditions</corr></choice>
+                    suivantes<choice><sic/><corr> :</corr></choice> <lb/><choice><sic>Il</sic><corr>ils</corr></choice>
+                    auront la charge de continuer les travaux <lb/>du caveau de famille, et
+                            <choice><sic>de </sic><corr>d’</corr></choice>inscrire les noms <lb/>des
+                    deux <choice><sic>donateur</sic><corr>donateurs</corr></choice> sur la pierre
+                            <choice><sic>Tombale</sic><corr>tombale</corr></choice> <lb/>et
+                            <choice><sic>il</sic><corr>ils</corr></choice> verseront à la commune
+                        d’<placeName>Herblay</placeName> une <lb/>somme de deux mille francs pour
+                    l’entretien <lb/>du caveau<choice><sic/><corr>.</corr></choice> <lb/>Et en
+                            plus<choice><sic> il</sic><corr>, ils</corr></choice> verseront une somme
+                    de deux <choice><sic>cent</sic><corr>cents</corr></choice> <lb/>francs de
+                        rent<del>r</del>e annuelle et viagère à <persName>Monsieur <lb/>et
+                                Madame Théophile
+                        Foissotte</persName> mon oncle et <lb/>ma
+                        <choice><sic>Tante</sic><corr>tante</corr></choice> <subst><del>je</del><add>j</add></subst>usqu’au décès du dernier
+                            survivant<choice><sic/><corr>.</corr></choice></p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <dateline><placeName type="willPlace" ref="#pl-630">Herblay</placeName> <date type="willDate" when="1914-08-02">le deux
+                                <choice><sic>Aout</sic><corr>août</corr></choice> <choice><sic>Mil</sic><corr>mil</corr></choice>
+                        neuf cent
+                    <lb/>quatorze<choice><sic/><corr>.</corr></choice></date></dateline>
+                <signed rend="centered"><persName ref="#pers-404">Ambroise
+                            <surname>Montreau</surname></persName></signed>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

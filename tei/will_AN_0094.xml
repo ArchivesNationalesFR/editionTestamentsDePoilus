@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0094">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Adrien Augereau (7 novembre 1914)] : édition électronique</title><author><persName ref="#pers-150">Adrien Augereau (1885-1917)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+                        Département de la Conservation. Atelier photographique</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#AM">Aurélie Massie</persName><persName ref="#MLocatelli">Mélisa Locatelli</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#SLespinasse">Suzie Lespinasse</persName><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#Maniet">Maniet</persName><persName ref="#Virginie">Virginie</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AN_0094</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0094_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1669, minute du 17 juin 1920 (dépôt du testament de Adrien
+                            Augereau)</idno>
+                        <msName>Testament de Adrien Augereau (7 novembre 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-11-07">7 novembre 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-1">Saint-Denis</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-150"><forename>Adrien</forename> <surname>Augereau</surname></persName>, mort
+                                pour la France le <date when="1917-04-16">16 avril 1917</date> à
+                                    <placeName ref="#pl-263">Berméricourt
+                            (Marne)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré (testament). Enveloppe avec cachets
+                                    (enveloppe). </support>
+                                <extent>2 pages et 1 enveloppe. Dimensions du testament :
+                                        <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                                        <height>9,5</height>
+                                        <width>12</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre bleue. Enveloppe : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010247">étude
+                                notariale 120 (CRPCEN : 75100)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0094_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1669, minute du 17 juin 1920 (dépôt du testament de Adrien
+                            Augereau)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-11-07">7 novembre 1914</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>7 novembre 1914.
+                                    Saint-Denis.</p><p>testament
+                                    olographe de Adrien Augereau, mort
+                                pour la France le 16 avril 1917 à
+                                    Berméricourt
+                            (Marne).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-04-27" who="#SL. #SLespinasse #MFGarreau #lelia #Maniet #Virginie">transcription</change>
+            <change when-iso="2018-01-24/2018-04-03" who="#PCharbonnier ">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0094___JPEG___FRAN_Poilus_t-0094_01.jpg" xml:id="FRAN_Poilus_t-0094_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0094___JPEG___FRAN_Poilus_t-0094_02.jpg" xml:id="FRAN_Poilus_t-0094_02"/>
+        </surface>
+        <surface type="will-envelope-recto" n="03">
+            <graphic url="testament_AN_0094___JPEG___FRAN_Poilus_t-0094_03.jpg" xml:id="FRAN_Poilus_t-0094_03"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0094">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0094_01"/>
+                <head rend="centered">Ceci est mon testament</head>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <p>Je <choice><sic>sousigné</sic><corr>soussigné</corr></choice>
+                    <persName ref="#pers-150">Adrien <surname>Augereau</surname></persName>
+                    <lb/>employé de commerce demeurant <choice><sic>a</sic><corr>à</corr></choice>
+                    <lb/><placeName type="willAuthorResidence" ref="#pl-2">Paris</placeName>
+                    <choice><sic>quarante</sic><corr>40</corr></choice> rue de Reuilly
+                            (<choice><sic>douzieme</sic><corr>douzième</corr></choice>)<choice><sic/><corr>.</corr></choice></p>
+                <p><choice><sic>Etant,</sic><corr>Étant</corr></choice>
+                        sain<choice><sic>,</sic><corr/></choice> de corps et <choice><sic>d
+                            esprit</sic><corr>d’esprit</corr></choice>, <lb/>
+                    <app>
+                        <lem><del>et</del>
+                            <metamark function="counter" place="above">1</metamark>
+                           <!-- <metamark rend="other" place="above" type="testatorComment" function="other">1</metamark>--></lem>
+                        <note resp="#PCharbonnier">Le testateur numérote ses ratures.</note>
+                    </app>
+                    <app>
+                        <lem><del>pri</del>
+                            <!--<metamark rend="other" place="above" type="testatorComment" function="other">--><metamark function="counter" place="above">2</metamark></lem>
+                        <note resp="#PCharbonnier">Le testateur numérote ses ratures.</note>
+                    </app> ai <choice><sic>prit</sic><corr>pris</corr></choice> les dispositions
+                            <choice><sic>ci après</sic><corr>ci-après.</corr></choice>
+                    <lb/>Je donne et <choice><sic>legue a</sic><corr>lègue à</corr></choice>
+                    <persName>Lucie
+                            <surname>Driessens</surname></persName><choice><sic/><corr>,</corr></choice>
+                    <lb/>mon épouse<choice><sic/><corr>,</corr></choice> la totalité des biens
+                    composant <lb/>ma succession<choice><sic>.</sic><corr>,</corr></choice> au jour
+                    de mon décès<choice><sic/><corr>,</corr></choice>
+                    <lb/>les dits biens comprenant<choice><sic>.</sic><corr>,</corr></choice>
+                            notamment<choice><sic>. a</sic><corr>, à</corr></choice> ce
+                            jour<choice><sic/><corr> :</corr></choice></p>
+                <list>
+                    <item>1<hi rend="superscript-underlined">o</hi>
+                        <choice><sic>la</sic><corr>La</corr></choice> totalité du mobilier, lequel a
+                        au <choice><sic>sur-<lb/>-plus</sic><corr>sur<lb break="no"/>plus</corr></choice>
+                        <choice><sic>ete acheter</sic><corr>été acheté</corr></choice> de nos
+                                <choice><sic>denniers communes</sic><corr>deniers
+                            communs</corr></choice>.</item>
+                    <item><add place="marginLeft">2<hi rend="superscript-underlined">o</hi></add>
+                        <choice><sic>une</sic><corr>Une</corr></choice> somme se montant
+                                <choice><sic>a</sic><corr>à</corr></choice> ce jour
+                                <choice><sic>a</sic><corr>à</corr></choice> quinze
+                                <choice><sic>cents</sic><corr>cent</corr></choice>
+                        <lb/>cinquante francs, la dite somme productive <choice><sic>d
+                                interets</sic><corr>d’intérêts</corr></choice>
+                        <lb/><choice><sic>a</sic><corr>à</corr></choice> raison de 5%
+                                l’an<choice><sic/><corr>,</corr></choice> déposée
+                                <choice><sic>a</sic><corr>à</corr></choice> la <orgName>Maison
+                            Potin</orgName>
+                        <lb/><choice><sic>ou</sic><corr>où</corr></choice> je suis employé.</item>
+                    <item>3<hi rend="superscript-underlined">o</hi> La somme de neuf cents
+                                francs<choice><sic>.</sic><corr>,</corr></choice> dont est
+                                <choice><sic>debiteur</sic><corr>débiteur</corr></choice><choice><sic>.</sic><corr>,</corr></choice>
+                        <lb/><choice><sic>a</sic><corr>à</corr></choice> mon
+                                <choice><sic>egard</sic><corr>égard</corr></choice>
+                        <persName>Monsieur <surname>Driessens </surname></persName> mon
+                                <choice><sic>beau</sic><corr>beau-</corr></choice><lb/><choice><sic>Père.</sic><corr>père</corr></choice>
+                        <app>
+                            <lem><!--<metamark rend="other" place="above" type="testatorComment" function="other">--><metamark function="counter" place="above">3</metamark></lem>
+                            <note resp="#PCharbonnier">Le testateur numérote ses ratures.</note>
+                        </app>
+                        <app>
+                            <lem><del>en</del>
+                                <!--<metamark rend="other" place="above" type="testatorComment" function="other">--><metamark function="counter" place="above">4</metamark></lem>
+                            <note resp="#PCharbonnier">Le testateur numérote ses ratures.</note>
+                        </app>
+                        <app>
+                            <lem><del>vertu</del>
+                                <!--<metamark rend="other" place="above" type="testatorComment" function="other">--><metamark function="counter" place="above">5</metamark></lem>
+                            <note resp="#PCharbonnier">Le testateur numérote ses ratures.</note>
+                        </app>
+                        <del>d</del> en vertu <choice><sic>dun</sic><corr>d’un</corr></choice> prêt
+                        verbal <choice><sic>a</sic><corr>à</corr></choice> lui, <lb/>par moi
+                                <choice><sic>consentit,</sic><corr>consenti.</corr></choice></item>
+                </list>
+                <pb facs="#FRAN_Poilus_t-0094_02"/>
+                <p><choice><sic>Etant</sic><corr>Étant</corr></choice>
+                        specifié<choice><sic>.</sic><corr/></choice> que ma femme ne pourra en
+                    <lb/>aucune <choice><sic>facon inquieter</sic><corr>façon
+                        inquiéter</corr></choice>
+                    <persName>Madame Jousse</persName><choice><sic/><corr>,</corr></choice>
+                    <lb/>ma
+                            soeur<choice><sic/><corr>,</corr></choice> <choice><sic>a</sic><corr>en</corr></choice>
+                    raison de la <choice><sic>creance</sic><corr>créance</corr></choice> de cent
+                    <lb/>vingt francs dont elle est <choice><sic>debitrice a</sic><corr>débitrice
+                            à</corr></choice> mon
+                        <choice><sic>egard</sic><corr>égard</corr></choice><choice><sic/><corr>,</corr></choice>
+                    <lb/>de laquelle dette je lui fait remise par les
+                            prescrits<choice><sic/><corr>.</corr></choice></p>
+                
+                <space dim="vertical" quantity="1" unit="lines"/>
+                <dateline><choice><sic>Ecrit</sic><corr>Écrit</corr></choice> en
+                            entier<choice><sic>.</sic><corr>,</corr></choice> daté et signé de ma
+                            main<choice><sic/><corr>,</corr></choice>
+                    <lb/><date type="willDate" when="1914-11-07"><choice><sic>Le</sic><corr>le</corr></choice> sept
+                                <choice><sic>Novembre</sic><corr>novembre</corr></choice> mille neuf
+                        cent quatorze</date><choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="centered"><persName ref="#pers-150">Adrien
+                        <surname>Augereau</surname></persName></signed>
+                <postscript rend="left"><p>
+                    <app>
+                        <lem><add type="testatorComment"><choice><sic>cinq</sic><corr>Cinq</corr></choice> mots rayés
+                                <lb/>et nuls<choice><sic/><corr>,</corr></choice>
+                                <lb/><date type="willDate" when="1914-11-07">7
+                                            <choice><sic>Novembre</sic><corr>novembre</corr></choice>
+                                    1914</date><choice><sic/><corr>.</corr></choice><lb/>
+                                <seg type="signature"><persName ref="#pers-150">A.
+                                        <surname>Augereau</surname></persName></seg></add></lem>
+                        <note resp="#PCharbonnier">Mention "cinq mots rayés et nuls" ajoutée, datée
+                            et signée par le testateur.</note>
+                    </app></p>
+                </postscript>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0094_03"/>
+                <p rend="centered"><address>
+                        <addrLine><persName>Madame Lucie
+                            <surname>Augereau</surname></persName></addrLine>
+                        <addrLine>40 <choice><sic>Rue</sic><corr>rue</corr></choice> de
+                            Reuilly.</addrLine>
+                        <addrLine><placeName ref="#pl-2">Paris</placeName> 12<hi rend="superscript-double-underlined">e</hi><choice><sic/><corr>.</corr></choice></addrLine>
+                    </address></p>
+                <postscript>
+                    <p>N<choice><sic/><corr>’</corr></choice>ouvrir cette lettre<choice><sic>.
+                                qu</sic><corr> qu’</corr></choice>après mon
+                                <choice><sic>dècès</sic><corr>décès</corr></choice>.</p>
+                </postscript>
+                <signed><persName ref="#pers-150">Adrien
+                    <surname>Augereau</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_2001">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Fernand Lucien Jules Melchior Chatin (31 juillet
+                    1914)] : édition électronique</title>
+                <author><persName ref="#pers-2001">Fernand Lucien Jules Melchior Chatin
+                        (1878-1915)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Deuxième édition électronique (sur la base d’une première édition mise en
+                    ligne en mars 2017)</edition>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#CNougaret">Christine Nougaret</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Édition au traitement de texte</resp>
+                    <persName ref="#CNougaret">Christine Nougaret</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Modélisation, encodage XML/TEI, contrôles de qualité</resp>
+                    <persName ref="#NPashkeeva">Natalia Pashkeeva</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <!--<respStmt> <resp>Validation</resp> <persName ref="#PCharbonnier">Pauline Charbonnier</persName> </respStmt>-->
+                <respStmt>
+                    <resp>Corrections, mise en conformité avec le modèle d’encodage de la présente
+                        édition et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2020-12">décembre 2020</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_2001</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_2001_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LIX/1082, minute du 29 avril 1915 (dépôt du testament de Fernand
+                            Lucien Jules Melchior Chatin)</idno>
+                        <msName>Testament de Fernand Lucien Jules Melchior Chatin (31 juillet
+                            1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-07-31">31 juillet 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-2001"><forename>Fernand</forename> 
+                                    <forename>Lucien</forename> 
+                                    <forename>Jules</forename> <forename>Melchior</forename> <surname>Chatin</surname></persName>,
+                                mort pour la France le <date when="1915-01-10">10 janvier
+                                    1915</date> à <placeName ref="#pl-493">Maroeuil
+                                    (Pas-de-Calais)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à lettre de deuil avec adresse imprimée
+                                    (testament).</support>
+                                <extent>3 pages. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>17,2</height>
+                                        <width>11,2</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010196">étude notariale 069 (CRPCEN : 75007)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_2001_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LIX/1082, minute du 29 avril 1915 (dépôt du testament de Fernand
+                            Lucien Jules Melchior Chatin)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-07-31">31 juillet 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract><p>31 juillet 1914.
+                                    Paris.</p><p>testament
+                                    olographe de Fernand 
+                                    Lucien 
+                                    Jules Melchior Chatin,
+                                mort pour la France le 10 janvier
+                                    1915 à Maroeuil
+                                    (Pas-de-Calais).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2015/2016" who="#CNougaret">Identification du testament, édition au
+                traitement de texte</change>
+            <change when-iso="2016/2017-02" who="#NPahskeeva #FClavaud">Modélisation, encodage
+                XML/TEI, contrôles de qualité</change>
+            <change who="#FClavaud" when-iso="2020-12">Corrections selon les demandes de Ch.
+                Nougaret, mise en conformité avec le modèle d’encodage de la présente édition et
+                contrôle de qualité final</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_2001___JPEG___FRAN_Poilus_t-2001_01.jpg" xml:id="FRAN_Poilus_t-2001_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_2001___JPEG___FRAN_Poilus_t-2001_02.jpg" xml:id="FRAN_Poilus_t-2001_02"/>
+        </surface>
+        <surface type="will-page" n="03">
+            <graphic url="testament_AN_2001___JPEG___FRAN_Poilus_t-2001_03.jpg" xml:id="FRAN_Poilus_t-2001_03"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_2001">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-2001_01"/>
+                <dateline rend="centered"><placeName type="willPlace" ref="#pl-2">Paris</placeName><choice><sic/><corr>,</corr>
+                    </choice> le <date type="willDate" when="1914-07-31"><choice><sic>trente et un</sic><corr>trente-et-un</corr></choice>
+                    <choice>
+                        <sic> Juillet</sic>
+                        <corr> juillet</corr>
+                    </choice><lb/>
+                    <choice><sic>mil</sic><corr>mille</corr></choice> neuf cent quatorze</date><lb/> (31
+                            <choice><sic>Juillet</sic>
+                        <corr>juillet</corr>
+                    </choice> 1914)</dateline>
+                <head>Ceci est mon testament<choice><sic> : </sic><corr>.</corr></choice></head>
+                <p>Avant de partir à la guerre dont<lb/> tant ne reviendront pas, je tiens à
+                    décider<lb/> ce qui suit<choice><sic> : </sic><corr>.</corr>
+                    </choice></p>
+                <p>Je lègue à mon cher frère <choice>
+                        <abbr>M.</abbr>
+                        <expan>M<ex instant="false">onsieur</ex></expan>
+                    </choice> André<lb/> Victor Chatin l’universalité de mes biens<lb/> (en dehors
+                    de la part réservatrice qui revient<lb/> à mon excellente mère, part que je
+                    désire<lb/> qu’elle prenne sur la partie de mes biens<lb/> dont elle n’a que
+                            l’usufruit)<choice><sic/><corr>,</corr></choice> à charge<lb/> pour mon
+                    frère André de remettre aux<lb/> personnes ci-après les legs suivants :</p>
+                <pb facs="#FRAN_Poilus_t-2001_02"/>
+                <list>
+                    <item>1° <choice>
+                            <sic>à</sic>
+                            <corr>À</corr>
+                        </choice> mon amie <choice>
+                            <abbr>M<hi rend="superscript-underlined">me</hi></abbr>
+                            <expan>M<ex instant="false">ada</ex>me</expan>
+                        </choice> Anny Coker,<lb/> artiste lyrique, 82 <choice>
+                            <sic>Rue</sic>
+                            <corr>rue</corr>
+                        </choice> du Faubourg<lb/>
+                        <choice><abbr>S<hi rend="superscript">t</hi>-Denis</abbr><expan>S<ex instant="false">ain</ex>t-Denis</expan></choice>,
+                        une somme de vingt mille<lb/> francs (<choice><sic>20,000</sic><corr>20 000</corr></choice>) <app>
+                            <lem><add place="inline">en pleine propriété et libre de tous
+                                    frais.</add></lem><note resp="#FClavaud">Ajout dans l’interligne.</note>
+                        </app><choice><sic> - </sic><corr/></choice> Je prie en outre<lb/> mon cher frère de remettre dès ma<lb/> mort
+                            <hi rend="underlined">et le plus vite possible</hi> à <choice>
+                            <abbr>M<hi rend="superscript-underlined">me</hi></abbr>
+                            <expan>M<ex instant="false">ada</ex>me</expan>
+                        </choice><lb/> Anny Coker<choice><sic>,</sic><corr/></choice> une somme de <hi rend="double-underlined">deux</hi> mille<lb/>
+                        francs à prélever sur les vingt mille<lb/> que je lui
+                                donne<choice><sic/><corr>,</corr></choice> afin d’assurer<lb/> sa
+                        subsistance jusqu’à la fin de<lb/> son entrée en possession du legs que<lb/>
+                        je lui fais. Cette somme de vingt mille francs<lb/>
+                        <add place="below">sera remise à <choice>
+                                <abbr>M<hi rend="superscript-underlined">me</hi></abbr>
+                                <expan>M<ex instant="false">ada</ex>me</expan>
+                            </choice> Anny Coker libre de toute charge ou impôt<lb/> au moment où
+                            elle la recevra</add><choice><sic> - </sic><corr>.</corr></choice></item>
+                    <item>2° <choice>
+                            <sic>à</sic>
+                            <corr>À</corr>
+                        </choice> ma mère <del>je lui</del> tous mes objets de<lb/> piété et ce
+                        qu’elle désirera dans mes<lb/> meubles en dehors des objets légués.</item>
+                    <item>3° <choice>
+                            <sic>à</sic>
+                            <corr>À</corr>
+                        </choice> mon frère Paul Chatin de
+                        Chastaing<lb/>
+                        une somme de cinq mille francs et<lb/> ma montre à sonnerie<choice><sic/><corr>.</corr></choice></item>
+                    <item>4° <choice>
+                            <sic>à</sic>
+                            <corr>À</corr>
+                        </choice> mon ami Paul de Fallois 69 <choice>
+                            <sic>Rue</sic>
+                            <corr>rue</corr>
+                        </choice> de <pb facs="#FRAN_Poilus_t-2001_03"/> Grenelle, ma montre en or
+                        de première<lb/> communion en souvenir d’un vieil<lb/> ami<choice><sic/><corr>.</corr></choice></item>
+                    <item>5° <choice>
+                            <sic>à</sic>
+                            <corr>À</corr>
+                        </choice> mon vieil ami Morel mon fusil<lb/> calibre 12 percussion centrale <app>
+                            <lem> (de Warn<damage agent="stain"><supplied reason="hidden" resp="#FClavaud">er</supplied></damage>)</lem><note resp="#FClavaud">Tache d’encre à la fin du mot.</note></app><choice><sic/><corr>.</corr></choice><lb/> Mon ami Morel habite 2 <choice>
+                            <sic>Rue</sic>
+                            <corr>rue</corr>
+                        </choice>
+                        <!--Lénac FC correction dec 2020 -->Sénac<lb/> à Marseille.</item>
+                </list>
+                <p>Pour le reste de mes biens mon frère<lb/> André, dont je connais l’esprit de<lb/>
+                    sagesse et de bon sens, les reçoit en<lb/> pleine propriété. Puisse-t-il en<lb/>
+                    jouir longtemps et heureux !</p>
+                <dateline rend="centered">Fait à <placeName type="willPlace" ref="#pl-2">Paris</placeName><choice><sic/><corr>,</corr></choice> le <date type="willDate" when="1914-07-31">31 <choice>
+                        <sic>Juillet</sic>
+                        <corr>juillet</corr>
+                    </choice> 1914</date></dateline>
+                <signed rend="centered"><persName ref="#pers-2001"><forename>Fernand</forename> <surname>Chatin</surname></persName></signed>
+                <postscript>
+                    <p>Ce testament annule tous ceux que j’aurais<lb/> pu faire auparavant. <seg type="signature"><persName ref="#pers-2001">Fernand Chatin
+                            </persName></seg>
+                    </p>
+                </postscript>
+            </div>
+        </body>
+      
+    </text>
+</TEI>

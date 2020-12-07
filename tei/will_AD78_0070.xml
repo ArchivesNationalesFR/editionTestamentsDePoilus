@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0070">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de René Auguste Victor Courteille (1er août 1914)] : édition électronique</title><author><persName ref="#pers-358">René Auguste Victor Courteille
+                        (1888-1914)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#DMD">Denis Michel-Dansac</persName><persName ref="#MDeuve">Mathilde Deuve</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#GBMireille">Mireille Grais-Bruguière</persName><persName ref="#SL.">EG</persName><persName ref="#MFGarreau">MFGarreau</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0070</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0070_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E4 364, minute du 23 janvier 1915 (dépôt du testament de René Auguste
+                            Victor Courteille)</idno>
+                        <msName>Testament de René Auguste Victor Courteille (1er août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-01">1er août 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-358"><forename>René</forename> <forename>Auguste</forename> <forename>Victor</forename> <surname>Courteille</surname></persName>,
+                                mort pour la France le <date when="1914-09-25">25 septembre
+                                    1914</date> à <placeName ref="#pl-18">Verdun</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier deuil timbré (testament). Enveloppe deuil timbrée
+                                    (enveloppe). </support>
+                                <extent>1 page et 1 enveloppe. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>19</height>
+                                        <width>14</width>
+                                    </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                                        <height>9,5</height>
+                                        <width>15</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Enveloppe : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de Bougival</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0070_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E4 364, minute du 23 janvier 1915 (dépôt du testament de René Auguste
+                            Victor Courteille)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-01">1er août 1914</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>1er août 1914.
+                                    Paris.</p><p>testament
+                                    olographe de René Auguste Victor Courteille,
+                                mort pour la France le 25 septembre
+                                    1914 à Verdun.</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-07-01/2020-05-12" who="#GBMireille #SL. #MFGarreau">transcription</change>
+            <change when-iso="2019-07-01/2019-11-05" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-envelope-recto" n="01">
+            <graphic url="testament_AD78_0070___JPEG___FRAD78_Poilus_t-0070_01.jpg" xml:id="FRAD78_Poilus_t-0070_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AD78_0070___JPEG___FRAD78_Poilus_t-0070_03.jpg" xml:id="FRAD78_Poilus_t-0070_03"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0070">
+        <body>
+            <div type="envelope">
+                <pb facs="#FRAD78_Poilus_t-0070_01"/>
+                <p rend="centered">Ceci est mon
+                            <choice><sic>T</sic><corr>t</corr></choice>estament<choice><sic/><corr>.</corr></choice></p>
+                <dateline rend="centered"><date type="willDate" when="1914-08-01"><choice><sic>le</sic><corr>Le</corr></choice> 1<hi rend="superscript">er</hi> <choice><sic>Août</sic><corr>août</corr></choice>
+                            1914</date><choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="centered"><persName ref="#pers-358">R
+                        <surname>Courteille</surname></persName></signed>
+            </div>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0070_03"/>
+                <head>Cec<supplied unit="chars" reason="hidden" quantity="1">i</supplied> est mon
+                    testament : </head>
+                <p>I Je donne et lègue tout ce qui m’appartient et dont <lb/>je puis disposer
+                    librement à ma chère <choice><sic>Petite</sic><corr>petite</corr></choice>
+                            <choice><sic>Mère</sic><corr>mère</corr></choice> <lb/><persName>Louise
+                        Courteille</persName><choice><sic/><corr>.</corr></choice></p>
+                <p>II Au cas où elle ne pourrait recueillir ma succession <lb/>j<supplied unit="chars" reason="hidden" quantity="1">e</supplied> nomme mes deux soeurs
+                    Jeanne <choice><abbr>&amp;</abbr><expan>et</expan></choice> Marthe <lb/>mes
+                    légataires universelles.</p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <dateline rend="centered">Fait à <placeName type="willPlace" ref="#pl-2">Paris</placeName>, <date type="willDate" when="1914-08-01">ce premier
+                            <choice><sic>Août</sic><corr>août</corr></choice>
+                                <lb/><choice><sic>Mil</sic><corr>mil</corr></choice> neuf
+                                <choice><sic>Cent</sic><corr>cent</corr></choice>
+                            quatorze</date><choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="centered"><persName ref="#pers-358">R Courteille</persName></signed><postscript rend="right"><p>6
+                            <choice><sic>Rue</sic><corr>rue</corr></choice> Pétrelle<choice><sic/><corr>,</corr></choice> <lb/>Bureau 42 rue
+                    Vivienne</p></postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

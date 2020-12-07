@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0006">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Francis Victor Marie Rébuffé (20 octobre 1915)] : édition électronique</title><author><persName ref="#pers-6">Francis Victor Marie Rébuffé
+                    (1880-1916)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#VLemee">Valérie Lemée</persName><persName ref="#SBlanchard">Sophie Blanchard</persName><persName ref="#MDeuve">Mathilde Deuve</persName><persName ref="#FAuriau">Françoise Auriau</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#HGz">HGz</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#ACourtin">ACourtin</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#EdChamps">Emmanuelle de Champs</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0006</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0006_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E6 515, minute du 20 mars 1917 (dépôt du testament de Francis Victor
+                            Marie Rébuffé)</idno>
+                        <msName>Testament de Francis Victor Marie Rébuffé (20 octobre 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1915-10-20">20 octobre 1915</date>.
+                                    <placeName type="willPlace" ref="#pl-14">Rueil-Malmaison</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-6"><forename>Francis</forename> 
+                                    <forename>Victor</forename> 
+                                    <forename>Marie</forename> 
+                                    <surname>Rébuffé</surname></persName>, mort pour la France le
+                                    <date when="1916-09-24">24 septembre 1916</date> dans les
+                                    <placeName>Balkans</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>2 pages. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de Chatou</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0006_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E6 515, minute du 20 mars 1917 (dépôt du testament de Francis Victor
+                            Marie Rébuffé)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-10-20">20 octobre 1915</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>20 octobre 1915.
+                                    Rueil-Malmaison.</p><p>testament olographe de Francis 
+                                    Victor 
+                                    Marie 
+                                    Rébuffé, mort pour la France le
+                                    24 septembre 1916 dans les
+                                    Balkans.</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-03-30" who="#SL. #MFGarreau #HGz #lelia #ACourtin">transcription</change>
+            <change when-iso="2018-01-24/2018-02-25" who="#PCharbonnier #FClavaud #EdChamps">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08"> enrichissements et
+                contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0006___JPEG___FRAD78_Poilus_t-0006_01.jpg" xml:id="FRAD78_Poilus_t-0006_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AD78_0006___JPEG___FRAD78_Poilus_t-0006_02.jpg" xml:id="FRAD78_Poilus_t-0006_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0006">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0006_01"/>
+                <head rend="centered">Testament</head>
+                <p>Je soussigné <persName ref="#pers-6"><surname>Rébuffé</surname>, Francis, Victor,
+                        Marie</persName>, né à <lb/><placeName type="willAuthorBirthPlace" ref="#pl-15">Rennes</placeName> le <date type="willAuthorBirthDate" when="1880-02-02">deux février mil huit cent <choice><sic>quatre
+                                vingt</sic><corr>quatre-vingt</corr></choice></date>,
+                            <choice><sic>Mobilisé</sic><corr>mobilisé</corr></choice>
+                    <lb/><choice><sic>Lieutenant</sic><corr>lieutenant</corr></choice> au <orgName ref="#o-146">80<hi rend="superscript-underlined"><choice><sic>ème</sic><corr>e</corr></choice></hi> <choice><sic>Régiment
+                            Territorial d’Infanterie</sic><corr>régiment
+                                territorial d’infanterie</corr></choice></orgName>, sain <lb/>de corps et d’esprit, déclare
+                    prendre et faire respecter <lb/><choice><sic>,</sic><corr/></choice> en cas de
+                    décès, les dispositions suivantes<choice><sic>
+                    :</sic><corr>.</corr></choice></p>
+                <p>Je désire que mes deux filles, <persName>Marie-Louise</persName> et
+                        <persName>Paule <lb/>Rébuffé</persName> continuent à être élevées au
+                    <orgName>Pensionnat <choice><sic>"</sic><corr/></choice>Jeanne <lb/>d’Arc<choice><sic>"</sic><corr/></choice></orgName>, 19
+                            <choice><sic>Rue</sic><corr>rue</corr></choice> de <choice><sic>Saint
+                            Germain</sic><corr>Saint-Germain</corr></choice>, à <placeName type="otherPlace" ref="#pl-4">Chatou</placeName> (<choice><sic>Seine et
+                            Oise</sic><corr>Seine-et-Oise</corr></choice>) <lb/>jusqu’à l’époque de
+                    fin d’études secondaires, ou d’obtention <lb/>d’emploi dans une
+                            <choice><sic>Administration</sic><corr>administration</corr></choice>,
+                    leur permettant de <lb/>subvenir à tous leurs besoins d’existence.</p>
+                <p>Le produit intégral des annuités du montant de la <lb/>retraite accordé à ma
+                    descendance, par l’<choice><sic>Etat</sic><corr>État</corr></choice>, suivant
+                    <lb/>le grade ou emploi que je reste susceptible d’occuper <lb/>dans l’armée,
+                    lors de mon <choice><sic>décés</sic><corr>décès</corr></choice>, devra être
+                    versé <lb/>intégralement à la
+                        <choice><sic>Direction</sic><corr>direction</corr></choice> du dit
+                        <orgName>Pensionnat Jeanne <lb/>d’Arc</orgName>, à <placeName type="otherPlace" ref="#pl-4">Chatou</placeName> pour être affecté
+                            <choice><sic>chez</sic><corr>à</corr></choice> cet
+                            <choice><sic>Etablissement</sic><corr>établissement</corr></choice>
+                    <lb/>au <choice><sic>réglement</sic><corr>règlement</corr></choice> de la
+                    pension et tous frais d’entretien, <lb/>de mes deux fillettes
+                        <persName>Marie-Louise</persName> et <persName>Paule
+                            Rébuffé</persName><choice><sic/><corr>.</corr></choice>
+                    <lb/>D’autre part, toutes sommes provenant de solde à <lb/>régler jusqu’à
+                    liquidation de pension militaire ainsi <lb/>que celles qui pourraient se trouver
+                    disponibles tant <lb/>en <choice><sic>Banque</sic><corr>banque</corr></choice>
+                    qu’en tous lieux, à mon avantage, <lb/>devront être également versées au profit
+                    de mes <lb/>deux filles, à la direction du <orgName>Pensionnat Jeanne
+                        <lb/>d’Arc</orgName> à <placeName type="otherPlace" ref="#pl-4">Chatou</placeName><choice><sic/><corr>.</corr></choice></p>
+                <p>Le mobilier en ma possession à mon domicile, 117 Avenue <lb/>du chemin de fer à
+                        <placeName type="willAuthorResidence" ref="#pl-14">Rueil</placeName>
+                            (<choice><sic>Seine et Oise</sic><corr>Seine-et-Oise</corr></choice>)
+                    pourra être <lb/>ou conservé ou réalisé toujours au profit de mes deux <pb facs="#FRAD78_Poilus_t-0006_02"/>enfants précités.</p>
+                <p>Je désire que le tuteur légal ou subrogé tuteur soit <lb/>désigné dans la
+                    personne de <choice><sic>monsieur</sic><corr>Monsieur</corr></choice> <persName>Georges <choice><sic>-</sic><corr/></choice>
+                        <lb/><surname>Aubertin</surname></persName>, habitant 282
+                            <choice><sic>Rue</sic><corr>rue</corr></choice> Lecourbe à <placeName type="otherPlace" ref="#pl-2">Paris</placeName><choice><sic><lb/>,</sic><corr>,<lb/></corr></choice>
+                    lequel, en accord avec mes intentions voudra <lb/>bien s’occuper de toutes les
+                    affaires d’intérêts
+                            <lb/><choice><sic>concernante</sic><corr>concernant</corr></choice>
+                    <persName>Marie-Louise</persName> et <persName>Paule
+                        <surname>Rébuffé</surname></persName><choice><sic><lb/>,</sic><corr>,<lb/></corr></choice> mes enfants.</p>
+                <p>Ces dispositions annulent toutes celles faites <lb/>précédemment et représentent
+                    mes dernières volontés.</p>
+                <dateline>Fait en double à <placeName type="willPlace" ref="#pl-14">Rueil</placeName>
+                    <date type="willDate" when="1915-10-20">le vingt
+                                <choice><sic>Octobre</sic><corr>octobre</corr></choice>
+                        <lb/>mil neuf cent quinze</date>, dont premier acte remis <lb/>à la
+                        <orgName>Direction du Pensionnat Jeanne d’Arc</orgName>
+                    <lb/>à <placeName type="otherPlace" ref="#pl-4">Chatou (<choice><abbr>S &amp;
+                                O.</abbr><expan>Seine-et-Oise</expan></choice>)</placeName> et le
+                    second à <choice><sic>monsieur</sic><corr>Monsieur</corr></choice> <persName>Georges <lb/><surname>Aubertin</surname></persName>,
+                    282 <choice><sic>Rue</sic><corr>rue</corr></choice> Lecourbe à <placeName type="otherPlace" ref="#pl-2">Paris</placeName><choice><sic/><corr>.</corr></choice></dateline>
+                <space quantity="1" unit="lines" dim="horizontal"/>
+                <postscript><p>Acte n<hi rend="superscript-underlined">o</hi> 1.</p></postscript>               
+                <signed rend="right"><persName ref="#pers-6">E. <surname>Rébuffé</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

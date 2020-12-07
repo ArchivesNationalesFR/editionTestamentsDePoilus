@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0047">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Armand Bachot (8 décembre 1915)] : édition électronique</title><author><persName ref="#pers-104">Armand Bachot (1885-1916)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+                        Département de la Conservation. Atelier photographique</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#AM">Aurélie Massie</persName><persName ref="#MLocatelli">Mélisa Locatelli</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#lelia">Lélia Picabia</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#jmorvan">Josselin Morvan</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AN_0047</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0047_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1578, minute du 22 mars 1917 (dépôt du testament de Armand
+                            Bachot)</idno>
+                        <msName>Testament de Armand Bachot (8 décembre 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1915-12-08">8 décembre 1915</date>.
+                                    <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-104"><forename>Armand</forename> <surname>Bachot</surname></persName>, mort
+                                pour la France le <date when="1916-09-08">8 septembre 1916</date> <placeName ref="#pl-177">aux tranchées devant Estrées
+                                    (Somme)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier quadrillé (testament). Enveloppe orangée
+                                    (enveloppe). </support>
+                                <extent>1 page et 1 enveloppe. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>31,2</height>
+                                        <width>20,1</width>
+                                    </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                                        <height>11,4</height>
+                                        <width>17,2</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Enveloppe : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010247">étude
+                                notariale 120 (CRPCEN : 75100)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0047_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1578, minute du 22 mars 1917 (dépôt du testament de Armand
+                            Bachot)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-12-08">8 décembre 1915</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>8 décembre 1915.
+                                    Paris.</p><p>testament olographe de Armand Bachot, mort
+                                pour la France le 8 septembre 1916 aux tranchées devant Estrées
+                                    (Somme).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-04-30" who="#lelia">transcription</change>
+            <change when-iso="2018-01-24/2018-02-25" who="#PCharbonnier ">validation</change>
+            <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0047___JPEG___FRAN_Poilus_t-0047_01.jpg" xml:id="FRAN_Poilus_t-0047_01"/>
+        </surface>
+        <surface type="will-envelope-recto" n="02">
+            <graphic url="testament_AN_0047___JPEG___FRAN_Poilus_t-0047_02.jpg" xml:id="FRAN_Poilus_t-0047_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0047">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0047_01"/>
+                <p>J’institue pour ma légataire universelle <lb/><persName>Madame Bachot Julie, Claudine</persName>, mon épouse.</p>
+                <space quantity="1" unit="lines" dim="vertical"/>
+                <p>En conséquence je lui lègue la pleine <lb/>propriété de tous les biens meubles et immeubles <lb/>qui composeront ma succession, au jour de mon <lb/>décès, sans aucune exception ni réserve.</p>
+                <space quantity="2" unit="lines" dim="vertical"/>
+                <dateline><choice><sic>A</sic><corr>À</corr></choice> <placeName type="willPlace">Paris</placeName>, le <date type="willDate" when="1915-12-08"><choice><sic>Huit Décembre</sic><corr>huit décembre</corr></choice> mil neuf cent quinze</date>.</dateline>
+                <space quantity="3" unit="lines" dim="vertical"/>
+                <signed rend="centered"><persName ref="#pers-104">A <surname>Bachot</surname></persName></signed>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0047_02"/>
+                <p rend="centered">Ceci est mon testament</p>
+                <space quantity="1" unit="lines" dim="vertical"/>
+                <signed rend="centered"><persName ref="#pers-104">A <surname>Bachot</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0067">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la
+          Grande Guerre</title><title type="main">[Testament de Henri Alfred Durand (17 décembre 1914)] : édition électronique</title><author><persName ref="#pers-64">Henri Alfred Durand (1881-1917)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+      <editionStmt>
+        <edition>Première édition électronique, fondée sur un travail de transcription
+          collaborative</edition>
+        <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+        <respStmt><resp>Identification et description du testament</resp><persName ref="#TR">Thierry Rihouey</persName><persName ref="#FAuriau">Françoise Auriau</persName><persName ref="#SBlanchard">Sophie Blanchard</persName><persName ref="#MDeuve">Mathilde Deuve</persName></respStmt>
+        <respStmt><resp>Transcription</resp><persName ref="#lelia">Lélia Picabia</persName><persName ref="#SL.">EG</persName><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#tvboy76">tvboy76</persName></respStmt>
+        <respStmt><resp>Validation</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#EdChamps">Emmanuelle de Champs</persName></respStmt>
+        <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+      </editionStmt>
+      <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0067</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="will_AD78_0067_tes">
+          <msIdentifier>
+            <country>France</country>
+            <institution>Archives départementales des Yvelines</institution>
+            <collection>Archives notariales</collection>
+            <idno>3E44 1008, minute du 31 octobre 1917 (dépôt du testament de Henri Alfred
+              Durand)</idno>
+            <msName>Testament de Henri Alfred Durand (17 décembre 1914)</msName>
+          </msIdentifier>
+          <msContents>
+            <summary><p><date type="willDate" when="1914-12-17">17 décembre 1914</date>. <placeName type="willPlace" ref="#pl-111">Viroflay</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-64"><forename>Henri</forename> <forename>Alfred</forename> <surname>Durand</surname></persName>, mort pour la France le
+                  <date when="1917-05-02" source="#will_AD78_0067_min">2 mai 1917 [NOT]</date> ou le
+                  <date when="1917-05-03" source="#MDH">3 mai 1917 [MDH]</date> à <placeName ref="#pl-120">Nanteuil la Fosse (Aisne)</placeName>.</p></summary>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>Papier timbré réglé (testament). </support>
+                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                    <height>24,9</height>
+                    <width>17,8</width>
+                  </dimensions>.</extent>
+              </supportDesc>
+            </objectDesc>
+            <handDesc>
+              <p>Testament : encre.</p>
+            </handDesc>
+          </physDesc>
+          <history>
+            <provenance><orgName>étude notariale de Versailles, étude Gayot</orgName></provenance>
+          </history>
+        </msDesc>
+        <msDesc xml:id="will_AD78_0067_min">
+          <msIdentifier>
+            <country>France</country>
+            <institution>Archives départementales des Yvelines</institution>
+            <collection>Archives notariales</collection>
+            <idno>3E44 1008, minute du 31 octobre 1917 (dépôt du testament de Henri Alfred
+              Durand)</idno>
+            <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+              minute</msName>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation><date type="willDate" when="1914-12-17">17 décembre 1914</date></creation>
+      <langUsage><language ident="fr">français</language></langUsage>
+      <abstract><p>17 décembre 1914. Viroflay.</p><p>testament olographe de Henri Alfred Durand, mort pour la France le
+                  2 mai 1917 [NOT] ou le
+                  3 mai 1917 [MDH] à Nanteuil la Fosse (Aisne).</p></abstract>
+      <textClass>
+        <keywords>
+          <term type="subject">Grande Guerre</term>
+          <term type="subject">Poilu</term>
+          <term type="subject">testament</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when-iso="2018-01-24/2018-03-21" who="#lelia #SL. #MFGarreau #tvboy76">transcription</change>
+      <change when-iso="2018-01-24/2018-03-08" who="#FClavaud #EdChamps ">validation</change>
+      <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements et
+        contrôle de qualité finaux</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+    <surface type="will-page" n="01">
+      <graphic url="testament_AD78_0067___JPEG___FRAD78_Poilus_t-0067_01.jpg" xml:id="FRAD78_Poilus_t-0067_01"/>
+    </surface>
+  </facsimile>
+  <text xml:id="will_AD78_0067">
+    <body>
+      <div type="will">
+        <pb facs="#FRAD78_Poilus_t-0067_01"/>
+        <p>Je soussigné <persName ref="#pers-64"><surname>Durand</surname> Henri <lb/>
+          Alfred</persName><choice><sic/><corr>,</corr></choice> <choice><sic>Entrepreneur</sic><corr>entrepreneur</corr></choice> de
+              <choice><sic>Menuiserie</sic><corr>menuiserie</corr></choice><lb/> à <placeName type="otherPlace" ref="#pl-35">Versailles<choice><sic>. Seine et Oise</sic><corr>,
+              Seine-et-Oise</corr></choice></placeName><choice><sic/><corr>,</corr></choice> <lb/>époux de <persName>Pauline Marie
+                <surname>Pellat</surname></persName><choice><sic/><corr>,</corr></choice> <lb/>demeurant ensemble à <placeName type="willAuthorResidence" ref="#pl-111">Viroflay</placeName> <lb/>17 route Nationale
+              (<choice><abbr>S et O</abbr><expan>Seine-et-Oise</expan></choice>)<choice><sic/><corr>,</corr></choice> <lb/> avons fait par
+          le présent nos <lb/>dispositions testamentaires
+            suivantes<choice><sic/><corr>.</corr></choice> <lb/>J’institue ma dite épouse
+              ma <lb/><choice><sic>Légataire</sic><corr>légataire</corr></choice> universelle.</p>
+        <p>En conséquence je lui donne et <lb/><choice><sic>légue</sic><corr>lègue</corr></choice>
+          la totalité de tous mes <choice><sic>bien</sic><corr>biens</corr></choice> <lb/>meubles et
+              immeubles<choice><sic/><corr>,</corr></choice> linges<choice><sic/><corr>,</corr></choice> droits <lb/>et
+              <choice><sic>action</sic><corr>actions</corr></choice> qui m’appartiendront <lb/>au
+          jour de mon décès.</p>
+        <p><choice><sic>ceci</sic><corr>Ceci</corr></choice> est mon testament
+          <choice><sic>Olographe</sic><corr>olographe</corr></choice><choice><sic/><corr>,</corr></choice> <lb/>fait en bonne
+          <choice><sic>fois</sic><corr>foi</corr></choice> et pleine <lb/>connaissance de cause<choice><sic/><corr>,</corr></choice> lequel pourra <lb/>servir en temps et lieu en cas <lb/>de
+            décès<choice><sic>.</sic><corr/></choice> de l’un des deux
+              conjoints<choice><sic/><corr>,</corr></choice> <lb/>fait et écrit en entier de ma
+          main <lb/>à <choice><sic>Notre</sic><corr>notre</corr></choice> domicile à <placeName type="willPlace" ref="#pl-111">Viroflay</placeName>.</p>
+        <dateline><placeName type="willPlace" ref="#pl-111">Viroflay</placeName> <date when="1914-12-17" type="willDate">le
+              <del>17</del><choice><sic>Dix sept Décembre</sic><corr>dix-sept
+            décembre</corr></choice> mil <lb/><choice><sic>neuf-cent</sic><corr>neuf
+            cent</corr></choice> quatorze.</date></dateline>
+        <signed rend="centered"><persName ref="#pers-64"><surname>Durand</surname> Henri
+            Alfred</persName></signed>
+      </div>
+    </body>
+  </text>
+</TEI>

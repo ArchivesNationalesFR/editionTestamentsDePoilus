@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0249">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Henri Eugène Jaumon (1er août 1914)] : édition électronique</title><author><persName ref="#pers-307">Henri Eugène Jaumon
+                    (1882-1916)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+                        Département de la Conservation. Atelier photographique</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#WG">Wilfried Gourdon</persName><persName ref="#AM">Aurélie Massie</persName><persName ref="#LVieillon">Lucie Vieillon</persName><persName ref="#MLocatelli">Mélisa Locatelli</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#GBMireille">Mireille Grais-Bruguière</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#FClavaud">Florence Clavaud</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AN_0249</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0249_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXIII/1645, minute du 22 janvier 1918 (dépôt du testament de
+                            Henri Eugène Jaumon)</idno>
+                        <msName>Testament de Henri Eugène Jaumon (1er août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-01">1er août 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-479">Anvers</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-307"><forename>Henri</forename> <forename>Eugène</forename> <surname>Jaumon</surname></persName>, mort
+                                pour la France le <date when="1916-09-10">10 septembre 1916</date>
+                                dans l’ <placeName ref="#pl-478">ambulance 1/21 à Harbonnières
+                                    (Somme)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré (testament). </support>
+                                <extent>2 pages. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010150">étude notariale 023 (CRPCEN : 75027)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0249_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXIII/1645, minute du 22 janvier 1918 (dépôt du testament de
+                            Henri Eugène Jaumon)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-01">1er août 1914</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>1er août 1914.
+                                    Anvers.</p><p>testament
+                                    olographe de Henri Eugène Jaumon, mort
+                                pour la France le 10 septembre 1916
+                                dans l’ ambulance 1/21 à Harbonnières
+                                    (Somme).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-09-10/2019-02-08" who="#SL. #MFGarreau #lelia #GBMireille">transcription</change>
+            <change when-iso="2018-09-10/2018-10-08" who="#PCharbonnier #FClavaud">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0249___JPEG___FRAN_Poilus_t-0249_01.jpg" xml:id="FRAN_Poilus_t-0249_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0249___JPEG___FRAN_Poilus_t-0249_02ab.jpg" xml:id="FRAN_Poilus_t-0249_02ab"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0249">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0249_01"/>
+                <dateline rend="centered"><placeName type="willPlace" ref="#pl-479">Anvers</placeName> <date type="willDate" when="1914-08-01">le premier août
+                        <lb/>mil neuf cent quatorze</date><choice><sic/><corr>.</corr></choice></dateline>
+                <metamark function="separating" rend="horizontal-line"/>
+                <p><space dim="horizontal" unit="chars" quantity="5"/>Je soussigné <persName ref="#pers-307">Henri <surname>Jaumon</surname></persName> <lb/>demeurant à
+                        <placeName type="willAuthorResidence" ref="#pl-479">Anvers</placeName> cinq rue de
+                            l’Orgue<choice><sic/><corr>,
+                        </corr></choice> <lb/>né à <placeName type="willAuthorBirthPlace" ref="#pl-2">Paris</placeName> <date type="willAuthorBirthDate" when="1882-07-02">le deux juillet mil huit cent
+                            <choice><sic>quatre-<lb/>vingt deux</sic><corr>quatre-<lb break="no"/>vingt-deux</corr></choice></date>, en possession de toutes mes facultés <lb/>et
+                    désireux que mes volontés soient suivies après <lb/>ma
+                            mort<choice><sic/><corr>,</corr></choice> décide et demande que la
+                    totalité de <lb/>mes biens meubles et immeubles, dont ci-après <lb/>énumération
+                    non limitative, soit attribuée <lb/>en pleine propriété à ma mère
+                        <persName><choice><sic>madame Veuve</sic><corr>Madame veuve</corr></choice> <lb/>Léonie
+                        Jaumon</persName> qui à son décès en disposera <lb/>comme elle l’entendra ;
+                    et, au cas où elle décèderait <lb/>avant moi, à ma nièce
+                                <persName>Mademoiselle Denise <lb/>Poiret</persName>.</p>
+                <p><space dim="horizontal" unit="chars" quantity="10"/><choice><sic>Enumération</sic><corr>Énumération :</corr></choice></p>
+                <list>
+                    <item>1<hi rend="superscript-double-underlined">o</hi> Terrain
+                                <subst><del>im</del><add>et</add></subst> immeuble sis au
+                                <choice><sic>lieu dit</sic><corr>lieu-dit</corr></choice> de la
+                        <lb/>Vaudoire, <placeName type="otherPlace" ref="#pl-477">Sartrouville</placeName><choice><sic/><corr>,</corr></choice> Seine<choice><abbr> &amp; </abbr><expan>-et-</expan></choice>Oise, ainsi
+                        que <lb/>le terrain entourant celui sur lequel est <lb/>construite la
+                        maison.</item>
+                    <space dim="vertical" unit="lines" quantity="1"/>
+                    <item>2<hi rend="superscript-double-underlined">o</hi> Titres déposés chez
+                                    <choice><abbr>M<hi rend="superscript">r</hi></abbr><expan>Monsieur</expan></choice> <persName>François
+                            Pollak</persName>, 7 rue <lb/>Bourdaloue à <placeName type="otherPlace" ref="#pl-2">Paris</placeName> et chez <choice><abbr>MM<hi rend="superscript-double-underlined">rs</hi></abbr><expan>Messieurs</expan></choice> J. Pollak
+                                <choice><abbr> &amp; C<hi rend="superscript-double-underlined">o</hi></abbr><expan>et
+                                compagnie</expan></choice><choice><sic/><corr>,</corr></choice> <lb/><placeName type="otherPlace">Londres</placeName>, suivant bordereau <choice><sic>ci
+                                joint</sic><corr>ci-joint</corr></choice>.</item>
+                    <fw place="right">
+    Tournez <choice><abbr>S.V.P</abbr><expan>s’il vous plaît</expan></choice></fw>
+                    <pb facs="#FRAN_Poilus_t-0249_02ab"/>
+                    <item>3<hi rend="superscript-double-underlined">o</hi> le montant de mon compte
+                                créditeur <lb/><choice><sic>eventuel</sic><corr>éventuel</corr></choice> <add place="above"><metamark function="other" rend="cross"/></add> <add place="marginLeft"><metamark function="other" rend="cross"/> lors de mon
+                            décès</add> <lb/><app><lem><add place="marginLeft" type="testatorComment">4 mots ajoutés <lb/><seg type="signature"><persName ref="#pers-407"><unclear>H</unclear> Jaumon</persName></seg></add></lem><note resp="#PCharbonnier">Mention "4 mots ajoutés" ajoutée en marge et signée "H Jaumon"</note></app>
+                        chez <subst><del>Bu</del><add>M</add></subst>essieurs Bunge
+                                <choice><abbr>&amp; C<hi rend="superscript-double-underlined">o</hi></abbr><expan>et
+                                compagnie</expan></choice><choice><sic/><corr>,</corr></choice> <lb/>21
+                        rue Arenberg <placeName type="otherPlace" ref="#pl-479">Anvers</placeName><choice><sic/><corr>,</corr></choice>
+                        qui doit <lb/>comprendre :<list>
+                            <item>1<hi rend="superscript-double-underlined">o</hi> mes appointements
+                                sur la base <lb/>de mille francs par mois et ce à partir <lb/>de
+                                ceux dus depuis le <date type="otherDate" when="1914-08-01">premier
+                                    août mil neuf cent
+                                    quatorze</date></item>
+                            <item>2<hi rend="superscript-double-underlined">o</hi> mes tantièmes
+                                minimum sur la <lb/>base de trois mille francs par an et ce <lb/>à
+                                partir du <date type="otherDate" when="1914-01-01">premier janvier
+                                    mil <choice><sic>neuf-<lb/>cent</sic><corr>neuf<lb break="no"/> cent</corr></choice>
+                                        quatorze</date><choice><sic/><corr>.</corr></choice></item>
+                        </list></item>
+                </list>
+                <p><space dim="horizontal" unit="chars" quantity="3"/><choice><sic>A</sic><corr>À</corr></choice> ces sommes vient s’ajouter
+                    une somme de <lb/>cinq cents francs représentant le reliquat <lb/>de mes
+                    appointements de juillet sur lesquels je <lb/>n’ai touché que cinq cents
+                            francs<choice><sic/><corr>.</corr></choice></p>
+                <p><space dim="horizontal" unit="chars" quantity="3"/>De ces sommes il y a lieu de
+                    déduire de <lb/>trois cents à quatre cents francs environ <lb/>représentant mon
+                    solde débiteur chez
+                    <choice><abbr>MM</abbr><expan>Messieurs</expan></choice> <lb/>Bunge
+                            <choice><abbr>&amp; C<hi rend="superscript-double-underlined">o</hi></abbr><expan>et compagnie</expan></choice> au <date type="otherDate" when="1914-08-01">premier août
+                                mil neuf cent
+                        quatorze</date>.</p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p><space dim="horizontal" unit="chars" quantity="3"/>De la valeur de ma maison et
+                    de mon <lb/>terrain à <placeName type="otherPlace" ref="#pl-477">Sartrouville</placeName> doit être déduite la <lb/>valeur de la somme
+                    empruntée en hypothèque <lb/>et dont ma mère connaît le détail.</p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <dateline rend="centered">Fait à <placeName type="willPlace" ref="#pl-479">Anvers</placeName> <date type="willDate" when="1914-08-01">le premier
+                                août <lb/>mil neuf cent
+                        quatorze</date><choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="right"><persName ref="#pers-407"><unclear>H</unclear> <surname>Jaumon</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0041">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Eugène Lucien Charles Guyon (2 août 1914)] : édition électronique</title><author><persName ref="#pers-39">Eugène Lucien Charles Guyon
+                    (1884-1914)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#TR">Thierry Rihouey</persName><persName ref="#FAuriau">Françoise Auriau</persName><persName ref="#SBlanchard">Sophie Blanchard</persName><persName ref="#MDeuve">Mathilde Deuve</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#JCRenard">JCRenard</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#EPerrin">EPerrin</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#EdChamps">Emmanuelle de Champs</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0041</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0041_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E44 989, minute du 30 novembre 1914 (dépôt du testament de Eugène
+                            Lucien Charles Guyon)</idno>
+                        <msName>Testament de Eugène Lucien Charles Guyon (2 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-02">2 août 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-84">Jouy-en-Josas</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-39"><forename>Eugène</forename> <forename>Lucien</forename> <forename>Charles</forename> <surname>Guyon</surname></persName>, mort
+                                pour la France le <date when="1914-10-13">13 octobre 1914</date> à
+                                    <placeName ref="#pl-83">Amiens</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). Enveloppe commerciale
+                                    (enveloppe). </support>
+                                <extent>2 pages. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                                        <height>11,5</height>
+                                        <width>14,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Enveloppe : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de Versailles, étude
+                            Gayot</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0041_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E44 989, minute du 30 novembre 1914 (dépôt du testament de Eugène
+                            Lucien Charles Guyon)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-02">2 août 1914</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>2 août 1914.
+                                    Jouy-en-Josas.</p><p>testament olographe de Eugène Lucien Charles Guyon, mort
+                                pour la France le 13 octobre 1914 à
+                                    Amiens.</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-03-23" who="#JCRenard #lelia #EPerrin">transcription</change>
+            <change when-iso="2018-01-24/2018-03-23" who="#PCharbonnier #EdChamps">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-envelope-recto" n="01">
+        
+            <graphic url="testament_AD78_0041___JPEG___FRAD78_Poilus_t-0041_01.jpg" xml:id="FRAD78_Poilus_t-0041_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AD78_0041___JPEG___FRAD78_Poilus_t-0041_02.jpg" xml:id="FRAD78_Poilus_t-0041_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0041">
+        <body>
+            <div type="envelope">
+                <pb facs="#FRAD78_Poilus_t-0041_01"/>
+                <p>Ceci est mon testament<choice><sic/><corr>.</corr></choice></p>
+                <dateline><placeName ref="#pl-82">Petit Jouy</placeName><choice><sic/><corr>,</corr></choice> <choice><sic>Commune</sic><corr>commune</corr></choice> des <placeName type="willPlace">Loges <lb/>en Josas</placeName><choice><sic/><corr>,</corr></choice> <lb/><date type="willDate" when="1914-08-02">le deux <choice><sic>Août</sic><corr>août</corr></choice> <lb/>
+                        <choice><sic>mil-neuf-cent-quatorze</sic><corr>mil neuf cent quatorze</corr></choice></date><choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="centered"><persName ref="#pers-39">E.
+                        <surname>Guyon</surname></persName></signed></div>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0041_02"/>
+                <dateline><date type="willDate" when="1914-08-02">Le deux
+                    <choice><sic>Aout mil-neuf-cent</sic><corr>août mil neuf cent</corr></choice> <lb/>quatorze</date><choice><sic/><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Je soussigné <persName ref="#pers-39"><surname>Guyon</surname>
+                    Eugène</persName> <lb/>demeurant <choice><sic>Route</sic><corr>route</corr></choice> de Versailles <lb/>au <placeName type="willAuthorResidence" ref="#pl-82"><choice><sic>petit</sic><corr>Petit</corr></choice> Jouy<choice><sic/><corr>,</corr></choice> commune
+                        des
+                            Loges-<lb/>en-Josas</placeName><choice><sic/><corr>,</corr></choice> <lb/><choice><sic>Déclare</sic><corr>déclare</corr></choice>
+                    constituer ma femme <lb/>née <persName>Julie<surname> André</surname></persName>
+                    ma légataire <lb/>universelle<choice><sic>,</sic><corr>.</corr></choice> Je lui
+                    donne par ce <lb/>présent testament, tous mes biens <lb/>présents, et à venir en
+                    toute <lb/>prospérité sans aucune réserve.</p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <dateline rend="centered">Fait au <placeName type="willPlace" ref="#pl-82"><choice><sic>petit-Jouy</sic><corr>Petit Jouy</corr></choice></placeName> <lb/><date type="willDate" when="1914-08-02">le deux
+                                <choice><sic>Août mil-neuf-cent</sic><corr>août mil neuf cent</corr></choice> <lb/>
+                        quatorze</date><choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="right"><persName ref="#pers-39">Eugène
+                        <surname>Guyon</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

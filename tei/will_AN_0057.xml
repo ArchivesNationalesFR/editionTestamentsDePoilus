@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0057">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title><title type="main">[Testament de Tony Goutte (5 août 1914)] : édition électronique</title><author><persName ref="#pers-114">Tony Goutte (1881-1917)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+                        Département de la Conservation. Atelier photographique</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#AM">Aurélie Massie</persName><persName ref="#MLocatelli">Mélisa Locatelli</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#Annie">Annie</persName><persName ref="#SL.">EG</persName><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#EPerrin">EPerrin</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#jmorvan">Josselin Morvan</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AN_0057</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0057_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1599, minute du 28 février 1918 (dépôt du testament de Tony Goutte)</idno>
+                        <msName>Testament de Tony Goutte (5 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1914-08-05">5 août 1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-114"><forename>Tony</forename> <surname>Goutte</surname></persName>, mort pour la France le <date when="1917-08-23">23 août 1917</date> au <placeName ref="#pl-199">ravin d’Avocourt (Meuse)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm"><height>24,9</height><width>17,8</width></dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010247">étude notariale 120 (CRPCEN : 75100)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0057_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1599, minute du 28 février 1918 (dépôt du testament de Tony Goutte)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-05">5 août 1914</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>5 août 1914. Paris.</p><p>testament olographe de Tony Goutte, mort pour la France le 23 août 1917 au ravin d’Avocourt (Meuse).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-09-18" who="#Annie #SL. #MFGarreau #lelia #EPerrin">transcription</change>
+            <change when-iso="2018-01-24/2018-09-18" who="#PCharbonnier ">validation</change>
+            <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0057___JPEG___FRAN_Poilus_t-0057_01.jpg" xml:id="FRAN_Poilus_t-0057_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0057">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0057_01"/>
+                <p>Je <choice><sic>soussigne</sic><corr>soussigné</corr></choice> <persName ref="#pers-114">Tony <surname>Goutte</surname></persName>, <lb/><choice><sic>marchant</sic><corr>marchand</corr></choice> forain <lb/>demeurant à <placeName type="willAuthorResidence" ref="#pl-2">Paris</placeName> <lb/><choice><sic>Rue</sic><corr>rue</corr></choice> Caillaux <choice><abbr type="superscription">n<hi rend="superscript-double-underlined">o</hi></abbr><expan>numéro</expan></choice> 3<hi rend="superscript">bis</hi><choice><sic/><corr>,</corr></choice> <lb/>institue <choice><sic><surplus>pour</surplus></sic><corr/></choice> pour ma légataire <lb/>universelle<choice><sic>.</sic><corr>,</corr></choice> <persName>Jeanne <surname>Cathala</surname></persName> <lb/>ma femme.</p>
+                <p>Je <choice><sic>revoque</sic><corr>révoque</corr></choice> tout testament <lb/><choice><sic>anterieur</sic><corr>antérieur.</corr></choice></p>
+                <dateline rend="right">Fait à <placeName type="willPlace" ref="#pl-2">Paris</placeName> le <date type="willDate" when="1914-08-05">5 <choice><sic>Aout</sic><corr>août</corr></choice>
+                        <lb/>1914</date><choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="right"><persName ref="#pers-114">Tony <surname>Goutte</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

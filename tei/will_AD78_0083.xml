@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0083">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Alfred Serge Duchemin (30 juillet 1914)] : édition électronique</title><author><persName ref="#pers-371">Alfred Serge Duchemin
+                    (1874-1914)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#NGiraud">Nicole Giraud</persName><persName ref="#DL">Dominique Lemaitre</persName><persName ref="#CChauvelier">Catherine Chauvelier</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#GBMireille">Mireille Grais-Bruguière</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0083</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0083_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E13 352, minute du 15 avril 1920 (dépôt du testament de Alfred Serge
+                            Duchemin)</idno>
+                        <msName>Testament de Alfred Serge Duchemin (30 juillet 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-07-30">30 juillet 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-371"><forename>Alfred</forename> <forename>Serge</forename> <surname>Duchemin</surname></persName>,
+                                mort pour la France le <date when="1914-11-29" source="#will_AD78_0083_min">29/11/1914 [NOT]</date> à
+                                    <placeName ref="#pl-566">Ecuries (Pas de
+                                Calais)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,7</height>
+                                        <width>13</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre violette.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de Houdan</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0083_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E13 352, minute du 15 avril 1920 (dépôt du testament de Alfred Serge
+                            Duchemin)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-07-30">30 juillet 1914</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>30 juillet 1914.
+                                    Paris.</p><p>testament
+                                    olographe de Alfred Serge Duchemin,
+                                mort pour la France le 29/11/1914 [NOT] à
+                                    Ecuries (Pas de
+                                Calais).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-07-01/2020-05-13" who="#MFGarreau #lelia #GBMireille">transcription</change>
+            <change when-iso="2019-07-01/2019-10-31" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0083___JPEG___FRAD78_Poilus_t-0083_01.jpg" xml:id="FRAD78_Poilus_t-0083_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0083">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0083_01"/>
+                <head rend="centered">Voici mon testament</head>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <p>Je soussigné<choice><sic/><corr>,</corr></choice>
+                        moi<choice><sic/><corr>,</corr></choice> <lb/><persName ref="#pers-371">Alfred <surname>Duchemin</surname></persName> laisser <lb/>après ma mort,
+                    tout ce que <lb/>je possède <choice><sic/><corr>à</corr></choice> présent et à
+                    <lb/>venir à ma femme née <lb/><persName>Berthe Deterville</persName>, que
+                    <lb/>je reconnais et désigne <lb/>comme seule
+                            héritière<choice><sic/><corr>.</corr></choice></p>
+                <dateline rend="centered">Fait à <placeName type="willPlace" ref="#pl-2">Paris</placeName> <lb/><choice><sic>Sain</sic><corr>sain</corr></choice> de
+                        <choice><sic>corp</sic><corr>corps</corr></choice> et d’esprit<choice><sic/><corr>,</corr></choice> <lb/><space dim="vertical" unit="lines" quantity="1"/><date type="willDate" when="1914-07-30">30 <choice><sic>Juillet</sic><corr>juillet</corr></choice>
+                        1914</date><choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="centered"><persName ref="#pers-371"><surname>Duchemin</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

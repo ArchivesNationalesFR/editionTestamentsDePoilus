@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0045">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title><title type="main">[Testament de Georges Eugène Victor Collard (8 août 1914)] : édition électronique</title><author><persName ref="#pers-102">Georges Eugène Victor Collard (1873-1917)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+                        Département de la Conservation. Atelier photographique</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#AM">Aurélie Massie</persName><persName ref="#MLocatelli">Mélisa Locatelli</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#solene">solene</persName><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#JFRIDLI">JFRIDLI</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#jmorvan">Josselin Morvan</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AN_0045</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0045_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1574, minute du 26 janvier 1917 (dépôt du testament de Georges Eugène Victor Collard)</idno>
+                        <msName>Testament de Georges Eugène Victor Collard (8 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1914-08-08">8 août 1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-102"><forename>Georges</forename> <forename>Eugène</forename> <forename>Victor</forename> <surname>Collard</surname></persName>, mort pour la France le <date when="1917-01-04">4 janvier 1917</date> dans l’<placeName ref="#pl-180">ambulance 3/6 de Landrecourt (Meuse)</placeName>.</p>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à en-tête commercial (testament). </support>
+                                <extent>4 pages. Dimensions du testament : <dimensions type="willPage" unit="cm"><height>27,2</height><width>21,2</width></dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010247">étude notariale 120 (CRPCEN : 75100)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0045_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1574, minute du 26 janvier 1917 (dépôt du testament de Georges Eugène Victor Collard)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-08">8 août 1914</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>8 août 1914. Paris.</p><p>testament olographe de Georges Eugène Victor Collard, mort pour la France le 4 janvier 1917 dans l’ambulance 3/6 de Landrecourt (Meuse).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-11-15" who="#SL. #lelia #solene #MFGarreau #JFRIDLI">transcription</change>
+            <change when-iso="2018-01-24/2018-10-15" who="#PCharbonnier ">validation</change>
+            <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0045___JPEG___FRAN_Poilus_t-0045_01.jpg" xml:id="FRAN_Poilus_t-0045_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0045___JPEG___FRAN_Poilus_t-0045_02.jpg" xml:id="FRAN_Poilus_t-0045_02"/>
+        </surface>
+        <surface type="will-page" n="03">
+            <graphic url="testament_AN_0045___JPEG___FRAN_Poilus_t-0045_03.jpg" xml:id="FRAN_Poilus_t-0045_03"/>
+        </surface>
+        <surface type="will-page" n="04">
+            <graphic url="testament_AN_0045___JPEG___FRAN_Poilus_t-0045_04.jpg" xml:id="FRAN_Poilus_t-0045_04"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0045">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0045_01"/>
+                <dateline rend="right"><placeName type="willPlace" ref="#pl-2">Paris</placeName>, le <date type="willDate" when="1914-08-14">huit août mil neuf cent</date>
+                    <lb/>quatorze</dateline>
+                <space quantity="1" unit="lines" dim="vertical"/>
+                <p rend="left">Si je viens à mourir avant que de nouvelles dispositions <lb/>aient remplacé les présentes, je lègue à ma chère femme le <lb/>maximum de ce que la loi me permet de lui laisser : il <lb/>ne s’agit pas bien entendu<choice><sic><surplus>,</surplus></sic><corr/></choice> de <choice><sic>desheriter</sic><corr>déshériter</corr></choice> en rien mes <lb/>enfants, mais je désire que ma femme contrôle l’<choice><sic>heritage</sic><corr>héritage</corr></choice> <lb/>que je laisserai pour la plus large part et le plus long <lb/>temps possibles.</p>
+                <p>La plus grande partie de ce que je possède est engagée <lb/>dans ma fabrique de chaussures. On trouvera dans cette fabrique <lb/>une comptabilité parfaitement en règle, qui permettra d’en <lb/><choice><sic>etablir</sic><corr>établir</corr></choice> l’actif avec facilité. Pour avoir des renseignements <lb/>précis à ce sujet je recommande de s’adresser </p>
+                <list>
+                    <item>1<hi rend="superscript-underlined">°</hi> à ma comptable caissière, Mademoiselle <persName>Eugénie <lb/>Pigeaud</persName>, employée honnête et dévouée, en qui j’estime <lb/>qu’on peut avoir entière confiance.</item>
+                    <item>2<hi rend="superscript-underlined">°</hi> à <persName>Monsieur Billard</persName>, expert comptable à <orgName>l’entreprise <lb/>de comptabilité <orgName>Jamet et Buffereau</orgName></orgName>, chargé de ma comptabilité <lb/>générale.</item>
+                </list>
+                <p><choice><sic>Independamment</sic><corr>Indépendamment</corr></choice> des sommes engagées dans mon <lb/>entreprise industrielle je possède</p>
+                <list>
+                    <item>1<hi rend="superscript-underlined">o</hi> Une action de l’<orgName>Union <choice><sic>Economique</sic><corr>économique</corr></choice> de <choice><abbr>St Denis</abbr><expan>Saint-Denis</expan></choice></orgName> (100 francs)</item>
+                    <item>2<hi rend="superscript-underlined">o</hi> Deux actions de l’<orgName>Entrepôt de Grenelle</orgName> entièrement <lb/>libérées, de cinq cents francs l’une. - Ces deux titres et le <lb/><choice><sic>precedent</sic><corr>précédent</corr></choice> sont dans le <choice><sic>secretaire</sic><corr>secrétaire</corr></choice> bureau qui est dans la chambre <lb/>de mon fils</item>
+                    <item>3<hi rend="superscript-underlined">o</hi>
+                        <choice><sic>Vingt trois</sic><corr>Vingt-trois</corr></choice> actions des <orgName>Galeries Lafayette</orgName>, d’une <pb facs="#FRAN_Poilus_t-0045_02"/>valeur nominale de 100 francs. Ces titres sont dans la case du <lb/>haut de mon <choice><sic>coffre fort</sic><corr>coffre-fort</corr></choice> à l’usine.</item>
+                    <item>4<hi rend="superscript-double-underlined">o</hi>
+                        <choice><sic>un</sic><corr>Un</corr></choice> terrain à <placeName><choice><sic>S<hi rend="superscript">t</hi> Jean le Thomas</sic><corr>Saint-Jean-le-Thomas</corr></choice> (Manche)</placeName>, de valeur très <lb/>minime.</item>
+                    <item>5<hi rend="superscript-underlined">o</hi>
+                        <choice><sic>un</sic><corr>Un</corr></choice> terrain sis à <placeName type="otherPlace" ref="#pl-183">Villejuif</placeName>, rue de Sacquet, dont on trouvera <lb/>les titres dans mon <choice><sic>coffre fort</sic><corr>coffre-fort</corr></choice>. Ce terrain est <choice><sic>integralement</sic><corr>intégralement</corr></choice> payé. <lb/><choice><sic>les</sic><corr>Les</corr></choice> reçus de <persName><choice><abbr>M<hi rend="superscript">e</hi></abbr><expan>maître</expan></choice> Guerin</persName>, notaire à <placeName type="otherPlace" ref="#pl-183">Villejuif</placeName> en font foi. Cependant <lb/>je ne suis pas encore en possession du quitus définitif de <lb/><persName>Monsieur Claudon</persName>, le vendeur : cette <choice><sic>piéce</sic><corr>pièce</corr></choice> devra être <choice><sic>reclamée</sic><corr>réclamée</corr></choice> à <lb/><persName><choice><abbr>M<hi rend="superscript-double-underlined">e</hi></abbr><expan>maître</expan></choice> Huillier</persName>, notaire, <choice><sic>Boulevard</sic><corr>boulevard</corr></choice> Haussmann, à <placeName type="otherPlace" ref="#pl-2">Paris</placeName>.</item>
+                    <item>6<hi rend="superscript-double-underlined">o</hi>
+                        <choice><sic>une</sic><corr>Une</corr></choice> somme de deux cent cinquante francs prêtée à <lb/><persName>Monsieur Ferreyrol</persName> pour une société sportive. Cette somme <lb/>doit être remboursée comme il est dit sur la pièce formant <lb/>reçu.</item>
+                </list>
+                <p>Je n’ai aucune dette autre que celles de ma maison <lb/>de commerce. Mon inventaire de fin <date type="otherDate">juin 1914</date> n’est pas <lb/>terminé. Il devra faire ressortir un actif important. Mes employées <lb/><persName>Mademoiselle Eugénie Pigeaud</persName> et <persName>Madame Angèle Gola</persName> doivent <lb/>mettre ma comptabilité à jour et faire les tirages de l’inventaire <lb/>pendant mon absence.</p>
+                <p>Je <choice><sic>serai</sic><corr>serais</corr></choice> reconnaissant à mon très bon ami <persName>Marcel <lb/>Lemonon</persName> d’accepter d’être tuteur de mes enfants. À <lb/>son <choice><sic>defaut</sic><corr>défaut</corr></choice> je <choice><sic>demanderai</sic><corr>demanderais</corr></choice> qu’on s’adresse à mon autre grand <lb/>ami <persName>Pedro Diez</persName>, si sa nationalité lui permet d’accepter. <lb/>Enfin, en cas d’impossibilité des deux précités, j’estime <lb/>qu’il faudra demander ce service à mon cousin par alliance <lb/><persName>Alexandre Lambert</persName>, <choice><sic>representant</sic><corr>représentant</corr></choice> en chaussures.</p>
+                <p>Si mon affaire industrielle ne peut être vendue très <lb/>rapidement, dans un délai d’un mois par exemple, je <lb/><choice><sic>desire</sic><corr>désire</corr></choice> qu’elle soit liquidée : ce <choice><sic>delai</sic><corr>délai</corr></choice> d’un mois pour la <lb/>vente n’est pas absolu, je m’en rapporte sur ce point <lb/>à celle des trois personnes désignées <choice><sic>ci dessus</sic><corr>ci-dessus</corr></choice> qui sera <lb/>tuteur de mes enfants, et que je prie d’agir au mieux de <lb/>leurs <choice><sic>interêts</sic><corr>intérêts</corr></choice><app><lem>.<add type="testatorComment" place="marginLeft">à suivre <lb/><seg type="signature"><persName ref="#pers-102">E <surname>Collard</surname></persName></seg></add></lem><note resp="#jmorvan">Mention "à suivre" ajoutée en marge et signée "E Collard".</note></app></p>
+                <pb facs="#FRAN_Poilus_t-0045_03"/>
+                <p>Pour la vente du fonds je conseille de <lb/>s’adresser à Monsieur <persName>Becker</persName>, administrateur de <lb/>la <orgName>United Shoe Machinery <choice><abbr>C<hi rend="superscript-underlined">o</hi></abbr><expan>Company</expan></choice></orgName>, rue Lafayette. Cette <lb/>société a grand <choice><sic>interêt</sic><corr>intérêt</corr></choice> à ce que l’affaire continue, à cause <lb/>du loyer et des redevances de ses machines.</p>
+                <p>Pour la liquidation, je demande qu’on se munisse <lb/>de renseignements : 1<hi rend="superscript-underlined">o</hi> pour les chaussures fabriquées auprès <lb/>de <choice><abbr>Mr</abbr><expan>Monsieur</expan></choice> <persName>Alexandre Lambert</persName>. - 2<hi rend="superscript-underlined">o</hi> pour les chaussures en <lb/>cours de fabrication, les cuirs et les peaux, ainsi que pour <lb/>toutes les matières premières accessoires de la fabrication <lb/>à <choice><abbr>Mr</abbr><expan>Monsieur</expan></choice> <persName>Michel Collot</persName>, <choice><sic><subst><del>p</del><add>P</add></subst>résident</sic><corr>président</corr></choice> de ma <choice><sic>Chambre <lb/>Syndicale</sic><corr>chambre <lb/>syndicale</corr></choice>.</p>
+                <p>Je compléterai <subst><del>l</del><add>c</add></subst>es indications au moment de <lb/>mon <choice><sic>depart</sic><corr>départ</corr></choice> pour la mobilisation par une courte note <lb/>où je consignerai le montant de mon encaisse, et <lb/>les instructions que je laisserai à mes employées<choice><sic/><corr>.</corr></choice></p>
+                <p>J’espère bien revoir tous les miens ; néanmoins, comme <lb/>la présente pièce ne doit être <choice><sic>decachetée</sic><corr>décachetée</corr></choice> qu’après ma <lb/>mort, il me faut dire adieu ici à mes frères, <choice><sic>a </sic><corr>à</corr></choice> <lb/>mes parents, à ma femme bien aimée, et à mes très <lb/>chers enfants. Si je ne laisse pas à ces chers petits une situation <lb/>brillante, c’est la faute des <choice><sic>evènements</sic><corr>événements</corr></choice>. Je leur <choice><sic>leguerai</sic><corr>léguerai</corr></choice> du moins <lb/>un nom sans taches et le souvenir d’un père qui se sera montré, <lb/>en toutes circonstances, soucieux d’accomplir son devoir<choice><sic/><corr>.</corr></choice></p>
+                <dateline rend="centered"><placeName type="willPlace" ref="#pl-2">Paris</placeName><choice><sic/><corr>,</corr></choice>
+                    <date when="1914-08-08" type="willDate">huit août mil neuf cent quatorze</date><choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="centered"><persName ref="#pers-102"><surname>Collard</surname></persName></signed>
+                <postscript rend="right">
+                    <p><choice><abbr>T S V P</abbr><expan>Tournez s’il vous plaît</expan></choice><choice><sic/><corr>.</corr></choice></p>
+                </postscript>
+                <pb facs="#FRAN_Poilus_t-0045_04"/>
+                <dateline>Addition faite le <date type="codicilDate" when="1915-12-04">quatre <choice><sic>Decembre</sic><corr>décembre</corr></choice> 1915</date><choice><sic/><corr>.</corr></choice></dateline>
+                <space quantity="1" unit="lines" dim="vertical"/>
+                <postscript>
+                    <p>Je <choice><sic>designe</sic><corr>désigne</corr></choice> comme tuteur de mes enfants, en <lb/>troisième ligne, <choice><sic>c’est à dire</sic><corr>c’est-à-dire</corr></choice> en cas de non acceptation <lb/>de <choice><abbr>M.M.</abbr><expan>Messieurs</expan></choice> <persName>Marcel Lemonon</persName> et <persName>Pedro Diez</persName>, <choice><abbr>M<hi rend="superscript">r</hi></abbr><expan>Monsieur</expan></choice> <lb/><persName>Michel Collot</persName> <subst><del>au</del><add>à</add></subst> la place de <choice><abbr>M<hi rend="superscript">r</hi></abbr><expan>Monsieur</expan></choice> <persName>Alexandre <lb/>Lambert</persName>.</p>
+                    <signed><persName ref="#pers-102">G <surname>Collard</surname></persName></signed>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

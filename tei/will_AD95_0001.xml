@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD95_0001">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Henri Victor Parmentier (12 février 1915)] : édition électronique</title><author><persName ref="#pers-396">Henri Victor Parmentier
+                    (1876-1915)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#AP">Anais Pontoparia</persName><persName ref="#KSifakis">Konstantinos Sifakis</persName><persName ref="#SD">Sophie Delinge</persName><persName ref="#TO">Thomas Olivier</persName><persName ref="#SDechavanne">Sylvie Dechavanne</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#GBMireille">Mireille Grais-Bruguière</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD95_0001</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD95_0001_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales du Val-d’Oise</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>2E24 185, minute du 9 octobre 1915 (dépôt du testament de Henri Victor
+                            Parmentier)</idno>
+                        <msName>Testament de Henri Victor Parmentier (12 février 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1915-02-12">12 février 1915</date>.
+                                    <placeName type="willPlace" ref="#pl-620">Foncquevillers</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-396"><forename>Henri</forename> <forename>Victor</forename> <surname>Parmentier</surname></persName>,
+                                mort pour la France le <date when="1915-09-09" source="#will_AD95_0001_min #MDH #AS">3 juillet 1915 [NOT] [MDH]
+                                    [AS]</date> à <placeName ref="#pl-619" source="#will_AD95_0001_min #MDH #AS">Authuille [NOT] [MDH]
+                                    [AS]</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré ivoire réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>Vernat Beaumont-sur-Oise 2</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD95_0001_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales du Val-d’Oise</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>2E24 185, minute du 9 octobre 1915 (dépôt du testament de Henri Victor
+                            Parmentier)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-02-12">12 février 1915</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>12 février 1915.
+                                    Foncquevillers.</p><p>testament olographe de Henri Victor Parmentier,
+                                mort pour la France le 3 juillet 1915 [NOT] [MDH]
+                                    [AS] à Authuille [NOT] [MDH]
+                                    [AS].</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-10-09/2020-03-20" who="#MFGarreau #lelia #GBMireille">transcription</change>
+            <change when-iso="2019-10-09/2019-11-13" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD95_0001___JPEG___FRAD95_Poilus_t-0001_01.jpg" xml:id="FRAD95_Poilus_t-0001_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD95_0001">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD95_Poilus_t-0001_01"/>
+                <head rend="centered">Ceci est mon testament</head>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Je <choice><sic>Soussigné</sic><corr>soussigné</corr></choice> <persName ref="#pers-396"><surname>Parmentier</surname> Henri
+                            Victor</persName> <lb/><choice><sic>deumeurant</sic><corr>demeurant</corr></choice>
+                    à <placeName type="willAuthorResidence" ref="#pl-617">Radepont
+                        (Eure)</placeName><choice><sic/><corr>,</corr></choice> <lb/>actuellement
+                    <choice><sic>Soldat</sic><corr>soldat</corr></choice> au <orgName ref="#o-37">22<hi rend="superscript-double-underlined"><choice><sic>eme</sic><corr>ème</corr></choice></hi> <lb/>régiment
+                        <choice><sic>Territorial</sic><corr>territorial</corr></choice>
+                        d’<choice><sic>Infanterie</sic><corr>infanterie</corr></choice></orgName><choice><sic/><corr>,</corr></choice> <lb/>donne
+                    et <choice><sic>légue</sic><corr>lègue</corr></choice> à ma femme
+                        <lb/><persName>Marie
+                            <choice><sic>Prosperine</sic><corr>Prospérine</corr></choice>
+                        Capel</persName><choice><sic/><corr>,</corr></choice> tous <lb/>les biens meubles et immeubles qui
+                    <lb/>composeront ma <choice><sic>Succession</sic><corr>succession</corr></choice> au jour
+                    <lb/>de mon
+                            <choice><sic>déç<subst><del>é</del><add>è</add></subst>s</sic><corr>décès.</corr></choice></p>
+                <dateline><space dim="horizontal" unit="chars" quantity="5"/>Fait daté et
+                    <choice><sic>Signé</sic><corr>signé</corr></choice> de ma main <lb/>à
+                        <placeName type="willPlace" ref="#pl-620">Foncquevillers</placeName>
+                            (Pas-de-Calais<choice><sic/><corr>),</corr></choice> <lb/><date type="willDate" when="1915-02-12">le douze
+                                <choice><sic>Février</sic><corr>février</corr></choice>
+                                <choice><sic>mil-neuf-cent</sic><corr>mil neuf
+                            cent</corr></choice> <lb/>quinze</date>.</dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="centered"><persName ref="#pers-396">V<surname>Parmentier</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

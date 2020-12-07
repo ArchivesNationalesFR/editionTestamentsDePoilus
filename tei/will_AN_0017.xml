@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="TestamentsDePoilus_will_AN_0017" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title>
+                <title type="main">[Testament de Marius Marix Job (29 juillet 1914)] : édition électronique</title>
+                <author><persName ref="#pers-75">Marius Marix Job (1885-1914)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique. Département de la Conservation. Atelier photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#AM">Aurélie Massie</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#PGambette">Philippe Gambette</persName>
+                    <persName ref="#Jideuxhemme">Jideuxhemme</persName>
+                    <persName ref="#LBIsabelle">LBIsabelle</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher>
+                <date when="2020-12">décembre 2020</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0017</idno>
+                <!-- ultérieurement ajouter idno fourni par Nakala -->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0017_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1537, minute du 24 mars 1915 (dépôt du testament de Marius Marix Job)</idno>
+                        <msName>Testament de Marius Marix Job (29 juillet 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1914-07-29">29 juillet 1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-75"><forename>Marius</forename>  <forename>Marix</forename> <surname>Job</surname></persName>, mort pour la France le <date when="1914-09-21" source="#will_AN_0017_min">21 septembre 1914 [NOT]</date> ou le <date when="1914-09-22" source="#MDH">22 septembre 1914 [MDH]</date> à <placeName ref="#pl-138">Vaux-lès-Palameix (Meuse)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à lettre bleuté (testament). </support>
+                                <extent>3 pages. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>17</height>
+                                        <width>12,5</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010247">étude notariale 120 (CRPCEN : 75100)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0017_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1537, minute du 24 mars 1915 (dépôt du testament de Marius Marix Job)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-07-29">29 juillet 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract><p>29 juillet 1914. Paris.</p><p>testament olographe de Marius  Marix Job, mort pour la France le 21 septembre 1914 [NOT] ou le 22 septembre 1914 [MDH] à Vaux-lès-Palameix (Meuse).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-07-10" who="#SL. #MFGarreau #PGambette #Jideuxhemme #LBIsabelle #lelia">transcription</change>
+            <change when-iso="2018-01-24/2018-03-12" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0017___JPEG___FRAN_Poilus_t-0017_01.jpg" xml:id="FRAN_Poilus_t-0017_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0017___JPEG___FRAN_Poilus_t-0017_02.jpg" xml:id="FRAN_Poilus_t-0017_02"/>
+        </surface>
+        <surface type="will-page" n="03">
+            <graphic url="testament_AN_0017___JPEG___FRAN_Poilus_t-0017_03.jpg" xml:id="FRAN_Poilus_t-0017_03"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0017">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0017_01"/>
+                <p rend="centered">J’exprime ici mes dernières volontés :</p>
+                <list>
+                    <item>1. Je laisse à ma mère l’usufruit de la totalité <lb/>de ma fortune jusqu’à sa mort.</item>
+                    <item>2. Je lègue la nue-propriété de la moitié de ma fortune <lb/>à <persName><choice><abbr>M<hi rend="superscript-underlined">r</hi></abbr><expan>Monsieur</expan></choice> Charles Blech</persName><choice><sic> -</sic><corr>,</corr></choice> secrétaire général de la <orgName>Société <lb/><choice><sic>Théosophique</sic><corr>théosophique</corr></choice> de France</orgName><choice><sic> -</sic><corr>,</corr></choice> 21 <choice><sic>Avenue</sic><corr>avenue</corr></choice> Montaigne <placeName>Paris 8<hi rend="superscript">e</hi></placeName><choice><sic> -</sic><corr>,</corr></choice>
+                        <lb/>ou à son successeur <hi rend="underlined">désigné</hi> par lui<choice><sic> -</sic><corr>,</corr></choice> ou à défaut à <lb/><persName>M<hi rend="superscript-underlined">me</hi> Annie Besant</persName><choice><sic/><corr>,</corr></choice> présidente de la <orgName>Société <choice><sic>Théosophique</sic><corr>théosophique</corr></choice>
+                            <lb/>Adyar</orgName> (Indes <choice><sic>Anglaises</sic><corr>anglaises</corr></choice>)<choice><sic> -</sic><corr>,</corr></choice> ou à son successeur désigné <lb/>par elle. Le nu-propriétaire devant devenir propriétaire <lb/>de sa part et des revenus à la mort de ma mère. Ces fonds devront être employés pour la <orgName>Société <choice><sic>Théosophique</sic><corr>théosophique</corr></choice></orgName>
+                        <pb facs="#FRAN_Poilus_t-0017_02"/>en France.</item>
+                    <item>3. Je lègue la nue-propriété de l’autre moitié de ma fortune <lb/>à ma soeur <choice><abbr>M<hi rend="superscript-underlined">me</hi></abbr><expan>Madame</expan></choice>
+                        <persName>Arthur <surname>Lévy</surname></persName> (<persName>Valentine <surname>Job</surname></persName>) ou à défaut <lb/>à son fils <persName>Adrien <surname>Lévy</surname></persName>. Le nu-propriétaire devant devenir <lb/>propriétaire de sa part et des revenus de celle-ci à la mort de <lb/>ma mère.</item>
+                    <item>4. Parmi tous les livres qui m’appartiennent, le légataire désigné <lb/>au paragraphe 2 choisira tous ceux qu’il jugera utiles et <lb/>pourra en faire don à la bibliothèque de la <orgName><choice><abbr>S.T.</abbr><expan>Société théosophique</expan></choice> de France</orgName>.</item>
+                    <item>5. <choice><sic>le</sic><corr>Le</corr></choice> coffret de fer placé dans le placard de ma chambre contient <lb/>des documents qui n’intéressent en aucune façon ma famille, <lb/>le remettre intact, sans l’ouvrir<choice><sic/><corr>,</corr></choice> à <persName><choice><abbr>M<hi rend="superscript-underlined">r</hi></abbr><expan>Monsieur</expan></choice> Georges <surname>Chevrin</surname></persName><app>
+                            <lem><choice><sic><hi rend="superscript">(1)</hi></sic><corr/></choice><add place="marginBottom"><choice><sic><hi rend="superscript">(1)</hi></sic><corr/></choice> adresse 102 <choice><abbr>B<hi rend="superscript-double-underlined">d</hi></abbr><expan>boulevard</expan></choice> Victor-Hugo <placeName type="otherPlace"><choice><abbr>S<hi rend="superscript-underlined">t</hi></abbr><expan>Saint</expan></choice><choice><sic/><corr>-</corr></choice>Ouen (Seine)</placeName></add></lem>
+                            <note resp="#FClavaud">Le texte ajouté est écrit au bas de la page.</note>
+                        </app>
+                        <hi rend="underlined">dont <lb/>il est la propriété</hi><choice><sic> -</sic><corr>, </corr></choice> ou à <choice><sic>defaut</sic><corr>défaut</corr></choice> à son successeur désigné par lui. <lb/><space dim="vertical" unit="lines" quantity="1"/></item>
+                    <pb facs="#FRAN_Poilus_t-0017_03"/>
+                    <item>6. Je prie ma soeur Valentine<app><lem><choice><sic><hi rend="superscript">(1)</hi></sic><corr/></choice> <add place="inline"><choice><sic>(1)</sic><corr/></choice> sinon mon neveu <persName>Adrien <supplied unit="chars" reason="hidden" quantity="1">Lévi</supplied></persName></add></lem>
+                            <note resp="#FClavaud">Le texte ajouté est écrit à la fin de l’item.</note>
+                        </app> de subvenir, le cas échéant, <lb/>aux premiers besoins de mon frère Gustave<choice><sic> -</sic><corr>.</corr></choice> Qu’elle <lb/>agisse amicalement et avec mesure.</item>
+                    <item>7. J’adresse une pensée de reconnaissance à ma chère maman<choice><sic>.</sic><corr/></choice>
+                        <lb/>pour tous les bons soins qu’elle m’a donnés pendant le <lb/>temps que j’ai passé auprès d’elle.</item>
+                </list>
+                <p><choice><sic>A</sic><corr>À</corr></choice> tous frère, soeur, beau-frère, neveu, je recommande <lb/>de penser le plus possible aux idées élevées qui seules <lb/>peuvent réellement vous soutenir dans la vie.</p>
+                <p>Je tiens à affirmer ici la Réalité des Vérités<choice><sic>,</sic><corr/></choice> <lb/>contenues dans les enseignements Théosophiques, et je renouvelle <lb/>l’expression de ma reconnaissance à <choice><sic><subst><del>c</del> <add>C</add></subst>eux</sic><corr>ceux</corr></choice> qui nous les ont <lb/>apportées.</p>
+                <dateline rend="centered"><choice><sic>fait</sic><corr>Fait</corr></choice> en double. <lb/><placeName type="willPlace" ref="#pl-2">Paris</placeName>
+                    <date type="willDate" when="1914-07-29">le 29 juillet 1914<choice><sic/><corr>.</corr></choice></date></dateline>
+                <signed rend="right"><persName ref="#pers-75">M. <surname>Job</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

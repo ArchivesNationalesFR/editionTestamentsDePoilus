@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0088">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Léon Pigeard (2 aout 1914)] : édition électronique</title><author><persName ref="#pers-376">Léon Pigeard (1888-1918)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#RG">Regine Guillot</persName><persName ref="#SBlanchard">Sophie Blanchard</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#lelia">Lélia Picabia</persName><persName ref="#SL.">EG</persName><persName ref="#GBMireille">Mireille Grais-Bruguière</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0088</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0088_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E16 360, minute du 23 septembre 1918 (dépôt du testament de Léon
+                            Pigeard)</idno>
+                        <msName>Testament de Léon Pigeard (2 aout 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-02">2 aout 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-371">Le
+                                    Mesnil-Saint-Denis</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-376"><forename>Léon</forename> <surname>Pigeard</surname></persName>, mort
+                                pour la France le <date when="1918-06-14">14 juin 1918</date> à
+                                    <placeName ref="#pl-575">Ognon (Oise)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>25</height>
+                                        <width>17</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre et encre violette.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de
+                            Le-Mesnil-Saint-Denis</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0088_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E16 360, minute du 23 septembre 1918 (dépôt du testament de Léon
+                            Pigeard)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-02">2 aout 1914</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>2 aout 1914.
+                                    Le
+                                    Mesnil-Saint-Denis.</p><p>testament olographe de Léon Pigeard, mort
+                                pour la France le 14 juin 1918 à
+                                    Ognon (Oise).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-07-01/2020-05-26" who="#lelia #SL. #GBMireille">transcription</change>
+            <change when-iso="2019-07-01/2019-07-07" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0088___JPEG___FRAD78_Poilus_t-0088_01.jpg" xml:id="FRAD78_Poilus_t-0088_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0088">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0088_01"/>
+                <dateline rend="left"><choice><sic>Fais</sic><corr>Fait</corr></choice>
+                    <date type="willDate" when="1914-08-02">le 2
+                                <choice><sic>Aout</sic><corr>août</corr></choice>
+                    1914</date></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Je, <choice><sic>sousigné</sic><corr>soussigné</corr></choice>
+                    <persName ref="#pers-376">Léon
+                            <surname>Pigeard</surname></persName><choice><sic/><corr>,</corr></choice>
+                    <lb/>reconnais ma femme comme <lb/>étant ma légataire de
+                            <choice><sic>toute</sic><corr>tout</corr></choice>
+                    <lb/>ce que je peux <choice><sic>posseder</sic><corr>posséder,</corr></choice>
+                    <lb/>en cas de mort<choice><sic/><corr>.</corr></choice></p>
+                <dateline><placeName type="willPlace" ref="#pl-371">Le Mesnil<choice><sic> </sic><corr>-</corr></choice><choice><abbr>S<hi rend="superscript">t</hi></abbr><expan>Saint</expan></choice><choice><sic> </sic><corr>-</corr></choice>Denis</placeName>
+                    <date when="1914-08-02" type="willDate">le deux
+                        <choice><sic>aout <lb/>mil-neuf cens-quatorze</sic><corr>août <lb/>mil neuf cent quatorze.</corr></choice>
+                        </date></dateline>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <signed rend="centered"><persName ref="#pers-376">Léon
+                        <surname>Pigeard</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

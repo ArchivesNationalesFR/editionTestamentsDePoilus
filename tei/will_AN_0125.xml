@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0125">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la
+               Grande Guerre</title><title type="main">[Testament de Ernest Clément Victor Courrier (14 octobre 1914)] : édition électronique</title><author><persName ref="#pers-187">Ernest Clément Victor Courrier
+               (1880-1915)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+         <editionStmt>
+            <edition>Première édition électronique, fondée sur un travail de transcription
+               collaborative</edition>
+            <respStmt><resp>Numérisation</resp><orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+                        Département de la Conservation. Atelier photographique</orgName></respStmt>
+            <respStmt><resp>Identification et description du testament</resp><persName ref="#AM">Aurélie Massie</persName><persName ref="#MLocatelli">Mélisa Locatelli</persName></respStmt>
+            <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#GBMireille">Mireille Grais-Bruguière</persName></respStmt>
+            <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#FClavaud">Florence Clavaud</persName></respStmt>
+            <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+         </editionStmt>
+         <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AN_0125</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="will_AN_0125_tes">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives nationales</institution>
+                  <collection>Minutier central des notaires de Paris</collection>
+                  <idno>MC/ET/XLVIII/1741, minute du 16 juin 1916 (dépôt du testament de Ernest
+                     Clément Victor Courrier)</idno>
+                  <msName>Testament de Ernest Clément Victor Courrier (14 octobre 1914)</msName>
+               </msIdentifier>
+               <msContents>
+                  <summary><p><date type="willDate" when="1914-10-14">14 octobre 1914</date>.
+                           <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-187"><forename>Ernest</forename> <forename>Clément</forename> <forename>Victor</forename> <surname>Courrier</surname></persName>, mort pour la
+                        France le <date when="1915-10-17">17 octobre 1915</date> à l’<placeName ref="#pl-311">hôpital auxiliaire de campagne n°2 des prisonniers à Sedan
+                           (Ardennes)</placeName>.</p></summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>Papier timbré réglé (testament). Enveloppe (enveloppe). </support>
+                        <extent>2 pages et 1 enveloppe. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                              <height>24,9</height>
+                              <width>17,8</width>
+                           </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                              <height>11</height>
+                              <width>14,5</width>
+                           </dimensions>.</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <p>Testament : encre. Enveloppe : encre.</p>
+                  </handDesc>
+               </physDesc>
+               <history>
+                  <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010175">étude
+                        notariale 048 (CRPCEN : 75047)</orgName></provenance>
+               </history>
+            </msDesc>
+            <msDesc xml:id="will_AN_0125_min">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives nationales</institution>
+                  <collection>Minutier central des notaires de Paris</collection>
+                  <idno>MC/ET/XLVIII/1741, minute du 16 juin 1916 (dépôt du testament de Ernest
+                     Clément Victor Courrier)</idno>
+                  <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                     minute</msName>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation><date type="willDate" when="1914-10-14">14 octobre 1914</date></creation>
+         <langUsage><language ident="fr">français</language></langUsage>
+         <abstract><p>14 octobre 1914.
+                           Paris.</p><p>testament olographe de Ernest Clément Victor Courrier, mort pour la
+                        France le 17 octobre 1915 à l’hôpital auxiliaire de campagne n°2 des prisonniers à Sedan
+                           (Ardennes).</p></abstract>
+         <textClass>
+            <keywords>
+               <term type="subject">Grande Guerre</term>
+               <term type="subject">Poilu</term>
+               <term type="subject">testament</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when-iso="2018-04-20/2018-10-17" who="#SL. #MFGarreau #lelia #GBMireille">transcription</change>
+         <change when-iso="2018-04-20/2018-09-24" who="#PCharbonnier #FClavaud">validation</change>
+         <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements et
+            contrôle de qualité finaux</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+      <surface type="will-page" n="01">
+         <graphic url="testament_AN_0125___JPEG___FRAN_Poilus_t-0125_01.jpg" xml:id="FRAN_Poilus_t-0125_01"/>
+      </surface>
+      <surface type="will-page" n="02">
+         <graphic url="testament_AN_0125___JPEG___FRAN_Poilus_t-0125_02.jpg" xml:id="FRAN_Poilus_t-0125_02"/>
+      </surface>
+      <surface type="will-envelope-recto" n="03">
+         <graphic url="testament_AN_0125___JPEG___FRAN_Poilus_t-0125_03.jpg" xml:id="FRAN_Poilus_t-0125_03"/>
+      </surface>
+   </facsimile>
+   <text xml:id="will_AN_0125">
+      <body>
+         <div type="will">
+            <pb facs="#FRAN_Poilus_t-0125_01"/>
+            <dateline><placeName type="willPlace" ref="#pl-2">Paris</placeName> <date type="willDate" when="1914-10-14">le 14 octobre 1914</date><choice><sic/><corr>.</corr></choice></dateline>
+            <space dim="vertical" unit="lines" quantity="2"/>
+            <p>Je soussigné <persName ref="#pers-187"><surname>Courrier</surname> (Ernest Clement
+                  Victor)</persName> <lb/>actuellement lieutenant au <orgName ref="#o-26">21<hi rend="superscript-underlined">e</hi> <choice><sic>Regiment d Infanterie
+                        <lb/>Coloniale</sic><corr>régiment d’infanterie
+                  coloniale</corr></choice></orgName>,
+                     <choice><sic>declare</sic><corr>déclare</corr></choice> prendre les
+               dispositions suivantes <lb/>en cas de <choice><sic>decès</sic><corr>décès.
+                  </corr></choice></p>
+            <p>Je laisse<choice><sic/><corr> :</corr></choice></p>
+            <list>
+               <item>I <choice><sic>À</sic><corr>À</corr></choice>
+                  <persName>Mademoiselle Courrier (Madeleine)</persName><choice><sic/><corr>,</corr></choice> ma soeur <lb/>consanguine<choice><sic/><corr>,</corr></choice> un titre de rente N<hi rend="superscript-double-underlined">o</hi> 0654850 de 536 <choice><abbr><hi rend="superscript-underlined">f</hi></abbr><expan>francs</expan></choice>
+                  <choice><sic>00</sic><corr/></choice>
+                  <lb/>(cinq cent <choice><sic>trente six</sic><corr>trente-six</corr></choice> francs) dont elle n’aura pendant <lb/>l’existence de <persName><choice><abbr>M<hi rend="superscript">r</hi></abbr><expan>Monsieur</expan></choice> Courrier</persName>, mon <choice><sic>pere</sic><corr>père</corr></choice>, que la <lb/>nue propriété<choice><sic/><corr>.</corr></choice>
+                  <lb/>Ce titre lui (<persName>Madeleine Courrier</persName>) sera <choice><sic>etabli
+                        a</sic><corr>établi à</corr></choice> son <lb/>nom propre ; quant à l’usufruit de ce titre, il <lb/>sera <choice><sic>laisse a</sic><corr>laissé
+                        à</corr></choice>
+                  <persName><choice><abbr>M<hi rend="superscript">r</hi></abbr><expan>Monsieur</expan></choice> Courrier</persName>, mon père<choice><sic/><corr>.</corr></choice>
+                  <lb/>Ce titre se trouve actuellement entre les mains de <lb/><persName>Monsieur Courrier</persName> mon <choice><sic>pere</sic><corr>père</corr></choice> (114<hi rend="superscript-underlined">bis</hi>
+                  <choice><sic>Avenue</sic><corr>avenue</corr></choice> Thiers, <placeName type="otherPlace" ref="#pl-291">Lyon</placeName>) <lb/>qui en touche le revenu<choice><sic/><corr>.</corr></choice></item>
+               <item>II <choice><sic>a</sic><corr>À</corr></choice> <persName>Madame
+                              <choice><abbr>V<hi rend="superscript-underlined">ve</hi></abbr><expan>veuve</expan></choice> Anna Brouazin</persName> (56
+                        <choice><sic>Rue</sic><corr>rue</corr></choice> <lb/>des Martyrs, <placeName type="otherPlace" ref="#pl-2">Paris</placeName>) qui a
+                        <choice><sic>ete</sic><corr>été</corr></choice> depuis longtemps pour
+                  <lb/>moi une amie devouée<choice><sic/><corr> : </corr></choice><list>
+                     <item>1) <choice><sic>le</sic><corr>Le</corr></choice> montant à l’époque de mon
+                              <choice><sic>decès</sic><corr>décès</corr></choice> d’un <lb/>compte
+                        courant à mon nom au <orgName>Comptoir <choice><sic>National <lb/>d
+                                 Escompte</sic><corr>national <lb/>d’escompte</corr></choice> -
+                           Agence C</orgName><choice><sic>-</sic><corr>,</corr></choice> 23 Boulevard Diderot, <placeName type="otherPlace" ref="#pl-2">Paris</placeName><choice><sic/><corr>,</corr></choice> <lb/>sous le <choice><sic>numero</sic><corr>numéro</corr></choice>
+                              4406<choice><sic/><corr>.</corr></choice> <lb/>Ce compte courant,
+                        aujourd’hui <date when="1914-10-14" type="willDate">14 octobre
+                              1914</date><choice><sic/><corr>,</corr></choice> <lb/>s’<choice><sic>eleve a</sic><corr>élève
+                           à</corr></choice> la somme de 2502,15 (deux mille cinq <lb/>cent deux
+                        francs quinze centimes)<choice><sic/><corr>.</corr></choice></item>
+                     <item> 2) Cinq obligations P.L.M. fusion nouvelle</item>
+                  </list></item>
+               <pb facs="#FRAN_Poilus_t-0125_02"/>
+               <item><list>
+                     <item>achetées <choice><abbr>2037.50</abbr><expan>2037,50
+                           francs</expan></choice>, en <choice><sic>depot a la meme</sic><corr>dépôt
+                              à la même</corr></choice> agence du <lb/><orgName>Comptoir
+                                 <choice><sic>National d Escompte</sic><corr>national
+                                 d’escompte</corr></choice></orgName>. Le
+                              <choice><sic>recepissé</sic><corr>récépissé</corr></choice> de
+                        ces <lb/>titres est <choice><sic>reste</sic><corr>resté</corr></choice> à
+                              l’agence<choice><sic/><corr>.</corr></choice></item>
+                  </list></item>
+            </list>
+            <p><space dim="horizontal" quantity="5" unit="chars"/>Je regrette que mes moyens ne me
+               permettent pas <lb/> de faire davantage.</p>
+            <p>Je remercie <persName><choice><sic>M</sic><corr>m</corr></choice>adame
+                        Montoné-Delval</persName><choice><sic>,</sic><corr/></choice> (7<unclear reason="hidden">4</unclear> <choice><abbr>B<hi rend="superscript-underlined">rd</hi></abbr><expan>boulevard</expan></choice> Picpus)<choice><sic/><corr>,</corr></choice><lb/> ma tante<choice><sic/><corr>,</corr></choice> de
+                     sa <choice><sic>generosite</sic><corr>générosité</corr></choice> constante
+                     envers moi, <lb/> ainsi que de son affection ; je la prie seulement <lb/>en
+                     souvenir de moi de ne pas oublier
+                           mon <lb/><choice><sic>pere</sic><corr>père</corr></choice> et sa famille.</p>
+            <p>Je prie <persName>Monsieur
+                  Courrier</persName>, mon <choice><sic>pere d’etre<lb/> l’executeur du
+                     present</sic><corr>père d’être l’exécuteur du présent</corr></choice>
+                     testament<choice><sic/><corr>.</corr></choice></p>
+            <dateline rend="right"><placeName type="willPlace" ref="#pl-2">Paris</placeName> <date type="willDate" when="1914-10-14">le 14 octobre 1914</date><choice><sic/><corr>.</corr></choice></dateline>
+            <signed rend="right"><persName ref="#pers-187">E <surname>Courrier</surname></persName></signed>
+         </div>
+         <div type="envelope">
+            <pb facs="#FRAN_Poilus_t-0125_03"/>
+            <p rend="centered">Ceci est mon testament<choice><sic/><corr>.</corr></choice></p>
+            <dateline rend="centered"><placeName type="willPlace" ref="#pl-2">Paris</placeName> 
+                  <date type="willDate" when="1914-10-14">le 14 octobre 1914</date><choice><sic/><corr>.</corr></choice></dateline>
+            <signed rend="right"><persName ref="#pers-187">E <surname>Courrier</surname></persName></signed>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0057">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Aimé Richard Hector Justin Adolphe Wicart (10 novembre 1914)] : édition électronique</title><author><persName ref="#pers-55">Aimé Richard Hector Justin Adolphe Wicart
+                        (1878-1916)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#TR">Thierry Rihouey</persName><persName ref="#FAuriau">Françoise Auriau</persName><persName ref="#SBlanchard">Sophie Blanchard</persName><persName ref="#MDeuve">Mathilde Deuve</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#SL.">EG</persName><persName ref="#SLespinasse">Suzie Lespinasse</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#Silver08">Silver08</persName><persName ref="#eperrier">Eddy Perrier</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#EdChamps">Emmanuelle de Champs</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0057</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0057_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E44 999, minute du 22 mai 1916 (dépôt du testament de Aimé Richard
+                            Hector Justin Adolphe Wicart)</idno>
+                        <msName>Testament de Aimé Richard Hector Justin Adolphe Wicart (10 novembre
+                            1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-11-10">10 novembre 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-108">Calais</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-55"><forename>Aimé</forename> <forename>Richard</forename> <forename>Hector</forename> <forename>Justin</forename> <forename>Adolphe</forename> <surname>Wicart</surname></persName>,
+                                mort pour la France le <date when="1916-05-05">5 mai 1916</date> à
+                                    <placeName ref="#pl-20">Dugny (Meuse)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de Versailles, étude
+                            Gayot</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0057_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E44 999, minute du 22 mai 1916 (dépôt du testament de Aimé Richard
+                            Hector Justin Adolphe Wicart)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-11-10">10 novembre 1914</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>10 novembre 1914.
+                                    Calais.</p><p>testament
+                                    olographe de Aimé Richard Hector Justin Adolphe Wicart,
+                                mort pour la France le 5 mai 1916 à
+                                    Dugny (Meuse).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2019-02-07" who="#MFGarreau #SL. #SLespinasse #lelia #Silver08 #eperrier">transcription</change>
+            <change when-iso="2018-01-24/2018-10-08" who="#PCharbonnier #EdChamps ">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0057___JPEG___FRAD78_Poilus_t-0057_01.jpg" xml:id="FRAD78_Poilus_t-0057_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0057">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0057_01"/>
+                <p>Je soussigné <lb/><persName ref="#pers-55">Aimé<choice><sic>.</sic><corr>,</corr></choice>
+                                Richard<choice><sic>.</sic><corr>,</corr></choice>
+                                Hector<choice><sic>.</sic><corr>,</corr></choice> Justin<choice><sic/><corr>,</corr></choice> Adolphe
+                            <surname>Wicart</surname></persName> demeurant <lb/>à <placeName type="willAuthorResidence" ref="#pl-107">Lille</placeName>, 11
+                                <choice><sic>Rue</sic><corr>rue</corr></choice> de
+                    l’Arc, actuellement sous-officier au <orgName ref="#o-46">cinquième <lb/>régiment territorial d’infanterie</orgName>, prends les
+                    dispositions testamentaires <lb/>suivantes<choice><sic> :</sic><corr>.</corr></choice></p>
+                <p>Je révoque tous testaments et <choice><sic>co-dicilles</sic><corr>codicilles</corr></choice>
+                    antérieurs à celui-ci.</p>
+                <p>J’institue pour ma légataire universelle ma mère<choice><sic>.</sic><corr>,</corr></choice> <persName>Madame <lb/>
+                        Wicart Bailly</persName>, demeurant à <placeName type="otherPlace" ref="#pl-107">Lille</placeName> 11
+                        <choice><sic>Rue</sic><corr>rue</corr></choice> de l’Arc ; ou en <lb/>cas de
+                    décès de celle-ci, j’institue légataires universels : <lb/><persName>Monsieur
+                        Paul Lefebvre</persName> demeurant à <placeName type="otherPlace" ref="#pl-107">Lille</placeName> 209 boulevard de la
+                        Liberté<choice><sic/><corr>,</corr></choice> <lb/><persName>Mademoiselle Marie Lefebvre</persName> demeurant à
+                        <placeName type="otherPlace" ref="#pl-107">Lille</placeName> 209
+                    boulevard <lb/>de la Liberté<choice><sic>.</sic><corr>,</corr></choice> mes
+                    cousin et cousine germains.</p>
+                <p>Dans le cas <choice><sic>ou</sic><corr>où</corr></choice> ceux-ci seraient tous deux
+                            <choice><sic>décedés</sic><corr>décédés</corr></choice> <lb/>avant moi,
+                            <choice><sic>j institue</sic><corr>j’institue</corr></choice> pour
+                    légataire universel le <orgName>Bureau <lb/>de bienfaisance de Lille</orgName>.</p>
+                <p>Mon ou mes légataires universels auront la
+                            pleine <lb/><choice><sic>proprièté</sic><corr>propriété</corr></choice>
+                    et jouissance de mes biens à compter du jour de mon décès, <lb/>et de toute
+                    façon, je déclare exclure d’une manière absolue <lb/>de ma succession
+                            Monsieur et Madame Richard Bailly
+                    Lotthé, <lb/>mes oncle et tante, ainsi que leurs descendants.</p>
+                <p>Fait, écrit, daté et signé de ma main.</p>
+                <dateline><placeName type="willPlace" ref="#pl-108">Calais</placeName> <date type="willDate" when="1914-11-10">le dix
+                                <choice><sic>Novembre</sic><corr>novembre</corr></choice> mil
+                        neuf cent quatorze<choice><sic/><corr>.</corr></choice></date></dateline>
+                <signed rend="center"><persName ref="#pers-55"><surname>Wicart</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

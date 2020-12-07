@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0039">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title><title type="main">[Testament de Jean Pierre Pécoul (26 février 1915)] : édition électronique</title><author><persName ref="#pers-96">Jean Pierre Pécoul (1877-1915)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+                        Département de la Conservation. Atelier photographique</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#AM">Aurélie Massie</persName><persName ref="#MLocatelli">Mélisa Locatelli</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#SCayeux">SCayeux</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#jmorvan">Josselin Morvan</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AN_0039</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0039_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1561, minute du 5 juillet 1916 (dépôt du testament de Jean Pierre Pécoul)</idno>
+                        <msName>Testament de Jean Pierre Pécoul (26 février 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1915-02-26">26 février 1915</date>. <placeName type="willPlace" ref="#pl-174">Decize</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-96"><forename>Jean</forename> <forename>Pierre</forename> <surname>Pécoul</surname></persName>, mort pour la France le <date when="1915-07-10">10 juillet 1915</date> <placeName ref="#pl-125">devant Souchez (Pas de Calais)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). Papier (codicille). </support>
+                                <extent>3 pages. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>. Dimensions du codicille : <dimensions type="willCodicil" unit="cm">
+                                        <height>8,8</height>
+                                        <width>10,9</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Codicille : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010247">étude notariale 120 (CRPCEN : 75100)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0039_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1561, minute du 5 juillet 1916 (dépôt du testament de Jean Pierre Pécoul)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-02-26">26 février 1915</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>26 février 1915. Decize.</p><p>testament olographe de Jean Pierre Pécoul, mort pour la France le 10 juillet 1915 devant Souchez (Pas de Calais).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-07-10" who="#SL. #lelia #MFGarreau #SCayeux">transcription</change>
+            <change when-iso="2018-01-24/2018-05-16" who="#PCharbonnier ">validation</change>
+            <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0039___JPEG___FRAN_Poilus_t-0039_01.jpg" xml:id="FRAN_Poilus_t-0039_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0039___JPEG___FRAN_Poilus_t-0039_02.jpg" xml:id="FRAN_Poilus_t-0039_02"/>
+        </surface>
+        <surface type="codicil-page" n="03">
+            <graphic url="testament_AN_0039___JPEG___FRAN_Poilus_t-0039_03.jpg" xml:id="FRAN_Poilus_t-0039_03"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0039">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0039_01"/>
+                <dateline>Ce <date type="willDate" when="1915-02-26"><choice><sic>Vingts six Fevrier mil neuf <lb/>Cent</sic><corr>vingt-six février mil neuf cent</corr></choice> quinze</date></dateline>
+                <p>Je soussigné <persName ref="#pers-96"><surname>Pécoul</surname> Jean <choice><sic>Piérre</sic><corr>Pierre</corr></choice></persName><choice><sic/><corr>,</corr></choice> <lb/>né le <date type="willAuthorBirthDate" when="1877-07-07">sept <choice><sic>Juillet</sic><corr>juillet</corr></choice> l’an mil huit <lb/>cent <choice><sic>soixante dix sept</sic><corr>soixante-dix-sept</corr></choice></date>, à <placeName type="willAuthorBirthPlace" ref="#pl-173"><choice><sic>Saint <lb/>Urcize Departement du Cantal</sic><corr>Saint-<lb break="no"/>Urcize, département du Cantal,</corr></choice></placeName> <lb/><choice><sic>Sain</sic><corr>saint</corr></choice> de corps et d’esprit<choice><sic/><corr>,</corr></choice> <lb/>déclare <choice><sic>consigné içi</sic><corr>consigner ici</corr></choice>, en entier <lb/>de ma main le <choice><sic>présant</sic><corr>présent</corr></choice> testament <lb/>qui est <choice><sic>lexpression</sic><corr>l’expression</corr></choice> formelle de <lb/>mes sentiments<choice><sic/><corr>.</corr></choice></p>
+                <p>Je <choice><sic>légue</sic><corr>lègue</corr></choice> à <persName>Jeanne Maria <choice><sic>Vinçent</sic><corr>Vincent,</corr></choice></persName> <lb/>mon <choice><sic>Epouse</sic><corr>épouse</corr></choice> légitime, <lb/>mes biens présents et <choice><sic>avenir en <lb/>cas de déçés en ma personne</sic><corr>à venir en cas de décès de ma personne.</corr></choice></p>
+                <p>1<hi rend="superscript-underlined">er</hi> je déclare les obligations en dépôt <lb/>à la <orgName><choice><sic>société Générale</sic><corr>Société générale,</corr></choice></orgName> cent <choice><sic>quatre <lb/>vingt neuf</sic><corr>quatre-<lb break="no"/>vingt-neuf</corr></choice> rue de la <choice><sic>convention</sic><corr>Convention</corr></choice> <lb/>à <placeName type="otherPlace" ref="#pl-2">Paris</placeName><choice><sic/><corr>,</corr></choice> <choice><sic>don a savoir</sic><corr>dont à savoir :</corr></choice></p>
+                <list>
+                    <item>1 Ville de Paris 1871 à 4% coût 460 <choice><abbr>fr</abbr><expan>francs</expan></choice></item>
+                    <item>1 Ville de Paris rente à 3% <choice><abbr>’’ ’’</abbr><expan>coût</expan></choice> <choice><abbr>89 fr 60</abbr><expan>89,60 francs</expan></choice></item>
+                    <item>1 Ville de Paris 1875 à 4% coût <choice><abbr>515 fr 00</abbr><expan>515 francs</expan></choice></item>
+                    <item>1 Ville de Paris 1876 à 4% coût <choice><abbr>515 fr 00</abbr><expan>515 francs</expan></choice></item>
+                    <item>2 Foncières 1913 <choice><sic>a</sic><corr>à</corr></choice> 5% <choice><sic>cout</sic><corr>coût</corr></choice> <choice><abbr>974 fr 00</abbr><expan>974 francs</expan></choice></item>
+                    <item><app><lem><subst><del>2</del><add>1</add></subst> <orgName>Rosario</orgName> <add place="marginLeft" type="testatorComment">je dis une Rosario</add></lem><note resp="#jmorvan">Mention "je dis une Rosario" ajoutée en marge.</note></app> <choice><sic>Chemin</sic><corr>chemin</corr></choice> de fer <choice><sic>a</sic><corr>à</corr></choice> 5% <choice><sic>cout</sic><corr>coût</corr></choice> <choice><abbr>460 fr</abbr><expan>460 francs</expan></choice></item>
+                    <item>2 Chinoises <choice><sic>a</sic><corr>à</corr></choice> 5% <choice><sic>cout</sic><corr>coût</corr></choice> <choice><abbr>990 fr</abbr><expan>990 francs</expan></choice></item>
+                </list>
+                <p><choice><sic>Emplus</sic><corr>En plus</corr></choice> je déclare que mon <choice><sic>Epouse</sic><corr>épouse</corr></choice> légitime <lb/>peut toucher un cautionnement chez <lb/><persName>Monsieur Genvrain</persName><choice><sic> Laitier</sic><corr>, laitier</corr></choice> en gros<choice><sic/><corr>,</corr></choice> trente <lb/>rue <choice><sic>la quintinie</sic><corr>La Quintinie</corr></choice>, qui <choice><sic>et</sic><corr>est</corr></choice> de <pb facs="#FRAN_Poilus_t-0039_02"/>sept <choice><sic>cent</sic><corr>cents</corr></choice> francs, plus le salaire du <lb/><choice><sic>moi</sic><corr>mois</corr></choice> de <choice><sic>Juillet</sic><corr>juillet</corr></choice> mil neuf cent quatorze<choice><sic/><corr> ;</corr></choice> <lb/><choice><sic>ainssi</sic><corr>ainsi</corr></choice> que les <choice><sic>interests</sic><corr>intérêts</corr></choice> du cautionnement <lb/>qui est <choice><sic>a Cinq</sic><corr>à cinq</corr></choice> pour cent l’an si <lb/><choice><sic>enplus</sic><corr>en plus</corr></choice> de pouvoir toucher cinq <lb/><choice><sic>cent</sic><corr>cents</corr></choice> francs <choice><sic>est</sic><corr>et</corr></choice> <choice><sic>interest</sic><corr>intérêts</corr></choice> <choice><sic>deposés</sic><corr>déposés</corr></choice> sur un <lb/>livret à la <orgName>Caisse <choice><sic>dépargne</sic><corr>d’épargne.</corr></choice></orgName></p>
+                <p>Je déclare par le présent testament <lb/>que mon <choice><sic>Epouse</sic><corr>épouse</corr></choice> légitime <lb/>ne <choice><sic>pouras</sic><corr>pourra</corr></choice> faire valoir <lb/><add place="marginLeft">les droits</add> du présent acte que <lb/><choice><sic>aprés</sic><corr>après</corr></choice> avoir présenté un acte de <lb/><choice><sic>déçés</sic><corr>décès</corr></choice> signifiant que le testataire <lb/><choice><sic>et</sic><corr>est</corr></choice> <choice><sic>déçédé</sic><corr>décédé</corr></choice><choice><sic/><corr>.</corr></choice></p>
+                <p>Je <choice><sic>çertifie</sic><corr>certifie</corr></choice> et <choice><sic>Conforme</sic><corr>confirme</corr></choice> ma signature <lb/><choice><sic>cis dessus</sic><corr>ci-après.</corr></choice></p>
+                <signed><persName ref="#pers-96"><surname>Pécoul</surname> Jean Piérre</persName></signed>
+                <dateline>Fait à <placeName type="willPlace" ref="#pl-174">Decize</placeName> <date type="willDate" when="1915-02-26">le <choice><sic>Vingt six</sic><corr>vingt-six</corr></choice> <lb/><choice><sic>Février</sic><corr>février</corr></choice> mil neuf <choice><sic>Cent</sic><corr>cent</corr></choice> quinze</date><choice><sic/><corr>.</corr></choice></dateline>
+                <signed><persName ref="#pers-96"><surname>Pécoul</surname> Jean Piérre</persName><choice><sic/><corr>,</corr></choice> soldat au <lb/><orgName>47<hi rend="superscript-underlined"><choice><sic>ème</sic><corr>e</corr></choice></hi> <choice><sic>Régiment Térritorial</sic><corr>régiment territorial</corr></choice> 15<hi rend="superscript-underlined"><choice><sic>ème</sic><corr>e</corr></choice></hi> <lb/><choice><sic>Compagnie</sic><corr>compagnie</corr></choice></orgName> à <placeName type="willPlace" ref="#pl-174">Decize</placeName><choice><sic/><corr>,</corr></choice> Nièvre<choice><sic/><corr>.</corr></choice></signed>
+            </div>
+            <div type="codicil">
+                <pb facs="#FRAN_Poilus_t-0039_03"/>
+                <p>J’ai <choice><sic>oubliér</sic><corr>oublié</corr></choice> de mettre sur <lb/>le <choice><sic>testamant : quil</sic><corr>testament qu’il</corr></choice> reste <lb/>un compte ouvert <choice><sic>a</sic><corr>à</corr></choice> la <lb/><orgName><choice><sic>société Générale</sic><corr>Société générale</corr></choice></orgName> rue de la <lb/>Convention <del>t</del><choice><sic>don tu pouras</sic><corr>donc tu pourras</corr></choice> <lb/>le <choice><sic>reclamer</sic><corr>réclamer</corr></choice> à la dite société<choice><sic/><corr>.</corr></choice></p>
+                <signed><persName ref="#pers-96"><surname>Pecoul</surname> J.P.</persName> au <orgName><choice><abbr>47<hi rend="superscript-underlined">e</hi> T<hi rend="superscript">rial</hi> <lb/>15<hi rend="superscript-underlined">em</hi> C<hi rend="superscript">ie</hi></abbr><expan>47<hi rend="superscript">e</hi> régiment territorial 15<hi rend="superscript">e</hi> compagnie</expan></choice></orgName> à <placeName type="codicilPlace" ref="#pl-174">Decize<choice><sic/><corr>,</corr></choice> Nievre</placeName><choice><sic/><corr>.</corr></choice></signed>
+                <dateline rend="left"><placeName type="codicilPlace" ref="#pl-174">Decize</placeName> le <date type="codicilDate" when="1915-02-26">26 <choice><sic>Février</sic><corr>février</corr></choice> 1915</date><choice><sic/><corr>.</corr></choice></dateline>
+            </div>
+        </body>
+    </text>
+</TEI>

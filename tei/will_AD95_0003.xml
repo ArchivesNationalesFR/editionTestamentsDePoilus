@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD95_0003">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Paul Henri Joseph Crouvezier (10 août 1914)] : édition électronique</title><author><persName ref="#pers-398">Paul Henri Joseph Crouvezier
+                        (1889-1915)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#AP">Anais Pontoparia</persName><persName ref="#KSifakis">Konstantinos Sifakis</persName><persName ref="#SD">Sophie Delinge</persName><persName ref="#TO">Thomas Olivier</persName><persName ref="#SDechavanne">Sylvie Dechavanne</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#Clarisse.M">Clarisse.M</persName><persName ref="#SL.">EG</persName><persName ref="#GBMireille">Mireille Grais-Bruguière</persName><persName ref="#ASJPeronneau">ASJPeronneau</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD95_0003</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD95_0003_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales du Val-d’Oise</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>2E28 584, minute du 5 mai 1915 (dépôt du testament de Paul Henri
+                            Joseph Crouvezier)</idno>
+                        <msName>Testament de Paul Henri Joseph Crouvezier (10 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-10">10 août 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-398"><forename source="#will_AD95_0003_min #MDH #AS  #will_AD95_0003_tes">Paul</forename> <forename source="#will_AD95_0003_min #MDH #AS">Henri</forename> <forename source="#will_AD95_0003_min #MDH #AS">Joseph</forename> <surname>Crouvezier</surname></persName>,
+                                mort pour la France le <date when="1915-04-17" source="#will_AD95_0003_min #MDH #AS">17 avril 1915 [NOT] [MDH]
+                                    [AS]</date> à <placeName ref="#pl-271" source="#will_AD95_0003_min #MDH">Neuilly (Seine) ambulance n°
+                                    233 [NOT] | hôpital auxiliaire 233 à Neuilly s/ Seine (Seine)
+                                    [MDH]</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré ivoire réglé (testament). Ivoire cinq cachets
+                                    (enveloppe). </support>
+                                <extent>2 pages et 1 enveloppe. Dimensions du testament :
+                                        <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                                        <height>9</height>
+                                        <width>13,2</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Enveloppe : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>Dusapt Cormeilles-en-Parisis</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD95_0003_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales du Val-d’Oise</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>2E28 584, minute du 5 mai 1915 (dépôt du testament de Paul Henri
+                            Joseph Crouvezier)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-10">10 août 1914</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>10 août 1914.
+                                    Paris.</p><p>testament
+                                    olographe de Paul Henri Joseph Crouvezier,
+                                mort pour la France le 17 avril 1915 [NOT] [MDH]
+                                    [AS] à Neuilly (Seine) ambulance n°
+                                    233 [NOT] | hôpital auxiliaire 233 à Neuilly s/ Seine (Seine)
+                                    [MDH].</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-10-09/2020-02-17" who="#MFGarreau #lelia #Clarisse.M #SL. #GBMireille #ASJPeronneau">transcription</change>
+            <change when-iso="2019-10-09/2019-11-06" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD95_0003___JPEG___FRAD95_Poilus_t-0003_01.jpg" xml:id="FRAD95_Poilus_t-0003_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AD95_0003___JPEG___FRAD95_Poilus_t-0003_02.jpg" xml:id="FRAD95_Poilus_t-0003_02"/>
+        </surface>
+        <surface type="will-envelope-recto" n="03">
+            <graphic url="testament_AD95_0003___JPEG___FRAD95_Poilus_t-0003_03.jpg" xml:id="FRAD95_Poilus_t-0003_03"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD95_0003">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD95_Poilus_t-0003_01"/>
+                <dateline rend="centered"><placeName type="willPlace" ref="#pl-2">Paris </placeName>
+                    <date type="willDate" when="1914-08-10">le 10
+                                <choice><sic>Août</sic><corr>août</corr></choice>
+                    1914</date></dateline>
+                <p>Me trouvant dans l’impossibilité de régler d’une façon <lb/>parfaite ma situation
+                    avant de rejoindre mon corps, j’<choice><sic>ar-<lb/>rête</sic><corr>ar<lb break="no"/>rête</corr></choice> les dispositions suivantes
+                    chargeant <persName>Maître Dusapt</persName>, <lb/>notaire à <placeName type="otherPlace" ref="#pl-626"><choice><sic>Cormeilles en Parisis
+                                </sic><corr>Cormeilles-en-Parisis</corr></choice>
+                        <choice><abbr>(S. et
+                        O.)</abbr><expan>(Seine-et-Oise)</expan></choice></placeName> d’en assurer
+                    <lb/>l’exécution.</p>
+                <list>
+                    <item>1<hi rend="superscript">o</hi>) Je laisse un chèque acquitté de
+                                <choice><sic>Deux cents</sic><corr>deux cent</corr></choice>
+                        soixante <lb/>francs et soixante centimes que je n’ai pu toucher,
+                        représentant le <choice><sic>mon-<lb/>tant</sic><corr>mon<lb break="no"/>tant</corr></choice> des commissions sur les affaires que j’ai
+                        traitées du <date type="otherDate" when="1913-11-21">21
+                                    <choice><sic>Novem-<lb/>bre</sic><corr>novem<lb break="no"/>bre</corr></choice> 1913</date> au <date type="otherDate" when="1914-06-30">30 Juin 1914</date> pour le compte de Messieurs
+                            <persName>Bouvet</persName> et <persName>Canteau</persName>
+                        <lb/>demeurant à <placeName type="otherPlace" ref="#pl-2">Paris</placeName>
+                        103 <choice><sic>Rue</sic><corr>rue</corr></choice> Lafayette, ainsi qu’un
+                        relevé de <lb/>comptes existant en duplicata dans mon bureau peut en
+                        justifier. <lb/>Le montant de ce chèque, au cas où il pourrait être touché
+                        après les <choice><sic>hos-<lb/>tilités</sic><corr>hos<lb break="no"/>tilités</corr></choice> serait à adresser à <persName>Monsieur
+                            Edmond Louis</persName> pour le rembourser <lb/>d’une dette que j’ai
+                        contractée à son égard. <add place="marginLeft">Monsieur <persName>Edmond
+                                Louis</persName><choice><sic/><corr>,</corr></choice>
+                            <lb/>curé de <placeName>Deneuvre <lb/>par Baccarat</placeName>
+                                    (<choice><abbr>M. et
+                                M</abbr><expan>Meurthe-et-Moselle</expan></choice>)<choice><sic/><corr>.</corr></choice>
+                            <seg type="marginalAdditionSignature"><persName ref="#pers-398">JC</persName></seg></add> Dans le cas où ce chèque <lb/>ne
+                        pourrait être touché, il faudrait prendre sur mon actif une
+                                <choice><sic>som-<lb/>me</sic><corr>som<lb break="no"/>me</corr></choice> égale et la lui adresser.</item>
+                    <item>2<hi rend="superscript">o</hi>) Je laisse à mon oncle <persName>Félix
+                            Delangère,</persName> tuteur de mes <lb/>frères et soeurs mineurs, la
+                        liberté de disposer de la somme
+                                    <choice><sic>néces-<lb/>saire</sic><corr>néces<lb break="no"/>saire</corr></choice> pour faire graver notre nom et les
+                        inscriptions nécessaires <lb/>sur le monument que mon père a fait construire
+                        au cimetière du <lb/><choice><sic>Père
+                                Lachaise</sic><corr>Père-Lachaise</corr></choice>.</item>
+                    <item>3<hi rend="superscript">o</hi>) Je laisse dans mon bureau deux
+                        reconnaissances <lb/>du <orgName>Mont de Piété de Paris</orgName> N<hi rend="superscript-double-underlined">o<choice><sic>s</sic><corr/></choice></hi> 024.984 et N<hi rend="superscript-underlined">o<choice><sic>s</sic><corr/></choice></hi>
+                        030,436 qui seront <lb/>à dégager dans le plus bref délai possible après
+                        l’ouverture de ce pli.</item>
+                    <item>4<hi rend="superscript">o</hi>) Je tiens essentiellement à ce
+                            qu’il<del>s</del> soit versé à mon <lb/>amie <persName>Mademoiselle
+                            Elise Pilchen</persName> demeurant à <placeName type="otherPlace" ref="#pl-2">Paris</placeName><choice><sic/><corr>,</corr></choice> 112
+                                <lb/><choice><sic>Boulevard</sic><corr>boulevard</corr></choice>
+                                Rochechouart<choice><sic/><corr>,</corr></choice> une somme de
+                                <choice><sic>Mille</sic><corr>mille</corr></choice> francs à
+                        <lb/>prélever sur l’actif de ce que je possède. D’autre part je
+                        <lb/>l’autorise à prendre chez moi <choice><sic>quelques
+                                uns</sic><corr>quelques-uns</corr></choice> des bibelots qui <pb facs="#FRAD95_Poilus_t-0003_02"/> me sont familiers et dont elle aura
+                        libre choix et qui pourraient lui <lb/>être agréables, en particulier mon
+                        cache-pot et ma garniture de cheminée.</item>
+                    <item>5<hi rend="superscript">o</hi>) En dehors de ma montre en or et de mes
+                        boutons de manchettes <lb/>je ne laisse chez moi aucun
+                                bijou<choice><sic>x</sic><corr/></choice><choice><sic/><corr>,</corr></choice>
+                        ceux-ci étant en la possession <lb/>de ma soeur
+                            <persName>Marguerite</persName>.</item>
+                    <item>6<hi rend="superscript">o</hi>) Le solde de l’actif que je possède (cet
+                        actif se composant <lb/>approximativement : de mon mobilier, des trois mille
+                        sept cents <lb/>francs (3700) environ que mon beau-frère <persName>Monsieur
+                            Henri Huyart</persName>
+                        <lb/>demeurant à <placeName type="otherPlace" ref="#pl-2">Paris</placeName>
+                        24 <choice><sic>Rue</sic><corr>rue</corr></choice> Richer me doit, des
+                        sommes que <lb/>mon oncle
+                                    <persName><choice><sic>Felix</sic><corr>Félix</corr></choice>
+                            Delangère</persName> a encaissées pour mon compte dans <lb/>les
+                        différentes opérations effectuées pour le compte de la succession
+                        <lb/>Crouvezier Delangère et des quelques titres de rente que <persName>ma
+                            <lb/>tante Lesaulnier</persName><choice><sic/><corr>,</corr></choice>
+                        demeurant à <placeName type="otherPlace" ref="#pl-2">Paris</placeName> 61
+                                <choice><sic>Rue</sic><corr>rue</corr></choice>
+                        <choice><sic>la</sic><corr>La</corr></choice>
+                                Boétie<choice><sic/><corr>,</corr></choice> peut <lb/>détenir pour
+                        mon compte, ainsi que ma part de propriété des <lb/>immeubles dont je suis
+                        co-propriétaire avec mes frères et <lb/>soeurs et la famille Lesaulnier)
+                        sera à partager entre mes <lb/>frères et soeurs, laissant la liberté à mon
+                        oncle <persName>Félix <choice><sic>Delan-<lb/>gère</sic><corr>Delan<lb break="no"/>gère</corr></choice></persName>, tuteur de mes
+                        frères et soeurs mineurs, ou à son
+                                    <choice><sic>repré-<lb/>sentant</sic><corr>repré<lb break="no"/>sentant</corr></choice>, d’effectuer ce partage en favorisant mes
+                        plus jeunes <lb/>frères dans la proportion de deux contre un.</item>
+                </list>
+                <p>Dans le cas de mon retour ces dispositions se trouveraient <lb/>annulées purement
+                    et simplement<choice><sic/><corr>.</corr></choice></p>
+                <dateline rend="right">Fait en double à <placeName type="willPlace" ref="#pl-2">Paris</placeName>
+                    <date type="willDate" when="1914-08-10">le 10
+                                <choice><sic>Août</sic><corr>août</corr></choice>
+                            1914</date><choice><sic/><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="centered"><persName ref="#pers-398">Paul
+                        <surname>Crouvezier</surname></persName></signed>
+                <space dim="horizontal" unit="chars" quantity="30"/>
+                <postscript>
+                    <p>8 <choice><sic>Rue</sic><corr>rue</corr></choice> Say.</p>
+                </postscript>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <postscript>
+                    <p>Le double se trouve dans une enveloppe cachetée <lb/>dans mon bureau.</p>
+                </postscript>
+                <postscript>
+                    <p>Ne peut entrer en voie d’exécution que trois mois au plus tôt
+                                après la démobilisation complète <lb/>de l’armée
+                                française.
+                    </p>
+                    <signed><persName ref="#pers-398">P<surname>C</surname></persName></signed>
+                </postscript>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAD95_Poilus_t-0003_03"/>
+                <p rend="left"><persName>Monsieur
+                        Dusapt</persName><choice><sic/><corr>,</corr></choice>
+                    <lb/><space dim="horizontal" unit="chars" quantity="7"/><choice><sic>Notaire</sic><corr>notaire</corr></choice>
+                    <lb/><space dim="horizontal" unit="chars" quantity="14"/> à <placeName type="otherPlace" ref="#pl-626"><hi rend="underlined"><choice><sic>Cormeilles en
+                                    Parisis</sic><corr>Cormeilles-en-Parisis</corr></choice></hi></placeName>
+                    <lb/><hi rend="underlined"><choice><sic>Seine et
+                                Oise</sic><corr>Seine-et-Oise</corr></choice></hi><choice><sic/><corr>.</corr></choice></p>
+            </div>
+        </body>
+    </text>
+</TEI>

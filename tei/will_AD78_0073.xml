@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0073">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Edmond Louis Lanier (1er août 1914)] : édition électronique</title><author><persName ref="#pers-361">Edmond Louis Lanier
+                    (1880-1914)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#DMD">Denis Michel-Dansac</persName><persName ref="#MDeuve">Mathilde Deuve</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#SL.">EG</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0073</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0073_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E4 366, minute du 15 novembre 1915 (dépôt du testament de Edmond
+                            Louis Lanier)</idno>
+                        <msName>Testament de Edmond Louis Lanier (1er août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-01">1er août 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-361"><forename>Edmond</forename> <forename>Louis</forename> <surname>Lanier</surname></persName>, mort
+                                pour la France le <date when="1914-09-17">17 septembre 1914</date> à
+                                    <placeName ref="#pl-546">Caisne
+                            (Oise)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier quadrillé timbré (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>27</height>
+                                        <width>21</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de Bougival</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0073_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E4 366, minute du 15 novembre 1915 (dépôt du testament de Edmond
+                            Louis Lanier)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-01">1er août 1914</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>1er août 1914.
+                                    Paris.</p><p>testament
+                                    olographe de Edmond Louis Lanier, mort
+                                pour la France le 17 septembre 1914 à
+                                    Caisne
+                            (Oise).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-07-01/2020-05-25" who="#MFGarreau #lelia #SL.">transcription</change>
+            <change when-iso="2019-07-01/2019-10-12" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0073___JPEG___FRAD78_Poilus_t-0073_01.jpg" xml:id="FRAD78_Poilus_t-0073_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0073">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0073_01"/>
+                <dateline rend="centered"><placeName type="willPlace" ref="#pl-2">Paris</placeName> <date type="willDate" when="1914-08-01">le premier
+                                <choice><sic>Aout</sic><corr>août</corr></choice>
+                            1914</date><choice><sic/><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <p>Je soussigné, sain de corps et d’esprit
+                            <lb/><choice><sic>légue</sic><corr>lègue</corr></choice> à ma femme
+                    chérie <persName>Suzanne née <lb/>Herman</persName><choice><sic/><corr>,</corr></choice> en souvenir de
+                    l’amour que j’ai eu <lb/>pour elle et en
+                            <choice><sic>recompense</sic><corr>récompense</corr></choice> des
+                    tendresses qu’<lb break="no"/>elle m’a prodiguées, toute la part de ma
+                    <lb/>fortune dont la loi me permet de disposer <lb/>à son égard, le reste sera
+                    pour mon petit <lb/>fils Michel aimé et pour l’autre petit
+                            <lb/><choice><sic>etre</sic><corr>être</corr></choice> qui verra le jour
+                            <choice><sic>apres</sic><corr>après</corr></choice> ma mort et que
+                    <lb/>j’aime <choice><sic>déja</sic><corr>déjà</corr></choice> comme si je
+                    l’avais <choice><sic>deja</sic><corr>déjà</corr></choice>
+                            embrassé<choice><sic>,</sic><corr>.</corr></choice> <lb/>Ma femme pourra
+                    jouir de l’usufruit de <lb/>ces
+                            <choice><sic>dernieres</sic><corr>dernières</corr></choice> parts
+                    jusqu’à la majorité des enfants.</p>
+                <p>Cette fortune est
+                            tout<choice><sic>e</sic><corr/></choice> <choice><sic>entiere</sic><corr>entière</corr></choice>
+                    dans la <orgName>maison <lb/>de commerce Victor Lanier
+                                <choice><abbr>&amp;</abbr><expan>et</expan></choice> fils</orgName>
+                    dont j’<choice><sic>etais</sic><corr>étais</corr></choice> <lb/>l’associé. Je
+                    prie ma chère petite femme <lb/>d’avoir une confiance absolue dans les
+                    <lb/>comptes que lui
+                        <choice><sic>presentera</sic><corr>présentera</corr></choice> mon frère
+                            <choice><sic>veneré</sic><corr>vénéré.</corr></choice></p>
+                <p>Je lui demanderai comme dernière volonté <lb/>de bien vouloir donner en mon
+                    souvenir <lb/>le <choice><sic>prenom</sic><corr>prénom</corr></choice> d’Edmond
+                    ou d’<choice><sic>Edmee</sic><corr>Edmée</corr></choice> à l’enfant <lb/>qui est
+                    encore dans son sein.</p>
+                <p>Adieu à tous les êtres que j’ai aimés,
+                        <choice><sic>Pere</sic><corr>Père,</corr></choice> <lb/>Mère, mes frères et
+                    soeurs et vous chers <lb/>beaux<choice><sic/><corr>-</corr></choice>parents qui
+                    m’avez toujours
+                    <choice><sic>consideré</sic><corr>considéré</corr></choice> <lb/>comme votre
+                    fils. Ma dernière pensée sera <lb/>pour toi ma Suzanne.</p>
+                <p>Que la guerre soit maudite<choice><sic/><corr>.</corr></choice></p>
+                <dateline rend="centered"><placeName type="willPlace" ref="#pl-2">Paris</placeName>
+                    <date type="willDate" when="1914-08-01">le premier
+                                <choice><sic>Aout</sic><corr>août</corr></choice>
+                                1914<choice><sic/><corr>.</corr></choice></date></dateline>
+                <signed rend="centered"><persName ref="#pers-361">Edm<surname>lanier</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

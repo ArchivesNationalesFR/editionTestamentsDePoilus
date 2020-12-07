@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0087">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Albert Auguste Jouis (29 août 1916)] : édition électronique</title><author><persName ref="#pers-375">Albert Auguste Jouis
+                    (1879-1918)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#RG">Regine Guillot</persName><persName ref="#SBlanchard">Sophie Blanchard</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#SL.">EG</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#GBMireille">Mireille Grais-Bruguière</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#YvelinesDoc">YvelinesDoc</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0087</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0087_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E16 360, minute du 23 septembre 1918 (dépôt du testament de Albert
+                            Auguste Jouis)</idno>
+                        <msName>Testament de Albert Auguste Jouis (29 août 1916)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1916-08-29">29 août 1916</date>.
+                                    <placeName type="willPlace" ref="#pl-573">Dampierre</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-375"><forename>Albert</forename> <forename>Auguste</forename> <surname>Jouis</surname></persName>, mort
+                                pour la France le <date when="1918-07-18">18 juillet 1918</date> à
+                                    <placeName ref="#pl-350">Villers-Cotterets
+                                (Aisne)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). Enveloppe commerciale
+                                    (enveloppe). </support>
+                                <extent>1 page et 1 enveloppe. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>25</height>
+                                        <width>17</width>
+                                    </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                                        <height>9,7</height>
+                                        <width>14</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Enveloppe : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de
+                            Le-Mesnil-Saint-Denis</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0087_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E16 360, minute du 23 septembre 1918 (dépôt du testament de Albert
+                            Auguste Jouis)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1916-08-29">29 août 1916</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>29 août 1916.
+                                    Dampierre.</p><p>testament
+                                    olographe de Albert Auguste Jouis, mort
+                                pour la France le 18 juillet 1918 à
+                                    Villers-Cotterets
+                                (Aisne).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-07-01/2020-05-25" who="#MFGarreau #SL. #lelia #GBMireille">transcription</change>
+            <change when-iso="2019-07-01/2019-11-21" who="#PCharbonnier #YvelinesDoc">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0087___JPEG___FRAD78_Poilus_t-0087_01.jpg" xml:id="FRAD78_Poilus_t-0087_01"/>
+        </surface>
+        <surface type="will-envelope-recto" n="02">
+            <graphic url="testament_AD78_0087___JPEG___FRAD78_Poilus_t-0087_02.jpg" xml:id="FRAD78_Poilus_t-0087_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0087">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0087_01"/>
+                <head rend="centered">Ceci est mon
+                    testament<choice><sic/><corr>.</corr></choice></head>
+                <space dim="vertical" unit="lines" quantity="5"/>
+                <p>Je donne et lègue à mon épouse <lb/><persName>Mariette Barthélémy femme
+                    Jouis</persName> <lb/><choice><sic>deumeurant</sic><corr>demeurant</corr></choice> à
+                        <placeName type="otherPlace">Dampierre<choice><sic/><corr>,</corr></choice>
+                        Seine-et-Oise,</placeName> <lb/>tous les biens, meubles et immeubles,
+                    <lb/>qui m’appartiendront au jour de <lb/>mon
+                            <choice><sic>décés</sic><corr>décès</corr></choice>, sans
+                            <choice><sic>exeptions</sic><corr>exception</corr></choice>, ni
+                            <choice><sic>reserve</sic><corr>réserve</corr></choice> <lb/>desquels
+                            bien<choice><sic/><corr>s</corr></choice>, elle jouira et disposera
+                    <lb/>en toute propriété, à partir de mon
+                            <lb/><choice><sic>dècés</sic><corr>décès</corr></choice>, et je
+                    l’institue à cet effet ma <lb/>légataire universelle.</p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <dateline><placeName type="willPlace" ref="#pl-492">Dampierre</placeName><choice><sic/><corr>,</corr></choice> <date type="willDate" when="1916-08-29">le <choice><sic>vingt neuf Août <lb/>Mille
+                            neuf cent Seize</sic><corr>vingt-neuf août <lb/>mille neuf cent
+                                seize</corr></choice></date><choice><sic/><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="centered"><persName ref="#pers-375">Albert Auguste
+                            <surname>Jouis</surname></persName></signed>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAD78_Poilus_t-0087_02"/>
+                <p rend="centered">Ceci est mon testament<choice><sic/><corr>.</corr></choice></p>
+            </div>
+        </body>
+    </text>
+</TEI>

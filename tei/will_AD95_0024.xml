@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD95_0024">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la
+               Grande Guerre</title><title type="main">[Testament de Albert Joseph Victor Leblond (25 novembre 1916)] : édition électronique</title><author><persName ref="#pers-418">Albert Joseph Victor Leblond
+               (1889-1916)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+         <editionStmt>
+            <edition>Première édition électronique, fondée sur un travail de transcription
+               collaborative</edition>
+            <respStmt><resp>Numérisation</resp><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></respStmt>
+            <respStmt><resp>Identification et description du testament</resp><persName ref="#SDoman">Sarah Doman</persName><persName ref="#JK">Juline Kibongui</persName><persName ref="#TO">Thomas Olivier</persName><persName ref="#SDechavanne">Sylvie Dechavanne</persName></respStmt>
+            <respStmt><resp>Transcription</resp><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#SL.">EG</persName><persName ref="#GBMireille">Mireille Grais-Bruguière</persName></respStmt>
+            <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#SDechavanne">Sylvie Dechavanne</persName></respStmt>
+            <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+         </editionStmt>
+         <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD95_0024</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="will_AD95_0024_tes">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives départementales du Val-d’Oise</institution>
+                  <collection>Archives notariales</collection>
+                  <idno>2E18 343, minute du 13 janvier 1917 (dépôt du testament de Albert Joseph
+                     Victor Leblond)</idno>
+                  <msName>Testament de Albert Joseph Victor Leblond (25 novembre 1916)</msName>
+               </msIdentifier>
+               <msContents>
+                  <summary><p><date type="willDate" when="1916-11-25">25 novembre 1916</date>.
+                           <placeName type="willPlace" ref="#pl-578">Soyécourt</placeName>.</p><p><term type="willType">testament
+                           olographe</term> de <persName ref="#pers-418"><forename>Albert</forename> <forename>Joseph</forename> <forename>Victor</forename> <surname>Leblond</surname></persName>,
+                        mort pour la France le <date when="1916-12-01" source="#NOT #MDH #AS">premier décembre 1916 [NOT] | 1er décembre 1916 |MDH] [AS]</date> à
+                           <placeName ref="#pl-578" source="#NOT #MDH #AS">Soyécourt (somme) [NOT]
+                           [MDH] [AS]</placeName>.</p></summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>Papier ivoire (testament). Papier (enveloppe). </support>
+                        <extent>14 pages et 1 enveloppe. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                              <height>11</height>
+                              <width>17,4 13,3</width>
+                           </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                              <height>14,4</height>
+                              <width>9,8</width>
+                           </dimensions>.</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <p>Testament : encre. Enveloppe : encre.</p>
+                  </handDesc>
+               </physDesc>
+               <history>
+                  <provenance><orgName>Arnaud Luzarches 2</orgName></provenance>
+               </history>
+            </msDesc>
+            <msDesc xml:id="will_AD95_0024_min">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives départementales du Val-d’Oise</institution>
+                  <collection>Archives notariales</collection>
+                  <idno>2E18 343, minute du 13 janvier 1917 (dépôt du testament de Albert Joseph
+                     Victor Leblond)</idno>
+                  <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                     minute</msName>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation><date type="willDate" when="1916-11-25">25 novembre 1916</date></creation>
+         <langUsage><language ident="fr">français</language></langUsage>
+         <abstract><p>25 novembre 1916.
+                           Soyécourt.</p><p>testament
+                           olographe de Albert Joseph Victor Leblond,
+                        mort pour la France le premier décembre 1916 [NOT] | 1er décembre 1916 |MDH] [AS] à
+                           Soyécourt (somme) [NOT]
+                           [MDH] [AS].</p></abstract>
+         <textClass>
+            <keywords>
+               <term type="subject">Grande Guerre</term>
+               <term type="subject">Poilu</term>
+               <term type="subject">testament</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when-iso="2019-10-09/2020-03-19" who="#MFGarreau #lelia #SL. #GBMireille">transcription</change>
+         <change when-iso="2019-10-09/2020-01-23" who="#PCharbonnier #Dechavanne">validation</change>
+         <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements et
+            contrôle de qualité finaux</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+      <surface type="will-page" n="01">
+         <graphic url="testament_AD95_0024___JPEG___FRAD95_Poilus_t-0024_01.jpg" xml:id="FRAD95_Poilus_t-0024_01"/>
+      </surface>
+      <surface type="will-page" n="02">
+         <graphic url="testament_AD95_0024___JPEG___FRAD95_Poilus_t-0024_02.jpg" xml:id="FRAD95_Poilus_t-0024_02"/>
+      </surface>
+      <surface type="will-page" n="03">
+         <graphic url="testament_AD95_0024___JPEG___FRAD95_Poilus_t-0024_03.jpg" xml:id="FRAD95_Poilus_t-0024_03"/>
+      </surface>
+      <surface type="will-page" n="04">
+         <graphic url="testament_AD95_0024___JPEG___FRAD95_Poilus_t-0024_04.jpg" xml:id="FRAD95_Poilus_t-0024_04"/>
+      </surface>
+      <surface type="will-page" n="05">
+         <graphic url="testament_AD95_0024___JPEG___FRAD95_Poilus_t-0024_05.jpg" xml:id="FRAD95_Poilus_t-0024_05"/>
+      </surface>
+      <surface type="will-page" n="06">
+         <graphic url="testament_AD95_0024___JPEG___FRAD95_Poilus_t-0024_06.jpg" xml:id="FRAD95_Poilus_t-0024_06"/>
+      </surface>
+      <surface type="will-page" n="07">
+         <graphic url="testament_AD95_0024___JPEG___FRAD95_Poilus_t-0024_07.jpg" xml:id="FRAD95_Poilus_t-0024_07"/>
+      </surface>
+      <surface type="will-page" n="08">
+         <graphic url="testament_AD95_0024___JPEG___FRAD95_Poilus_t-0024_08.jpg" xml:id="FRAD95_Poilus_t-0024_08"/>
+      </surface>
+      <surface type="will-page" n="09">
+         <graphic url="testament_AD95_0024___JPEG___FRAD95_Poilus_t-0024_09.jpg" xml:id="FRAD95_Poilus_t-0024_09"/>
+      </surface>
+      <surface type="will-page" n="10">
+         <graphic url="testament_AD95_0024___JPEG___FRAD95_Poilus_t-0024_10.jpg" xml:id="FRAD95_Poilus_t-0024_10"/>
+      </surface>
+      <surface type="will-page" n="11">
+         <graphic url="testament_AD95_0024___JPEG___FRAD95_Poilus_t-0024_11.jpg" xml:id="FRAD95_Poilus_t-0024_11"/>
+      </surface>
+      <surface type="will-page" n="12">
+         <graphic url="testament_AD95_0024___JPEG___FRAD95_Poilus_t-0024_12.jpg" xml:id="FRAD95_Poilus_t-0024_12"/>
+      </surface>
+      <surface type="will-page" n="13">
+         <graphic url="testament_AD95_0024___JPEG___FRAD95_Poilus_t-0024_13.jpg" xml:id="FRAD95_Poilus_t-0024_13"/>
+      </surface>
+      <surface type="will-page" n="14">
+         <graphic url="testament_AD95_0024___JPEG___FRAD95_Poilus_t-0024_14.jpg" xml:id="FRAD95_Poilus_t-0024_14"/>
+      </surface>
+      <surface type="will-envelope-verso" n="15">
+         <graphic url="testament_AD95_0024___JPEG___FRAD95_Poilus_t-0024_15.jpg" xml:id="FRAD95_Poilus_t-0024_15"/>
+      </surface>
+      <surface type="will-envelope-verso" n="16">
+         <graphic url="testament_AD95_0024___JPEG___FRAD95_Poilus_t-0024_16.jpg" xml:id="FRAD95_Poilus_t-0024_16"/>
+      </surface>
+   </facsimile>
+   <text xml:id="will_AD95_0024">
+      <body>
+         <div type="will">
+            <pb facs="#FRAD95_Poilus_t-0024_01"/>
+            <dateline rend="centered">Secteur 89 <date type="willDate" when="1916-11-25">le 25
+                        <choice><sic>Novembre</sic><corr>novembre</corr></choice>
+                     1916</date><choice><sic/><corr>.</corr></choice></dateline>
+            <space dim="vertical" unit="lines" quantity="1"/>
+            <p>Au cas où il m’arriverait <lb/>un malheur au cours de cette guerre, <lb/>je
+                  pren<add>d</add>s mes dernières dispositions et <lb/>je fais mon testament.</p>
+            <p>Actuellement encore<choice><sic/><corr>,</corr></choice> toutes mes affaires
+               <lb/>sont entre les mains de <persName>Monsieur
+                     Arnaud</persName><choice><sic/><corr>,</corr></choice>
+               <lb/>notaire <choice><sic>a</sic><corr>à</corr></choice>
+               <placeName type="otherPlace" ref="#pl-657">Luzarches</placeName>, depuis le décès
+               <lb/>de mon père. C’est également entre ses <lb/>mains que je remets mon
+               testament.</p>
+            <p>Je demande <choice><sic>a</sic><corr>à</corr></choice>
+               <persName>Monsieur Meunier</persName><choice><sic/><corr>,</corr></choice>
+               <lb/>instituteur <choice><sic>a</sic><corr>à</corr></choice>
+               <placeName>Villeron (Seine<choice><sic> et
+                  </sic><corr>-et-</corr></choice>Oise)</placeName><choice><sic/><corr>,</corr></choice>
+               <lb/>de bien vouloir être mon légataire <lb/>universel, en souvenir des bonnes
+               <lb/>relations que nous avons eues ensemble <lb/>depuis quinze ans.</p>
+            <pb facs="#FRAD95_Poilus_t-0024_02"/>
+            <p>Je lui demande également de <lb/>faire respecter autant que possible<lb/> mes
+               dernières volontés<choice><sic/><corr>.</corr></choice></p>
+            <p>Si je quitte la vie, <choice><sic>ca</sic><corr>ça</corr></choice> sera avec regret
+               <lb/>et dites bien à ma tante, à Jean et
+                  <lb/><choice><sic>a</sic><corr>à</corr></choice> tous ceux qui ont eu un peu de
+               <lb/>sympathie pour moi que je les <lb/>remercie, et qu’ils me regrettent le
+               <lb/>moins possible<choice><sic/><corr>.</corr></choice></p>
+            <p>Bien des amitiés <choice><sic>a</sic><corr>à</corr></choice> tous et cordiales
+               <lb/>poignées de main<choice><sic/><corr>.</corr></choice></p>
+            <p><seg type="signature"><persName ref="#pers-418">A<surname>Leblond</surname> fils</persName></seg></p>
+            
+            <pb facs="#FRAD95_Poilus_t-0024_03"/>
+            <p rend="centered">Famille et héritiers.</p>
+            <p>Depuis le décès de mon père, mes <lb/>parents les plus directs sont <lb/>ma tante
+               paternelle, <persName>Madame Louvet</persName>
+               <lb/>demeurant 4 rue Segond à <placeName type="otherPlace" ref="#pl-164">Vincennes</placeName><choice><sic/><corr>,</corr></choice>
+               <lb/>mes oncles et tantes maternels avec <lb/>lesquels je n’ai plus de relations sauf
+               <lb/>mon oncle <persName>Emile Daniel</persName> demeurant <lb/>rue S<hi rend="superscript">t</hi> Damien <choice><sic>a</sic><corr>à</corr></choice>
+               <placeName type="otherPlace" ref="#pl-657">Luzarches</placeName>. <lb/><add place="above"><choice><sic>et</sic><corr>Et</corr></choice> m<supplied unit="chars" reason="deleted" quantity="1">o</supplied>n cousin germain,
+                     <persName>Georges Savouret</persName> demeurant à <placeName type="otherPlace" ref="#pl-222">Reims</placeName> 24 rue Neufchâtel</add>.</p>
+            <p><supplied reason="deleted" quantity="1" unit="chars">A</supplied>u degré inférieur,
+               du <choice><sic>côte</sic><corr>côté</corr></choice> de mon père <lb/>je ne connais
+               que mon cousin <persName>Veignant <lb/>Victor</persName>, demeurant à <placeName type="otherPlace" ref="#pl-164">Vincennes</placeName>. Jamais je <lb/>n’ai
+               fréquenté les autres et peut<choice><sic/><corr>-</corr></choice>être y en
+                     <lb/>a<choice><sic/><corr>-</corr></choice>t-il dont j’ignore l’existence.</p>
+            <p>Ainsi je n’ai pas tous mes parents au même <lb/>degré dans la même affection. En
+               conséquence <lb/>je déshérite tous mes héritiers légitimes de <lb/>la part que chacun
+               d’eux peut avoir <lb/>à ma succession légalement.</p>
+            <p>Je me réserve donc d’offrir à <lb/>chacun la part qui me
+                     plaira<choice><sic/><corr>.</corr></choice></p>
+            <pb facs="#FRAD95_Poilus_t-0024_04"/>
+            <p>En cas de non acceptation de la part <lb/>d’un héritier, sa part sera tirée au sort
+               <lb/>entre les cohéritiers et reviendra au gagnant <lb/>en plus de sa part
+               personnelle.</p>
+            <space dim="vertical" unit="lines" quantity="1"/>
+            <metamark function="separating" rend="horizontal-line"/>
+            <p rend="centered">Préliminaires<choice><sic/><corr>,</corr></choice>
+               <add place="inline"><placeName type="willPlace" ref="#pl-578">Soyécourt</placeName> (Somme) <lb/><date type="willDate" when="1915-11-25">le 25 novembre
+                              1916<choice><sic/><corr>.</corr></choice></date>
+                  <seg type="marginalAdditionSignature"><persName ref="#pers-418">ALeblond</persName>
+                           fils</seg></add></p>
+            <p>Ma succession comprend :</p>
+            
+            <list>
+               <item>1<hi rend="superscript-double-underlined">o</hi> des matières premières,
+                  marchandises <lb/>matériel, etc<choice><sic/><corr>.</corr></choice> concernant
+                  notre commerce</item>
+               <item>2<hi rend="superscript">o</hi>
+                  <choice><sic>Le</sic><corr>le</corr></choice> mobilier et objets divers de notre
+                  <lb/>maison d’habitation</item>
+               <item>3<hi rend="superscript">o</hi> des propriétés bâties et leurs jardins
+                  <lb/>situées à <placeName>Lassy</placeName>, <placeName>Seugy</placeName> et
+                     <placeName>Thimécourt</placeName></item>
+               <item>4<hi rend="superscript">o</hi> des pièces de terre, pré et
+                        bois<choice><sic/><corr>,</corr></choice> situées <lb/>sur les terroirs de
+                     <placeName>Lassy</placeName>,
+                        <placeName>Luzarches</placeName><choice><sic/><corr>,</corr></choice>
+                  <placeName>Seugy</placeName><choice><sic/><corr>,</corr></choice>
+                  <placeName>Chaumontel</placeName></item>
+               <item>5<hi rend="superscript">o</hi> des titres et valeurs dont
+                        l<choice><sic>e</sic><corr>a</corr></choice> majorité <lb/><choice><sic>sont
+                        déposées</sic><corr>est déposée</corr></choice> chez <persName>Monsieur
+                     Arnaud</persName>, notaire<lb/> à <placeName>Luzarches</placeName> depuis le
+                  décès de mon père <lb/>et les autres à mon compte D 9628 à l’agence <lb/>H du
+                     <orgName>Crédit Lyonnais</orgName> de Paris</item>
+               <item>6<hi rend="superscript">o</hi>
+                  <choice><sic>U</sic><corr>u</corr></choice>ne somme liquide provenant des comptes
+                  <lb/>précédents, des livrets de
+                           <orgName><choice><sic>caisse</sic><corr>Caisse</corr></choice>
+                     d’épargne</orgName><choice><sic/><corr>,</corr></choice>
+                  <lb/>mon avoir personnel etc<choice><sic>...</sic><corr>.</corr></choice></item>
+               <item>7<hi rend="superscript">o</hi> des comptes à régler à la suite du décès de
+                  <lb/>mon père ou du mien avec nos fournisseurs <lb/>ou nos
+                        clients<choice><sic/><corr>.</corr></choice></item>
+            </list>
+            <pb facs="#FRAD95_Poilus_t-0024_05"/>
+            <p rend="centered">Mobilier et objets divers</p>
+            <metamark function="separating" rend="horizontal-wavy-line"/>
+            <space dim="vertical" unit="lines" quantity="1"/>
+            <p>Le mobilier comprend<choice><sic/><corr> :</corr></choice></p>
+            <list>
+               <item>les meubles vides après avoir brûlé tous <lb/>les papiers nous
+                  concernant.</item>
+               <item>les garnitures de cheminée, pendules, <lb/>glaces
+                        etc<choice><sic>...</sic><corr>.</corr></choice></item>
+               <item>les bijoux de mes parents et les miens</item>
+               <item>la vaisselle, le linge</item>
+               <item>les objets divers d’intérieur</item>
+               <item><space dim="horizontal" unit="chars" quantity="7"/><choice><abbr>d<hi rend="superscript">o</hi></abbr><expan>dito</expan></choice>
+                  <space dim="horizontal" unit="chars" quantity="8"/>d’extérieur</item>
+            </list>
+            <p>Les héritiers d’accord, choisiront parmi <lb/>les objets divers ce qui peut leur
+               <lb/>convenir et <hi rend="underlined">leur servir
+                     personnellement</hi><choice><sic/><corr>.</corr></choice></p>
+            <p>Je laisse à ma tante <persName>Madame Louvet</persName>
+               <lb/>le linge<choice><sic/><corr>,</corr></choice> les photos, et la chambre à
+               <lb/>coucher complète de mes parents à <lb/>la condition essentielle qu’elle la fera
+               servir <lb/>à son usage personnel.</p>
+            <p><choice><sic>A</sic><corr>À</corr></choice>
+               <persName><choice><sic>monsieur</sic><corr>Monsieur</corr></choice>
+                  Meunier</persName> de <placeName>Villeron</placeName> je donne <lb/>la
+               bibliothèque et les volumes qui lui plairont<choice><sic/><corr>,</corr></choice>
+               <lb/>le phonographe, les petits chats blancs et
+                  tableaux<choice><sic/><corr>.</corr></choice></p>
+            <p>
+               <choice><sic>à</sic><corr>À</corr></choice>
+               <persName>Madame Meunier</persName> comme souvenir un <lb/>petit sucrier en verre qui
+               se trouve dans le <pb facs="#FRAD95_Poilus_t-0024_06"/>buffet de la salle à
+               manger.</p>
+            <p>L’argenterie, la vaisselle de luxe, les<lb/> bijoux seront vendus à <placeName type="otherPlace" ref="#pl-2">Paris</placeName>.</p>
+            <p>Ce qui restera sera vendu aux enchères<choice><sic/><corr>.</corr></choice></p>
+            <space dim="vertical" unit="lines" quantity="1"/>
+            <p>Avec les sommes liquides déjà existantes <lb/>et celles provenant de ces ventes
+               seront payées <lb/>nos dettes, réglés les comptes, notamment <lb/>les frais de
+               succession de mon père à moi<choice><sic/><corr>,</corr></choice>
+               <lb/>et les gratifications des employés de <persName>Monsieur <lb/>Arnaud</persName>
+               qui m’ont rendu bien service depuis le <lb/>décès de mon pauvre papa.</p>
+            <p>S’il y a déficit, une ou plusieurs valeurs <lb/>seront vendues.</p>
+            <p>Au contraire s’il y a excédent, il sera acheté <lb/>une ou plusieurs valeurs de tout
+               repos qui <lb/>seront ajoutées aux autres.</p>
+            <p>Dans les dettes seront compris les frais de <lb/>plantation des pièces de terre.</p>
+            <space dim="vertical" unit="lines" quantity="4"/>
+            <p><seg type="signature"><placeName type="willPlace" ref="#pl-578">Soyécourt</placeName>
+                  <date type="willDate" when="1916-11-25">le 25 novembre 1916</date>
+                  <persName ref="#pers-418">A <surname>Leblond</surname> fils</persName></seg></p>
+            <pb facs="#FRAD95_Poilus_t-0024_07"/>
+            <p rend="centered"> Matières premières, marchandises, matériel</p>
+            <metamark function="separating" rend="horizontal-wavy-line"/>
+            <p>Avant de vendre tout cela aux enchères, je désire <lb/>que toutes les marchandises en
+               cours de fabrication <lb/>(bois sciés, préparés, bâtons,
+                     traverse<choice><sic/><corr>s</corr></choice> de toute nature
+                     <lb/>etc<choice><sic>...</sic><corr>.</corr></choice> tabourets non paillés)
+               soient terminés et <lb/>usés complètement, qu’il ne reste aucun
+                     <choice><sic>débri</sic><corr>débris</corr></choice>
+               <lb/>ni rien. Toutes ces marchandises seront vendues <lb/>à nos clients de préférence
+               à Monsieur Bouquet <lb/>Meubles, 75 rue Beaubourg dans les meilleures
+               <lb/>conditions.</p>
+            <p>Le reste des matières premières, le tout ou une partie du <lb/>matériel seront vendus
+               aux enchères par <persName><choice><abbr>M<hi rend="superscript">e</hi></abbr><expan>maître</expan></choice>
+                     Potdevin</persName><choice><sic/><corr>.</corr></choice>
+               <lb/>Je dis le tout ou une partie du matériel car je désire <lb/>que le bâtiment de
+               la machine conserve sa <lb/>destination d’atelier et
+                  peut<choice><sic/><corr>-</corr></choice>être une partie du <lb/>matériel serait
+               rachetée par un nouveau locataire<choice><sic/><corr>.</corr></choice>
+               <lb/>Ces sommes seront ajoutées à celles provenant <lb/>des autres ventes dans les
+               mêmes conditions.</p>
+            <pb facs="#FRAD95_Poilus_t-0024_08"/>
+            
+            <p rend="centered"> Héritiers et parts.</p>
+            <metamark rend="horizontal-wavy-line" function="separating"/>
+            <p>D’un côté désirant récompenser les rares personnes <lb/>de la famille qui ont eu un
+               peu de sympathie pour <lb/>mon père et pour moi, et de l’autre désirant <lb/>laisser
+               ma succession à un seul héritier, voilà ce <lb/>que je décide.</p>
+            <p>Je mets d’abord tout à fait à part la <lb/>propriété de <placeName>Seugy</placeName>
+               et le jardin que je réserve <lb/>à <persName>Monsieur Meunier</persName> de
+                  <placeName>Villeron</placeName>. La maison <lb/>n’est pas bien belle et au cas où
+                  <persName>Monsieur <lb/>Meunier</persName> voudrait la faire transformer en maison
+               <lb/>de campagne <hi rend="underlined">à son usage personnel</hi>, je lui <lb/>alloue
+               une somme de quinze cent<choice><sic/><corr>s</corr></choice> francs à prendre
+               <lb/>sur les valeurs.</p>
+            <p>Maintenant la maison de <placeName>Thimécourt</placeName> et le jardin
+               <lb/>appartiennent par moitié à ma tante et à
+                  moi<choice><sic/><corr>.</corr></choice>
+               <lb/>Cette part sera rachetée par mon héritier à ma tante soit <lb/>en viager soit en
+               espèces, à prendre sur les valeurs<choice><sic/><corr>.</corr></choice>
+               <lb/>Mais quoi qu’il en soit, la maison restera à la <lb/>disposition de ma tante et
+               de <persName>Victor Veignant</persName>
+               <lb/>leur vie durant à tous deux et ne reviendra en <lb/>réalité à mon héritier qu’au
+               décès du dernier<choice><sic/><corr>.</corr></choice></p>
+            <p>Les contributions seront payées par les
+                  usufruitiers<choice><sic/><corr>.</corr></choice></p>
+            <pb facs="#FRAD95_Poilus_t-0024_09"/>
+            <p>Ma tante <persName>Madame Louvet</persName>
+               <add place="above">(d’abord)</add> et mon cousin <persName>Victor
+                  <lb/>Veignant</persName>
+               <add place="above">(ensuite)</add> seront également usufruitiers de <lb/>toutes les
+               valeurs. Celles<choice><sic/><corr>-</corr></choice>ci seront déposées dans <lb/>une
+                     <choice><sic>Banque</sic><corr>banque</corr></choice> très sérieuse et ne
+               reviendront à <lb/>mon héritier qu’avec la maison de
+                  <placeName>Thimécourt</placeName><choice><sic/><corr>.</corr></choice></p>
+            <p>Je divise les maisons de <placeName>Lassy</placeName> en 2 parts :</p>
+            <list>
+               <item>Notre maison d’habitation et les dépendances</item>
+               <item>Les maisons situées de l’autre côté de la rue avec <lb/>la cour et les jardins,
+                  usine tout compris.</item>
+            </list>
+            <p>En propriété ces 2 parts reviendront à mon héritier <lb/>mais je donne :</p>
+            <list>
+               <item>à mon oncle <persName>Emile Daniel</persName> de
+                     <placeName>Luzarches</placeName> (Seine<choice><sic> et
+                     </sic><corr>-et-</corr></choice>Oise) <lb/>l’usufruit de la 2<hi rend="superscript">e</hi> part sa vie durant, à lui
+                  <lb/>personnellement.</item>
+               <item>à mon cousin <persName>Georges
+                     Savouret</persName><choice><sic/><corr>,</corr></choice> demeurant à
+                     <lb/><placeName>Reims</placeName><choice><sic/><corr>,</corr></choice>
+                  l’usufruit de la 1<hi rend="superscript">ère</hi> part, sa vie
+                        durant<choice><sic/><corr>.</corr></choice></item>
+            </list>
+            <p><choice><sic>A</sic><corr>À</corr></choice> son gré, mon héritier pourra leur laisser
+               la <lb/>libre disposition des lieux ou les occuper en <lb/>leur versant une rente
+               viagère basée sur les loyers <lb/>ou valeurs locatives de 1914, déduction faite des
+               <lb/>contributions, qui sont à la charge des
+                  usufruitiers<choice><sic/><corr>.</corr></choice></p>
+            <pb facs="#FRAD95_Poilus_t-0024_10"/>
+            <p>Les pièces de terre, prés et bois reviendront <lb/>toutes en propriété à mon
+               héritier. Elles seront toutes <lb/>sans exception plantées en arbres d’industrie
+                     (<choice><sic>frène</sic><corr>frêne,</corr></choice>
+               <lb/>tilleul<choice><sic/><corr>,</corr></choice> peuplier<choice><sic/><corr>.</corr></choice>
+                     etc<choice><sic> ...)</sic><corr>.)</corr></choice> dans le plus bref délai,
+               <lb/>aucune n’étant louée à bail.</p>
+            <p> Les valeurs de ces pièces serviront à couvrir les <lb/>achats suivants : </p>
+            <list>
+               <item>1<hi rend="superscript">o</hi>
+                  <choice><sic>La</sic><corr>la</corr></choice> maison voisine de la nôtre
+                  appartenant à <lb/><persName>Madame Mongé</persName> et louée à <persName>Monsieur
+                     Malhomme</persName><choice><sic/><corr>.</corr></choice></item>
+               <item>2<hi rend="superscript">o</hi> le jardin voisin du jardin de la propriété de
+                     <lb/><placeName>Thimécourt</placeName>, tenant également à la route du
+                        Moulin<choice><sic/><corr>.</corr></choice></item>
+            </list>
+            <p>Ce n’est qu’après avoir fait ces <choice><sic>2</sic><corr>deux</corr></choice>
+               acquisitions <lb/>que mon héritier pourra aliéner ces pièces de bois ou vendre
+               <lb/>les arbres.</p>
+            <p>Il ne me reste plus qu’à désigner mon héritier<choice><sic/><corr>.</corr></choice>
+               <lb/>J’avais dans mon idée et jusqu’à maintenant <lb/>c’est encore mon cousin
+                  <persName>Paul Daniel</persName><choice><sic/><corr>,</corr></choice> demeurant
+                     <lb/><choice><sic>a</sic><corr>à</corr></choice>
+               <placeName>Luzarches</placeName> rue du Pontcel ; mais pauvre Paul, disparu
+               <lb/>depuis bien longtemps, son absence m’inquiète et je <lb/>me vois obligé de lui
+               donner un suppléant<choice><sic/><corr>.</corr></choice>
+               <lb/>Si dans les six mois qui suivent la fin de la guerre, <lb/><persName>Paul
+                  Daniel</persName> n’a pas donné de ses nouvelles, mon <lb/>héritier sera
+                  <persName>Cagnard Auguste</persName>, ancien élève de <lb/>Bertrand
+                     <choice><sic>a</sic><corr>à</corr></choice>
+               <placeName>Versailles</placeName> et des <orgName>Arts et Métiers de
+                     Lille</orgName><choice><sic/><corr>,</corr></choice>
+               <lb/>domicilié avant la guerre à <placeName>Neuilly<choice><abbr> /
+                        </abbr><expan>-sur-</expan></choice>Seine</placeName>
+               <lb/>chez sa tante 29 rue de Chartres.</p>
+            <p rend="right"><placeName type="willPlace" ref="#pl-578">Soyécourt</placeName>
+               <date type="willDate" when="1916-11-25">le 25 novembre
+                        1916<choice><sic/><corr>.</corr></choice></date>
+               <seg type="signature"><persName ref="#pers-418">A <surname>Leblond</surname></persName></seg>
+               fils</p>
+            <pb facs="#FRAD95_Poilus_t-0024_11"/>
+
+            <p rend="centered">Comment j’ai désigné mon héritier </p>
+            <metamark rend="horizontal-wavy-line" function="separating"/>
+            <space dim="vertical" unit="lines" quantity="1"/>
+            <p>Comme on l’a vu c’est <add place="above">à</add> mon ami <persName>Cagnard
+                  <lb/>Auguste</persName> à qui reviendra ma succession en
+                     <lb/><choice><sic/><corr>l’</corr></choice>absence de mon cousin <persName>Paul
+                  Daniel</persName><choice><sic/><corr>.</corr></choice>
+               <lb/>Pourtant pauvre Paul, lui qui a déjà eu <lb/>le peu de veine dans sa courte
+               existence, j’aurais <lb/>été heureux de lui procurer un peu de
+                     bien<choice><sic/><corr>-</corr></choice>être <lb/>et de bonheur après cette
+               période de misères <lb/>et de malheurs.</p>
+            <p>Le sort semble en avoir décidé autrement <lb/>et sans le froisser s’il revient, pour
+               laisser <lb/>le moins possible d’imprévu, je lui désigne <lb/>un suppléant.</p>
+            <p>Parmi mes autres cousins germains je pense <lb/>à <persName>Georges
+                  Savouret</persName> ; la part que je lui lègue <lb/>correspond à peu près à celle
+               qu’il aurait eue <lb/>au cas où mes héritiers légitimes auraient <lb/>hérité
+                     légalement<choice><sic/><corr>.</corr></choice></p>
+            <pb facs="#FRAD95_Poilus_t-0024_12"/>
+            <p>Puis je songe <choice><sic>a</sic><corr>à</corr></choice>
+               <persName>Lucie Daniel</persName>. Mariée à un <lb/>garçon sérieux, ayant réussi dans
+               leurs affaires, <lb/>tout en reconnaissant la sympathie et l’affection <lb/>qu’ils
+               ont eue<choice><sic/><corr>s</corr></choice> pour mon père et moi, je <lb/>préfère
+               donner ma succession à un jeune homme <lb/>comme <persName>Paul</persName> ou moi qui
+               commence et <subst><del>qui</del><add place="inline">elle</add></subst>
+               <lb/>lui sera un secours précieux pour débuter dans <lb/>la vie. C’est pourquoi
+               j’arrête à mon oncle <lb/><persName>Daniel Emile</persName> personnellement,
+               l’usufruit d’une <lb/>part, le parent pour qui j’ai le plus d’estime <lb/>et
+               d’affection dans la famille de maman.</p>
+            <p>Alors j’ai choisi parmi mes amis de jeunesse <lb/>ceux avec qui j’ai passé mes
+               meilleurs années <lb/>et ayant retenu deux noms, <persName>Cagnard Auguste</persName>
+               et <lb/><persName>Meunier Jean</persName>, j’ai tiré au sort le gagnant. <lb/>C’est
+               ainsi, mon cher <persName>Cagnard</persName> que tu es devenu <lb/>mon héritier.
+               J’espère que tu ne t’en froisseras pas et <lb/>que cela ne gâtera pas ta bonne
+               humeur. <lb/><choice><sic>t</sic><corr>T</corr></choice>u débutes, tu te marieras, je
+               te souhaite une <lb/>nombreuse famille<choice><sic/><corr>,</corr></choice> beaucoup
+               de bonnes années et <lb/>de meilleurs jours que ceux que nous
+                     traversons<choice><sic/><corr>.</corr></choice></p>
+            <dateline>Fait sain de corps et d’esprit à <placeName type="willPlace" ref="#pl-578">Soyécourt</placeName> (Somme) <lb/><date type="willDate" when="1916-11-25">le 25
+                  novembre 1916<choice><sic/><corr>.</corr></choice></date></dateline>
+            <signed rend="centered"><persName ref="#pers-418">A
+                  <surname>Leblond</surname></persName> fils</signed>
+            <pb facs="#FRAD95_Poilus_t-0024_13"/>
+
+            <postscript>
+               <p rend="centered"> Dernières dispositions.</p>
+               <metamark rend="horizontal-wavy-line" function="separating"/>
+               <space dim="vertical" unit="lines" quantity="1"/>
+               <p>Autant que cela sera possible <lb/>je désire être enterré dans notre <lb/>caveau
+                  de famille, au cimetière de <lb/><placeName>Luzarches</placeName>, civilement,
+                  sans fleurs <lb/>ni couronnes.</p>
+               <p>L’entretien du caveau incombera <lb/>au propriétaire de notre maison
+                  <lb/>d’habitation de <placeName>Lassy</placeName>.</p>
+               <p>Maintenant, je désire que tous les <lb/>papiers personnels, privés, commerciaux,
+                  <lb/>lettres, cartes postales, albums
+                     <choice><sic>etc..</sic><corr>etc.</corr></choice> sauf <lb/>ceux absolument
+                  nécessaires aux héritiers <lb/>soient brûlés
+                        complètement<choice><sic/><corr>.</corr></choice></p>
+               <p>Jusqu’à la fin de la liquidation <lb/>ma tante paternelle, <persName>Madame
+                     Louvet</persName>, restera <lb/>gardienne des scellés puis de la maison <pb facs="#FRAD95_Poilus_t-0024_14"/>et touchera la mensualité de quarante
+                  <lb/>francs que je lui accorde actuellement<choice><sic/><corr>.</corr></choice>
+                  <lb/><choice><sic>A</sic><corr>À</corr></choice> dater de mon décès, les denrées
+                        alimentaires<choice><sic/><corr>,</corr></choice>
+                  <lb/>la cave etc. se trouvant chez nous <lb/>appartiendront également à ma tante.
+                        <lb/><choice><sic>d</sic><corr>D</corr></choice>e même à dater de mon décès,
+                  le <lb/>cheval Bijou appartiendra à mon oncle <lb/><persName>Emile
+                     Daniel</persName> entrepreneur de maçonnerie <lb/>à <placeName type="otherPlace" ref="#pl-657">Luzarches</placeName><choice><sic/><corr>.</corr></choice></p>
+               <p>Jusqu’à la fin de la guerre <lb/>quel<del>l</del> que soit l’héritier,
+                     <persName>Madame Louise <lb/><unclear>Brinont</unclear></persName> demeurant à
+                     <placeName type="otherPlace" ref="#pl-655">Lassy</placeName> sera <lb/>exonérée
+                  de son loyer. C’est un don <lb/>fait par mon père et confirmé par
+                        moi<choice><sic/><corr>.</corr></choice></p>
+               <space dim="vertical" unit="lines" quantity="3"/>
+               <p><placeName type="willPlace" ref="#pl-578">Soyécourt</placeName>
+                  <date type="willDate" when="1916-11-25">le 25 novembre
+                           1916<choice><sic/><corr>.</corr></choice></date></p>
+               <signed rend="centered"><persName ref="#pers-418">A<surname>Leblond</surname>
+                     fils</persName></signed>
+            </postscript>
+         </div>
+         <div type="envelope">
+            <pb facs="#FRAD95_Poilus_t-0024_15"/>
+            <p>Ceci est mon testament <lb/> déposé sous cette enveloppe cachetée en <lb/>l’étude de
+                  <persName>Monsieur Arnaud, Emile</persName>,
+                     <lb/><choice><sic>Notaire</sic><corr>notaire</corr></choice>
+               <choice><sic>a</sic><corr>à</corr></choice>
+               <placeName type="otherPlace" ref="#pl-657">Luzarches</placeName> (Seine<choice><sic>
+                     et
+               </sic><corr>-et-</corr></choice>Oise)<choice><sic/><corr>.</corr></choice></p>
+            <p><choice><sic>A</sic><corr>À</corr></choice> ouvrir en présence de :</p>
+            <list>
+               <item><persName>Monsieur Meunier</persName><choice><sic/><corr>,</corr></choice>
+                  instituteur actuellement à <placeName>Villeron</placeName> (<choice><abbr>S et
+                        O</abbr><expan>Seine-et-Oise</expan></choice>)</item>
+               <item><persName>Madame Louvet Joséphine</persName>, à
+                     <placeName>Vincennes</placeName> 4 rue Segond</item>
+               <item><persName>Monsieur Victor
+                     Veignant</persName><choice><sic/><corr>,</corr></choice> à
+                     <placeName>Vincennes</placeName> 4 rue Segond</item>
+               <item><persName>Monsieur Emile Daniel</persName>, rue Saint Damien à
+                     <placeName>Luzarches</placeName></item>
+               <item><persName>Monsieur Georges
+                     Savouret</persName><choice><sic/><corr>,</corr></choice> 24 rue Neufchâtel à
+                     <placeName>Reims</placeName></item>
+               <item><persName>Monsieur Paul Daniel</persName><choice><sic/><corr>,</corr></choice>
+                  rue du Pontcel à <placeName>Luzarches</placeName> ou s’il est décédé</item>
+               <item><persName>Monsieur Cagnard Auguste</persName><choice><sic>
+                        Ingénieur</sic><corr>, ingénieur des</corr></choice>
+                  <orgName><choice><abbr>A et M</abbr><expan>Arts et
+                     Métiers</expan></choice></orgName><choice><sic/><corr>,</corr></choice> 29 rue
+                  de Chartres à <placeName>Neuilly<choice><sic> sur
+                        </sic><corr>-sur-</corr></choice>Seine</placeName>
+                  <lb/><choice><sic><surplus>Seine</surplus></sic><corr/></choice></item>
+            </list>
+            <pb facs="#FRAD95_Poilus_t-0024_16"/>
+            <dateline rend="centered">Fermé par moi, à <placeName type="willPlace" ref="#pl-578">Soyécourt</placeName> (Somme) <lb/><date type="willDate" when="1916-11-25">le 25
+                  novembre 1916<choice><sic/><corr>.</corr></choice></date></dateline>
+            <signed rend="centered"><persName ref="#pers-418">A
+                  <surname>Leblond</surname></persName> fils </signed>
+         </div>
+      </body>
+   </text>
+</TEI>

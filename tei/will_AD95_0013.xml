@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD95_0013">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Jules Justin Toupet (13 octobre 1915)] : édition électronique</title><author><persName ref="#pers-407">Jules Justin Toupet
+                    (1888-1918)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#AMangeot">Antoine Mangeot</persName><persName ref="#CSalmon">Chloé Salmon</persName><persName ref="#SD">Sophie Delinge</persName><persName ref="#TO">Thomas Olivier</persName><persName ref="#SDechavanne">Sylvie Dechavanne</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#Caillibot">Caillibot</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD95_0013</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD95_0013_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales du Val-d’Oise</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>2E4 577, minute du 11 novembre 1918 (dépôt du testament de Jules
+                            Justin Toupet)</idno>
+                        <msName>Testament de Jules Justin Toupet (13 octobre 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1915-10-13">13 octobre 1915</date>.
+                                    <placeName type="willPlace" ref="#pl-491">Besançon</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-407"><forename source="#will_AD95_0013_tes #will_AD95_0013_min #MDH #AS">Jules</forename> <forename source="#will_AD95_0013_tes #will_AD95_0013_min #MDH #AS">Justin</forename> <surname>Toupet</surname></persName>, mort
+                                pour la France le <date when="1918-10-08" source="#will_AD95_0013_min">8 octobre 1918 [NOT]</date> ou le
+                                    <date when="1918-10-09" source="#AS">9 octobre 1918 [AS]</date>
+                                à <placeName ref="#pl-636" source="#will_AD95_0013_min #MDH #AS">Barbourg (Nord) [NOT] | Bourbourg [MDH]
+                            [AS]</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré ivoire réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>17,8</height>
+                                        <width>24,9</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>René Pettré Ecouen</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD95_0013_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales du Val-d’Oise</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>2E4 577, minute du 11 novembre 1918 (dépôt du testament de Jules
+                            Justin Toupet)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-10-13">13 octobre 1915</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>13 octobre 1915.
+                                    Besançon.</p><p>testament
+                                    olographe de Jules Justin Toupet, mort
+                                pour la France le 8 octobre 1918 [NOT] ou le
+                                    9 octobre 1918 [AS]
+                                à Barbourg (Nord) [NOT] | Bourbourg [MDH]
+                            [AS].</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-10-09/2020-03-26" who="#MFGarreau #Caillibot">transcription</change>
+            <change when="2019-10-11" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD95_0013___JPEG___FRAD95_Poilus_t-0013_01.jpg" xml:id="FRAD95_Poilus_t-0013_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD95_0013">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD95_Poilus_t-0013_01"/>
+                <p>Je, soussigné <persName ref="#pers-407"><surname>Toupet</surname> Jules
+                        Justin</persName> <lb/>sapeur au <orgName ref="#o-330">7<hi rend="superscript-double-underlined">eme</hi> bataillon du
+                        génie</orgName> <choice><sic>a</sic><corr>à</corr></choice> <lb/><placeName type="otherPlace" ref="#pl-491">Besançon</placeName><choice><sic/><corr>,</corr></choice> donne et
+                    lègue en cas de
+                            <choice><sic>décé</sic><corr>décès</corr></choice> <lb/><choice><sic>a</sic><corr>à</corr></choice>
+                    mon <choice><sic>Père</sic><corr>père</corr></choice>
+                                <persName>Monsieur Octave
+                        Victor Toupet</persName> <lb/><choice><sic>se</sic><corr>ce</corr></choice>
+                    qui me revient bien à échoir et
+                            <choice><sic>a</sic><corr>à</corr></choice> <choice><sic>venire</sic><corr>venir</corr></choice>.</p>
+                <space dim="vertical" quantity="1"/>
+                <dateline rend="centered">Fait à <placeName type="willPlace" ref="#pl-491">Besançon</placeName> <date when="1915-10-13">le <lb/>treize
+                                <choice><sic>Octobre</sic><corr>octobre</corr></choice>
+                                1915<choice><sic/><corr>.</corr></choice></date></dateline>
+                <space dim="vertical" quantity="1"/>
+                <signed rend="centered">signé <persName ref="#pers-407"><surname>Toupet</surname>
+                        Jules</persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

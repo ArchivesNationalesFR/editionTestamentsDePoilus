@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD95_0022">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Lucien André Albert Bellicam (27 mars 1918)] : édition électronique</title><author><persName ref="#pers-416">Lucien André Albert Bellicam
+                        (1883-1918)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#TP">Tiffanie Pitot</persName><persName ref="#ELL">Emilie Laffitte-Louisou</persName><persName ref="#SD">Sophie Delinge</persName><persName ref="#TO">Thomas Olivier</persName><persName ref="#SDechavanne">Sylvie Dechavanne</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#GBMireille">Mireille Grais-Bruguière</persName><persName ref="#SL.">EG</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD95_0022</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD95_0022_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales du Val-d’Oise</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>2E25 574, minute du 5 avril 1919 (dépôt du testament de Lucien André
+                            Albert Bellicam)</idno>
+                        <msName>Testament de Lucien André Albert Bellicam (27 mars 1918)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1918-03-27">27 mars 1918</date>.
+                                    <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-416"><forename source="#will_AD95_0022_tes #will_AD95_0022_min #MDH #AS">Lucien</forename> <forename source="#will_AD95_0022_tes #will_AD95_0022_min #MDH #AS">André</forename> <forename source="#will_AD95_0022_tes #will_AD95_0022_min #MDH #AS">Albert</forename> <surname>Bellicam</surname></persName>, mort
+                                pour la France le <date when="1918-08-13" source="#will_AD95_0022_min #will_AD95_0022_tes #AS">treize Août
+                                    mil neuf cent dix-huit [NOT] | 13 août 1918 [TES] [AS]</date> à
+                                    <placeName ref="#pl-651" source="#will_AD95_0022_min #MDH #AS">Élincourt Ste Marguerite (Oise) [NOT] [MDH]
+                                [AS]</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier ivoire timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>17,8</height>
+                                        <width>24,9</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>Corneau Taverny</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD95_0022_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales du Val-d’Oise</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>2E25 574, minute du 5 avril 1919 (dépôt du testament de Lucien André
+                            Albert Bellicam)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1918-03-27">27 mars 1918</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>27 mars 1918.
+                                    Paris.</p><p>testament
+                                    olographe de Lucien André Albert Bellicam, mort
+                                pour la France le treize Août
+                                    mil neuf cent dix-huit [NOT] | 13 août 1918 [TES] [AS] à
+                                    Élincourt Ste Marguerite (Oise) [NOT] [MDH]
+                                [AS].</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-10-09/2020-02-17" who="#MFGarreau #lelia #GBMireille #SL.">transcription</change>
+            <change when-iso="2019-10-09/2019-10-25" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD95_0022___JPEG___FRAD95_Poilus_t-0022_01.jpg" xml:id="FRAD95_Poilus_t-0022_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD95_0022">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD95_Poilus_t-0022_01"/>
+                <head>Ceci est mon testament.</head>
+                <metamark function="emphasis" rend="horizontal-wavy-line"/>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Je soussigné <persName ref="#pers-416"><surname>Bellicam</surname> Lucien
+                        <lb/>André Albert</persName>, demeurant <lb/>à <placeName type="willAuthorResidence" ref="#pl-2">Paris</placeName>, rue des
+                    Trois<choice><sic/><corr>-</corr></choice>Frères<choice><sic>, 1</sic><corr> n°1,</corr></choice> <lb/>et actuellement
+                    mobilisé au <orgName ref="#o-61">6<hi rend="superscript-underlined">e</hi> <choice><abbr>R<hi rend="superscript-underlined">t</hi> Inf.</abbr><expan>régiment
+                                d’infanterie</expan></choice></orgName> <lb/><choice><abbr>6<hi rend="superscript-underlined">e</hi></abbr><expan>sixième</expan></choice> <choice><abbr>C<hi rend="superscript-underlined">ie</hi>, S.P.</abbr><expan>compagnie,
+                            secteur postal</expan></choice> 174, fait mon <lb/>testament ainsi qu’il
+                    suit<choice><sic> :</sic><corr>.</corr></choice></p>
+                <p>Je lègue à mon épouse <lb/>née <persName>Trassard Alice Léonie <lb/>Elise</persName>, la toute propriété des <lb/>biens, meubles et immeuble <lb/>qui
+                    composeront ma succession, <lb/>l’instituant ainsi ma légataire
+                    <lb/>universelle. </p>
+                <p>Telles sont mes dernières <lb/>volontés.</p>
+                <dateline>Fait de ma main <lb/>à <placeName type="willPlace" ref="#pl-2">Paris</placeName>, <date type="willDate" when="1918-03-27">le 27
+                            <choice><sic>Mars</sic><corr>mars</corr></choice> 1918<choice><sic/><corr>,</corr></choice> <lb/><choice><sic>Vingt</sic><corr>vingt</corr></choice>-sept
+                                <choice><sic>Mars</sic><corr>mars</corr></choice>, mil neuf <lb/>cent
+                        dix-huit.</date></dateline>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <signed rend="centered"><persName ref="#pers-416">L<surname>Bellicam</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

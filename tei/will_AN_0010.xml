@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0010">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title><title type="main">[Testament de Charles Chevalier (25 janvier 1915)] : édition électronique</title><author><persName ref="#pers-69">Charles Chevalier (1893-1915)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+                        <editionStmt>
+                                <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+                                <respStmt><resp>Numérisation</resp><orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+                        Département de la Conservation. Atelier photographique</orgName></respStmt>
+                                <respStmt><resp>Identification et description du testament</resp><persName ref="#AM">Aurélie Massie</persName><persName ref="#MLocatelli">Mélisa Locatelli</persName></respStmt>
+                                <respStmt><resp>Transcription</resp><persName ref="#lelia">Lélia Picabia</persName><persName ref="#GLEMOINE">GLEMOINE</persName><persName ref="#ALemoine">Aurélie Lemoine</persName><persName ref="#criondet">criondet</persName></respStmt>
+                                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#jmorvan">Josselin Morvan</persName></respStmt>
+                        </editionStmt>
+                        <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AN_0010</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+                        <sourceDesc>
+                                <msDesc xml:id="will_AN_0010_tes">
+                                        <msIdentifier>
+                                                <country>France</country>
+                                                <institution>Archives nationales</institution>
+                                                <collection>Minutier central des notaires de Paris</collection>
+                                                <idno>MC/ET/CXX/1551, minute du 2 février 1916 (dépôt du testament de Charles Chevalier)</idno>
+                                                <msName>Testament de Charles Chevalier (25 janvier 1915)</msName>
+                                        </msIdentifier>
+                                        <msContents>
+                                                <summary>
+                                                        <p><date type="willDate" when="1915-01-25">25 janvier 1915</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p>
+                                                        <p><term type="willType">testament olographe</term> de <persName ref="#pers-69"><forename>Charles</forename> <surname>Chevalier</surname></persName>, mort pour la France le <date when="1915-09-29">29 septembre 1915</date> à <placeName ref="#pl-126">Beauséjour (Marne)</placeName>.</p>
+                                                </summary>
+                                        </msContents>
+                                        <physDesc>
+                                                <objectDesc>
+                                                        <supportDesc>
+                                                                <support>Papier timbré réglé (testament). </support>
+                                                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                                                                <height>24,9</height>
+                                                                                <width>17,8</width>
+                                                                        </dimensions>.</extent>
+                                                        </supportDesc>
+                                                </objectDesc>
+                                                <handDesc>
+                                                        <p>Testament : encre.</p>
+                                                </handDesc>
+                                        </physDesc>
+                                        <history>
+                                                <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010247">étude notariale 120 (CRPCEN : 75100)</orgName></provenance>
+                                        </history>
+                                </msDesc>
+                                <msDesc xml:id="will_AN_0010_min">
+                                        <msIdentifier>
+                                                <country>France</country>
+                                                <institution>Archives nationales</institution>
+                                                <collection>Minutier central des notaires de Paris</collection>
+                                                <idno>MC/ET/CXX/1551, minute du 2 février 1916 (dépôt du testament de Charles Chevalier)</idno>
+                                                <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+                                        </msIdentifier>
+                                </msDesc>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <creation><date type="willDate" when="1915-01-25">25 janvier 1915</date></creation>
+                        <langUsage><language ident="fr">français</language></langUsage>
+                        <abstract><p>25 janvier 1915. Paris.</p><p>testament olographe de Charles Chevalier, mort pour la France le 29 septembre 1915 à Beauséjour (Marne).</p></abstract>
+                        <textClass>
+                                <keywords>
+                                        <term type="subject">Grande Guerre</term>
+                                        <term type="subject">Poilu</term>
+                                        <term type="subject">testament</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change when-iso="2018-01-24/2018-10-12" who="#lelia #GLEMOINE #ALemoine #criondet">transcription</change>
+                        <change when-iso="2018-01-24/2018-03-09" who="#PCharbonnier ">validation</change>
+                        <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change>
+                </revisionDesc>
+        </teiHeader>
+        <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+                <surface type="will-page" n="01">
+                        <graphic url="testament_AN_0010___JPEG___FRAN_Poilus_t-0010_01.jpg" xml:id="FRAN_Poilus_t-0010_01"/>
+                </surface>
+        </facsimile>
+        <text xml:id="will_AN_0010">
+                <body>
+                        <div type="will">
+                                <pb facs="#FRAN_Poilus_t-0010_01"/>
+                                <dateline rend="centered"><placeName type="willPlace" ref="#pl-2">Paris</placeName> le <date type="willDate" when="1915-01-25">25 <choice><sic>Janvier</sic><corr>janvier</corr></choice> 1915</date></dateline>
+                                <space dim="vertical" unit="lines" quantity="1"/>
+                                <p rend="centered"><hi rend="underlined">Monsieur ou Madame</hi></p>
+                                <space dim="vertical" unit="lines" quantity="1"/>
+                                <p>Je prie la personne qui <choice><sic>pendrait</sic><corr>prendrait</corr></choice> connaissance <lb/>de ce papier de pardonner à ma famille <lb/>du mal qu’elle <choice><sic>ma</sic><corr>m’a</corr></choice> fait ; car je lui pardonne. <lb/>De remettre mes affaires aux personnes que j’indique <lb/>sur mon testament.</p>
+                                <p>En cas <choice><sic>ou</sic><corr>où</corr></choice> je viendrai<subst><del>t</del><add>s</add></subst> à être tué, de donner ma <lb/>montre et ma <choice><sic>chaine</sic><corr>chaîne</corr></choice> en or à mon frère <hi rend="double-underlined"><persName>Jules Chevalier</persName><choice><sic/><corr>,</corr></choice> <lb/><orgName ref="#o-189">82<choice><sic><hi rend="superscript-double-underlined">eme</hi></sic><corr><hi rend="superscript">e</hi></corr></choice> d’<choice><sic>Infanterie</sic><corr>infanterie</corr></choice></orgName></hi>. Ma bourse en or à ma nièce <lb/><hi rend="double-underlined"><persName>Marguerite Bogaërt</persName></hi>, en cas <choice><sic>ou</sic><corr>où</corr></choice> elle ne serait plus<choice><sic/><corr>, </corr></choice> <lb/>la <choice><sic>donnée</sic><corr>donner</corr></choice> à ma nièce <hi rend="double-underlined"><persName>Suzanne Saint-Ouen</persName></hi>.</p>
+                                <p>Toute ma chambre à ma sœur <hi rend="double-underlined"><persName>Alphonsine Saint-Ouen</persName></hi><choice><sic>.</sic><corr>,</corr></choice> <lb/><choice><sic>Ainsi</sic><corr>ainsi</corr></choice> que mon livret de Caisse d’<choice><sic>Epargne</sic><corr>épargne</corr></choice> et mon <lb/>titre de <choice><sic>rentre</sic><corr>rente</corr></choice>.</p>
+                                <p>Ma bicyclette à mon neveu <hi rend="double-underlined"><persName>Marcel Aubrun</persName></hi><choice><sic/><corr>,</corr></choice> <lb/><hi rend="double-underlined">15 rue du Roule - Paris - Seine</hi>.</p>
+                                <p>Je remercie la personne qui ferait le partage.</p>
+                                <p rend="centered">Voilà ma signature</p>
+                                <signed rend="centered"><hi rend="double-underlined">Monsieur <persName ref="#pers-69">Charles <surname>Chevalier</surname></persName></hi>
+                                        <lb/><placeName type="willAuthorResidence"><hi rend="double-underlined">6 rue rue Coypel - Paris (XIII<hi rend="superscript">e</hi>) - Seine</hi>.</placeName></signed>
+                                <postscript>
+                                        <p><choice><sic>je pris</sic><corr>Je prie</corr></choice> ma sœur <hi rend="double-underlined"><persName>Madame Saint-Ouen</persName></hi><choice><sic>,</sic><corr/></choice> de me <lb/>faire <choice><sic>enterré</sic><corr>enterrer</corr></choice> avec l’argent de <lb/>ma rente et de mon livret.</p>
+                                </postscript>
+                        </div>
+                </body>
+        </text>
+</TEI>

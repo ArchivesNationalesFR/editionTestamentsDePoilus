@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0194">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la
+               Grande Guerre</title><title type="main">[Testament de Joseph Fontaine (24/11/1914)] : édition électronique</title><author><persName ref="#pers-255">Joseph Fontaine (1874-1915)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+         <editionStmt>
+            <edition>Première édition électronique, fondée sur un travail de transcription
+               collaborative</edition>
+            <respStmt><resp>Numérisation</resp><orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+                        Département de la Conservation. Atelier photographique</orgName></respStmt>
+            <respStmt><resp>Identification et description du testament</resp><persName ref="#CNougaret">Christine Nougaret</persName><persName ref="#LVieillon">Lucie Vieillon</persName><persName ref="#MLocatelli">Mélisa Locatelli</persName></respStmt>
+            <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#lelia">Lélia Picabia</persName></respStmt>
+            <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#FClavaud">Florence Clavaud</persName></respStmt>
+            <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+         </editionStmt>
+         <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AN_0194</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="will_AN_0194_tes">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives nationales</institution>
+                  <collection>Minutier central des notaires de Paris</collection>
+                  <idno>MC/ET/XXXI/1556, minute du 18/05/1916 (dépôt du testament de Joseph
+                     Fontaine)</idno>
+                  <msName>Testament de Joseph Fontaine (24/11/1914)</msName>
+               </msIdentifier>
+               <msContents>
+                  <summary><p><date type="willDate" when="1914-11-24">24/11/1914</date>. <placeName type="willPlace" ref="#pl-412">Albertville</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-255"><forename>Joseph</forename> <surname>Fontaine</surname></persName>, mort pour la
+                        France le <date when="1915-05-26">26/05/1915</date> à <placeName ref="#pl-411">Ogéviller (Meurthe et Moselle)</placeName>.</p></summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>Papier timbré réglé (testament). </support>
+                        <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                              <height>24,9</height>
+                              <width>17,8</width>
+                           </dimensions>.</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <p>Testament : encre.</p>
+                  </handDesc>
+               </physDesc>
+               <history>
+                  <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010158">étude
+                        notariale 31 (CRPCEN : 75078)</orgName></provenance>
+               </history>
+            </msDesc>
+            <msDesc xml:id="will_AN_0194_min">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives nationales</institution>
+                  <collection>Minutier central des notaires de Paris</collection>
+                  <idno>MC/ET/XXXI/1556, minute du 18/05/1916 (dépôt du testament de Joseph
+                     Fontaine)</idno>
+                  <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                     minute</msName>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation><date type="willDate" when="1914-11-24">24/11/1914</date></creation>
+         <langUsage><language ident="fr">français</language></langUsage>
+         <abstract><p>24/11/1914. Albertville.</p><p>testament olographe de Joseph Fontaine, mort pour la
+                        France le 26/05/1915 à Ogéviller (Meurthe et Moselle).</p></abstract>
+         <textClass>
+            <keywords>
+               <term type="subject">Grande Guerre</term>
+               <term type="subject">Poilu</term>
+               <term type="subject">testament</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when-iso="2018-07-19/2019-01-21" who="#SL. #MFGarreau #lelia">transcription</change>
+         <change when-iso="2018-07-19/2018-10-01" who="#PCharbonnier #FClavaud">validation</change>
+         <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements et
+            contrôle de qualité finaux</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+      <surface type="will-page" n="01">
+         <graphic url="testament_AN_0194___JPEG___FRAN_Poilus_t-0194_01.jpg" xml:id="FRAN_Poilus_t-0194_01"/>
+      </surface>
+   </facsimile>
+   <text xml:id="will_AN_0194">
+      <body>
+         <div type="will">
+            <pb facs="#FRAN_Poilus_t-0194_01"/>
+            <head rend="centered">Ceci est mon testament</head>
+            <metamark function="separating" rend="horizontal-line"/>
+            <p>Je soussigné <persName ref="#pers-255"><surname>Fontaine</surname>
+               Joseph</persName> <lb/>mobilisé au <orgName ref="#o-208"><choice><abbr>11<hi rend="superscript-double-underlined">ème</hi></abbr><expan>onzième
+                        régiment</expan></choice> d’artillerie</orgName> fort <lb/>du Mont,
+                  <placeName type="willPlace" ref="#pl-412">Albertville, Savoie</placeName>, <lb/>déclare donner à <add place="above">ma</add> femme
+                     <persName>Elisa <lb/><surname>Fontaine</surname>, née <surname>Gavard
+                     Molliard</surname><choice><sic><surplus> Elisa</surplus></sic><corr/></choice></persName><choice><sic/><corr>,</corr></choice> <lb/>et en cas de mon
+                     <choice><sic>decés</sic><corr>décès</corr></choice> toutes les <lb/>économies
+               que nous <add place="above">avons</add> <choice><sic>gagnés</sic><corr>gagnées</corr></choice>
+                     ensemble <lb/><choice><sic>qui</sic><corr>qu’elles</corr></choice> soient en
+               papier ou en argent.</p>
+            <p>Je lui donne également tout le <lb/>mobilier que nous
+                     <choice><sic>possedons</sic><corr>possédons</corr></choice>, sous <lb/>réserve
+               que si elle juge d’en avoir <lb/>en
+                     <choice><sic>supplement</sic><corr>supplément</corr></choice>,
+                        <choice><sic><surplus>qu’</surplus></sic><corr/></choice>elle en donne <lb/>un peu à son frère et au mien ou à <lb/>ses enfants vivants et à venir.</p>
+            <p>Je laisse les terres que j’ai et qui <lb/>peuvent me venir, à mon frère <persName>Germain <lb/><surname>Fontaine</surname></persName> ou à ses enfants
+               vivants <lb/>et à venir.</p>
+            <space dim="vertical" unit="lines" quantity="1"/>
+            <dateline rend="centered">Fait au <placeName type="willPlace" ref="#pl-412">fort du
+                  Mont</placeName> <lb/> <date type="willDate" when="1914-11-24">le <choice><sic>vingt quatre Novembre</sic><corr>vingt-quatre
+                     novembre</corr></choice> <lb/>mille neuf cent quatorze</date><choice><sic/><corr>.</corr></choice></dateline>
+            <space dim="vertical" unit="lines" quantity="1"/>
+            <signed rend="centered"><persName ref="#pers-255"><surname>Fontaine</surname>
+                  Joseph</persName></signed>
+         </div>
+      </body>
+   </text>
+</TEI>

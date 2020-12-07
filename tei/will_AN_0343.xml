@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0343">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la
+               Grande Guerre</title><title type="main">[Testament de Eugène Lauret (9 mars 1915 – 2 janvier 1918)] : édition électronique</title><author><persName ref="#pers-485">Eugène Lauret (1871-1918)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+         <editionStmt>
+            <edition>Première édition électronique, fondée sur un travail de transcription
+               collaborative</edition>
+            <respStmt><resp>Numérisation</resp><orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+                        Département de la Conservation. Atelier photographique</orgName></respStmt>
+            <respStmt><resp>Identification et description du testament</resp><persName ref="#DChristiane">Christiane Demeulenaere-Douyère</persName><persName ref="#LVieillon">Lucie Vieillon</persName><persName ref="#MLocatelli">Mélisa Locatelli</persName></respStmt>
+            <respStmt><resp>Transcription</resp><persName ref="#lelia">Lélia Picabia</persName><persName ref="#GBMireille">Mireille Grais-Bruguière</persName><persName ref="#MFGarreau">MFGarreau</persName></respStmt>
+            <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#CNougaret">Christine Nougaret</persName></respStmt>
+            <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+         </editionStmt>
+         <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AN_0343</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="will_AN_0343_tes">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives nationales</institution>
+                  <collection>Minutier central des notaires de Paris</collection>
+                  <idno>MC/ET/XXVII/1247, minute du 5 avril 1919 (dépôt du testament de Eugène
+                     Lauret)</idno>
+                  <msName>Testament de Eugène Lauret (9 mars 1915 – 2 janvier 1918)</msName>
+               </msIdentifier>
+               <msContents>
+                  <summary><p><date type="willDate" when="1915-03-09">9 mars 1915</date> (revu le <date type="willDate" when="1917-04-07">7 avril 1917</date> et le <date type="willDate" when="1918-01-02">2 janvier
+                           1918)</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament olographe</term>
+                        de <persName ref="#pers-485"><forename>Eugène</forename> <surname>Lauret</surname></persName>, mort pour la
+                        France le <date when="1918-11-22">22 novembre 1918</date> à l’<placeName ref="#pl-2">hôpital de la Pitié-Salpêtrière, 45 boulevard de l’Hôpital,
+                           Paris</placeName>.</p></summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>Papier timbré réglé (testament). </support>
+                        <extent>2 pages. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                              <height>24,9</height>
+                              <width>17,8</width>
+                           </dimensions>.</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <p>Testament : encre.</p>
+                  </handDesc>
+               </physDesc>
+               <history>
+                  <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010154">étude
+                        notariale 27 (CRPCEN : 75111)</orgName></provenance>
+               </history>
+            </msDesc>
+            <msDesc xml:id="will_AN_0343_min">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives nationales</institution>
+                  <collection>Minutier central des notaires de Paris</collection>
+                  <idno>MC/ET/XXVII/1247, minute du 5 avril 1919 (dépôt du testament de Eugène
+                     Lauret)</idno>
+                  <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                     minute</msName>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation><date type="willDate" notBefore="1915-03-09" notAfter="1918-01-02">9 mars 1915
+                (revu le 7 avril 1917 et le 2 janvier
+            1918)</date></creation>
+         <langUsage><language ident="fr">français</language></langUsage>
+         <abstract><p>9 mars 1915 (revu le 7 avril 1917 et le 2 janvier
+                           1918). Paris.</p><p>testament olographe
+                        de Eugène Lauret, mort pour la
+                        France le 22 novembre 1918 à l’hôpital de la Pitié-Salpêtrière, 45 boulevard de l’Hôpital,
+                           Paris.</p></abstract>
+         <textClass>
+            <keywords>
+               <term type="subject">Grande Guerre</term>
+               <term type="subject">Poilu</term>
+               <term type="subject">testament</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when-iso="2020-03-04/2020-05-04" who="#lelia #GBMireille #MFGarreau">transcription</change>
+         <change when-iso="2020-03-04/2020-04-10" who="#PCharbonnier #CNougaret">validation</change>
+         <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements et
+            contrôle de qualité finaux</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+      <surface type="will-page" n="01">
+         <graphic url="testament_AN_0343___JPEG___FRAN_Poilus_t-0343_01ab.jpg" xml:id="FRAN_Poilus_t-0343_01ab"/>
+      </surface>
+      <surface type="will-page" n="02">
+         <graphic url="testament_AN_0343___JPEG___FRAN_Poilus_t-0343_02.jpg" xml:id="FRAN_Poilus_t-0343_02"/>
+      </surface>
+   </facsimile>
+   <text xml:id="will_AN_0343">
+      <body>
+         <div type="will">
+            <pb facs="#FRAN_Poilus_t-0343_01ab"/>
+            <dateline rend="centered"><placeName type="willPlace" ref="#pl-2">Paris</placeName>
+               <date type="willDate" when="1915-03-09">le 9
+                     <choice><sic>Mars</sic><corr>mars</corr></choice>
+                     1915</date><choice><sic/><corr>.</corr></choice></dateline>
+            <space dim="vertical" unit="lines" quantity="1"/>
+            <head rend="centered">Testament olographe</head>
+            <space dim="vertical" unit="lines" quantity="1"/>
+            <p><choice><abbr>1<hi rend="superscript-underlined">er</hi></abbr><expan>Premièrement</expan></choice>
+               <choice><sic>Je</sic><corr>je</corr></choice> lègue à <persName><choice><abbr>M<hi rend="superscript-underlined">de</hi> V<hi rend="superscript-underlined">e</hi></abbr><expan>Madame veuve</expan></choice> Rigord née
+                  <lb/>Marguerite Joncquier</persName><choice><sic/><corr>,</corr></choice> mon amie
+                     <choice><sic>dont <lb/>je vie avec elle</sic><corr>avec qui je
+                  vis</corr></choice> depuis 1901<choice><sic/><corr>,</corr></choice> tout ce que
+               <lb/>contient mon coffre<choice><sic/><corr>-</corr></choice>fort à la
+                  <orgName>Société Genérale</orgName>
+               <lb/>et de tout autre<choice><sic/><corr>s</corr></choice> objets et valeurs.</p>
+            <p><del><choice><abbr>2<hi rend="superscript-underlined">e</hi></abbr><expan>Deuxièmement</expan></choice><choice><sic/><corr>,</corr></choice>
+                  <choice><sic>A</sic><corr>à</corr></choice> condition qu’elle fasse une rente
+                  <lb/>de cent francs à mon père <add place="above">décédé</add> par an.</del></p>
+            <p><del><choice><abbr>3<hi rend="superscript-underlined">e</hi></abbr><expan>Troisièmement</expan></choice><choice><sic/><corr>,</corr></choice>
+                  mon titre de cent<choice><sic/><corr>,</corr></choice>
+                  <choice><sic>quelle</sic><corr>qu’elle</corr></choice> le remette à
+                     <lb/><persName>Mélanie Nauret femme
+                        Lutton</persName><choice><sic/><corr>,</corr></choice> demeurant à
+                        <lb/>Boiscommun<choice><sic/><corr>,</corr></choice> Loiret</del></p>
+            <p><choice><abbr>4<hi rend="superscript-double-underlined">e</hi></abbr><expan>Quatrièmement</expan></choice><choice><sic/><corr>,</corr></choice>
+               <choice><sic>Remettre</sic><corr>remettre</corr></choice> à
+                     <persName><surname>Noret</surname>
+                     Alexandre</persName><choice><sic/><corr>,</corr></choice> 18
+                     <choice><sic>Rue</sic><corr>rue</corr></choice>
+               <choice><abbr>S<hi rend="superscript-underlined">t</hi></abbr><expan>Saint</expan></choice><lb break="no"/><choice><sic/><corr>-</corr></choice>Placide à <placeName>Paris</placeName>
+               cinq actions générales plus <lb/><del>dix
+                        <choice><sic>france</sic><corr>France</corr></choice>
+                  <gap reason="cancelled"/></del><add place="above">5 obligations
+                        <choice><sic>Russe</sic><corr>russes</corr></choice> plus le livret de
+                  Caisse d’épargne plus 1000 <choice><abbr><hi rend="superscript">f</hi></abbr><expan>francs</expan></choice> en bons</add>
+               <subst><del>plus</del><add place="below">plus</add></subst> 3
+                     <choice><sic>fonciérs</sic><corr>fonciers</corr></choice> plus <lb/>3 quarts
+               Ville de <choice><sic>paris</sic><corr>Paris</corr></choice> pour donner <lb/>en dot
+               à des enfants<choice><sic/><corr>.</corr></choice>
+               <lb/><del>Remettre 2 <metamark function="other" rend="cross"/>obligations
+                        <choice><sic>Hellenique</sic><corr>helléniques</corr></choice> à
+                        <persName><surname>Lauret</surname>
+                     <lb/>Henri</persName>
+                  <choice><sic>demerant</sic><corr>demeurant</corr></choice> à
+                        <choice><sic>c</sic><corr>C</corr></choice>hampagne</del><choice><sic/><corr>(</corr></choice><add place="above">annulé</add><choice><sic/><corr>)</corr></choice></p>
+            
+            
+            
+            <p><del><choice><abbr>5<hi rend="superscript-underlined">e</hi></abbr><expan>Cinquièmement</expan></choice><choice><sic/><corr>,</corr></choice>
+                  remettre <metamark function="other" rend="cross"/>dix
+                        <choice><sic>obligation</sic><corr>obligations</corr></choice><choice><sic>Russe</sic><corr>russes</corr></choice>
+                  à <persName>Robert <lb/><surname>Lauret</surname></persName> mon filleul à sa
+                  majorité <lb/>qui devront rester chez notaire dont <persName><choice><abbr>M<hi rend="superscript-underlined">de</hi></abbr><expan>Madame</expan></choice> Rigord</persName><lb/>en
+                  touchera les <choice><sic>interet</sic><corr>intérêts</corr></choice></del></p>
+            <p><choice><abbr>6<hi rend="superscript">e</hi></abbr><expan>Sixièmement</expan></choice><choice><sic/><corr>,</corr></choice> <choice><sic>Remettre</sic><corr>remettre</corr></choice>
+               <choice><sic>2.000</sic><corr>2 000</corr></choice> <choice><abbr><hi rend="superscript">f</hi></abbr><expan>francs</expan></choice> <choice><sic>bon</sic><corr>bons</corr></choice>
+               de la <orgName><choice><sic>défense nationnale</sic><corr>Défense
+                     nationale</corr></choice></orgName>
+               <lb/>à Monsieur ou Madame <persName>Alexandre <surname>Durand</surname></persName>
+               <lb/><choice><sic>demerant</sic><corr>demeurant</corr></choice> à
+                  <placeName>Montliard (Loiret)<choice><sic/><corr>.</corr></choice></placeName></p>
+            <p>
+               <choice><abbr>7<hi rend="superscript-underlined">e</hi></abbr><expan>Septièmement</expan></choice><choice><sic/><corr>,</corr></choice>
+               <choice><sic>Tout</sic><corr>tout</corr></choice> le reste restera la propriété
+               <lb/>de <persName><choice><abbr>M<hi rend="superscript">de</hi></abbr><expan>Madame</expan></choice>
+                  <surname>Rigord</surname></persName><choice><sic/><corr>,</corr></choice>
+                     argent<choice><sic>- Bijoux- </sic><corr>, bijoux,</corr></choice>
+                     traite<choice><sic>
+                     -</sic><corr>,</corr></choice> <app><lem><add place="marginLeft" type="testatorComment">Tout ce qui est <lb/>rayé est bien annulé <lb/><del>Je dis
+                     2</del><metamark function="other" rend="cross"/>
+                  <lb/>annulé par moi<choice><sic/><corr>.</corr></choice>
+                  <lb/><del>Je dis</del><seg type="signature"><persName ref="#pers-485">Lauret</persName></seg>
+                  Les modifications je les ai
+                     <lb/><choice><sic>faite</sic><corr>faites</corr></choice> le 7 <choice><sic>
+                        Avril</sic><corr>avril</corr></choice> 1917 <lb/>et le
+                        2-1-18<choice><sic/><corr>.</corr></choice>
+                  <seg type="signature"><persName ref="#pers-485">E<surname>Lauret</surname></persName></seg></add></lem><note resp="#PCharbonnier">Le testateur commente les parties rayées en marge et les date.</note></app> <pb facs="#FRAN_Poilus_t-0343_02"/>papiers d’affaire etc.<choice><sic>
+                  etc.</sic><corr/></choice> Si toutefois <lb/>elle venait
+                     <choice><sic>a</sic><corr>à</corr></choice> mourir ou qu’elle ne
+                        <choice><sic>veule<del>nt</del></sic><corr>veuille</corr></choice>
+               <lb/>pas accepter <choice><sic>se</sic><corr>ce</corr></choice> sera <persName>Noret
+                        <choice><sic>alexandre</sic><corr>Alexandre</corr></choice></persName>
+               <lb/>qui devra la remplacer <add place="above">ou sa
+                     femme</add><choice><sic/><corr>.</corr></choice></p>
+            <dateline>Fait à <placeName type="willPlace" ref="#pl-2">Paris</placeName>
+               <date type="willDate" when="1915-03-09"/>le 9
+                     <choice><sic>Mars</sic><corr>mars</corr></choice> mille <lb/>neuf cent
+                     qui<subst><del>z</del><add>n</add></subst>ze avant de <lb/>partir au
+                     régiment<choice><sic/><corr>.</corr></choice></dateline>
+            <signed rend="centered"><persName ref="#pers-485">E.
+                  <surname>Lauret</surname></persName></signed>
+            <postscript>
+               <p>Né à <placeName type="willAuthorBirthPlace" ref="#pl-736"><choice><sic>fréville</sic><corr>Fréville</corr></choice><choice><sic/><corr>,</corr></choice>
+                     Loiret</placeName><choice><sic/><corr>,</corr></choice>
+                  <date type="willAuthorBirthDate" when="1871-09-28">le 28 <choice><abbr>7<hi rend="superscript-underlined">bre</hi></abbr><expan>septembre</expan></choice>
+                        1871</date><choice><sic/><corr>.</corr></choice></p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

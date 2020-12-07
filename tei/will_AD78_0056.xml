@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0056">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Emile Gabriel Eugène Plateau (20 février 1915)] : édition électronique</title><author><persName ref="#pers-54">Emile Gabriel Eugène Plateau
+                    (1881-1916)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#TR">Thierry Rihouey</persName><persName ref="#FAuriau">Françoise Auriau</persName><persName ref="#SBlanchard">Sophie Blanchard</persName><persName ref="#MDeuve">Mathilde Deuve</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#SL.">EG</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#EPerrin">EPerrin</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#EdChamps">Emmanuelle de Champs</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0056</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0056_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E44 998, minute du 22 avril 1916 (dépôt du testament de Emile Gabriel
+                            Eugène Plateau)</idno>
+                        <msName>Testament de Emile Gabriel Eugène Plateau (20 février 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1915-02-20">20 février 1915</date>.
+                                    <placeName type="willPlace" ref="#pl-106">Oostduinkerke</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-54"><forename>Emile</forename> <forename>Gabriel</forename> <forename>Eugène</forename> <surname>Plateau</surname></persName>,
+                                mort pour la France le <date when="1916-03-15">15 mars 1916</date> à
+                                    <placeName ref="#pl-105">Cumières
+                            (Meuse)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier commercial (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>29,4</height>
+                                        <width>12,3</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de Versailles, étude
+                            Gayot</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0056_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E44 998, minute du 22 avril 1916 (dépôt du testament de Emile Gabriel
+                            Eugène Plateau)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-02-20">20 février 1915</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>20 février 1915.
+                                    Oostduinkerke.</p><p>testament olographe de Emile Gabriel Eugène Plateau,
+                                mort pour la France le 15 mars 1916 à
+                                    Cumières
+                            (Meuse).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-10-15" who="#MFGarreau #SL. #lelia #EPerrin">transcription</change>
+            <change when-iso="2018-01-24/2018-09-28" who="#PCharbonnier #EdChamps ">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0056___JPEG___FRAD78_Poilus_t-0056_01.jpg" xml:id="FRAD78_Poilus_t-0056_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0056">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0056_01"/>
+                <dateline rend="centered"><placeName type="willPlace" ref="#pl-106">Oost Dunkerque
+                        Plage (Belgique)</placeName> <date type="willDate" when="1915-02-20">20
+                                <choice><sic>(Vingt) Fevrier <lb/>Mil</sic><corr> (vingt) février
+                                <lb/>mil</corr></choice> neuf cent quinze</date>.</dateline>
+                <p rend="left"><hi rend="underlined">Ceci est mon testament</hi> qui révoque toutes
+                    dispositions <lb/>antérieures<choice><sic> : </sic><corr>.</corr></choice></p>
+                <p>J’institue pour mes <choice><sic>legataires</sic><corr>légataires</corr></choice>
+                    universels <choice><sic/><corr> : </corr></choice></p>
+                <list>
+                    <item>1<hi rend="superscript-underlined">o</hi> <persName>Madame
+                            Victorine Mulot</persName> employée chez moi et y habitant<choice><sic/><corr>.</corr></choice></item>
+                    <item>2<hi rend="superscript-underlined">o</hi> <persName><choice><abbr>Mad<hi rend="superscript-underlined">elle</hi></abbr><expan>Mademoiselle</expan></choice> Marie Le
+                            Bailly</persName> sans profession<choice><sic/><corr>,</corr></choice> 54
+                                <choice><sic>Rue</sic><corr>rue</corr></choice> des <lb/>Abbesses,
+                        ma cousine germaine.</item>
+                    <item>3<hi rend="superscript-underlined">o</hi> Mes cousins
+                        germains <del>germains</del> dont les noms suivent<choice><sic/><corr> :
+                            </corr></choice><list>
+                            <item><persName>Madame Jean
+                                    Martin (Boucher)</persName><choice><sic> </sic><corr>, </corr></choice><choice><sic>Rue Louis
+                                        Braille</sic><corr>rue Louis-Braille</corr></choice></item>
+                            <item><persName>Louise Philippe</persName> et <persName>Renée
+                                        <del>Phillppe</del> Philippe</persName> chez leurs
+                                        <choice><sic>Parents</sic><corr>parents</corr></choice><choice><sic/><corr>,</corr></choice> <del>48</del>
+                                        58 <lb/><choice><sic>Rue</sic><corr>rue</corr></choice> de
+                                Paris à <placeName type="otherPlace">Epinay-sur-Seine</placeName></item>
+                            <item><persName>Paul Gallais</persName> chez ses
+                                        <choice><sic>Parents</sic><corr>parents,</corr></choice> 30
+                                        <choice><sic>Rue</sic><corr>rue</corr></choice> de Montreuil
+                                    <placeName type="otherPlace" ref="#pl-35">Versailles.</placeName></item>
+                        </list></item>
+                    <item>4<hi rend="superscript-underlined">o</hi> Mes cousines issues de germaines
+                        dont les noms suivent<choice><sic/><corr> :
+                            </corr></choice> <lb/><persName>Madeleine</persName> et <persName>France
+                            Deck</persName> chez leurs
+                                <choice><sic>Parents</sic><corr>parents</corr></choice><choice><sic/><corr>,</corr></choice> 86
+                                <choice><sic>Rue</sic><corr>rue</corr></choice> Royale<choice><sic/><corr>.</corr></choice></item>
+                </list>
+                <p>En conséquence <supplied reason="deleted">je</supplied> leur donne et <choice><sic>legue</sic><corr>lègue</corr></choice>
+                    l’universalité des biens <lb/>qui dépendront de ma succession, mais à charge par
+                    eux <choice><sic>d’executer</sic><corr>d’exécuter</corr></choice> <lb/>les
+                    dispositions suivantes<choice><sic> :</sic><corr>.</corr></choice></p><p>Je donne et
+                            <choice><sic>legue</sic><corr>lègue</corr></choice> à
+                        <persName>Victorine Mulot</persName> la bague de ma
+                            <choice><sic>Mère</sic><corr>mère</corr></choice> (bague ayant <lb/><choice><sic>1</sic><corr>une</corr></choice>
+                    perle fine entre <choice><sic>2</sic><corr>deux</corr></choice> diamants) ainsi que tout le mobilier garnissant la
+                    chambre <lb/>qu’elle occupe à <placeName type="willAuthorResidence" ref="#pl-35"><choice><sic>Versaille</sic><corr>Versailles</corr></choice></placeName>
+                    9 <choice><sic>Rue</sic><corr>rue</corr></choice> Montebello ; la petite salle à
+                    manger et la cuisine <lb/>appartenant au mobilier de mes <choice><sic>Parents 9
+                            Rue</sic><corr>parents, 9 rue</corr></choice> Montebello<choice><sic>
+                            -</sic><corr>.</corr></choice> Chaque légataire <lb/>universel aura le
+                    droit de prendre à prix d’inventaire ce qui lui conviendra <lb/>parmi mon
+                    mobilier et à <choice><sic>defaut</sic><corr>défaut</corr></choice> d’entente<choice><sic/><corr>,</corr></choice>
+                    tout le surplus du mobilier <lb/>sera vendu sauf ma bibliothèque qui sera donnée
+                    avec ce qu’elle contient à <lb/><persName><choice><abbr>M<hi rend="superscript">r</hi></abbr><expan>Monsieur</expan></choice> Jupas</persName>
+                    45 <choice><abbr>av.</abbr><expan>avenue</expan></choice> de <choice><abbr>S<hi rend="superscript">t</hi></abbr><expan>Saint</expan></choice><choice><sic> </sic><corr>-</corr></choice>Cloud <choice><sic/><corr>à
+                        </corr></choice><placeName type="otherPlace" ref="#pl-35">Versailles</placeName><choice><sic/><corr>,</corr></choice> mon ami.</p>
+                <p>Tout le surplus de mon actif sera <choice><sic>egalement
+                            realisé</sic><corr>également réalisé</corr></choice> et le produit <lb/>net de ma succession sera divisée en quatre parts : <choice><sic>Une
+                            Part</sic><corr>une part</corr></choice>
+                                pour <lb/><persName><choice><abbr>Mad.</abbr><expan>Madame</expan></choice>
+                        V. Mulot</persName> en
+                        <choice><sic>executions</sic><corr>exécution</corr></choice> des volontés
+                            <choice><sic>derniers</sic><corr>dernières</corr></choice> de ma
+                        <del>part</del><choice><sic> Mère</sic><corr>mère</corr></choice> ; <lb/>une
+                            <choice><sic>par</sic><corr>part</corr></choice> pour
+                                    <persName><choice><abbr>M<hi rend="superscript-underlined">elle</hi></abbr><expan>Mademoiselle</expan></choice> Marie Le
+                        Bailly</persName> ; une part pour mes cousins <lb/>germains désignés au
+                    paragraphe trois et une part pour mes
+                            cousines <lb/><choice><sic>issuess</sic><corr>issues</corr></choice> de
+                    germaines <choice><sic>designées</sic><corr>désignées</corr></choice> au
+                    paragraphe quatre<choice><sic/><corr>.</corr></choice> <lb/>Ces deux groupes se
+                    diviseront leurs parts <del>et</del>
+                            par <lb/><choice><sic>têtes</sic><corr>tête</corr></choice> et par
+                            <choice><sic>part egales</sic><corr>parts égales.</corr></choice></p>
+                <dateline rend="right"><placeName type="willPlace" ref="#pl-106">Oost
+                        Dunkerque</placeName> <date type="willDate" when="1915-02-20"><choice><sic>Le
+                                Vingt Fevrier</sic><corr>le vingt février</corr></choice>
+                                1915 <lb/><choice><sic>Mil</sic><corr>mil</corr></choice> neuf cent
+                        quinze</date><choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="centered"><persName ref="#pers-54"><surname>Plateau</surname></persName></signed>
+                <postscript rend="left">
+                    <p>Quatre mots rayés nuls<choice><sic/><corr>.</corr></choice></p>
+                 <signed rend="centered"><persName ref="#pers-54"><surname>Plateau</surname></persName></signed></postscript>
+               
+            </div>
+        </body>
+    </text>
+</TEI>

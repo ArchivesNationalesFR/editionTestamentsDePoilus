@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0065">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Jean Amédé Georges Pecquerie (5 août 1914)] : édition électronique</title><author><persName ref="#pers-62">Jean Amédé Georges Pecquerie
+                    (1885-1916)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#TR">Thierry Rihouey</persName><persName ref="#FAuriau">Françoise Auriau</persName><persName ref="#SBlanchard">Sophie Blanchard</persName><persName ref="#MDeuve">Mathilde Deuve</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#PGambette">Philippe Gambette</persName><persName ref="#lelia">Lélia Picabia</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#EdChamps">Emmanuelle de Champs</persName><persName ref="#FClavaud">Florence Clavaud</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0065</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0065_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E44 1006, minute du 2 juin 1917 (dépôt du testament de Jean Amédé
+                            Georges Pecquerie)</idno>
+                        <msName>Testament de Jean Amédé Georges Pecquerie (5 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-05">5 août 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-35">Versailles</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-62"><forename>Jean</forename> <forename>Amédé</forename> <forename>Georges</forename> <surname>Pecquerie</surname></persName>,
+                                mort pour la France le <date when="1916-05-29">29 mai 1916</date> au
+                                    <placeName ref="#pl-117">Fort de Saint-Michel près de Verdun
+                                    (Meuse)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier commercial beige (testament). Enveloppe commerciale
+                                    (enveloppe). </support>
+                                <extent>2 pages et 1 enveloppe. Dimensions du testament :
+                                        <dimensions type="willPage" unit="cm">
+                                        <height>18</height>
+                                        <width>13,7</width>
+                                    </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                                        <height>9,5</height>
+                                        <width>13,3</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Enveloppe : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de Versailles, étude
+                            Gayot</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0065_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E44 1006, minute du 2 juin 1917 (dépôt du testament de Jean Amédé
+                            Georges Pecquerie)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-05">5 août 1914</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>5 août 1914.
+                                    Versailles.</p><p>testament
+                                    olographe de Jean Amédé Georges Pecquerie,
+                                mort pour la France le 29 mai 1916 au
+                                    Fort de Saint-Michel près de Verdun
+                                    (Meuse).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-03-23" who="#SL. #MFGarreau #PGambette #lelia">transcription</change>
+            <change when-iso="2018-01-24/2018-03-22" who="#PCharbonnier #EdChamps #FClavaud">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-envelope-recto" n="01">
+            <graphic url="testament_AD78_0065___JPEG___FRAD78_Poilus_t-0065_01.jpg" xml:id="FRAD78_Poilus_t-0065_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AD78_0065___JPEG___FRAD78_Poilus_t-0065_02.jpg" xml:id="FRAD78_Poilus_t-0065_02"/>
+        </surface>
+        <surface type="will-page" n="03">
+            <graphic url="testament_AD78_0065___JPEG___FRAD78_Poilus_t-0065_03.jpg" xml:id="FRAD78_Poilus_t-0065_03"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0065">
+        <body>
+            <div type="envelope">
+                <pb facs="#FRAD78_Poilus_t-0065_01"/>
+                <p rend="centered">Ceci est
+                            mon <lb/><choice><sic>Testament</sic><corr>testament.</corr></choice></p>
+                <dateline rend="centered"><date type="willDate" when="1914-08-05">5 août
+                    1914</date></dateline>
+                <signed rend="centered"><persName ref="#pers-62">JA <surname>Pecquerie</surname></persName></signed>
+            </div>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0065_02"/>
+                <dateline rend="right"><placeName type="willPlace" ref="#pl-35">Versailles</placeName>, <date type="willDate" when="1914-08-05">le cinq
+                        août 1914</date><choice><sic/><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Je <choice><sic>desire</sic><corr>désire</corr></choice> qu’après ma mort
+                    <lb/>mes héritiers naturels prennent <lb/>possession de ma fortune, sous <lb/>la
+                    réserve de faire une <hi rend="underlined">rente</hi> <lb/><hi rend="double-underlined">mensuelle</hi> de <hi rend="double-underlined">cent
+                        cinquante</hi> <lb/><hi rend="underlined">francs</hi> à
+                        <persName>Mademoiselle
+                        <surname>Boulay</surname> <lb/>femme
+                            Quillé</persName>, demeurant 8 rue <lb/>Barbier Le
+                    Mans.</p>
+                <p>La rente devra être faite, par <lb/>mois, par un notaire ou une <lb/>banque qui
+                    recevra annuellement <lb/>ou autrement le
+                            <choice><sic>dépot</sic><corr>dépôt</corr></choice> <lb/>correspondant à
+                    cette rente.</p>
+                <p>Le mari de la bénéficiaire <lb/>ne devra pas pouvoir toucher <lb/>la rente
+                    précitée.</p>
+                <dateline>Fait, sain de corps <pb facs="#FRAD78_Poilus_t-0065_03"/>et d’esprit,
+                    avant de <lb/>partir en campagne, à <lb/><placeName type="willPlace">Versailles</placeName>, <date when="1914-08-05" type="willDate">le cinq
+                        août <lb/>mil <subst><del>c</del><add>n</add></subst>euf cent
+                        quatorze</date><choice><sic/><corr>.</corr></choice></dateline>
+                <space dim="vertical" quantity="1" unit="lines"/>
+                <signed rend="right"><persName>J <surname>Pecquerie</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

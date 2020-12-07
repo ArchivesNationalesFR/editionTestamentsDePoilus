@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0086">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Albert Henri Piquois (20 mars 1917)] : édition électronique</title><author><persName ref="#pers-374">Albert Henri Piquois
+                    (1895-1917)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#RG">Regine Guillot</persName><persName ref="#SBlanchard">Sophie Blanchard</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#GBMireille">Mireille Grais-Bruguière</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0086</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0086_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E16 358, minute du 24 février 1918 (dépôt du testament de Albert
+                            Henri Piquois)</idno>
+                        <msName>Testament de Albert Henri Piquois (20 mars 1917)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1917-03-20">20 mars 1917</date>.
+                                    <placeName type="willPlace" ref="#pl-570">Coignières</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-374"><forename>Albert</forename> <forename>Henri</forename> <surname>Piquois</surname></persName>, mort
+                                pour la France le <date when="1917-10-01">1er octobre
+                                    1917</date> <placeName ref="#pl-18">devant
+                                Verdun</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>25</height>
+                                        <width>17,5</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de
+                            Le-Mesnil-Saint-Denis</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0086_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E16 358, minute du 24 février 1918 (dépôt du testament de Albert
+                            Henri Piquois)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1917-03-20">20 mars 1917</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>20 mars 1917.
+                                    Coignières.</p><p>testament
+                                    olographe de Albert Henri Piquois, mort
+                                pour la France le 1er octobre
+                                    1917 devant
+                                Verdun.</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-07-01/2020-05-26" who="#MFGarreau #lelia #GBMireille">transcription</change>
+            <change when-iso="2019-07-01/2019-11-06" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0086___JPEG___FRAD78_Poilus_t-0086_01.jpg" xml:id="FRAD78_Poilus_t-0086_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0086">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0086_01"/>
+                <p>J’institue ma mère <persName>Madame
+                        veuve <lb/>Alexandre Piquois</persName> ma légataire
+                            universelle<choice><sic/><corr>,</corr></choice> <lb/>entendant que tous
+                    les biens, meubles et <lb/>immeubles composant ma succession lui <lb/>reviennent
+                    à ma mort en toute propriété<choice><sic/><corr>.</corr></choice></p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <dateline>Fait à <placeName type="willPlace" ref="#pl-570"><choice><sic>Coignieres</sic><corr>Coignières</corr></choice></placeName>
+                    et <choice><sic>écris</sic><corr>écrit</corr></choice> de ma main <lb/>étant en
+                    permission le <date type="willDate" when="1917-03-20">vingt mars mil neuf cent
+                                <choice><sic>dix sept</sic><corr>dix-sept</corr></choice></date>.</dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed><persName ref="#pers-374">Albert Henri
+                    <surname>Piquois</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

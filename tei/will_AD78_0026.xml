@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0026">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Georges Stanislas Richard (1 février 1917)] : édition électronique</title><author><persName ref="#pers-25">Georges Stanislas Richard
+                    (1875-1918)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#CSouchon">Catherine Souchon</persName><persName ref="#SBlanchard">Sophie Blanchard</persName><persName ref="#MDeuve">Mathilde Deuve</persName><persName ref="#FAuriau">Françoise Auriau</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#lelia">Lélia Picabia</persName><persName ref="#StephaneAuje">StephaneAuje</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#EdChamps">Emmanuelle de Champs</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0026</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0026_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E30 677, minute du 7 mai 1919 (dépôt du testament de Georges
+                            Stanislas Richard)</idno>
+                        <msName>Testament de Georges Stanislas Richard (1 février 1917)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1917-02-01">1 février 1917</date>.
+                                    <placeName type="willPlace" ref="#pl-55">Beynes</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-25"><forename>Georges</forename> <forename>Stanislas</forename> <surname>Richard</surname></persName>,
+                                mort pour la France le <date when="1918-06-11">11 juin
+                                1918</date>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de
+                            Neauphle-le-Château</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0026_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E30 677, minute du 7 mai 1919 (dépôt du testament de Georges
+                            Stanislas Richard)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1917-02-01">1 février 1917</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>1 février 1917.
+                                    Beynes.</p><p>testament
+                                    olographe de Georges Stanislas Richard,
+                                mort pour la France le 11 juin
+                                1918.</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-03-14" who="#lelia #StephaneAuje">transcription</change>
+            <change when-iso="2018-01-24/2018-02-22" who="#PCharbonnier #EdChamps ">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0026___JPEG___FRAD78_Poilus_t-0026_01.jpg" xml:id="FRAD78_Poilus_t-0026_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0026">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0026_01"/>
+                <p>Pour le cas <choice><sic>ou</sic><corr>où</corr></choice> je viendrais à
+                    mourir <lb/>je retire à <persName>Madame Marcelle
+                        <surname>Godard</surname></persName> <lb/>qui a quitté le domicile conjugal
+                    tous <lb/>les droits
+                        d’<choice><sic>ursufruit</sic><corr>usufruit</corr></choice> qu’elle
+                    pourrait avoir <lb/>dans ma succession<choice><sic/><corr>,</corr></choice> désirant que
+                            cet <lb/><choice><sic>usurfruit</sic><corr>usufruit</corr></choice>
+                    revienne à mes <choice><sic>heritiers</sic><corr>héritiers</corr></choice> <lb/>
+                    naturels dans la proportion de leurs
+                    droits<choice><sic/><corr>.</corr></choice></p>
+                <dateline rend="right">Fait à <placeName type="willPlace" ref="#pl-55">la Haute
+                        Pessotte</placeName> <date when="1917-02-01" type="willDate">le premier <lb/><choice><sic>Février</sic><corr>février</corr></choice>
+                        mil neuf cent <choice><sic>dix
+                        sept</sic><corr>dix-sept</corr></choice></date>.</dateline>
+                <signed rend="centered"><persName ref="#pers-25">G.
+                        <surname>Richard</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

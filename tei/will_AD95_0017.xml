@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD95_0017">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Gaston Pierre Ferdinand Alain (13 juillet 1914)] : édition électronique</title><author><persName ref="#pers-411">Gaston Pierre Ferdinand Alain
+                        (1889-1914)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#TP">Tiffanie Pitot</persName><persName ref="#ELL">Emilie Laffitte-Louisou</persName><persName ref="#SD">Sophie Delinge</persName><persName ref="#TO">Thomas Olivier</persName><persName ref="#SDechavanne">Sylvie Dechavanne</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#SL.">EG</persName><persName ref="#GBMireille">Mireille Grais-Bruguière</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD95_0017</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD95_0017_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales du Val-d’Oise</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>2E25 557, minute du 27 septembre 1915 (dépôt du testament de Gaston
+                            Pierre Ferdinand Alain)</idno>
+                        <msName>Testament de Gaston Pierre Ferdinand Alain (13 juillet
+                            1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-07-13">13 juillet 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-642">Chauvry</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-411"><forename source="#will_AD95_0017_tes #will_AD95_0017_min #MDH #AS">Gaston</forename> <forename source="#will_AD95_0017_tes #will_AD95_0017_min #MDH #AS">Pierre</forename> <forename source="#will_AD95_0017_tes #will_AD95_0017_min #MDH #AS">Ferdinand</forename> <surname>Alain</surname></persName>, mort
+                                pour la France le <date when="1914-10-02" source="#MDH #AS">2-10-1914 [MDH] | 2 octobre 1914 [AS] | deux octobre
+                                    mil-neuf-cent-quatorze [AS]</date> à <placeName ref="#pl-124" source="#MDH #AS">Bois de la Grurie Marne [MDH] | Bois de la
+                                    Grurie [AS]</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier ivoire (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>17,4</height>
+                                        <width>24,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>Bastidé Taverny</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD95_0017_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales du Val-d’Oise</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>2E25 557, minute du 27 septembre 1915 (dépôt du testament de Gaston
+                            Pierre Ferdinand Alain)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-07-13">13 juillet 1914</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>13 juillet 1914.
+                                    Chauvry.</p><p>testament
+                                    olographe de Gaston Pierre Ferdinand Alain, mort
+                                pour la France le 2-10-1914 [MDH] | 2 octobre 1914 [AS] | deux octobre
+                                    mil-neuf-cent-quatorze [AS] à Bois de la Grurie Marne [MDH] | Bois de la
+                                    Grurie [AS].</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-10-09/2020-02-17" who="#MFGarreau #SL. #GBMireille">transcription</change>
+            <change when-iso="2019-10-09/2019-11-05" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD95_0017___JPEG___FRAD95_Poilus_t-0017_01.jpg" xml:id="FRAD95_Poilus_t-0017_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD95_0017">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD95_Poilus_t-0017_01"/>
+                <dateline><add place="marginLeft"><date type="willDate" when="1914-07-30"><choice><abbr>30/7</abbr><expan>30 juillet</expan></choice>
+                            <hi rend="underlined">1914</hi></date></add> <placeName type="willPlace" ref="#pl-642">Chauvry</placeName> l’an mille neuf
+                        cent<choice><sic>s</sic><corr/></choice> quatorze</dateline>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <p>Je soussigné, déclare que <lb/>j’institue pour ma légataire
+                    <lb/><choice><sic>univeselle</sic><corr>universelle</corr></choice> <choice><sic>Mon</sic><corr>mon</corr></choice>
+                    épouse <persName>Madame <lb/>Marie
+                        Emilienne Dézouches</persName> <choice><sic><surplus>mon
+                                <lb/>épouse</surplus></sic><corr/></choice> demeurant à <placeName type="willAuthorResidence" ref="#pl-642">Chauvry</placeName> <lb/><choice><abbr>S.et O</abbr><expan>,
+                            Seine-et-Oise</expan></choice> ou
+                        <choice><sic>s’y</sic><corr>si</corr></choice> elle est décédée <lb/>avant
+                    moi à ma belle-mère
+                        <lb/><persName>Madame Marie
+                                <subst><del>E</del><add>A</add></subst>ugustine
+                            <lb/>Leleu<del>x</del></persName><choice><sic/><corr>.</corr></choice></p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <dateline>Fait de ma main à <placeName type="willPlace" ref="#pl-642">Chauvry</placeName> <lb/><date type="willDate" when="1914-07-30">le trente
+                        juillet mille neuf
+                        cent<choice><sic>s</sic><corr/></choice> <lb/>quatorze</date><choice><sic/><corr/></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="centered"><persName><surname>Alain</surname> Gaston
+                                <subst><del>F</del><add>P</add></subst>ierre
+                            Ferdinand</persName></signed><postscript rend="centered"><p><choice><sic>née</sic><corr>Né</corr></choice>
+                    à <placeName type="willAuthorBirthPlace" ref="#pl-623">Pierrelaye</placeName> <date type="willAuthorBirthDate" when="1889-10-30">le
+                        30 <choice><abbr>O<hi rend="superscript-double-underlined">ct</hi></abbr><expan>octobre</expan></choice> 1889</date><choice><sic/><corr>.</corr></choice></p></postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

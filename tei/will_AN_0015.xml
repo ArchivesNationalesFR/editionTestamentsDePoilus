@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0015">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title><title type="main">[Testament de Albert Louis Legros (4 août 1914)] : édition électronique</title><author>
+          <persName ref="#pers-73">Albert Louis Legros (1874-1914)</persName>
+        </author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+      <editionStmt>
+        <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+        <respStmt><resp>Numérisation</resp><orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+                        Département de la Conservation. Atelier photographique</orgName></respStmt>
+        <respStmt><resp>Identification et description du testament</resp><persName ref="#AM">Aurélie Massie</persName><persName ref="#MLocatelli">Mélisa Locatelli</persName></respStmt>
+        <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#ALemoine">Aurélie Lemoine</persName><persName ref="#SLespinasse">Suzie Lespinasse</persName><persName ref="#HB.">Hélène Brossier</persName><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#lelia">Lélia Picabia</persName></respStmt>
+        <respStmt><resp>Validation</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+        <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#jmorvan">Josselin Morvan</persName></respStmt>
+      </editionStmt>
+      <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AN_0015</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="will_AN_0015_tes">
+          <msIdentifier>
+            <country>France</country>
+            <institution>Archives nationales</institution>
+            <collection>Minutier central des notaires de Paris</collection>
+            <idno>MC/ET/CXX/1534, minute du 7 décembre 1914 (dépôt du testament de Albert Louis Legros)</idno>
+            <msName>Testament de Albert Louis Legros (4 août 1914)</msName>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p><date type="willDate" when="1914-08-04">4 août 1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p>
+              <p><term type="willType">testament olographe</term> de <persName ref="#pers-73"><forename>Albert</forename> <forename>Louis</forename> <surname>Legros</surname></persName>, mort pour la France le <date when="1914-10-06">6 octobre 1914</date> à l’<placeName ref="#pl-133" source="#will_AN_0015_min #MDH">Hôpital civil de Doullens [NOT] | Hôpital d’évacuation du groupe de division territoriale à Doullens [MDH]</placeName>.</p>
+            </summary>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>Papier de deuil (testament). Enveloppe (enveloppe). </support>
+                <extent>7 pages et 1 enveloppe. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                    <height>18</height>
+                    <width>13,5</width>
+                  </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                    <height>9,5</height>
+                    <width>14,8</width>
+                  </dimensions>.</extent>
+              </supportDesc>
+            </objectDesc>
+            <handDesc>
+              <p>Testament : encre. Enveloppe : encre.</p>
+            </handDesc>
+          </physDesc>
+          <history>
+            <provenance>
+              
+              <orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010247">étude notariale 120 (CRPCEN : 75100)</orgName>
+            </provenance>
+          </history>
+        </msDesc>
+        <msDesc xml:id="will_AN_0015_min">
+          <msIdentifier>
+            <country>France</country>
+            <institution>Archives nationales</institution>
+            <collection>Minutier central des notaires de Paris</collection>
+            <idno>MC/ET/CXX/1534, minute du 7 décembre 1914 (dépôt du testament de Albert Louis Legros)</idno>
+            <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="willDate" when="1914-08-04">4 août 1914</date>
+      </creation>
+      <langUsage><language ident="fr">français</language></langUsage>
+      <abstract><p>4 août 1914. Paris.</p><p>testament olographe de Albert Louis Legros, mort pour la France le 6 octobre 1914 à l’Hôpital civil de Doullens [NOT] | Hôpital d’évacuation du groupe de division territoriale à Doullens [MDH].</p></abstract>
+      <textClass>
+        <keywords>
+          <term type="subject">Grande Guerre</term>
+          <term type="subject">Poilu</term>
+          <term type="subject">testament</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when-iso="2018-01-24/2018-08-16" who="#SL. #ALemoine #SLespinasse #HB. #MFGarreau #lelia">transcription</change>
+      <change when-iso="2018-01-24/2018-02-27" who="#FClavaud #PCharbonnier ">validation</change>
+      <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+    <surface type="will-page" n="01">
+      <graphic url="testament_AN_0015___JPEG___FRAN_Poilus_t-0015_01.jpg" xml:id="FRAN_Poilus_t-0015_01"/>
+    </surface>
+    <surface type="will-page" n="02">
+      <graphic url="testament_AN_0015___JPEG___FRAN_Poilus_t-0015_02.jpg" xml:id="FRAN_Poilus_t-0015_02"/>
+    </surface>
+    <surface type="will-page" n="03">
+      <graphic url="testament_AN_0015___JPEG___FRAN_Poilus_t-0015_03.jpg" xml:id="FRAN_Poilus_t-0015_03"/>
+    </surface>
+    <surface type="will-page" n="04">
+      <graphic url="testament_AN_0015___JPEG___FRAN_Poilus_t-0015_04.jpg" xml:id="FRAN_Poilus_t-0015_04"/>
+    </surface>
+    <surface type="will-page" n="05">
+      <graphic url="testament_AN_0015___JPEG___FRAN_Poilus_t-0015_05.jpg" xml:id="FRAN_Poilus_t-0015_05"/>
+    </surface>
+    <surface type="will-page" n="06">
+      <graphic url="testament_AN_0015___JPEG___FRAN_Poilus_t-0015_06.jpg" xml:id="FRAN_Poilus_t-0015_06"/>
+    </surface>
+    <surface type="will-page" n="07">
+      <graphic url="testament_AN_0015___JPEG___FRAN_Poilus_t-0015_07.jpg" xml:id="FRAN_Poilus_t-0015_07"/>
+    </surface>
+    <surface type="will-envelope-recto" n="08">
+      <graphic url="testament_AN_0015___JPEG___FRAN_Poilus_t-0015_08.jpg" xml:id="FRAN_Poilus_t-0015_08"/>
+    </surface>
+  </facsimile>
+  <text xml:id="will_AN_0015">
+    <body>
+      <div type="will">
+        <pb facs="#FRAN_Poilus_t-0015_01"/>
+        <dateline rend="centered"><placeName type="willPlace" ref="#pl-2">Paris</placeName>
+          <date type="willDate" when="1914-08-04">le 4 <choice><sic>Aout</sic><corr>août</corr></choice> 1914 <add place="marginRight">minuit</add></date></dateline>
+        <space quantity="1" unit="lines" dim="vertical"/>
+        <p>Mon testament est écrit <lb/>sur feuilles de papier <lb/>timbré et <choice><sic>feuille</sic><corr>feuilles</corr></choice> de <lb/>papier simple<choice><sic> il</sic><corr>. Il</corr></choice> a été <lb/>écrit comme j’écris <lb/>ces lignes sain de corps <lb/>et d’esprit.</p>
+        <p>Je pars à la guerre<choice><sic/><corr>,</corr></choice> <lb/><choice><sic>Je</sic><corr>je</corr></choice> reviendrai ou sinon <lb/>voici ce que j’ai <choice><sic>a</sic><corr>à</corr></choice> ajouter<choice><sic/><corr>.</corr></choice></p>
+        <pb facs="#FRAN_Poilus_t-0015_02"/>
+        <p>Je regrette de partir <lb/>criblé de <choice><sic>dettes jusqu’au</sic><corr>dettes. Jusqu’au</corr></choice> <lb/>dernier moment j’ai <lb/>trouvé de l’obstruction<choice><sic/><corr>.</corr></choice> <lb/><choice><sic>que</sic><corr>Que</corr></choice> cela porte chance <lb/><choice><sic>a</sic><corr>à</corr></choice> ceux qui en sont cause<choice><sic/><corr>.</corr></choice></p>
+        <p>Je dois au laitier <lb/>deux francs 25<choice><sic/><corr>,</corr></choice> au boucher <lb/>rien, au boulanger sept <choice><abbr>frs</abbr><expan>francs</expan></choice> 75.</p>
+        <pb facs="#FRAN_Poilus_t-0015_03"/>
+        <p>À ma sœur <persName>Joséphine</persName> <lb/>au minimum 150 <choice><abbr>frs</abbr><expan>francs</expan></choice><choice><sic/><corr>,</corr></choice> à <lb/>ma belle mère 120 <choice><abbr>frs</abbr><expan>francs</expan></choice><choice><sic/><corr>,</corr></choice> <lb/>à <persName>Lemasson</persName> cent francs<choice><sic/><corr>,</corr></choice> <lb/><choice><sic>prêtes</sic><corr>prêtés</corr></choice> aujourd’hui pour partir<choice><sic/><corr>.</corr></choice> <lb/>Je dois aussi l’engagement <lb/>au <choice><sic>Mont de Pieté</sic><corr>mont-de-piété</corr></choice> d’une <lb/>montre obligeamment <choice><sic>pretée</sic><corr>prêtée</corr></choice> <lb/>pour cela <choice><sic>à</sic><corr>par</corr></choice> <persName>Monsieur Bucgascher</persName><choice><sic/><corr>,</corr></choice> <lb/>chimiste à <placeName type="otherPlace"><choice><sic>la</sic><corr>La</corr></choice> Française</placeName><choice><sic/><corr>,</corr></choice> rue Ramus<choice><sic/><corr>,</corr></choice> 68. <lb/><choice><sic>le</sic><corr>Le</corr></choice> tout <hi rend="underlined">fait environ</hi> 58 francs, <lb/>ou <choice><sic>cinquante huit</sic><corr>cinquante-huit</corr></choice>.</p>
+        <p rend="right">3 ou 4 reconnaissances ensemble.</p>
+        <pb facs="#FRAN_Poilus_t-0015_04"/>
+        <p>Mes <choice><sic>procedés</sic><corr>procédés</corr></choice> sont notés<choice><sic/><corr>.</corr></choice> <lb/><choice><sic>les</sic><corr>Les</corr></choice> derniers sont les plus <lb/>intéressants et ont été remis <lb/>à <persName>Billaud</persName><choice><sic>, ceux ci</sic><corr>. Ceux-ci</corr></choice> devraient <lb/>me verser 450 francs à la fin <lb/>de ce mois ou un trimestre d’avance<choice><sic/><corr>.</corr></choice> <lb/><choice><sic>les</sic><corr>Les</corr></choice> <choice><sic>verseront t’ils</sic><corr>verseront-ils</corr></choice> ?</p>
+        <p>Avinsac<choice><sic/><corr>,</corr></choice> <orgName>usine du Ramier du <lb/><choice><sic>Chateau</sic><corr>Château</corr></choice></orgName> à <placeName>Toulouse</placeName><choice><sic/><corr>,</corr></choice> me doit en <lb/>plus d’un engagement<choice><sic/><corr>,</corr></choice> trois mois <lb/>échus le 5<choice><sic/><corr>,</corr></choice> tout ou trois <choice><sic>Cents</sic><corr>cents</corr></choice> francs<choice><sic/><corr>.</corr></choice> <lb/><choice><sic>il</sic><corr>Il</corr></choice> n’a pas les derniers procédés.</p>
+        <p>Perlmutter n’a rien versé encore <lb/>sur le deuxième <choice><sic>engagement sur</sic><corr>engagement. Sur</corr></choice> le <lb/>premier il doit encore <choice><sic>Cent</sic><corr>cent</corr></choice> francs<choice><sic/><corr>.</corr></choice> <lb/><choice><sic>l</sic><corr>L</corr></choice>’adresse est : 3 Wettmerstrasse<choice><sic>.</sic><corr>,</corr></choice> <placeName>Leipzig</placeName>.</p>
+        <pb facs="#FRAN_Poilus_t-0015_05"/>
+        <p>Suite à mes volontés ou plus <lb/>exactement à ma situation.</p>
+        <space quantity="1" unit="lines" dim="vertical"/>
+        <p>Messieurs <persName>Watrigant</persName> &amp; fils<choice><sic/><corr>,</corr></choice> <lb/>quai de la Basse Deüle à <lb/><placeName type="otherPlace" ref="#pl-107">Lille <choice><sic>Nord</sic><corr>nord</corr></choice></placeName><choice><sic/><corr>,</corr></choice> s’honoreraient en <lb/>versant les cinq cents francs <lb/>d’une clause contractée. <lb/><choice><sic>le</sic><corr>Le</corr></choice> tout réuni formerait un <lb/>versement d’environ <lb/>trois <choice><sic>Mille</sic><corr>mille</corr></choice> francs<choice><sic/><corr>,</corr></choice> plus <lb/>un engagement verbal contracté <lb/>chez <persName>Billaud</persName> pendant un an <pb facs="#FRAN_Poilus_t-0015_06"/>à raison de cent cinquante <lb/>francs par <choice><sic>mois si</sic><corr>mois. Si</corr></choice> ces Messieurs <lb/>ne donnaient rien il faudrait <lb/>donc tirer parti de mes <lb/>procédés et surtout faire <lb/>déposer mes os<choice><sic/><corr>,</corr></choice> si on les <lb/>retrouve<choice><sic/><corr>,</corr></choice> avec ceux de ma <lb/>pauvre femme <persName>Adèle</persName><choice><sic/><corr>,</corr></choice> inhumée <lb/>à <placeName type="otherPlace">Biarritz</placeName><choice><sic> sur</sic><corr>. Sur</corr></choice> cette <lb/>concession <hi rend="underlined">j’ai le regret</hi> <lb/>de devoir encore <choice><sic>Cent</sic><corr>cent</corr></choice> <lb/><choice><sic>soixante dix</sic><corr>soixante-dix</corr></choice> francs, je <pb facs="#FRAN_Poilus_t-0015_07"/>serais heureux qu’ils <lb/>fussent versés en mémoire <lb/>de cette chère adorée tuée <lb/>de façon criminelle.</p>
+        <p>J’oublie certes des détails<choice><sic/><corr>,</corr></choice> <lb/>entr’autres je dois la dernière <lb/><choice><sic>demi pièce</sic><corr>demi-pièce</corr></choice> de vin, le terme <lb/>a <choice><sic>eté</sic><corr>été</corr></choice> payé régulièrement.</p>
+        <dateline>Fait à <placeName type="willPlace" ref="#pl-2">Paris</placeName><choice><sic/><corr>,</corr></choice> jour de mon <lb/>départ à une heure du <lb/>matin <date type="willDate" when="1914-08-04">le 4 <choice><sic>Aout</sic><corr>août</corr></choice> 1914</date>.</dateline>
+        <signed rend="right">
+          <persName>Alb. <surname>Legros</surname>.</persName>
+        </signed>
+      </div>
+      <div type="envelope">
+        <pb facs="#FRAN_Poilus_t-0015_08"/>
+        <p rend="centered"><choice><sic>A</sic><corr>À</corr></choice> ouvrir à ma mort.</p>
+        <signed>
+          <persName ref="#pers-73">A. <surname>Legros</surname></persName>
+        </signed>
+      </div>
+    </body>
+  </text>
+</TEI>

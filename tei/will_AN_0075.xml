@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0075">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt><title type="corpusTitle">Édition numérique collaborative de
+                                        testaments de Poilus de la Grande Guerre</title><title type="main">[Testament de André Louis Potin (9 août 1914)] : édition électronique</title><author><persName ref="#pers-132">André Louis Potin
+                                                (1881-1918)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+                        <editionStmt>
+                                <edition>Première édition électronique, fondée sur un travail de
+                                        transcription collaborative</edition>
+                                <respStmt><resp>Numérisation</resp><orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+                        Département de la Conservation. Atelier photographique</orgName></respStmt>
+                                <respStmt><resp>Identification et description du testament</resp><persName ref="#AM">Aurélie Massie</persName><persName ref="#MLocatelli">Mélisa Locatelli</persName></respStmt>
+                                <respStmt><resp>Transcription</resp><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#SL.">EG</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#Rita72">Rita72</persName><persName ref="#ALemoine">Aurélie Lemoine</persName></respStmt>
+                                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité
+                                                final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                        </editionStmt>
+                        <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AN_0075</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+                        <sourceDesc>
+                                <msDesc xml:id="will_AN_0075_tes">
+                                        <msIdentifier>
+                                                <country>France</country>
+                                                <institution>Archives nationales</institution>
+                                                <collection>Minutier central des notaires de
+                                                  Paris</collection>
+                                                <idno>MC/ET/CXX/1635, minute du 24 juillet 1919
+                                                  (dépôt du testament de André Louis Potin)</idno>
+                                                <msName>Testament de André Louis Potin (9 août
+                                                  1914)</msName>
+                                        </msIdentifier>
+                                        <msContents>
+                                                <summary><p><date type="willDate" when="1914-08-09">9 août 1914</date>. <placeName type="willPlace" ref="#pl-1">Saint-Denis</placeName>.</p><p><term type="willType">testament olographe</term> de
+                                                  <persName ref="#pers-132"><forename>André</forename> <forename>Louis</forename> <surname>Potin</surname></persName>,
+                                                  mort pour la France le <date when="1918-10-12">12
+                                                  octobre 1918</date> à <placeName ref="#pl-230">Asfeld la Ville
+                                                  (Ardennes)</placeName>.</p></summary>
+                                        </msContents>
+                                        <physDesc>
+                                                <objectDesc>
+                                                  <supportDesc>
+                                                  <support>Papier timbré réglé (testament). </support>
+                                                  <extent>1 page. Dimensions du testament :
+                                                  <dimensions type="willPage" unit="cm">
+                                                  <height>24,9</height>
+                                                  <width>17,8</width>
+                                                  </dimensions>.</extent>
+                                                  </supportDesc>
+                                                </objectDesc>
+                                                <handDesc>
+                                                  <p>Testament : encre.</p>
+                                                </handDesc>
+                                        </physDesc>
+                                        <history>
+                                                <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010247">étude notariale 120 (CRPCEN :
+                                                  75100)</orgName></provenance>
+                                        </history>
+                                </msDesc>
+                                <msDesc xml:id="will_AN_0075_min">
+                                        <msIdentifier>
+                                                <country>France</country>
+                                                <institution>Archives nationales</institution>
+                                                <collection>Minutier central des notaires de
+                                                  Paris</collection>
+                                                <idno>MC/ET/CXX/1635, minute du 24 juillet 1919
+                                                  (dépôt du testament de André Louis Potin)</idno>
+                                                <msName>Couverture de la minute, et le cas échéant
+                                                  jugement inclus dans la minute</msName>
+                                        </msIdentifier>
+                                </msDesc>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <creation><date type="willDate" when="1914-08-09">9 août
+                                1914</date></creation>
+                        <langUsage><language ident="fr">français</language></langUsage>
+                        <abstract><p>9 août 1914. Saint-Denis.</p><p>testament olographe de
+                                                  André Louis Potin,
+                                                  mort pour la France le 12
+                                                  octobre 1918 à Asfeld la Ville
+                                                  (Ardennes).</p></abstract>
+                        <textClass>
+                                <keywords>
+                                        <term type="subject">Grande Guerre</term>
+                                        <term type="subject">Poilu</term>
+                                        <term type="subject">testament</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change when-iso="2018-01-24/2020-06-12" who="#MFGarreau #SL. #lelia #Rita72 #ALemoine">transcription</change>
+                        <change when-iso="2018-01-24/2019-11-06" who="#PCharbonnier ">validation</change>
+                        <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change>
+                </revisionDesc>
+        </teiHeader>
+        <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+                <surface type="will-page" n="01">
+                        <graphic url="testament_AN_0075___JPEG___FRAN_Poilus_t-0075_01.jpg" xml:id="FRAN_Poilus_t-0075_01"/>
+                </surface>
+        </facsimile>
+        <text xml:id="will_AN_0075">
+                <body>
+                        <div type="will">
+                                <pb facs="#FRAN_Poilus_t-0075_01"/>
+                                <head>Ceci est mon testament.</head>
+                                <p>Je reconnais ma femme et ma fille <lb/>comme <choice><sic>seule
+                                                  heritier</sic><corr>seules
+                                                héritières.</corr></choice> <lb/>En cas de mort de ma
+                                        fille <lb/><space dim="horizontal" unit="chars" quantity="15"/><persName>Lucienne
+                                                  Potin</persName><choice><sic/><corr>,</corr></choice> <lb/><choice><sic>Je
+                                                  veut</sic><corr>je veux</corr></choice> que
+                                                  <choice><sic>tout</sic><corr>tous</corr></choice>
+                                        mes <choice><sic>bien actuel</sic><corr>biens
+                                                actuels</corr></choice> et
+                                                  <choice><sic>avenir</sic><corr>à
+                                                venir</corr></choice> <lb/><choice><sic>revienent</sic><corr>reviennent</corr></choice> <choice><sic>a</sic><corr>à</corr></choice>
+                                        ma femme que je
+                                        <subst><del>c</del><add>r</add></subst>econnais <lb/>comme
+                                        mon
+                                        <choice><sic>heritiere</sic><corr>héritière</corr></choice> <choice><sic>Légataire</sic><corr>légataire</corr></choice> <lb/>dans
+                                        mon
+                                                <choice><sic>université</sic><corr>universalité</corr></choice> <lb/><choice><sic/><corr>-
+                                                </corr></choice>dans
+                                                  <choice><sic>tout</sic><corr>tous</corr></choice>
+                                        mes
+                                        <choice><sic>bien</sic><corr>biens</corr></choice> <choice><sic>a
+                                                  revenir</sic><corr>à venir</corr></choice><choice><sic> : </sic><corr>.</corr></choice><lb/>
+                                        <choice><sic>fait</sic><corr>Fait</corr></choice> dans toute ma
+                                                  <choice><sic>lusibilité</sic><corr>lucidité.</corr></choice></p>
+                                <space dim="vertical" unit="lines" quantity="1"/>
+                                <dateline rend="centered"><date type="willDate" when="1914-08-09">Le 9 <choice><sic>Aout</sic><corr>août</corr></choice>
+                                                  1914<choice><sic/><corr>.</corr></choice></date></dateline>
+                                <space dim="vertical" unit="lines" quantity="1"/>
+                                <signed rend="right"><persName ref="#pers-132"><surname>Potin</surname> André
+                                        Louis</persName></signed>
+                        </div>
+                </body>
+        </text>
+</TEI>

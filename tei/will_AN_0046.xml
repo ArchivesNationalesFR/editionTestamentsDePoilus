@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0046">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title><title type="main">[Testament de Georges René Niolet (26 août 1915)] : édition électronique</title><author><persName ref="#pers-103">Georges René Niolet (1892-1915)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+                        Département de la Conservation. Atelier photographique</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#AM">Aurélie Massie</persName><persName ref="#MLocatelli">Mélisa Locatelli</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#Marisele">Marisele</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#jmorvan">Josselin Morvan</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AN_0046</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0046_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1575, minute du 9 février 1917 (dépôt du testament de Georges René Niolet)</idno>
+                        <msName>Testament de Georges René Niolet (26 août 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1915-08-26">26 août 1915</date>. <placeName type="willPlace" ref="#pl-183">Villejuif</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-103"><forename>Georges</forename> <forename>René</forename> <surname>Niolet</surname></persName>, mort pour la France le <date when="1915-09-25">25 septembre 1915</date> au <placeName ref="#pl-182">combat de Saint Thomas (Marne)</placeName>.</p>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010247">étude notariale 120 (CRPCEN : 75100)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0046_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1575, minute du 9 février 1917 (dépôt du testament de Georges René Niolet)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-08-26">26 août 1915</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>26 août 1915. Villejuif.</p><p>testament olographe de Georges René Niolet, mort pour la France le 25 septembre 1915 au combat de Saint Thomas (Marne).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-07-11" who="#SL. #MFGarreau #lelia #Marisele">transcription</change>
+            <change when-iso="2018-01-24/2018-05-15" who="#PCharbonnier ">validation</change>
+            <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0046___JPEG___FRAN_Poilus_t-0046_01.jpg" xml:id="FRAN_Poilus_t-0046_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0046">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0046_01"/>
+                <dateline><placeName type="willPlace" ref="#pl-183">Commune de Villejuif</placeName>
+                    <lb/>le <date type="willDate" when="1915-08-26"><choice><sic>vingt six Août</sic><corr>vingt-six août</corr></choice> 1915</date></dateline>
+                <space quantity="3" unit="lines" dim="vertical"/>
+                <p>Je soussigné <persName ref="#pers-103">Georges René <lb/><surname>Niolet</surname></persName>, vendeur, demeurant <lb/>à <placeName type="willAuthorResidence" ref="#pl-181">Toul</placeName> faubourg <choice><sic>S<subst><del><hi rend="superscript">t</hi></del><add>aint</add></subst> Mansuy</sic><corr>Saint-Mansuy</corr></choice>, <lb/>Croix de Metz, institue pour <lb/>mes légataires universelles, conjointement <lb/><persName>Anna Yvonne <surname>Niolet</surname></persName>, ma <choice><sic>Sœur</sic><corr>sœur</corr></choice>, <lb/><choice><sic>Institutrice</sic><corr>institutrice</corr></choice>, demeurant à <placeName type="otherPlace"><choice><sic>Saint <lb/>Christophe de Valains</sic><corr>Saint-<lb break="no"/>Christophe-de-Valains</corr></choice></placeName> (Ille &amp; Vilaine) <lb/><choice><sic>Et.</sic><corr>et</corr></choice> <persName>Pauline, Suzanne, Augustine <lb/><surname>Goujon</surname></persName>, <choice><sic>Couturière</sic><corr>couturière</corr></choice>, demeurant <lb/>à <placeName type="otherPlace" ref="#pl-181">Toul</placeName>, faubourg <choice><sic>Saint Mansuy</sic><corr>Saint-Mansuy</corr></choice>, <lb/>Croix de Metz.</p>
+                <p>Je révoque tout testament <lb/><choice><sic>Antérieur</sic><corr>antérieur</corr></choice>.</p>
+                <dateline rend="right">Fait à <placeName type="willPlace" ref="#pl-183">Villejuif</placeName> le <date type="willDate" when="1915-08-26">26 <choice><sic>Aout</sic><corr>août</corr></choice> 1915</date><choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="right"><persName ref="#pers-103">G. <surname>Niolet</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

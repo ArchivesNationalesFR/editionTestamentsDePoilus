@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0064">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la
+               Grande Guerre</title><title type="main">[Testament de Joseph Emmanuel Gabriel Adain (5 novembre 1916)] : édition électronique</title><author><persName ref="#pers-61">Joseph Emmanuel Gabriel Adain
+               (1883-1917)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+         <editionStmt>
+            <edition>Première édition électronique, fondée sur un travail de transcription
+               collaborative</edition>
+            <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+            <respStmt><resp>Identification et description du testament</resp><persName ref="#TR">Thierry Rihouey</persName><persName ref="#FAuriau">Françoise Auriau</persName><persName ref="#SBlanchard">Sophie Blanchard</persName><persName ref="#MDeuve">Mathilde Deuve</persName></respStmt>
+            <respStmt><resp>Transcription</resp><persName ref="#lelia">Lélia Picabia</persName><persName ref="#Desauthieux">Laurent Corbin</persName><persName ref="#SL.">EG</persName><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#HB.">Hélène Brossier</persName><persName ref="#FMARIECLAIRE">FMARIECLAIRE</persName></respStmt>
+            <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#EdChamps">Emmanuelle de Champs</persName><persName ref="#YvelinesDoc">YvelinesDoc</persName></respStmt>
+            <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+         </editionStmt>
+         <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0064</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="will_AD78_0064_tes">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives départementales des Yvelines</institution>
+                  <collection>Archives notariales</collection>
+                  <idno>3E44 1005, minute du 21 mai 1917 (dépôt du testament de Joseph Emmanuel
+                     Gabriel Adain)</idno>
+                  <msName>Testament de Joseph Emmanuel Gabriel Adain (5 novembre 1916)</msName>
+               </msIdentifier>
+               <msContents>
+                  <summary><p><date type="willDate" when="1916-11-05">5 novembre 1916</date>.
+                           <placeName type="willPlace" ref="#pl-1">Saint-Denis</placeName>.</p><p><term type="willType">testament
+                           olographe</term> de <persName ref="#pers-61"><forename>Joseph</forename> <forename>Emmanuel</forename> <forename>Gabriel</forename> <surname>Adain</surname></persName>, mort
+                        pour la France le <date when="1917-05-07">7 mai 1917</date> en
+                           <placeName>Roumanie</placeName>.</p></summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>Papier commercial (testament). Enveloppe commerciale, 5 cachets de
+                           cire rouge (enveloppe). </support>
+                        <extent>4 pages et 1 enveloppe. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                              <height>31</height>
+                              <width>20</width>
+                           </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                              <height>14,3</height>
+                              <width>19</width>
+                           </dimensions>.</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <p>Testament : encre. Enveloppe : encre.</p>
+                  </handDesc>
+               </physDesc>
+               <history>
+                  <provenance><orgName>étude notariale de Versailles, étude
+                     Gayot</orgName></provenance>
+               </history>
+            </msDesc>
+            <msDesc xml:id="will_AD78_0064_min">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives départementales des Yvelines</institution>
+                  <collection>Archives notariales</collection>
+                  <idno>3E44 1005, minute du 21 mai 1917 (dépôt du testament de Joseph Emmanuel
+                     Gabriel Adain)</idno>
+                  <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                     minute</msName>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation><date type="willDate" when="1916-11-05">5 novembre 1916</date></creation>
+         <langUsage><language ident="fr">français</language></langUsage>
+         <abstract><p>5 novembre 1916.
+                           Saint-Denis.</p><p>testament
+                           olographe de Joseph Emmanuel Gabriel Adain, mort
+                        pour la France le 7 mai 1917 en
+                           Roumanie.</p></abstract>
+         <textClass>
+            <keywords>
+               <term type="subject">Grande Guerre</term>
+               <term type="subject">Poilu</term>
+               <term type="subject">testament</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when-iso="2018-01-24/2020-05-27" who="#lelia #Desauthieux #SL. #MFGarreau #HB. #FMARIECLAIRE">transcription</change>
+         <change when-iso="2018-01-24/2018-09-27" who="#PCharbonnier #EdChamps #YvelinesDoc">validation</change>
+         <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements et
+            contrôle de qualité finaux</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+      <surface type="will-envelope-recto" n="01">
+         <graphic url="testament_AD78_0064___JPEG___FRAD78_Poilus_t-0064_01.jpg" xml:id="FRAD78_Poilus_t-0064_01"/>
+      </surface>
+      <surface type="will-page" n="01">
+         <graphic url="testament_AD78_0064___JPEG___FRAD78_Poilus_t-0064_03.jpg" xml:id="FRAD78_Poilus_t-0064_03"/>
+      </surface>
+      <surface type="will-page" n="02">
+         <graphic url="testament_AD78_0064___JPEG___FRAD78_Poilus_t-0064_04.jpg" xml:id="FRAD78_Poilus_t-0064_04"/>
+      </surface>
+      <surface type="will-page" n="03">
+         <graphic url="testament_AD78_0064___JPEG___FRAD78_Poilus_t-0064_05.jpg" xml:id="FRAD78_Poilus_t-0064_05"/>
+      </surface>
+      <surface type="will-page" n="04">
+         <graphic url="testament_AD78_0064___JPEG___FRAD78_Poilus_t-0064_06.jpg" xml:id="FRAD78_Poilus_t-0064_06"/>
+      </surface>
+   </facsimile>
+   <text xml:id="will_AD78_0064">
+      <body>
+         <div type="envelope">
+            <pb facs="#FRAD78_Poilus_t-0064_01"/>
+            <p rend="centered">Testament du <choice><abbr>D<hi rend="superscript">r</hi></abbr><expan>docteur</expan></choice> <persName ref="#pers-61">Gabriel
+                     <lb/><surname>Adain</surname><choice><sic/><corr>.</corr></choice></persName></p>
+            <space quantity="1" unit="lines" dim="vertical"/>
+            <dateline rend="centered"><date type="willDate" when="1916-11-06">6 novembre
+               1916</date></dateline>
+            <space quantity="1" unit="lines" dim="vertical"/>
+            <signed rend="centered"><persName ref="#pers-61">M
+               <surname>Adain</surname></persName></signed>
+         </div>
+         <div type="will">
+            <pb facs="#FRAD78_Poilus_t-0064_03"/>
+            <head>Ceci est mon testament</head>
+            <p>Sain de corps et d’esprit, <date type="willDate" when="1916-11-05">le 5 novembre
+                  1916</date>, <lb/>je déclare laisser tout ce que je
+                     <choice><sic>possèdè</sic><corr>possède</corr></choice> à mon <lb/>fils
+                  <persName>Jean <surname>Adain</surname></persName> né le <date type="otherDate" when="1913-06-18">18 juin 1913</date><choice><sic>,</sic><corr/></choice> de mon <lb/> mariage avec Madame
+               <persName>Madeleine <surname>Robert</surname></persName><choice><sic/><corr>.</corr></choice></p>
+            <p><choice><sic>A</sic><corr>À</corr></choice> la suite du <choice><sic>decès</sic><corr>décès</corr></choice> de sa mère, mon
+               fils hérite <lb/>de sa mère, la totalité d’une rente de 1500 francs <lb/>garantie par
+               des titres, que je laisse aux mains de <lb/><persName><choice><abbr>M<hi rend="superscript-underlined">r</hi></abbr><expan>Monsieur</expan></choice> <surname>Jaillet</surname></persName><choice><sic/><corr>,</corr></choice> 33<choice><sic>,</sic><corr/></choice>
+               rue du <choice><sic>champ de mars</sic><corr>Champ-de-Mars</corr></choice> à
+               <placeName type="otherPlace" ref="#pl-2">Paris</placeName><choice><sic/><corr>,</corr></choice> <lb/>avec un pouvoir
+               régulier pour en toucher les rentes<choice><sic>,</sic><corr/></choice> en <lb/>mon absence.</p>
+            <p>Si je meurs, <persName><choice><sic>monsieur</sic><corr>Monsieur</corr></choice> <surname>Jaillet</surname></persName> aura la garde
+               de <lb/>mon fils et de ses intérêts ; au cas <choice><sic>ou il decederait <lb/>lui
+                     meme</sic><corr>où il décèderait <lb/>lui-même</corr></choice>, la garde de mon
+               enfant sera confiée <lb/>à mon frère <persName>Camille
+                  <surname>Adain</surname></persName>, pharmacien à <lb/><placeName type="otherPlace">Giromagny<choice><sic>,</sic><corr/></choice> (Territoire de Belfort)</placeName>. En aucun
+               cas <lb/>je ne <choice><sic>desire</sic><corr>désire</corr></choice> que mon fils
+               soit confié à ses <choice><sic>grands <lb/>parents</sic><corr>grands-<lb/>parents</corr></choice>
+               parents maternels que je considère comme <lb/>inaptes à son éducation. Je
+                     <choice><sic>desire</sic><corr>désire</corr></choice> et je
+                     <choice><sic>designe</sic><corr>désigne</corr></choice> <lb/>comme exécuteur
+               testamentaire le
+               <persName><choice><sic>Docteur</sic><corr>docteur</corr></choice> <lb/><surname>Hattat</surname></persName>
+               de <placeName type="otherPlace" ref="#pl-4">Chatou</placeName>, à qui je lègue, à
+               titre <lb/>d’épingle une somme de deux cents francs.</p>
+            <p>J’ai <choice><sic>declaré</sic><corr>déclaré</corr></choice> et je maintiens qu’à la
+               mort de <lb/>ma chère femme, il me restait en argent <lb/>une somme de 7000 francs.</p>
+            <p>J’ai déclaré qu’il <choice><sic>exitait</sic><corr>existait</corr></choice> comme
+               acquis de <lb/>communauté, ma maison sise rue de
+                     Gravelle <lb/><choice><abbr>no</abbr><expan>numéro</expan></choice> 2<hi rend="superscript-underlined">ter</hi>, un certain nombre de meubles, la salle
+                     <lb/><choice><sic>a</sic><corr>à</corr></choice> manger, la chambre
+                     <choice><sic>a</sic><corr>à</corr></choice> coucher que j’occupe <lb/>sise sur
+               la rue <choice><sic>a</sic><corr>à</corr></choice> gauche au 1<hi rend="superscript-underlined">er</hi> étage, la toilette <lb/>de la chambre de
+               droite, le salon et ce qui le meuble <lb/>y compris le piano.</p>
+            <p><app><lem>J’ai remis la clef de mon <choice><sic>coffre
+                           fort</sic><corr>coffre-fort</corr></choice> 8.13 <lb/>à
+                           <persName><choice><abbr>Mr</abbr><expan>Monsieur</expan></choice> <surname>Jaillet</surname></persName>.
+                     Il y a <choice><sic>la</sic><corr>là</corr></choice> des papiers, mes
+                     polices <lb/>d’assurance et des bijoux. La combinaison <lb/>est <hi rend="double-underlined">607</hi><choice><sic/><corr>.</corr></choice> <seg type="signature"><persName ref="#pers-61">D
+                           <surname>Adain</surname></persName></seg></lem><note resp="#FClavaud">Ce paragraphe est inscrit dans la marge de gauche, verticalement,
+                     sans doute après le reste.</note></app></p>
+            <pb facs="#FRAD78_Poilus_t-0064_04"/>
+            <p>Tout le reste, tableaux y compris, m’appartenait <lb/>en propre lors de mon mariage.
+               Le petit bureau <lb/>Louis XV qui est dans ma chambre
+                     <choice><sic>a</sic><corr>à</corr></choice> coucher, <lb/>m’appartenait
+               également (<supplied reason="deleted">il </supplied>m’a été donné par ma <lb/>mère). L’auto est à la communauté.</p>
+            <p>Ce que <choice><sic>m a</sic><corr>ma</corr></choice> femme a apporté en mariage,
+               linge <lb/>et <choice><sic>bijou</sic><corr>bijoux</corr></choice> est sur le contrat
+               de mariage. Elle n’a <lb/>contrairement <choice><sic>a</sic><corr>à</corr></choice>
+               ce qui est <choice><sic>ecrit</sic><corr>écrit</corr></choice> dans le contrat,
+               <lb/>apporté aucun objet mobilier.</p>
+            <p>Ceci dit la communauté a à sa charge les dettes <lb/>suivantes :</p>
+            <list>
+               <item>1<hi rend="superscript">o</hi> 22<choice><sic>.</sic><corr> </corr></choice>500
+                        <choice><abbr>fr</abbr><expan>francs</expan></choice> dus sur la maison
+                        <choice><sic>a</sic><corr>à</corr></choice> <persName><choice><abbr>Mr</abbr><expan>Monsieur</expan></choice> <unclear>Corbin</unclear></persName>,
+                  dont <lb/>les <choice><sic>interets a 4 1/2 %</sic><corr>intérêts à 4,5
+                     %</corr></choice> ont <choice><sic>eté regulièrement</sic><corr>été
+                        régulièrement</corr></choice> <lb/>payés
+                     <choice><sic>a</sic><corr>à</corr></choice> ce jour. Ces
+                        <choice><sic>interets</sic><corr>intérêts</corr></choice> ont deux
+                  echéances, le <lb/>22 <choice><sic>fevrier</sic><corr>février</corr></choice> et
+                  le 22 <choice><sic>aout</sic><corr>août</corr></choice> chaque
+                        <choice><sic>annee</sic><corr>année</corr></choice>.</item>
+               <item>2<hi rend="superscript">o</hi> les
+                        <choice><sic>mémoirs</sic><corr>mémoires</corr></choice> des entrepreneurs
+                  qui <choice><sic>n ont</sic><corr>n’ont</corr></choice> pas été réglés <lb/>par
+                  l’architecte <persName><choice><abbr>Mr</abbr><expan>Monsieur</expan></choice> Welsch</persName>
+                  en raison de la <lb/>mobilisation. Certains de ces mémoires sont très exagérés
+                  <lb/>il appartiendra <choice><sic>a</sic><corr>à</corr></choice> <persName><choice><abbr>Mr</abbr><expan>Monsieur</expan></choice>
+                     Jaillet</persName> de veiller sur les <lb/>intérêts de mon fils
+                        <choice><sic>a</sic><corr>à</corr></choice> cet égard. D’autre part
+                        <choice><sic>jai</sic><corr>j’ai</corr></choice> <lb/>versé des accomptes
+                        :<choice><sic>"</sic><corr/></choice><lb/><list>
+                     <item><persName>Beunon</persName> (maçon) 3000
+                              <choice><abbr>frs</abbr><expan>francs</expan></choice><choice><sic/><corr>.</corr></choice></item>
+                     <item><persName>Berson</persName> (toiture salle de bain etc) 1000
+                              <choice><abbr>frs</abbr><expan>francs</expan></choice><choice><sic/><corr>.</corr></choice></item>
+                     <item><persName>Le Lan</persName> (peintre) 1000.</item>
+                     <item><persName>Scheid</persName> (menuisier) 1000.</item>
+                     <item>J’ai payé le mouleur
+                           <persName><choice><abbr>mr</abbr><expan>Monsieur</expan></choice> Dupont</persName>
+                        rue Hoche totalement.</item>
+                     <item><persName>Ferré</persName> (serrurier) 200
+                              <choice><abbr>frs</abbr><expan>francs</expan></choice>.</item>
+                  </list></item>
+            </list>
+            <p>D’autre part<choice><sic/><corr>,</corr></choice></p>
+            <list>
+               <item><persName><choice><abbr>Mr</abbr><expan>Monsieur</expan></choice>
+                     Tunzini</persName> me doit environ 500
+                        <choice><abbr>fr</abbr><expan>francs</expan></choice><lb/> d’honoraires, qui
+                  sont portés sur mes <unclear>livres</unclear> de 1914 et <lb/>1916.</item>
+               <item><persName><choice><abbr>Mr</abbr><expan>Monsieur</expan></choice>
+                     Berson</persName> me doit
+                     <choice><sic>egalement</sic><corr>également</corr></choice> des
+                        <lb/>honoraires<choice><sic/><corr>.</corr></choice></item>
+               <item><persName><choice><abbr>Mr</abbr><expan>Monsieur</expan></choice>
+                     Delahaye</persName> (papier) <gap reason="illegible" unit="words" quantity="1"/> également.</item>
+            </list>
+            <pb facs="#FRAD78_Poilus_t-0064_05"/>
+            <list>
+               <item>3<hi rend="superscript">o</hi> La cheminée du salon est due (demander <lb/>la
+                  note <choice><sic>a</sic><corr>à</corr></choice> <persName><choice><abbr>Mr</abbr><expan>Monsieur</expan></choice> Welsch</persName>, c’est 360
+                     <choice><abbr>frs</abbr><expan>francs</expan></choice>).</item>
+               <item>4<hi rend="superscript">o</hi> Les tapis qui sont en garde au <orgName>Bon
+                     marché</orgName> <lb/>sont dus
+                           (<persName><choice><abbr>Mr.</abbr><expan>Monsieur</expan></choice> Parlant</persName><choice><sic/><corr>,</corr></choice> rue de Paradis).
+                  <choice><sic>e</sic><corr>E</corr></choice>nviron 300
+                        <choice><abbr>frs</abbr><expan>francs</expan></choice>.</item>
+               <item>5<hi rend="superscript">o</hi> Je dois en outre une note de 650
+                        <choice><abbr>frs</abbr><expan>francs</expan></choice> environ au
+                  <lb/>garage <persName>Herrionnet</persName> (<placeName type="otherPlace" ref="#pl-35">Versailles</placeName>)<choice><sic/><corr>.</corr></choice></item>
+               <item>6<hi rend="superscript">o</hi> Je dois aussi une note
+                        <choice><sic>a</sic><corr>à</corr></choice> un marchand de vin <lb/>de
+                  Bordeaux
+                        (500 <choice><abbr>.</abbr><expan>francs</expan></choice><choice><sic>)</sic><corr/></choice>
+                        environ<choice><sic/><corr>)</corr></choice>. C’est le vin qui est dans
+                  <lb/>la cave en bouteille.</item>
+               <item>7<hi rend="superscript">o</hi> Je dois 120
+                        <choice><abbr>frs</abbr><expan>francs</expan></choice> environ
+                        <choice><sic>a</sic><corr>à</corr></choice> <persName>Pujol</persName><choice><sic> maitre
+                        Tailleur</sic><corr>, maître tailleur</corr></choice> <lb/><unclear>au 20<hi rend="superscript-underlined">o</hi> traies</unclear>. Il me doit des
+                  honoraires en 1916.</item>
+               <item><add place="inline">8<hi rend="superscript">o</hi> Je dois 6333
+                           <choice><abbr>fr</abbr><expan>francs</expan></choice> <choice><sic>a</sic><corr>à</corr></choice> <persName><choice><abbr>Mr</abbr><expan>Monsieur</expan></choice>
+                              Robert</persName> (prêt en 1912)<choice><sic> Les interets</sic><corr>. Les
+                           intérêts</corr></choice> sont payés
+                        <choice><sic>a</sic><corr>à</corr></choice> ce
+                  jour<choice><sic/><corr>.</corr></choice></add> <add place="marginLeft" type="testatorComment"><seg type="signature"><persName>D. Adain</persName></seg></add></item>
+            </list>
+            <p>J’ai payé les contributions de 1916 mais <supplied reason="deleted">pas</supplied> celles de <lb/><choice><sic>l auto</sic><corr>l’auto</corr></choice>
+               pour 1915 et 1916, parce que l’on a tarifé <lb/>l’auto à 4 places et
+                     <choice><sic>a</sic><corr>à</corr></choice> 16
+                           <choice><abbr>hp</abbr><expan>chevaux</expan></choice>,
+               alors qu’elle a 2 <lb/>places et 10
+                  <choice><abbr>Hp</abbr><expan>chevaux</expan></choice>. Ceci est une question
+               <choice><sic>a règler</sic><corr>à régler</corr></choice>. <add place="marginLeft" type="testatorComment"><seg type="signature"><persName>D. Adain</persName></seg></add></p>
+            <p>Personnellement j’ai gagné et touché <lb/>en 1916
+                  <choice><sic>-</sic><corr/></choice> 23 000
+                     <choice><abbr>frs</abbr><expan>francs</expan></choice>, qui sont déposés à la
+                  <lb/><orgName>Banque de France</orgName>, et dont les reçus sont dans cette
+               <lb/>enveloppe de testament. Ajoutés aux 7000 qui restaient
+                     <lb/><choice><sic>a</sic><corr>à</corr></choice> la mort de ma femme cela fait
+               30<choice><sic>.</sic><corr> </corr></choice>000 <choice><abbr>fr</abbr><expan>francs</expan></choice> en bons de <lb/>la
+                        <orgName><choice><sic>d</sic><corr>D</corr></choice>éfense
+                  nationale</orgName> à <choice><sic>1</sic><corr>un</corr></choice> an. J’ai en outre un <lb/>petit compte ouvert à la
+                  <orgName>Banque de France</orgName><choice><sic/><corr>.</corr></choice></p>
+            <p>Je suis possesseur de <choice><sic>2</sic><corr>deux</corr></choice> actions libérées de 100
+                     <choice><abbr>fr.</abbr><expan>francs</expan></choice> chaque <lb/>à
+                  l’<orgName>école Jules Ferry</orgName>.</p>
+            <p>Je suis pourvu d’une assurance mixte de <lb/>25000<choice><sic>.</sic><corr/></choice> <choice><abbr>fr</abbr><expan>francs</expan></choice> à <orgName>La Victoria de
+                  Berlin</orgName>. J’ai payé <choice><sic>3</sic><corr>trois</corr></choice> <lb/>primes et n’ai pas payé
+                     <choice><sic>celle</sic><corr>celles</corr></choice> qui sont échues en
+                     <lb/><choice><sic>decembre</sic><corr>décembre</corr></choice> 1914, 15 et 16.
+               Cette assurance, garantit <lb/>les risques de guerre, sur terre et sur
+                  mer<del>e</del>. J’ai notifié <lb/>par lettre recommandée au
+                     <choice><sic>sequestre</sic><corr>séquestre</corr></choice>,
+                        <persName><choice><abbr>Mr</abbr><expan>Monsieur</expan></choice> Bartes</persName>,
+               que <lb/>je m’engageais <choice><sic>a</sic><corr>à</corr></choice> payer les primes
+                     <choice><sic>echues a</sic><corr>échues à</corr></choice> la <lb/>fin des
+               hostilités. De cette façon mon assurance <lb/>est valable.</p>
+            <pb facs="#FRAD78_Poilus_t-0064_06"/>
+            <p><persName><choice><abbr>M<hi rend="superscript-underlined">r</hi></abbr><expan>Monsieur</expan></choice> Jaillet</persName> me doit
+               1800 <choice><abbr>frs</abbr><expan>francs</expan></choice> dont le reçu est <lb/>sous cette enveloppe.</p>
+            <p>Il reste à toucher un certain nombre d’honoraires de 1913 <add place="marginRight" type="testatorComment">DrJA</add> <lb/>de 1914 et de 1916. Mes livres sont ici, il y
+               aurait <lb/>lieu de poursuivre le
+                  <choice><sic>reglement</sic><corr>règlement</corr></choice> de ces notes pour <lb/>toutes les juridictions, au cas de mon
+                  <choice><sic>deces</sic><corr>décès</corr></choice>, en tous cas <lb/>pour les
+               plus fortes notes.</p>
+            <p>Les dettes des <choice><sic>memoirs</sic><corr>mémoires</corr></choice>, et de la
+               maison seraient donc <lb/>largement payées, et la maison appartiendrait à mon
+               fils.<lb/> L’excédent sera placé en bonnes rentes
+                     <choice><sic>sures</sic><corr>sûres</corr></choice> qu’il ne <lb/>pourra
+               toucher qu’<choice><sic>a</sic><corr>à</corr></choice> sa majorité.</p>
+            <p>D’autre part ma <choice><sic>clientelle</sic><corr>clientèle</corr></choice> peut
+               être vendue, ainsi <lb/>que l’auto. Les clientèles se vendent chez <orgName>Breitel
+                  <lb/>et <unclear>Pons</unclear></orgName>, <choice><abbr>B<hi rend="superscript-underlined">d</hi> S<hi rend="superscript">t</hi></abbr><expan>Boulevard Saint</expan></choice><choice><sic/><corr>-</corr></choice>Michel. En cas de
+                     <choice><abbr>decès</abbr><expan>décès</expan></choice>, il serait facile
+               <lb/>de la vendre au moins 5000
+                  <choice><abbr>fr.</abbr><expan>francs</expan></choice> sans le matériel. <lb/>Ma
+               maison sera habitée ou louée. Si elle est habitée <lb/>par
+                     <persName><choice><abbr>Mr</abbr><expan>Monsieur</expan></choice> Jaillet</persName>
+               et sa famille, je crois juste de demander <lb/>à
+                     <persName><choice><abbr>Mr</abbr><expan>Monsieur</expan></choice> Jaillet</persName>
+               une somme de <subst><del>5</del><add>mille</add></subst> francs par an. Cette
+               <lb/>somme sera placée en capitalisation. Le produit
+                     appartiendra <lb/><choice><sic>a</sic><corr>à</corr></choice> mon fils
+                     <choice><sic>a</sic><corr>à</corr></choice> sa majorité et sera placé par lui.
+               Néanmoins <lb/>pour remercier <persName><choice><abbr>Mr</abbr><expan>Monsieur</expan></choice> Jaillet</persName>
+               d’avoir <choice><sic>elevé</sic><corr>élevé</corr></choice> mon fils, avec le
+               <lb/>même amour que les siens, les <choice><sic>5</sic><corr>cinq</corr></choice>
+               premiers mille francs <lb/>capitalisés appartiendront
+                     <persName><choice><sic>a</sic><corr>à</corr></choice> Simone Jaillet</persName>
+               et seront <lb/>placés pour elle. Il est bien entendu que ces
+                     <choice><sic>5</sic><corr>cinq</corr></choice> mille francs <lb/>ne pourront
+               provenir que de cette location de ma maison
+                  <lb/><choice><sic>a</sic><corr>à</corr></choice> <persName><choice><abbr>Mr</abbr><expan>Monsieur</expan></choice> Jaillet</persName>.
+               Au cas <choice><sic>ou</sic><corr>où</corr></choice> elle serait louée
+                     <choice><sic>a</sic><corr>à</corr></choice> des
+                     <choice><abbr>1/3</abbr><expan>tiers</expan></choice>, mon <lb/>mobilier sera
+               placé dans un petit logement jusqu’<choice><sic>a</sic><corr>à</corr></choice> la
+               majorité <lb/>de mon fils et le loyer de ce logement sera payé par
+                     <persName><choice><abbr>Mr</abbr><expan>Monsieur</expan></choice> Jaillet</persName> <lb/>sur
+               le montant de la location. Ma maison peut
+               <choice><sic>etre</sic><corr>être</corr></choice> louée au <lb/>moins 3000
+                     <choice><abbr>frs</abbr><expan>francs</expan></choice> par an. Même dans ce
+               cas, je maintiens <lb/>que <choice><sic>-</sic><corr/></choice>5<choice><sic/><corr> </corr></choice>000<choice><sic>-</sic><corr/></choice> <choice><abbr>
+                  frs</abbr><expan>francs</expan></choice> devront être donnés
+                     <choice><sic>a</sic><corr>à</corr></choice> <persName>Simone Jaillet</persName>
+               sur le <lb/>produit de ma location<choice><sic>-</sic><corr>.</corr></choice> Les papiers qui me sont personnels <lb/>(<choice><sic>Lettres</sic><corr>lettres</corr></choice> de ma femme) seront
+               brûlés sans <choice><sic>qu on</sic><corr>qu’on</corr></choice> en lise un
+                     seul<choice><sic>)</sic><corr>.</corr></choice> <lb/><choice><sic>j</sic><corr>J</corr></choice>’en
+               ai fait un paquet<choice><sic>-</sic><corr>.</corr></choice> En dehors de ce que j’ai annoncé <lb/>je ne dois rien
+                     <choice><sic>a</sic><corr>à</corr></choice> personne
+                     <choice><sic>a</sic><corr>à</corr></choice> cette date.</p>
+            <dateline><date type="willDate" when="1916-11-05">5 novembre
+               1916</date></dateline>
+            <signed><persName ref="#pers-61">D<hi rend="superscript-underlined">r</hi>.J.<surname>Adain</surname></persName></signed>
+            <postscript rend="marginLeft"><p>Pour faire vivre mon fils<choice><sic/><corr>,</corr></choice> il suffirait de
+                        <choice><sic>depenser honnetement,</sic><corr>dépenser
+                     honnêtement</corr></choice> ce qui lui est
+                        <choice><sic>necessaire</sic><corr>nécessaire.</corr></choice> <lb/>Il aura
+                  1500 <choice><abbr>frs</abbr><expan>francs</expan></choice> de sa
+                        mère<choice><sic/><corr>,</corr></choice> <lb/>la pension que <choice><sic>l
+                        etat</sic><corr>l’État</corr></choice> lui devra <choice><sic>a</sic><corr>à</corr></choice> ma
+                        mort<choice><sic/><corr>.</corr></choice> <lb/>Le reste sera placé et les
+                  rentes seront
+                  capitalisées<choice><sic/><corr>.</corr></choice></p>
+               <signed rend="right"><persName ref="#pers-61">D<hi rend="superscript">r</hi>.J.<surname>Adain</surname></persName></signed>
+            </postscript>
+            <postscript rend="marginLeft"><p>Les registres de reçus <choice><sic>a</sic><corr>à</corr></choice> souche, sont <lb/>dans les mains
+                  de <persName><choice><abbr>M<hi rend="superscript-underlined">r</hi></abbr><expan>Monsieur</expan></choice> Vicher</persName><choice><sic/><corr>,</corr></choice> 1
+                  avenue <lb/>de Sceaux<choice><sic> -</sic><corr>,</corr></choice> qui fait mes recouvrements<choice><sic/><corr>.</corr></choice></p>
+               <signed><persName ref="#pers-61">D<hi rend="superscript">r</hi>.J.<surname>Adain</surname></persName></signed>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

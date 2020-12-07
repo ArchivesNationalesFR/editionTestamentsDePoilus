@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD95_0008">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Denis Louis Mallard (30 octobre 1914)] : édition électronique</title><author><persName ref="#pers-403">Denis Louis Mallard
+                    (1883-1915)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#LLecoutre">Lena Lecoutre</persName><persName ref="#SBlanchard">Sophie Blanchard</persName><persName ref="#SD">Sophie Delinge</persName><persName ref="#TO">Thomas Olivier</persName><persName ref="#SDechavanne">Sylvie Dechavanne</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#lelia">Lélia Picabia</persName><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#SL.">EG</persName><persName ref="#GBMireille">Mireille Grais-Bruguière</persName><persName ref="#Lamotte">Isabelle Lamotte</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#SDechavanne">Sylvie Dechavanne</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD95_0008</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD95_0008_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales du Val-d’Oise</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>2E28 595, minute du 13 août 1918 (dépôt du testament de Denis Louis
+                            Mallard)</idno>
+                        <msName>Testament de Denis Louis Mallard (30 octobre 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-10-30">30 octobre 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-605">Evreux</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-403"><forename source="#will_AD95_0008_tes #will_AD95_0008_min #MDH #AS">Denis</forename> <forename source="#will_AD95_0008_tes #will_AD95_0008_min #MDH #AS">Louis</forename> <surname>Mallard</surname></persName>, mort
+                                pour la France le <date when="1915-01-20" source="#will_AD95_0008_min #AS">20 janvier 1915 [NOT]
+                                    [AS]</date> ou le <date when="1915-01-21" source="#MDH">21
+                                    janvier 1915 [MDH]</date> à <placeName ref="#pl-94" source="#will_AD95_0008_min #AS #MDH">Berry au Bac [NOT] [AS] |
+                                    Berry au Bac (Aisne) [MDH]</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré ivoire (testament). </support>
+                                <extent>2 pages. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>Dusapt Cormeilles-en-Parisis</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD95_0008_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales du Val-d’Oise</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>2E28 595, minute du 13 août 1918 (dépôt du testament de Denis Louis
+                            Mallard)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-10-30">30 octobre 1914</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>30 octobre 1914.
+                                    Evreux.</p><p>testament
+                                    olographe de Denis Louis Mallard, mort
+                                pour la France le 20 janvier 1915 [NOT]
+                                    [AS] ou le 21
+                                    janvier 1915 [MDH] à Berry au Bac [NOT] [AS] |
+                                    Berry au Bac (Aisne) [MDH].</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-10-09/2020-03-20" who="#lelia #MFGarreau #SL. #GBMireille #Lamotte">transcription</change>
+            <change when-iso="2019-10-09/2020-01-23" who="#PCharbonnier #Dechavanne">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD95_0008___JPEG___FRAD95_Poilus_t-0008_01.jpg" xml:id="FRAD95_Poilus_t-0008_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AD95_0008___JPEG___FRAD95_Poilus_t-0008_02.jpg" xml:id="FRAD95_Poilus_t-0008_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD95_0008">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD95_Poilus_t-0008_01"/>
+                <head rend="centered">Ceci est mon
+                            <choice><sic>Testament</sic><corr>testament</corr></choice></head>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Je, soussigné, <persName ref="#pers-403">Denis Louis
+                        <surname>Mallard</surname></persName> (né le <date type="willAuthorBirthDate" when="1883-08-11">11
+                                <choice><sic>aout</sic><corr>août</corr></choice> 1883</date> et
+                        <choice><sic>do-<lb/>micilié</sic><corr>do<lb break="no"/>micilié</corr></choice> actuellement
+                        <choice><sic>Rue</sic><corr>rue</corr></choice> <choice><abbr>S<hi rend="superscript-double-underlined">t</hi></abbr><expan>Saint</expan></choice><choice><sic> </sic><corr>-</corr></choice>Thomas 37 à <placeName type="willAuthorResidence" ref="#pl-605">Evreux</placeName> en qualité de
+                    <choice><sic>Sergent</sic><corr>sergent</corr></choice> <lb/>à la 25<hi rend="superscript-double-underlined">e</hi> <choice><abbr>C<hi rend="superscript-double-underlined">ie</hi></abbr><expan>compagnie</expan></choice> du <orgName ref="#o-288">28<hi rend="superscript">e</hi> régiment
+                                d’<choice><sic>Infanterie</sic><corr>infanterie</corr></choice></orgName>)<choice><sic/><corr>,</corr></choice>
+                    sain de corps et d’esprit<choice><sic/><corr>,</corr></choice> <lb/>et pensant
+                    partir sur le front de bataille du <date type="otherDate" when="1914-11-01">1<hi rend="superscript-double-underlined">er</hi> </date> au <date type="otherDate" when="1914-11-10">10 novembre <lb/>1914</date>, décide :
+                    <lb/>que le testament que je rédige ce
+                        jour<choice><sic/><corr>,</corr></choice> <date type="willDate" when="1914-10-30">trente octobre mille neuf cent
+                            <lb/>quatorze</date><choice><sic/><corr>,</corr></choice> annule le ou
+                    les testaments que j<choice><sic>"</sic><corr>’</corr></choice>ai
+                            <choice><sic>rédigé</sic><corr>rédigés</corr></choice> jusqu’à ce
+                    <lb/>jour. Le testament est fait en un seul exemplaire et confié à mon
+                    <lb/>frère <persName>Louis Henry Mallard</persName> ou en son absence à sa femme
+                        <persName>Felicia <choice><sic>Guil-<lb/>lon</sic><corr>Guil<lb break="no"/>lon</corr></choice> femme Mallard</persName> ;
+                            <choice><sic>Le</sic><corr>le</corr></choice> testament comporte
+                    l’énumération et la <lb/>destination des biens que je possède actuellement et la
+                    destination <lb/>des biens qui composeront ma succession ou
+                            <choice><sic>heritage</sic><corr>héritage</corr></choice> <choice><sic>future</sic><corr>futur</corr></choice>.</p>
+                <p><add place="marginLeft">I<metamark function="separating" rend="other"/></add> En
+                    vertu de mes droits je lègue à ma soeur
+                        <choice><sic>Eugenie</sic><corr>Eugénie</corr></choice> ce qui suit : </p>
+                <list>
+                    <item>1<hi rend="superscript-double-underlined">o</hi> Le montant d’un livret de
+                                    <orgName><choice><sic>caisse</sic><corr>Caisse</corr></choice>
+                                    d’<choice><sic>Epargne</sic><corr>épargne</corr></choice></orgName> <choice><abbr>n<hi rend="superscript-double-underlined">o</hi></abbr><expan>numéro</expan></choice> 68-67474<choice><sic/><corr>.</corr></choice></item>
+                    <item>2<hi rend="superscript-double-underlined">o</hi> Une obligation foncière
+                        1885 <choice><abbr>n<hi rend="superscript-double-underlined">o</hi></abbr><expan>numéro</expan></choice> 791-868<choice><sic/><corr>.</corr></choice></item>
+                    <item>3<hi rend="superscript-double-underlined">o</hi> <choice><sic>quatre</sic><corr>Quatre</corr></choice> obligations
+                            <orgName>Constructions
+                                <choice><sic>Mécaniques</sic><corr>mécaniques</corr></choice></orgName> <choice><abbr>n<hi rend="superscript-double-underlined">os</hi></abbr><expan>numéros</expan></choice> 68152/153, 56.382 et
+                        6420<choice><sic/><corr>.</corr></choice></item>
+                    <item>4<hi rend="superscript-double-underlined">o</hi> <choice><sic>deux</sic><corr>Deux</corr></choice> obligations
+                                <choice><sic>Russe</sic><corr>russes</corr></choice> emprunt 1906
+                        <choice><sic>serie</sic><corr>série</corr></choice> 160
+                                    <choice><abbr>n<hi rend="superscript-double-underlined">os</hi></abbr><expan>numéros</expan></choice> 500 et 501<choice><sic/><corr>.</corr></choice></item>
+                    <item><add place="inline">5<hi rend="superscript-double-underlined">o</hi> <choice><sic>une</sic><corr>Une</corr></choice>
+                            parcelle de terrain indivise entre Louis,
+                                    <choice><sic>Eugenie</sic><corr>Eugénie</corr></choice> et moi et
+                            qu’elle a conservée
+                        jusqu’ici<choice><sic/><corr>.</corr></choice></add></item>
+                </list>
+                <p><add place="marginLeft">II<metamark function="separating" rend="other"/></add> <choice><sic>A</sic><corr>À</corr></choice> mon frère Louis ou à
+                    ses héritiers je lègue <choice><sic/><corr>:</corr></choice></p>
+                <list>
+                    <item>1<hi rend="superscript-double-underlined">o</hi> <choice><sic>une</sic><corr>Une</corr></choice> obligation foncière
+                        1879 <choice><abbr>n<hi rend="superscript-double-underlined">o</hi></abbr><expan>numéro</expan></choice> 1.445.587<choice><sic/><corr>.</corr></choice></item>
+                    <item>2<hi rend="superscript-double-underlined">o</hi> <choice><sic>six</sic><corr>Six</corr></choice> parcelles de terrain
+                            <app><lem><del>se composant de six lots de terrains</del> <add place="marginLeft" type="testatorComment">7
+                            mots rayés et nuls <seg type="signature"><persName ref="#pers-403">DMallard</persName></seg></add></lem><note resp="#PCharbonnier">Mention "7 mots rayés et nuls" ajoutée en marge et signée "DMallard".</note></app>
+                        situées <supplied reason="deleted">au</supplied> <lb/>lieu<choice><sic/><corr>-</corr></choice>dit <placeName>les
+                            Mazures</placeName> et formant avec des terrains appartenant à <lb/>mon
+                        frère Louis "La Cité des deux
+                                frères"<choice><sic/><corr>.</corr></choice> Ces six
+                                parcelles se <lb/>décomposent ainsi :<list>
+                            <item>A) Terrain provenant <lb/>de <persName><choice><abbr>M<hi rend="superscript-double-underlined">r</hi></abbr><expan>Monsieur</expan></choice>
+                                    Routier</persName></item>
+                            <item>B) Terrain provenant de <lb/><persName><choice><abbr>M<hi rend="superscript-double-underlined">r</hi></abbr><expan>Monsieur</expan></choice> Georges
+                                    Jacquet</persName></item>
+                            <item>C) Terrain provenant <lb/>de <persName><choice><abbr>M<hi rend="superscript-double-underlined">me</hi> V<hi rend="superscript-double-underlined">ve</hi></abbr><expan>Madame veuve</expan></choice>
+                                    Ballagny</persName></item>
+                            <item>D) et E) Terrains <lb/>provenant de <choice><abbr>M<hi rend="superscript-double-underlined">r</hi></abbr><expan>Monsieur</expan></choice> <persName>Lefèvre
+                                    dit le Gobain</persName></item>
+                            <metamark function="other" rend="other"/>
+                            <item>F) Terrain provenant de <persName><choice><abbr>M<hi rend="superscript-double-underlined">r</hi></abbr><expan>Monsieur</expan></choice> Elie
+                                    <lb/>dit le Goteux</persName></item>
+                        </list><lb/>Les titres de ces six parcelles sont
+                                <lb/><choice><sic>déposées</sic><corr>déposés</corr></choice> en
+                        l’étude de <persName><choice><abbr>M<hi rend="superscript-double-underlined">e</hi></abbr><expan>Maître</expan></choice> <app><lem><del>Prasquin</del><add place="marginLeft" type="testatorComment">1 mot rayé et nul <lb/><seg type="signature"><persName ref="#pers-403">DMallard</persName></seg></add></lem><note resp="#PCharbonnier">Mention "1 mot rayé et nul" ajoutée en marge et signée "DMallard".</note></app> <lb/>Dussapt</persName>
+                        notaire à <placeName><choice><sic>Cormeilles en
+                                    <lb/>Parisis</sic><corr>Cormeilles-en-Parisis</corr></choice></placeName>.</item>
+                    <item>3<hi rend="superscript-double-underlined">o</hi> <choice><sic>une</sic><corr>Une</corr></choice> moitié d’un caveau
+                        sis au cimetière de <placeName ref="#pl-477">Sartrouville</placeName>,
+                                <choice><sic>La</sic><corr>la</corr></choice> moitié
+                        <lb/>appartenant à mon frère Louis ;
+                            <choice><sic>L</sic><corr>l</corr></choice>’autre moitié lui reviendra
+                        par ce <lb/>testament, à charge pour lui d’accorder une place pour le repos
+                        du <lb/>corps de mon neveu <persName>Désiré Tenot</persName> décédé des
+                        suites de blessures le <date when="1914-08-18"><subst><del><unclear reason="cancelled">20</unclear></del><add>18</add></subst> <lb/><choice><sic>aout</sic><corr>août</corr></choice>
+                            1914</date> <choice><sic>a</sic><corr>à</corr></choice> <placeName ref="#pl-128">Nancy</placeName> (<choice><sic>Meurthe et
+                                Moselle</sic><corr>Meurthe-et-Moselle</corr></choice>). Mais à la
+                        condition que ma soeur <lb/>fera le nécessaire pour la remise en état du
+                        caveau après l’inhumation<choice><sic/><corr>,</corr></choice> <lb/>que cette
+                        opération sera faite dans les huit mois suivant la <lb/>date de la signature
+                        du traité de <choice><sic>Paix</sic><corr>paix</corr></choice> entre la
+                        France et l’Allemagne<choice><sic>.</sic><corr>,</corr></choice> <lb/><add place="below">et avec les deniers de ma soeur, mon frère restant libre
+                            de tout engagement
+                        pécunier</add><choice><sic/><corr>.</corr></choice> <lb/>En aucun cas ma
+                        soeur ne pourra être <choice><sic>inhumé</sic><corr>inhumée</corr></choice>
+                        dans la partie <lb/>provenant de mon héritage car ce monument fut élevé à la
+                        mémoire <lb/>de nos père et mère et c’est à cause d’elle que les corps ne
+                        <lb/>furent pas exhumés et mis dans cette dernière demeure.</item>
+                </list>
+                <fw place="centered">Tournez <choice><abbr>S.V.P.</abbr><expan>s’il vous
+                            plaît</expan></choice></fw>
+                <pb facs="#FRAD95_Poilus_t-0008_02"/>
+                <p>De plus je <hi rend="underlined">ne veux</hi> en aucun cas que mon corps
+                    <lb/>soit transporté à <placeName type="otherPlace" ref="#pl-477">Sartrouville</placeName> si <hi rend="underlined">je décède pendant la
+                        durée de <lb/>la guerre</hi> <hi rend="double-underlined">et loin du
+                        pays</hi>, car ce sont des frais inutiles. <lb/>Le deuil devant se porter
+                    intérieurement et non extérieurement ou <lb/>officiellement.</p>
+                <p>Quant à la destination des biens qui composeront <lb/>plus tard ma fortune soit
+                    par suite d’héritage ou de toute autre
+                        <lb/>manière<choice><sic/><corr>,</corr></choice> je les lègue entièrement à
+                    mes neveux et nièces présents ou <lb/>futurs <hi rend="underlined">nés du
+                        mariage de mon frère Louis avec <choice><abbr>M<hi rend="superscript-double-underlined">me</hi></abbr><expan>Madame</expan></choice> <persName>Félicia Mallard née
+                                <lb/>Guillon</persName></hi><choice><sic/><corr>.</corr></choice></p>
+                <p>Je demanderai à mon frère Louis en cas de décès de <lb/>ma soeur Eugénie de
+                    reporter son affection sur <persName>Charlotte Mallard</persName> notre
+                    <lb/>nièce et de me remplacer, de la considérer comme une de ses enfants
+                    <lb/>tout comme je l’aurais fait si la vie de m’avait pas été
+                            retirée<choice><sic/><corr>.</corr></choice></p>
+                <dateline>Fait à <placeName type="willPlace" ref="#pl-605">Evreux</placeName> <choice><sic>Sain</sic><corr>sain</corr></choice> de
+                    corps et d’<choice><sic>Esprit</sic><corr>esprit</corr></choice> <date type="willDate" when="1814-10-30">le <lb/>trente octobre mille neuf cent
+                        quatorze</date> <choice><sic>a</sic><corr>à</corr></choice> dix heures du
+                            <lb/>matin<choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="centered"><persName ref="#pers-403"><surname>Mallard</surname></persName></signed>
+                <postscript>
+                    <p>Je reçois avant de fermer ce pli<choice><sic/><corr>,</corr></choice> une
+                        carte de Louis m’annonçant qu’il est prisonnier <lb/>de guerre
+                                    <choice><abbr>1<hi rend="superscript-double-underlined">e</hi></abbr><expan>1<hi rend="superscript">ère</hi></expan></choice> <choice><sic>Tente</sic><corr>tente</corr></choice>
+                            2<hi rend="superscript-double-underlined">e</hi> <choice><sic>Compagnie</sic><corr>compagnie</corr></choice>
+                        Gefangenlager <placeName><choice><sic>Niederzweheren bie
+                                    Cassel</sic><corr>Niederzwehren bei Kassel,</corr></choice>
+                            Allemagne.</placeName></p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0024">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Louis Léon Bequet (20 mai 1915)] : édition électronique</title><author><persName ref="#pers-23">Louis Léon Bequet (1879-1917)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#CSouchon">Catherine Souchon</persName><persName ref="#SBlanchard">Sophie Blanchard</persName><persName ref="#MDeuve">Mathilde Deuve</persName><persName ref="#FAuriau">Françoise Auriau</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#lelia">Lélia Picabia</persName><persName ref="#SL.">EG</persName><persName ref="#Desauthieux">Laurent Corbin</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#EdChamps">Emmanuelle de Champs</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0024</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0024_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E30 674, minute du 3 juillet 1917 (dépôt du testament de Louis Léon
+                            Bequet)</idno>
+                        <msName>Testament de Louis Léon Bequet (20 mai 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1915-05-20">20 mai 1915</date>.
+                                    <placeName type="willPlace" ref="#pl-52">Brabant-sur-Meuse</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-23"><forename>Louis</forename> <forename>Léon</forename> <surname>Bequet</surname></persName>, mort
+                                pour la France le <date when="1917-03-17">17 mars 1917</date> à
+                                    <placeName ref="#pl-51">Leskovets
+                            (Serbie)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de
+                            Neauphle-le-Château</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0024_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E30 674, minute du 3 juillet 1917 (dépôt du testament de Louis Léon
+                            Bequet)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-05-20">20 mai 1915</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>20 mai 1915.
+                                    Brabant-sur-Meuse.</p><p>testament olographe de Louis Léon Bequet, mort
+                                pour la France le 17 mars 1917 à
+                                    Leskovets
+                            (Serbie).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-06-18" who="#lelia #SL. #Desauthieux">transcription</change>
+            <change when-iso="2018-01-24/2018-03-15" who="#PCharbonnier #EdChamps ">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0024___JPEG___FRAD78_Poilus_t-0024_01.jpg" xml:id="FRAD78_Poilus_t-0024_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0024">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0024_01"/>
+                <head>Ceci est mon testament</head>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Je <choice><sic>sousigné</sic><corr>soussigné</corr></choice> <persName ref="#pers-23">Léon <surname>Béquet</surname></persName> né à <lb/><placeName type="willAuthorBirthPlace">Villiers<choice><abbr>S<hi rend="superscript-underlined">t</hi></abbr><expan>-Saint-</expan></choice>Frédéric</placeName> et
+                    y demeurant<choice><sic>.</sic><corr>,</corr></choice> <lb/><choice><sic><subst><del>a</del><add>A</add></subst>ctuellement</sic><corr>actuellement</corr></choice>
+                    mobilisé au <orgName>30<hi rend="superscript">e</hi> régiment <lb/>territorial
+                        d’infanterie</orgName><choice><sic/><corr>,</corr></choice>
+                            veuf<choice><sic>.</sic><corr/></choice> de <persName><choice><abbr>m<hi rend="superscript-underlined">me</hi></abbr><expan>Madame</expan></choice> <lb/>Marie Emma
+                            <surname>Lemoyne</surname></persName><choice><sic> declare</sic><corr>, déclare</corr></choice>
+                    vouloir <lb/>conformément à la loi<choice><sic/><corr>,</corr></choice> que si je <lb/>décède<choice><sic/><corr>,</corr></choice> ma fille
+                        <persName>Léone Andrée <surname>Béquet</surname></persName> <lb/>née à
+                        <placeName type="otherPlace" ref="#pl-49"><choice><sic>Neauphle le
+                                Château</sic><corr>Neauphle-le-Château</corr></choice></placeName>
+                    ait pour <lb/><choice><sic><surplus>pour</surplus></sic><corr/></choice> tuteur
+                            <persName><choice><abbr>M.</abbr><expan>Monsieur</expan></choice> Camille
+                            <surname>Béquet</surname></persName> <lb/>mon frère
+                            <choice><sic>ainé</sic><corr>aîné</corr></choice> et à son défaut l’un
+                    de <lb/>mes autres frères en suivant leur rang <lb/>d’âge. Au cas
+                            <choice><sic>ou</sic><corr>où</corr></choice> aucun de ces derniers <lb/>
+                    ne me <choice><sic>surviverait</sic><corr>survivrait</corr></choice><choice><sic/><corr>,</corr></choice> le tuteur
+                            de <lb/><choice><sic>préfèrence</sic><corr>préférence</corr></choice> de
+                    ma fille <persName>Léone <surname>Béquet</surname></persName> <lb/>sera l’un de
+                    mes <choice><sic>beaux frères</sic><corr>beaux-frères</corr></choice> <lb/>en
+                    donnant la préférence au mari <lb/>de l’une de mes soeurs et en suivant <lb/>
+                    également le rang d’<choice><sic>age</sic><corr>âge</corr></choice> de mes <lb/>
+                    dites soeurs en <choice><sic>commencant</sic><corr>commençant</corr></choice>
+                    par la <lb/>plus âgée<choice><sic/><corr>.</corr></choice></p>
+                <space quantity="1" unit="lines" dim="vertical"/>
+                <dateline>Fait à <placeName type="willPlace" ref="#pl-52">Brabant
+                    Meuse</placeName> <lb/><date type="willDate" when="1915-05-20">le 20 mai
+                        1915</date>.</dateline>
+                <signed><persName ref="#pers-23">Léon <surname>Béquet</surname></persName></signed>
+                <space quantity="1" unit="lines" dim="vertical"/>
+                <signed rend="centered"><unclear>Avimo</unclear></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

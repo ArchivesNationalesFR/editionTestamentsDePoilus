@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0045">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Maurice Cortier (8 septembre 1914)] : édition électronique</title><author><persName ref="#pers-43">Maurice Cortier (1879-1914)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#TR">Thierry Rihouey</persName><persName ref="#FAuriau">Françoise Auriau</persName><persName ref="#SBlanchard">Sophie Blanchard</persName><persName ref="#MDeuve">Mathilde Deuve</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#SL.">EG</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#PaulineTest">Pauline Charbonnier</persName><persName ref="#Genea78">Genea78</persName><persName ref="#alp">alp</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#FClavaud">Florence Clavaud</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0045</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0045_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E44 991, minute du 9 mars 1915 (dépôt du testament de Maurice
+                            Cortier)</idno>
+                        <msName>Testament de Maurice Cortier (8 septembre 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-09-08">8 septembre 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-43"><forename>Maurice</forename> <surname>Cortier</surname></persName>, mort
+                                pour la France le <date when="1914-10-02">2 octobre 1914</date> dans
+                                    l’<placeName>ambulance n°21 du corps d’armée
+                                    coloniale</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier commercial (testament). Enveloppe commerciale, un
+                                    cachet de cire rouge (enveloppe). </support>
+                                <extent>2 pages. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>20</height>
+                                        <width>15,8</width>
+                                    </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                                        <height>11,4</height>
+                                        <width>17,3</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Enveloppe : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de Versailles, étude
+                            Gayot</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0045_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E44 991, minute du 9 mars 1915 (dépôt du testament de Maurice
+                            Cortier)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-09-08">8 septembre 1914</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>8 septembre 1914.
+                                    Paris.</p><p>testament
+                                    olographe de Maurice Cortier, mort
+                                pour la France le 2 octobre 1914 dans
+                                    l’ambulance n°21 du corps d’armée
+                                    coloniale.</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2020-05-29" who="#MFGarreau #SL. #lelia #PaulineTest #Genea78 #alp">transcription</change>
+            <change when-iso="2018-01-24/2019-11-04" who="#PCharbonnier #FClavaud ">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0045___JPEG___FRAD78_Poilus_t-0045_03.jpg" xml:id="FRAD78_Poilus_t-0045_03"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AD78_0045___JPEG___FRAD78_Poilus_t-0045_04.jpg" xml:id="FRAD78_Poilus_t-0045_04"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0045">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0045_03"/>
+                <dateline rend="right"><placeName type="willPlace" ref="#pl-2">Paris</placeName><choice><sic>-</sic><corr>,</corr></choice> <date type="willDate" when="1914-09-08">8 <choice><sic>Septembre
+                                1914</sic><corr>septembre 1914.</corr></choice></date></dateline>
+                <space dim="vertical" unit="lines" quantity="7"/>
+                <p>Ci-dessous sont portées mes intentions, si je viens à <lb/>disparaître au cours
+                    de la guerre.</p>
+                <list>
+                    <item>1<hi rend="superscript-double-underlined">o</hi> Je dois <list>
+                            <item><choice><sic>huit cent quatre vingt seize</sic><corr>huit cent
+                                        quatre-vingt-seize</corr></choice> francs à
+                                                <persName><choice><abbr>M<hi rend="superscript-double-underlined">r</hi></abbr><expan>Monsieur</expan></choice> <lb/>Laroze</persName>,
+                                        <choice><sic>editeur</sic><corr>éditeur</corr></choice>, 11
+                                rue Victor Cousin à <placeName type="otherPlace" ref="#pl-2">Paris</placeName><choice><sic/><corr>.</corr></choice></item>
+                            <item><choice><sic>egalement</sic><corr>également</corr></choice> une
+                                somme voisine de 350 francs à
+                                        <persName>Bidal</persName><choice><sic/><corr>,</corr></choice> <lb/>3
+                                rue de Richelieu à <placeName type="otherPlace" ref="#pl-2">Paris</placeName><choice><sic/><corr>.</corr></choice></item>
+                        </list></item>
+                    <item>2<hi rend="superscript-double-underlined">o</hi> Je possède à moi : <list>
+                            <item>environ quarante mille francs provenant de la <lb/>succession de
+                                mon père.</item>
+                            <item>environ seize mille francs de titres déposés au
+                                            <lb/><orgName><choice><sic>Credit
+                                            Lyonnais</sic><corr>Crédit
+                                    lyonnais</corr></choice></orgName> de <placeName type="otherPlace" ref="#pl-35">Versailles</placeName><choice><sic/><corr>.</corr></choice></item>
+                            <item>trois ou quatre mille francs en
+                                        <choice><sic>compte-courant</sic><corr>compte
+                                    courant</corr></choice>,
+                                        <choice><sic>depot</sic><corr>dépôt</corr></choice>, <lb/>
+                                objets divers
+                                    m’appartenant<choice><sic>.</sic><corr>,</corr></choice> etc. <choice><sic>etc..</sic><corr/></choice></item>
+                        </list></item>
+                </list>
+                <p>En cas de <choice><sic>decès</sic><corr>décès</corr></choice>, je désire qu’une
+                    somme de <lb/>dix mille francs soit versée en mon nom à <pb facs="#FRAD78_Poilus_t-0045_04"/><persName>Mademoiselle Marie
+                            <surname>Coussonnet</surname></persName> demeurant à <lb/>Paris, 212
+                    boulevard Raspail.</p>
+                <p>Je désire également qu’une assurance dotale <lb/>de vingt-cinq mille francs,
+                    payable le jour de ses <lb/>vingt ans, soit établie sur la tête de ma
+                    petite <lb/> amie <persName>Madeleine Huard</persName>, fille du Capitaine
+                        <persName>Huard</persName> <lb/>demeurant à <placeName type="otherPlace">Thervay (Jura)</placeName>.</p>
+                <p>Pour le reste, j’institue ma mère légatrice générale <lb/>et la prie de veiller à
+                    l’exécution de mes volontés <lb/>ci-dessus
+                            <choice><sic>exprimees</sic><corr>exprimées</corr></choice>.</p>
+                <dateline rend="right">Fait à <placeName type="willPlace" ref="#pl-2">Paris</placeName>, 
+                        <date type="willDate" when="1914-09-08">le 8 Septembre
+                            1914</date><choice><sic/><corr>,</corr></choice> <lb/><choice><sic>ecrit</sic><corr>écrit</corr></choice>,
+                    daté et signé de ma main.</dateline>
+                <signed rend="centered"><persName>Maurice
+                    <surname>Cortier</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

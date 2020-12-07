@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0010">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Gustave Louis Schneider (1 août 1915)] : édition électronique</title><author><persName ref="#pers-10">Gustave Louis Schneider
+                    (1885-1918)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#VLemee">Valérie Lemée</persName><persName ref="#SBlanchard">Sophie Blanchard</persName><persName ref="#MDeuve">Mathilde Deuve</persName><persName ref="#FAuriau">Françoise Auriau</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#Genea78">Genea78</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0010</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0010_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E6 526, minute du 20 mars 1919 (dépôt du testament de Gustave Louis
+                            Schneider)</idno>
+                        <msName>Testament de Gustave Louis Schneider (1 août 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1915-08-01">1 août 1915</date>.
+                                    <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-10"><forename>Gustave</forename> <forename>Louis</forename> <surname>Schneider</surname></persName>,
+                                mort pour la France le <date when="1918-10-13">13 octobre
+                                    1918</date> à <placeName ref="#pl-2">Paris</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de Chatou</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0010_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E6 526, minute du 20 mars 1919 (dépôt du testament de Gustave Louis
+                            Schneider)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-08-01">1 août 1915</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>1 août 1915.
+                                    Paris.</p><p>testament
+                                    olographe de Gustave Louis Schneider,
+                                mort pour la France le 13 octobre
+                                    1918 à Paris.</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-02-08" who="#Genea78">transcription</change>
+            <change when="2018-02-02" who="#PCharbonnier ">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0010___JPEG___FRAD78_Poilus_t-0010_01.jpg" xml:id="FRAD78_Poilus_t-0010_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0010">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0010_01"/>
+                <p> Je soussigné, <persName ref="#pers-10">Gustave<choice><sic>,</sic><corr/></choice> Louis <lb/>Schneider</persName>,
+                    177 <choice><sic>Rue</sic><corr>rue</corr></choice> d’Alésia, <lb/><placeName type="willAuthorResidence" ref="#pl-2">Paris</placeName>, 14<hi rend="superscript-underlined">e</hi> arrondissement,
+                            Seine<choice><sic/><corr>,</corr></choice> <lb/>laisse ma femme
+                        <persName>Marie Schneider</persName> <lb/> née Chenot,
+                    légataire universelle <lb/>de mes biens acquis et à venir <lb/>en toute
+                    propriété.</p>
+                <dateline rend="right">Fait à <placeName type="willPlace" ref="#pl-2">Paris</placeName>
+                        <date type="willDate" when="1915-08-01">le 1<hi rend="superscript-underlined">er</hi> <choice><sic>Août</sic><corr>août</corr></choice>
+                        1915</date>. <lb/><date type="willDate" when="1915-08-01"><choice><sic>le
+                                Premier Août Dix</sic><corr>Le premier août dix</corr></choice> neuf
+                        cent quinze</date>.</dateline>
+                <space quantity="1" unit="lines" dim="vertical"/>
+                <signed rend="centered"><persName>G <surname>Schneider</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD95_0027">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Marcel Armand Dhervilly (11 avril 1919)] : édition électronique</title><author><persName ref="#pers-421">Marcel Armand Dhervilly
+                    (1893-1915)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#SDoman">Sarah Doman</persName><persName ref="#JK">Juline Kibongui</persName><persName ref="#SD">Sophie Delinge</persName><persName ref="#TO">Thomas Olivier</persName><persName ref="#SDechavanne">Sylvie Dechavanne</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#SL.">EG</persName><persName ref="#GBMireille">Mireille Grais-Bruguière</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD95_0027</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD95_0027_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales du Val-d’Oise</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>2E29 442, minute du 11 avril 1919 (dépôt du testament de Marcel Armand
+                            Dhervilly)</idno>
+                        <msName>Testament de Marcel Armand Dhervilly (11 avril 1919)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1919-04-11">11 avril 1919</date>.
+                                    <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-421"><forename source="#will_AD95_0027_tes #will_AD95_0027_min #MDH #AS">Marcel</forename> <forename source="#will_AD95_0027_tes #will_AD95_0027_min #MDH #AS">Armand</forename> <surname>Dhervilly</surname></persName>, mort
+                                pour la France le <date when="1915-10-17" source="#will_AD95_0027_min #AS">dix-sept Octobre mil neuf cent
+                                    quinze [NOT] [AS]</date> ou le <date when="1915-05-09" source="#MDH #AS">9 mai 1915 [MDH] [AS]</date> à <placeName ref="#pl-12" source="#will_AD95_0027_min #MDH #AS">Neuville-Saint-Vaast (Pas-de-Calais) [NOT] | Neuville St Vaast
+                                    (Pas-de-Calais) | [MDH] Neuville St Waast
+                            [AS]</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier ivoire timbré réglé (testament). Enveloppe fermée à
+                                    la gomme et scellée par un cachet de cire rouge aux initiales N
+                                    (enveloppe). </support>
+                                <extent>2 pages et 1 enveloppe. Dimensions du testament :
+                                        <dimensions type="willPage" unit="cm">
+                                        <height>17,8</height>
+                                        <width>24,9</width>
+                                    </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                                        <height>14,9</height>
+                                        <width>9,4</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Enveloppe : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>Martinet Luzarche 1</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD95_0027_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales du Val-d’Oise</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>2E29 442, minute du 11 avril 1919 (dépôt du testament de Marcel Armand
+                            Dhervilly)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1919-04-11">11 avril 1919</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>11 avril 1919.
+                                    Paris.</p><p>testament
+                                    olographe de Marcel Armand Dhervilly, mort
+                                pour la France le dix-sept Octobre mil neuf cent
+                                    quinze [NOT] [AS] ou le 9 mai 1915 [MDH] [AS] à Neuville-Saint-Vaast (Pas-de-Calais) [NOT] | Neuville St Vaast
+                                    (Pas-de-Calais) | [MDH] Neuville St Waast
+                            [AS].</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-10-09/2020-03-04" who="#MFGarreau #lelia #SL. #GBMireille">transcription</change>
+            <change when-iso="2019-10-09/2019-11-12" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD95_0027___JPEG___FRAD95_Poilus_t-0027_01.jpg" xml:id="FRAD95_Poilus_t-0027_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AD95_0027___JPEG___FRAD95_Poilus_t-0027_02.jpg" xml:id="FRAD95_Poilus_t-0027_02"/>
+        </surface>
+        <surface type="will-envelope-recto" n="03">
+            <graphic url="testament_AD95_0027___JPEG___FRAD95_Poilus_t-0027_03.jpg" xml:id="FRAD95_Poilus_t-0027_03"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD95_0027">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD95_Poilus_t-0027_01"/>
+                <dateline><placeName type="willPlace" ref="#pl-2">Paris</placeName>
+                    <date type="willDate" when="1914-09-03">le
+                                <choice><sic>Merc</sic><corr>merc</corr></choice><supplied unit="chars" reason="illegible" quantity="3">red</supplied>i 3
+                                <choice><sic>Septembre</sic><corr>septembre</corr></choice> 1914
+                    </date></dateline>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <head><space dim="horizontal" unit="chars" quantity="4"/>Ceci est mon testament et
+                    voici <lb/>mes dernières
+                        <choice><sic>volontees</sic><corr>volontés</corr></choice> :</head>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>1<hi rend="superscript-double-underlined">o</hi> Je
+                            <choice><sic>designe</sic><corr>désigne</corr></choice> ma
+                            <choice><sic>mere</sic><corr>mère</corr></choice>
+                    <persName>Madame <choice><abbr>V<hi rend="superscript">ve</hi></abbr><expan>veuve</expan></choice>
+                        <lb/>Dhervilly</persName> comme
+                            <choice><sic>legataire</sic><corr>légataire</corr></choice> universelle.
+                    <lb/>Tout ce qui me vient de mes <choice><sic>Grands
+                            <lb/>Parents</sic><corr>grands-parents</corr></choice> et tout ce que
+                    j’ai lui reviendront <lb/>donc de droit.</p>
+                <p>2<hi rend="superscript-underlined">o</hi> Au cas
+                            <choice><sic>ou</sic><corr>où</corr></choice> ma
+                            <choice><sic>mere</sic><corr>mère</corr></choice> serait décédée,
+                    <lb/>tout,
+                            <choice><sic>entierement</sic><corr>entièrement</corr></choice><choice><sic/><corr>,</corr></choice>
+                    irait <choice><sic>a</sic><corr>à</corr></choice>
+                    <persName>Monsieur Georges <lb/>Wodon</persName> ou
+                            <choice><sic>a</sic><corr>à</corr></choice>
+                    <persName>M<subst><del><hi rend="superscript">me</hi></del><add>adame</add></subst> Marie Wodon</persName>, mon
+                            <choice><sic>Oncle</sic><corr>oncle</corr></choice>
+                    <lb/> ou ma tante. Je mets l’un ou l’autre <lb/><choice><sic>a seul</sic><corr>à
+                            seule</corr></choice> fin, que si l’un des deux était
+                            <lb/><choice><sic>egalement</sic><corr>également</corr></choice> décédé,
+                    tout reviendrait <choice><sic>indif<lb/>feremment</sic><corr>indif<lb break="no"/>féremment</corr></choice>
+                    <choice><sic>a</sic><corr>à</corr></choice> l’un ou à l’autre.</p>
+                <p>3<hi rend="superscript">o</hi> Dans le cas
+                        <choice><sic>ou</sic><corr>où</corr></choice> mon
+                            <choice><sic>Oncle</sic><corr>oncle</corr></choice>
+                    <subst><del>ou</del><add>et</add></subst> ma
+                                    <lb/><choice><sic><subst><del>t</del><add>T</add></subst>ante</sic><corr>tante</corr></choice>
+                    seraient <choice><sic>décedés</sic><corr>décédés</corr></choice> voici ce que
+                    <lb/>je <choice><sic>desire</sic><corr>désire</corr></choice> qu’il soit
+                    fait.</p>
+                <list>
+                    <item>1<hi rend="superscript-underlined">o</hi> La maison de
+                                        <placeName>Noisy<choice><abbr><hi rend="superscript">
+                                    s</hi>/ </abbr><expan>-sur-</expan></choice>Oise</placeName>
+                        <subst><del>et</del><add>a</add></subst>insi <lb/>que le jardin et le
+                        terrain <del>serait</del>
+                        <lb/>deviendraient la possession de Monsieur <lb/>ou de <persName>Madame
+                            Maingon</persName>. (<choice><sic>meme</sic><corr>Même</corr></choice>
+                        clause <lb/>que
+                            <choice><sic>precedemment</sic><corr>précédemment</corr></choice> au cas
+                                <choice><sic>ou</sic><corr>où</corr></choice> l’un ou l’autre serait
+                                <choice><sic>decedé</sic><corr>décédé).</corr></choice></item>
+                    <item>2<hi rend="superscript">o</hi> Le titre de rente de 719<hi rend="superscript">F</hi>
+                            (<choice><sic>Sept</sic><corr>sept</corr></choice> <choice><sic>cents</sic><corr>cent</corr></choice>
+                        <lb/>dix<choice><sic/><corr>-</corr></choice>neuf francs) ainsi que tout ce
+                        qui <pb facs="#FRAD95_Poilus_t-0027_02"/>
+                        <metamark place="above">(1)</metamark> m’appartiendrait serait la possession de
+                            <lb/><persName>Mademoiselle
+                                <choice><sic>Helene</sic><corr>Hélène</corr></choice>
+                            Vigneron</persName> en souvenir <lb/>de la grande affection que je lui
+                        portais.</item>
+                </list>
+                <p><add place="marginLeft">(1) Il est bien entendu que ce que j’ai dit
+                    <choice><sic>precedemment</sic><corr>précédemment</corr></choice>
+                    n’est pas annulé par <lb/>ce mot. Je parle <supplied reason="deleted" quantity="1" unit="words">de</supplied> ce qui
+                    m’<choice><sic>appeindrait</sic><corr>appartiendrait</corr></choice>
+                    en plus de la <choice><sic>Maison</sic><corr>maison</corr></choice>, du
+                    jardin <lb/>et du terrain de Noisy<choice><abbr><hi rend="superscript"> s</hi>/
+                    </abbr><expan>-sur-</expan></choice>Oise<choice><sic>
+                        -</sic><corr>,</corr></choice> qui vont
+                    <choice><sic>a</sic><corr>à</corr></choice> <persName><choice><abbr>Mr
+                        ou Mme</abbr><expan>Monsieur ou Madame</expan></choice>
+                        Maingon</persName> comme je l’ai dit plus haut<choice><sic>
+                            -</sic><corr>.</corr></choice><seg type="marginalAdditionSignature"><persName ref="#pers-421">M. D.</persName></seg></add></p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Voici maintenant les adresses de toutes <lb/>les personnes
+                            <choice><sic>nommees</sic><corr>nommées</corr></choice>
+                            ci<choice><sic> </sic><corr>-</corr></choice>dessus<choice><sic>.</sic><corr>
+                        :</corr></choice></p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <list>
+                    <item>1<hi rend="superscript">o</hi>
+                        <persName>Madame <choice><abbr>Vve</abbr><expan>veuve</expan></choice>
+                            Dhervilly</persName><choice><sic>.</sic><corr>,</corr></choice> 14
+                            <choice><abbr>R</abbr><expan>rue</expan></choice> de
+                                <lb/><choice><sic>Clery</sic><corr>Cléry</corr></choice> à
+                        <placeName type="otherPlace" ref="#pl-2">Paris</placeName><choice><sic>.</sic><corr>,</corr></choice> 2<hi rend="superscript-double-underlined">e</hi>
+                        <choice><abbr>Arr<hi rend="superscript">t</hi>.</abbr><expan>arrondissement.</expan></choice></item>
+                    <item>2<hi rend="superscript">o</hi>
+                        <persName>Monsieur et Madame Wodon</persName><choice><sic>.</sic><corr>,</corr></choice>
+                                <choice><abbr>R</abbr><expan>rue</expan></choice> <choice><abbr>Ste</abbr><expan>Sainte</expan></choice><choice><sic> </sic><corr>-</corr></choice>Agathe
+                        <lb/>à <placeName>Tannay</placeName><choice><sic>.</sic><corr>,</corr></choice> Nièvre<choice><sic/><corr>.</corr></choice></item>
+                    <item>3<hi rend="superscript">o</hi>
+                        <persName>Monsieur et Madame Maingon</persName><choice><sic/><corr>,</corr></choice> 72
+                                <choice><abbr>R</abbr><expan>rue</expan></choice>
+                                d’<choice><sic>Angou<lb/>leme</sic><corr>Angou<lb break="no"/>lême</corr></choice> à <placeName>Paris</placeName><choice><sic>.</sic><corr>,</corr></choice> 11<hi rend="superscript-underlined">eme</hi>
+                        <choice><abbr>Arr<hi rend="superscript">t</hi></abbr><expan>arrondissement</expan></choice><choice><sic/><corr>.</corr></choice></item>
+                    <item>4<hi rend="superscript-double-underlined">o</hi>
+                        <persName>Mademoiselle Hélène Vigneron</persName><choice><sic>.</sic><corr>,</corr></choice> 43
+                                <choice><sic>Avenue</sic><corr>avenue</corr></choice>
+                        <lb/>de Fredy<choice><sic>. a</sic><corr> à</corr></choice>
+                        <placeName>Villemomble</placeName><choice><sic>.</sic><corr>,</corr></choice> Seine.</item>
+                </list>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Au cas peu probable <choice><sic>ou</sic><corr>où</corr></choice> ma
+                            <choice><sic>Mere</sic><corr>mère</corr></choice> serait
+                            <lb/><choice><sic>fachée</sic><corr>fâchée</corr></choice> avec
+                            <choice><sic>Mon Oncle</sic><corr>mon oncle</corr></choice> et ma tante
+                    voici <lb/>ce que j’<choice><sic>arrete</sic><corr>arrête</corr></choice> : </p>
+                <list>
+                    <item>1<hi rend="superscript-underlined">o</hi> Le titre de rente irait
+                                <choice><sic>entierement</sic><corr>entièrement</corr></choice>
+                        <choice><sic>a</sic><corr>à</corr></choice> ma
+                                <lb/><choice><sic>mere</sic><corr>mère</corr></choice>.</item>
+                    <item>2<hi rend="superscript">o</hi> La maison de
+                                        <placeName>Noisy<choice><abbr><hi rend="superscript">
+                                    s</hi>/ </abbr><expan>-sur-</expan></choice>Oise</placeName>
+                        <subst><del>et</del><add>ai</add></subst>nsi que le <lb/>jardin et le
+                        terrain iraient <choice><sic>a</sic><corr>à</corr></choice> mon
+                                <choice><sic>Oncle</sic><corr>oncle</corr></choice> ou <lb/>ma
+                                <choice><sic>Tante</sic><corr>tante</corr></choice>
+                        <choice><sic>indifferemment</sic><corr>indifféremment</corr></choice>.</item>
+                </list>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <dateline>Fait <choice><sic>a</sic><corr>à</corr></choice>
+                    <placeName type="willPlace" ref="#pl-2">Paris</placeName>
+                    <date type="willDate" when="1914-09-03">le 3
+                                <choice><sic>Septembre</sic><corr>septembre</corr></choice>
+                        1914</date>
+                    <lb/>19 <choice><sic>Rue de Clery</sic><corr>rue de
+                    Cléry</corr></choice>.<lb/>
+                Tout ce qui est <choice><sic>ecrit</sic><corr>écrit</corr></choice>
+                            ci<choice><sic/><corr>-</corr></choice>dessus a
+                            <choice><sic>ete</sic><corr>été</corr></choice> fait de <lb/>ma propre
+                            <choice><sic>idee</sic><corr>idée</corr></choice> et je
+                            <choice><sic>declare etre</sic><corr>déclare être</corr></choice> sain
+                    de corps et <lb/>d’esprit.</dateline>
+                <signed rend="right"><persName ref="#pers-421">A<surname>
+                        Dhervilly</surname></persName></signed>
+               
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAD95_Poilus_t-0027_03"/>
+                <p rend="centered">Envoi de <persName ref="#pers-421"><choice><abbr>M<hi rend="superscript">r</hi></abbr><expan>Monsieur</expan></choice>
+                        <surname>Dhervilly</surname></persName><choice><sic/><corr>,</corr></choice>
+                    14 rue de <unclear>Cléry</unclear><choice><sic/><corr>.</corr></choice></p>
+                <p><hi rend="underlined"><choice><sic>Recommandee</sic><corr>Recommandée</corr></choice></hi></p>
+                <p rend="centered">Testament</p>
+                <p><address>
+                        <addrLine><persName>Monsieur
+                                Martinet</persName><choice><sic/><corr>,</corr></choice></addrLine>
+                        <addrLine rend="centered"> Notaire </addrLine>
+                        <addrLine rend="right">à <placeName type="otherPlace" ref="#pl-657">Luzarches</placeName></addrLine>
+                        <addrLine rend="right"><hi rend="underlined">Seine<choice><sic> et
+                                        </sic><corr>-et-</corr></choice>Oise</hi></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

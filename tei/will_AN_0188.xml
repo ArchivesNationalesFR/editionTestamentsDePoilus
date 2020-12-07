@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0188">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la
+               Grande Guerre</title><title type="main">[Testament de Gustave Pierre Honoré Barré (11/08/1914)] : édition électronique</title><author><persName ref="#pers-250">Gustave Pierre Honoré Barré
+               (1883-1914)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+         <editionStmt>
+            <edition>Première édition électronique, fondée sur un travail de transcription
+               collaborative</edition>
+            <respStmt><resp>Numérisation</resp><orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+                        Département de la Conservation. Atelier photographique</orgName></respStmt>
+            <respStmt><resp>Identification et description du testament</resp><persName ref="#CNougaret">Christine Nougaret</persName><persName ref="#LVieillon">Lucie Vieillon</persName><persName ref="#MLocatelli">Mélisa Locatelli</persName></respStmt>
+            <respStmt><resp>Transcription</resp><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#SL.">EG</persName><persName ref="#lelia">Lélia Picabia</persName></respStmt>
+            <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#FClavaud">Florence Clavaud</persName></respStmt>
+            <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+         </editionStmt>
+         <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AN_0188</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="will_AN_0188_tes">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives nationales</institution>
+                  <collection>Minutier central des notaires de Paris</collection>
+                  <idno>MC/ET/XXXI/1551, minute du 15/02/1915 (dépôt du testament de Gustave Pierre
+                     Honoré Barré)</idno>
+                  <msName>Testament de Gustave Pierre Honoré Barré (11/08/1914)</msName>
+               </msIdentifier>
+               <msContents>
+                  <summary><p><date type="willDate" when="1914-08-11">11/08/1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-250"><forename>Gustave</forename> <forename>Pierre</forename> <forename>Honoré</forename> <surname>Barré</surname></persName>, mort pour la
+                        France le <date when="1914-12-13">13/12/1914</date> à <placeName ref="#pl-326">Mort-Mare, Flirey (Meurthe et
+                     Moselle)</placeName>.</p></summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>Papier à en-tête commercial (testament). </support>
+                        <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                              <height>26,8</height>
+                              <width>21,1</width>
+                           </dimensions>.</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <p>Testament : encre mauve.</p>
+                  </handDesc>
+               </physDesc>
+               <history>
+                  <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010158">étude
+                        notariale 31 (CRPCEN : 75078)</orgName></provenance>
+               </history>
+            </msDesc>
+            <msDesc xml:id="will_AN_0188_min">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives nationales</institution>
+                  <collection>Minutier central des notaires de Paris</collection>
+                  <idno>MC/ET/XXXI/1551, minute du 15/02/1915 (dépôt du testament de Gustave Pierre
+                     Honoré Barré)</idno>
+                  <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                     minute</msName>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation><date type="willDate" when="1914-08-11">11/08/1914</date></creation>
+         <langUsage><language ident="fr">français</language></langUsage>
+         <abstract><p>11/08/1914. Paris.</p><p>testament olographe de Gustave Pierre Honoré Barré, mort pour la
+                        France le 13/12/1914 à Mort-Mare, Flirey (Meurthe et
+                     Moselle).</p></abstract>
+         <textClass>
+            <keywords>
+               <term type="subject">Grande Guerre</term>
+               <term type="subject">Poilu</term>
+               <term type="subject">testament</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when-iso="2018-07-19/2019-02-07" who="#MFGarreau #SL. #lelia">transcription</change>
+         <change when-iso="2018-07-19/2018-10-17" who="#PCharbonnier #FClavaud">validation</change>
+         <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements et
+            contrôle de qualité finaux</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+      <surface type="will-page" n="01">
+         <graphic url="testament_AN_0188___JPEG___FRAN_Poilus_t-0188_01.jpg" xml:id="FRAN_Poilus_t-0188_01"/>
+      </surface>
+   </facsimile>
+   <text xml:id="will_AN_0188">
+      <body>
+         <div type="will">
+            <pb facs="#FRAN_Poilus_t-0188_01"/>
+            <dateline><placeName type="willPlace" ref="#pl-2">Paris</placeName>,
+                     le <date type="willDate" when="1914-08-11">11
+                  <choice><sic>Août</sic><corr>août</corr></choice> 1914</date>.</dateline>
+            <space dim="vertical" unit="lines" quantity="5"/>
+            <p>Je pars à la guerre<choice><sic>. Sain</sic><corr>, sain</corr></choice> <lb/>de
+                     corps<choice><sic>.</sic><corr/></choice> et sain d’esprit.</p>
+            <p>Ma femme a quitté <lb/>le domicile conjugal le <lb/><date type="otherDate" when="1914-07-14">14
+                  <choice><sic>Juillet</sic><corr>juillet</corr></choice></date> dernier. Je
+               l’ai <lb/>fait dûment constater par <lb/>ministère
+                  d’huissier<choice><sic>.</sic><corr/></choice> (acte déposé <lb/>chez
+                        <persName><choice><sic>Maitre</sic><corr>maître</corr></choice>
+                        Soiffer<choice><sic>.</sic><corr>,</corr></choice></persName>
+                     avocat<choice><sic>.</sic><corr>,</corr></choice> 26 rue <lb/>Cadet à <placeName type="otherPlace" ref="#pl-2">Paris</placeName>). Je tiens donc <lb/>à
+                     <choice><sic>annuller</sic><corr>annuler</corr></choice> toutes les
+               dispositions <lb/>testamentaires que j’ai faites
+                     <choice><sic>précédement</sic><corr>précédemment</corr></choice> <lb/>et
+               institue ma mère née <persName>Basselli <lb/>Marguerite</persName><choice><sic>.</sic><corr>,</corr></choice> comme seule
+               légataire <lb/>universelle<choice><sic>.</sic><corr>,</corr></choice> l’autorisant à
+                  disposer <lb/><hi rend="underlined">de tous mes biens</hi> comme elle <lb/>l’entendra. De plus, je lui transmets, <lb/>au lieu et place de ma
+                     femme<choice><sic>.</sic><corr>,</corr></choice> née <lb/><persName>Le Gall
+                  Henriette</persName><choice><sic>.</sic><corr>,</corr></choice> le bénéfice de
+               toutes <lb/>mes assurances sur la vie, <choice><sic>ci
+                     dessous</sic><corr>ci-dessous</corr></choice> désignées :</p>
+            <list>
+               <item>La Nationale. Assurance <choice><sic>Mixte</sic><corr>mixte</corr></choice> <space dim="horizontal" unit="chars" quantity="3"/>n°
+                  322.295</item>
+               <item><choice><abbr>"
+                              " "</abbr><expan>La Nationale. Assurance</expan></choice> Vie
+                        <choice><sic>E</sic><corr>e</corr></choice>ntière <space dim="horizontal" unit="chars" quantity="3"/><choice><abbr>"</abbr><expan>n°</expan></choice>
+                  302./82.</item>
+               <item><choice><abbr>"
+                        " "</abbr><expan>La Nationale.
+                        Assurance</expan></choice> <choice><sic>C</sic><corr>c</corr></choice>ombinée <space dim="horizontal" unit="chars" quantity="3"/><choice><abbr>"</abbr><expan>n°</expan></choice>
+                  344.216.</item>
+               <item>Le
+                        Monde<choice><sic/><corr>.</corr></choice> <choice><abbr>"</abbr><expan>Assurance</expan></choice>
+                     mixte <space dim="horizontal" unit="chars" quantity="3"/><choice><abbr>"</abbr><expan>n°</expan></choice>
+                  57.417.</item>
+            </list>
+            <p><app><lem>Je dépose ce testament
+                  chez <lb/><persName><choice><sic>Maître</sic><corr>maître</corr></choice> Vingtain</persName><choice><sic>.</sic><corr>,</corr></choice>
+                           notaire<choice><sic>.</sic><corr>,</corr></choice> <lb/>avenue de la
+                     Grande Armée<choice><sic>.</sic><corr>,</corr></choice> <placeName type="otherPlace" ref="#pl-2">Paris<choice><sic/><corr>.</corr></choice></placeName> <lb/>Je pardonne à
+                     celle qui m’a fait <lb/>le plus de <choice><sic>mal
+                        -</sic><corr>mal.</corr></choice></lem><note resp="#PCharbonnier">Le dernier paragraphe est écrit en marge à gauche.</note></app></p> <signed rend="right"><persName ref="#pers-250">G <surname>Barré</surname></persName></signed>
+         </div>
+      </body>
+   </text>
+</TEI>

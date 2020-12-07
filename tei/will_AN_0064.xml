@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0064">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la
+               Grande Guerre</title><title type="main">[Testament de Paul Fernand Pradelle (20 novembre 1916)] : édition électronique</title><author><persName ref="#pers-121">Paul Fernand Pradelle (1881-1918)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+         <editionStmt>
+            <edition>Première édition électronique, fondée sur un travail de transcription
+               collaborative</edition>
+            <respStmt><resp>Numérisation</resp><orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+                        Département de la Conservation. Atelier photographique</orgName></respStmt>
+            <respStmt><resp>Identification et description du testament</resp><persName ref="#AM">Aurélie Massie</persName><persName ref="#MLocatelli">Mélisa Locatelli</persName></respStmt>
+            <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#Genea78">Genea78</persName><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#lelia">Lélia Picabia</persName></respStmt>
+            <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+         </editionStmt>
+         <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AN_0064</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="will_AN_0064_tes">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives nationales</institution>
+                  <collection>Minutier central des notaires de Paris</collection>
+                  <idno>MC/ET/CXX/1613, minute du 21 octobre 1918 (dépôt du testament de Paul
+                     Fernand Pradelle)</idno>
+                  <msName>Testament de Paul Fernand Pradelle (20 novembre 1916)</msName>
+               </msIdentifier>
+               <msContents>
+                  <summary><p><date type="willDate" when="1916-11-20">20 novembre 1916</date>.
+                           <placeName type="willPlace" ref="#pl-212">Grévillers</placeName>.</p><p><term type="willType">testament
+                           olographe</term> de <persName ref="#pers-121"><forename>Paul</forename> <forename>Fernand</forename> <surname>Pradelle</surname></persName>, mort pour
+                        la France le <date when="1918-10-13">13 octobre 1918</date> à l’<placeName ref="#pl-211">hôpital complémentaire n°18 de Bourg
+                     (Ain)</placeName>.</p></summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>Papier timbré réglé (testament). </support>
+                        <extent>2 pages. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                              <height>24,9</height>
+                              <width>17,8</width>
+                           </dimensions>.</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <p>Testament : encre.</p>
+                  </handDesc>
+               </physDesc>
+               <history>
+                  <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010247">étude
+                        notariale 120 (CRPCEN : 75100)</orgName></provenance>
+               </history>
+            </msDesc>
+            <msDesc xml:id="will_AN_0064_min">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives nationales</institution>
+                  <collection>Minutier central des notaires de Paris</collection>
+                  <idno>MC/ET/CXX/1613, minute du 21 octobre 1918 (dépôt du testament de Paul
+                     Fernand Pradelle)</idno>
+                  <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                     minute</msName>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation><date type="willDate" when="1916-11-20">20 novembre 1916</date></creation>
+         <langUsage><language ident="fr">français</language></langUsage>
+         <abstract><p>20 novembre 1916.
+                           Grévillers.</p><p>testament
+                           olographe de Paul Fernand Pradelle, mort pour
+                        la France le 13 octobre 1918 à l’hôpital complémentaire n°18 de Bourg
+                     (Ain).</p></abstract>
+         <textClass>
+            <keywords>
+               <term type="subject">Grande Guerre</term>
+               <term type="subject">Poilu</term>
+               <term type="subject">testament</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when-iso="2018-01-24/2018-04-11" who="#SL. #Genea78 #MFGarreau #lelia">transcription</change>
+         <change when-iso="2018-01-24/2018-04-03" who="#PCharbonnier ">validation</change>
+         <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements et
+            contrôle de qualité finaux</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+      <surface type="will-page" n="01">
+         <graphic url="testament_AN_0064___JPEG___FRAN_Poilus_t-0064_01.jpg" xml:id="FRAN_Poilus_t-0064_01"/>
+      </surface>
+      <surface type="will-page" n="02">
+         <graphic url="testament_AN_0064___JPEG___FRAN_Poilus_t-0064_02.jpg" xml:id="FRAN_Poilus_t-0064_02"/>
+      </surface>
+   </facsimile>
+   <text xml:id="will_AN_0064">
+      <body>
+         <div type="will">
+            <pb facs="#FRAN_Poilus_t-0064_01"/>
+            <dateline>Front de la Somme. <placeName type="willPlace" ref="#pl-212"><choice><sic>Grevillers</sic><corr>Grévillers</corr></choice></placeName><choice><sic/><corr>,</corr></choice>
+               bois 105<choice><sic/><corr>,</corr></choice>
+               <date type="willDate" when="1916-11-20">le 20 novembre 1916</date><choice><sic/><corr>.</corr></choice></dateline>
+            <space quantity="1" unit="lines" dim="vertical"/>
+            <p>Dernières volontés de <persName ref="#pers-121">Paul
+                  <surname>Pradelle</surname></persName>, caporal au <lb/><orgName>31<hi rend="superscript-underlined">e</hi> d’<choice><abbr>In<hi rend="superscript-underlined">ie</hi> T<hi rend="superscript-underlined">ale</hi></abbr><expan>infanterie territoriale</expan></choice></orgName>
+                  1<hi rend="superscript-underlined">ère</hi>
+               <choice><abbr>C<hi rend="superscript-underlined">ie</hi></abbr><expan>compagnie</expan></choice><choice><sic/><corr>,</corr></choice>
+               demeurant <choice><sic>a</sic><corr>au</corr></choice> <placeName type="willAuthorResidence" ref="#pl-210">Blanc-Mesnil</placeName><choice><sic/><corr>,</corr></choice>
+               <lb/>69 <choice><sic>Rue</sic><corr>rue</corr></choice>
+                  Lamartine<choice><sic>.</sic><corr/></choice> (<choice><sic>Seine et
+                     Oise</sic><corr>Seine-et-Oise</corr></choice>).</p>
+            <p rend="left">Je soussigné <persName ref="#pers-121">Paul
+                  <surname>Pradelle</surname></persName>, déclare<choice><sic/><corr>,</corr></choice> étant <lb/>en possession de toutes
+               mes facultés, indiquer <lb/><choice><sic>ci
+                  inclus</sic><corr>ci-incluses</corr></choice>, mes dernières dispositions et
+               volontés, <lb/>concernant ma propriété et succession, au cas <lb/>où je viendrais à
+               être tué, mourir, <choice><sic>où</sic><corr>ou</corr></choice> disparaître
+                     <lb/><choice><sic>a</sic><corr>à</corr></choice> la
+                     <choice><sic>Guerre</sic><corr>guerre</corr></choice>. Ce papier annule
+               entièrement <lb/>mon premier testament fait en faveur de ma <lb/>femme.</p>
+            <p rend="left">Je déclare avoir été marié légitimement <lb/>sous le régime de la
+               communauté légale avec <lb/><persName>Louise <surname>Simon</surname></persName>,
+                  <date type="otherDate" when="1906-01-13">le 13
+                        <choice><sic>Janvier</sic><corr>janvier</corr></choice>
+                     1906</date><choice><sic>.</sic><corr>,</corr></choice> à <placeName type="otherPlace" ref="#pl-127">Gentilly</placeName><choice><sic>.
+                     Seine</sic><corr> (Seine)</corr></choice>.
+               <lb/>De ce mariage nous n’avons eu aucun <lb/>enfant. Nous possédons un terrain
+               d’environ <lb/>465 <hi rend="superscript-underlined">mètres</hi> de superficie,
+               entièrement libéré, <lb/>situé, 69 <choice><sic>Rue</sic><corr>rue</corr></choice>
+               Lamartine <choice><sic>à</sic><corr>au</corr></choice>
+               <placeName type="willAuthorResidence">Blanc-Mesnil</placeName><choice><abbr>. S et
+                     O</abbr><expan>, Seine-et-Oise</expan></choice>. <lb/>Sur ce terrain, est
+               construit une pièce en carreaux <lb/>de plâtre attenant à une seconde en planches
+               <lb/>plus un a<del>t</del>telier en planches de 4 <choice><abbr><hi rend="superscript">m</hi></abbr><expan>mètres</expan></choice> sur
+                     3<choice><sic>.</sic><corr>,</corr></choice>50, <lb/>contenant tout
+               notre mobilier, linge, vêtements <lb/>etc. Comme dettes, nous devons ma femme <lb/>et
+               moi, conjointement et solidairement à <lb/><persName><choice><abbr>M<hi rend="superscript-underlined">r</hi></abbr><expan>Monsieur</expan></choice>
+               <surname>Briant</surname></persName>, 7
+                     <choice><sic>Rue</sic><corr>rue</corr></choice> d’Avon, à <placeName type="otherPlace">Fontainebleau</placeName>, <lb/>la somme de quatre
+                     <choice><sic>cents</sic><corr>cent</corr></choice> cinquante francs,
+               <lb/>empruntée à 5%, avant la guerre ; et<choice><sic>,</sic><corr/></choice> la <lb/>somme de 150 <choice><abbr>fr</abbr><expan>francs</expan></choice>
+                     (<choice><sic>cents</sic><corr>cent</corr></choice> cinquante
+                     francs<choice><sic>,</sic><corr/></choice>)<choice><sic/><corr>,</corr></choice> prix de <lb/>trois pièces de vin,
+               <choice><sic>dûe</sic><corr>due</corr></choice> à <persName><choice><abbr>M<hi rend="superscript-underlined">r</hi></abbr><expan>Monsieur</expan></choice> Jacques
+                     <surname>Fabre</surname></persName> <lb/>demeurant à <placeName type="otherPlace">Barbaira</placeName> (Aude).</p>
+            <pb facs="#FRAN_Poilus_t-0064_02"/>
+            <p>N’ayant pas d’enfant, <choice><sic>c’est a
+                  dire</sic><corr>c’est-à-dire</corr></choice>, <lb/>d’héritier direct, ma part
+               devra revenir <lb/><choice><sic>a</sic><corr>à</corr></choice> ma famille ; je déclare
+               ne laisser <lb/>strictement à ma femme<choice><sic> ;</sic><corr/></choice> <choice><sic>seulement</sic><corr>que</corr></choice>
+               la <lb/>part de bien qui lui revient de par<del>t</del> la loi, <lb/>après nos dettes
+                     <choice><sic>dûement</sic><corr>dûment</corr></choice> payées, à la suite <lb/>de la vente de notre bien.</p>
+            <p>Je <choice><sic>légue</sic><corr>lègue</corr></choice>, par moitié
+                     <choice><sic>a</sic><corr>à</corr></choice> mes deux
+                  frères, <lb/><persName>Louis <surname>Pradelle</surname></persName>, 2
+                     <choice><sic>Rue</sic><corr>rue</corr></choice> Maurice-Mayer <placeName type="otherPlace" ref="#pl-2">Paris</placeName>, <lb/><persName>Michel
+                     <surname>Pradelle</surname></persName>, 52 <choice><sic>Avenue
+                     Felix-Faure</sic><corr>avenue Félix-Faure</corr></choice> <placeName type="otherPlace" ref="#pl-2">Paris</placeName>, <lb/>la part entière qui me
+               revient de la <lb/>communauté, <choice><sic>oû</sic><corr>ou</corr></choice> en cas
+               de mort<choice><sic/><corr>,</corr></choice> à leurs <lb/>enfants, héritiers directs.</p>
+            <p>Je <choice><sic>légue</sic><corr>lègue</corr></choice> également
+                     <choice><sic>a</sic><corr>à</corr></choice> mes deux frères, bijoux, <lb/>montres, <choice><sic>vètements</sic><corr>vêtements</corr></choice>, outils,
+               appareil photo, <lb/>photographies, tous souvenirs en somme, <lb/>relevant de la
+               famille des Pradelle.</p>
+            <p>Je désire être enterré civilement et refuse le concours <lb/>de toute espèce de
+               religion.</p>
+            <p>Je charge mon frère <choice><sic>ainé</sic><corr>aîné</corr></choice>,
+                  <persName>Louis <surname>Pradelle</surname></persName>, de <lb/>l’exécution de mes
+               dernières dispositions <choice><sic>oû</sic><corr>ou</corr></choice> en <lb/>cas de
+               mort <choice><sic>oû</sic><corr>ou</corr></choice> d’empêchement, mon
+                  frère <lb/><persName>Michel <surname>Pradelle</surname></persName>.</p>
+            <space quantity="1" unit="lines" dim="vertical"/>
+            <dateline>Fait et écrit entièrement de ma main <lb/>à <placeName type="willPlace" ref="#pl-212">Grévillers</placeName>, bois 105<choice><sic>,</sic><corr/></choice> (Somme)<choice><sic/><corr>,</corr></choice> <lb/><date type="willDate" when="1916-11-20">le 20 novembre 1916</date>.</dateline>
+            <space quantity="1" unit="lines" dim="vertical"/>
+            <signed rend="centered"><persName><surname>Pradelle</surname></persName></signed>
+                     <postscript><p>Caporal <lb/><orgName>31<hi rend="superscript-underlined">ème</hi> <choice><abbr>T<hi rend="superscript-underlined">al</hi></abbr><expan>régiment territorial</expan></choice></orgName> 1<hi rend="superscript-underlined">ère</hi><choice><abbr>C<hi rend="superscript-underlined">ie</hi></abbr><expan>compagnie</expan></choice>. <lb/><choice><abbr>S.P.</abbr><expan>Secteur
+                     Postal</expan></choice> 180.</p></postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

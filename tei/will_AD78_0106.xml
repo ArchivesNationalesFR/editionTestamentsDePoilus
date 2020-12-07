@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0106">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Maurice Paul Breton (4 juillet 1915)] : édition électronique</title><author><persName ref="#pers-391">Maurice Paul Breton
+                    (1880-1917)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#VLemee">Valérie Lemée</persName><persName ref="#MDeuve">Mathilde Deuve</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#Jideuxhemme">Jideuxhemme</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0106</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0106_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E32 460, minute du 10 novembre 1917 (dépôt du testament de Maurice
+                            Paul Breton)</idno>
+                        <msName>Testament de Maurice Paul Breton (4 juillet 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1915-07-04">4 juillet 1915</date>.
+                                    <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-391"><forename>Maurice</forename> <forename>Paul</forename> <surname>Breton</surname></persName>, mort
+                                pour la France le <date when="1917-10-18">18 octobre 1917</date> à
+                                    <placeName ref="#pl-605">l’hôpital
+                            d’Evreux</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>25</height>
+                                        <width>17,5</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de Rambouillet</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0106_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E32 460, minute du 10 novembre 1917 (dépôt du testament de Maurice
+                            Paul Breton)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-07-04">4 juillet 1915</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>4 juillet 1915.
+                                    Paris.</p><p>testament
+                                    olographe de Maurice Paul Breton, mort
+                                pour la France le 18 octobre 1917 à
+                                    l’hôpital
+                            d’Evreux.</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-07-01/2020-05-12" who="#MFGarreau #lelia #Jideuxhemme">transcription</change>
+            <change when-iso="2019-07-01/2019-10-28" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0106___JPEG___FRAD78_Poilus_t-0106_01.jpg" xml:id="FRAD78_Poilus_t-0106_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0106">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0106_01"/>
+                <space dim="vertical" unit="lines" quantity="6"/>
+                <p>J’institue <persName> Madame Marie
+                        <lb/>Léonie Larralde</persName>, veuve de Monsieur <lb/><persName>Louis
+                        Isidore Breton</persName>, ma <choice><sic>Mère</sic><corr>mère</corr></choice><choice><sic/><corr>,</corr></choice> <lb/>ma
+                    légataire universelle en toute <lb/>propriété.</p>
+                <p>En cas de décès de ma <choice><sic>Mère</sic><corr>mère</corr></choice> j’institue
+                    <lb/>ma <choice><sic>Soeur</sic><corr>soeur</corr></choice> <persName>Hélène Marie
+                        Breton <lb/>femme Brunet</persName> ma légataire
+                            universelle<choice><sic/><corr>.</corr></choice></p>
+                <p>En cas de décès de ma <choice><sic>Soeur</sic><corr>soeur</corr></choice> j’institue
+                    <lb/>ma <choice><sic>Tante</sic><corr>tante</corr></choice> <gap reason="cancelled"/><persName>Léontine Larralde <lb/>femme Auquier</persName>, ma légataire
+                            universelle<choice><sic/><corr>.</corr></choice></p>
+                <p>En cas de décès de ma <choice><sic>Tante</sic><corr>tante</corr></choice>, j’institue
+                    <lb/>son fils <persName>Jacques Auquier</persName>, mon
+                    <choice><sic>Cousin</sic><corr>cousin</corr></choice> <lb/>mon légataire
+                            universel<choice><sic/><corr>.</corr></choice></p>
+                <p>En cas de décès de mon <choice><sic>Cousin</sic><corr>cousin</corr></choice>
+                    j’institue <lb/>mon <choice><sic>Oncle</sic><corr>oncle</corr></choice>
+                        <persName>Ernest Auquier</persName> mon <lb/>légataire
+                            universel<choice><sic/><corr>.</corr></choice></p>
+                <p>En cas de décès total j’institue <lb/>légataire universel
+                                l’<orgName><choice><sic>Hotel</sic><corr>Hôtel</corr></choice> des
+                        <lb/>Invalides</orgName><choice><sic/><corr>.</corr></choice></p>
+                <dateline rend="right"><placeName type="willPlace" ref="#pl-2">Paris</placeName><choice><sic/><corr>,</corr></choice> <date type="willDate" when="1915-07-04">le 4 juillet 1915</date></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="right"><persName ref="#pers-391">Maurice
+                        <surname>Breton</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

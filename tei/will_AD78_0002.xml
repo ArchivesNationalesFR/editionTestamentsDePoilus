@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0002">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de André René Vaugon (23 août 1914)] : édition électronique</title><author><persName ref="#pers-2">André René Vaugon (1890-1914)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#VLemee">Valérie Lemée</persName><persName ref="#SBlanchard">Sophie Blanchard</persName><persName ref="#MDeuve">Mathilde Deuve</persName><persName ref="#FAuriau">Françoise Auriau</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#SLespinasse">Suzie Lespinasse</persName><persName ref="#ASJPeronneau">ASJPeronneau</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#EdChamps">Emmanuelle de Champs</persName><persName ref="#FClavaud">Florence Clavaud</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0002</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0002_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E6 507, minute du 25 octobre 1914 (dépôt du testament de André René
+                            Vaugon)</idno>
+                        <msName>Testament de André René Vaugon (23 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-23">23 août 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-7">Caen</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-2"><forename>André</forename> 
+                                    <forename>René</forename> 
+                                    <surname>Vaugon</surname></persName>, mort pour la France le
+                                    <date when="1914-10-04">4 octobre 1914</date> à l’<placeName ref="#pl-6">hôpital de Vierzon-Village
+                            (Cher)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (codicille). </support>
+                                <extent>1 page. Dimensions du codicille : <dimensions type="willCodicil" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p> Codicille : Encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de Chatou</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0002_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E6 507, minute du 25 octobre 1914 (dépôt du testament de André René
+                            Vaugon)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-23">23 août 1914</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>23 août 1914.
+                                    Caen.</p><p>testament
+                                    olographe de André 
+                                    René 
+                                    Vaugon, mort pour la France le
+                                    4 octobre 1914 à l’hôpital de Vierzon-Village
+                            (Cher).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-03-23" who="#SL. #MFGarreau #lelia #SLespinasse #ASJPeronneau">transcription</change>
+            <change when-iso="2018-01-24/2018-03-23" who="#PCharbonnier #EdChamps #FClavaud">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08"> enrichissements et
+                contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0002___JPEG___FRAD78_Poilus_t-0002_01.jpg" xml:id="FRAD78_Poilus_t-0002_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0002">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0002_01"/>
+                <p>Je soussigné <persName ref="#pers-2">André René
+                        <surname>Vaugon</surname></persName>
+                    <lb/>né à <placeName type="willAuthorBirthPlace" ref="#pl-5">Marolles-les-Braults</placeName> le <date when="1890-05-18" type="willAuthorBirthDate"><choice><sic>dix
+                            huit</sic><corr>dix-huit</corr></choice>
+                        <lb/><choice><sic>Mai</sic><corr>mai</corr></choice> 1890</date><choice><sic/><corr>,</corr></choice>
+                    actuellement mobilisé à <placeName type="otherPlace" ref="#pl-7">Caen</placeName>
+                    <lb/>comme
+                        <choice><sic>sous.lieutenant</sic><corr>sous-lieutenant</corr></choice> de
+                            <choice><sic>reserve</sic><corr>réserve</corr></choice><choice><sic/><corr>,
+                        </corr></choice>
+                    <lb/><space unit="chars" dim="horizontal" quantity="3"/><choice><sic>Sain</sic><corr>sain</corr></choice> de corps et
+                            d’esprit<choice><sic/><corr>, </corr></choice>
+                    <lb/><space unit="chars" dim="horizontal" quantity="3"/><choice><sic>Revoque</sic><corr>révoque</corr></choice> purement et
+                    simplement mon <lb/>testament fait en juillet dernier et se <lb/>trouvant dans
+                    mon <choice><sic>coffre fort</sic><corr>coffre-fort</corr></choice> au
+                        <lb/><orgName>Crédit Lyonnais</orgName>
+                    <choice><sic>Boulevard</sic><corr>boulevard</corr></choice> des Italiens<choice><sic/><corr>,
+                    </corr></choice>
+                    <lb/>Caisse 909 Case 11 Combinaison 1, 3, 9.</p>
+                <p><choice><sic>Donne</sic><corr>Je donne</corr></choice> et lègue en toute
+                            <choice><sic>proprieté</sic><corr>propriété</corr></choice> à <lb/>ma
+                    tante <persName>Marie Vaugon</persName>, épouse de <lb/><persName>Monsieur Henri
+                        Duval</persName> juge à <placeName type="otherPlace">Cholet</placeName><choice><sic/><corr>,</corr></choice>
+                    <lb/> l’universalité de tous mes biens meubles <lb/>et
+                            immeubles<choice><sic/><corr>.</corr></choice></p>
+                <p>Je
+                            <choice><sic>desherite</sic><corr>déshérite</corr></choice> <choice><sic>completement</sic><corr>complètement</corr></choice>
+                    ma mère <lb/>et veux qu’après ma mort elle n’ait <lb/>absolument rien de moi,
+                    pas même <lb/>un souvenir. Je désire qu’elle renonce à <lb/>sa
+                            <choice><sic>reserve</sic><corr>réserve</corr></choice>
+                            légale<choice><sic/><corr>.</corr></choice></p>
+                <dateline>Fait à <placeName type="willPlace" ref="#pl-7">Caen (Calvados)</placeName>
+                    <date when="1914-08-23" type="willDate">le <choice><sic>vingt
+                                <lb/>trois</sic><corr>vingt-<lb/>trois</corr></choice> <choice><sic>Aout</sic><corr>août</corr></choice>
+                        mil neuf cent
+                    quatorze</date><choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="centered"><persName ref="#pers-2">A
+                        <surname>Vaugon</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

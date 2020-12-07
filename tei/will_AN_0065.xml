@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0065">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title><title type="main">[Testament de Jules Moins (10 août 1914)] : édition électronique</title><author>
+                    <persName ref="#pers-122">Jules Moins (1881-1916)</persName>
+                </author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+                        Département de la Conservation. Atelier photographique</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#AM">Aurélie Massie</persName><persName ref="#MLocatelli">Mélisa Locatelli</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#lelia">Lélia Picabia</persName><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#SL.">EG</persName><persName ref="#Silver08">Silver08</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#jmorvan">Josselin Morvan</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AN_0065</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0065_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1616, minute du 9 décembre 1918 (dépôt du testament de Jules Moins)</idno>
+                        <msName>Testament de Jules Moins (10 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1914-08-10">10 août 1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-122"><forename>Jules</forename> <surname>Moins</surname></persName>, mort pour la France le <date when="1916-03-11">11 mars 1916</date> au <placeName ref="#pl-105">Mort Homme (Meuse)</placeName>.</p>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance>
+                            
+                            <orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010247">étude notariale 120 (CRPCEN : 75100)</orgName>
+                        </provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0065_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1616, minute du 9 décembre 1918 (dépôt du testament de Jules Moins)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date type="willDate" when="1914-08-10">10 août 1914</date>
+            </creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>10 août 1914. Paris.</p><p>testament olographe de Jules Moins, mort pour la France le 11 mars 1916 au Mort Homme (Meuse).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-05-02" who="#lelia #MFGarreau #SL. #Silver08">transcription</change>
+            <change when-iso="2018-01-24/2018-05-01" who="#PCharbonnier ">validation</change>
+            <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0065___JPEG___FRAN_Poilus_t-0065_01.jpg" xml:id="FRAN_Poilus_t-0065_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0065">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0065_01"/>
+                <p>Je soussigné <persName ref="#pers-122">Jules <surname>Moins</surname></persName> <lb/>marchand de toiles demeurant <lb/><choice><sic>a</sic><corr>à</corr></choice> <placeName type="willAuthorResidence" ref="#pl-2">Paris</placeName><choice><sic/><corr>,</corr></choice> rue de Turenne <choice><abbr>n<hi rend="superscript-underlined">o</hi></abbr><expan>numéro</expan></choice> 80 <lb/>institue pour ma légataire <lb/>universelle <persName>Marie Eugénie <lb/>Santoire</persName> mon épouse<choice><sic/><corr>.</corr></choice></p>
+                <p>Je révoque tous testaments <lb/>antérieurs<choice><sic/><corr>.</corr></choice></p>
+                <dateline><placeName type="willPlace" ref="#pl-2">Paris</placeName> le <date type="willDate" when="1914-08-10">10 <choice><sic>Aout</sic><corr>août</corr></choice> <app><lem><subst><del>mille<lb/></del><add>mil</add></subst><add type="testatorComment" place="marginLeft">1 mot <choice><sic>rayés</sic><corr>rayé</corr></choice> nul <lb/><seg type="signature"><persName ref="#pers-122">J. <surname>M </surname></persName></seg> <seg type="signature"><persName ref="#pers-122">Jules <surname>Moins</surname></persName></seg></add></lem><note resp="#jmorvan">Mention "1 mot rayés nul" ajoutée en marge et signée "J. M Jules Moins".</note></app> neuf cent quatorze</date><choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="right"><persName ref="#pers-122">Jules <surname>Moins</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

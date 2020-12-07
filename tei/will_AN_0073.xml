@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0073">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la
+          Grande Guerre</title><title type="main">[Testament de Charles Frédéric Jolivet (14 septembre 1915)] : édition électronique</title><author><persName ref="#pers-130">Charles Frédéric Jolivet (1877-1916)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+      <editionStmt>
+        <edition>Première édition électronique, fondée sur un travail de transcription
+          collaborative</edition>
+        <respStmt><resp>Numérisation</resp><orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+                        Département de la Conservation. Atelier photographique</orgName></respStmt>
+        <respStmt><resp>Identification et description du testament</resp><persName ref="#AM">Aurélie Massie</persName><persName ref="#MLocatelli">Mélisa Locatelli</persName></respStmt>
+        <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#Valérie">Valérie</persName></respStmt>
+        <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+        <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#jmorvan">Josselin Morvan</persName></respStmt>
+      </editionStmt>
+      <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AN_0073</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="will_AN_0073_tes">
+          <msIdentifier>
+            <country>France</country>
+            <institution>Archives nationales</institution>
+            <collection>Minutier central des notaires de Paris</collection>
+            <idno>MC/ET/CXX/1631, minute du 11 juin 1919 (dépôt du testament de Charles Frédéric
+              Jolivet)</idno>
+            <msName>Testament de Charles Frédéric Jolivet (14 septembre 1915)</msName>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p><date type="willDate" when="1915-09-14">14 septembre 1915</date>. <placeName type="willPlace" ref="#pl-12">Neuville-Saint-Vaast</placeName>.</p>
+              <p><term type="willType">testament olographe</term> de <persName ref="#pers-130"><forename>Charles</forename> <forename>Frédéric</forename> <surname>Jolivet</surname></persName>, mort pour la France
+                le <date when="1916-05-23" source="#will_AN_0073_min">23 mai 1916 [NOT]</date> ou le
+                  <date when="1916-05-22" source="#MDH">22 mai 1916 [MDH]</date>, à <placeName ref="#pl-225" source="#will_AN_0073_min">Douaumont (Meuse) [NOT]</placeName> ou à
+                Verdun (Meuse) [MDH].</p>
+            </summary>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>Papier timbré réglé (testament). </support>
+                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                    <height>24,9</height>
+                    <width>17,8</width>
+                  </dimensions>.</extent>
+              </supportDesc>
+            </objectDesc>
+            <handDesc>
+              <p>Testament : crayon bleu.</p>
+            </handDesc>
+          </physDesc>
+          <history>
+            <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010247">étude notariale
+                120 (CRPCEN : 75100)</orgName></provenance>
+          </history>
+        </msDesc>
+        <msDesc xml:id="will_AN_0073_min">
+          <msIdentifier>
+            <country>France</country>
+            <institution>Archives nationales</institution>
+            <collection>Minutier central des notaires de Paris</collection>
+            <idno>MC/ET/CXX/1631, minute du 11 juin 1919 (dépôt du testament de Charles Frédéric
+              Jolivet)</idno>
+            <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+              minute</msName>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation><date type="willDate" when="1915-09-14">14 septembre 1915</date></creation>
+      <langUsage><language ident="fr">français</language></langUsage>
+      <abstract><p>14 septembre 1915. Neuville-Saint-Vaast.</p><p>testament olographe de Charles Frédéric Jolivet, mort pour la France
+                le 23 mai 1916 [NOT] ou le
+                  22 mai 1916 [MDH], à Douaumont (Meuse) [NOT] ou à
+                Verdun (Meuse) [MDH].</p></abstract>
+      <textClass>
+        <keywords>
+          <term type="subject">Grande Guerre</term>
+          <term type="subject">Poilu</term>
+          <term type="subject">testament</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when-iso="2018-01-24/2018-04-09" who="#SL. #lelia #Valérie">transcription</change>
+      <change when-iso="2018-01-24/2018-03-28" who="#PCharbonnier ">validation</change>
+      <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+    <surface type="will-page" n="01">
+      <graphic url="testament_AN_0073___JPEG___FRAN_Poilus_t-0073_01.jpg" xml:id="FRAN_Poilus_t-0073_01"/>
+    </surface>
+  </facsimile>
+  <text xml:id="will_AN_0073">
+    <body>
+      <div type="will">
+        <pb facs="#FRAN_Poilus_t-0073_01"/>
+        <head rend="centered">Ceci est mon testament</head>
+        <p>Je <choice><sic>Soussigné</sic><corr>soussigné</corr></choice>
+          <persName ref="#pers-130">Fréderic
+              <surname>Jolivet</surname></persName><choice><sic/><corr>,</corr></choice>
+              coiffeur<choice><sic/><corr>,</corr></choice>
+          <lb/><choice><sic>Demeurant a</sic><corr>demeurant à </corr></choice>
+          <placeName type="willAuthorResidence" ref="#pl-2">Paris</placeName>
+          <choice><sic>Rue du Petit moine</sic><corr>rue du Petit-Moine,</corr></choice>
+          <lb/><choice><abbr>N<hi rend="superscript">o</hi></abbr><expan>numéro</expan></choice>
+              3<choice><sic/><corr>,</corr></choice>
+          <choice><sic>Actuellement Mobilisé Déclare</sic><corr>actuellement mobilisé,
+              déclare</corr></choice>
+          <lb/>par ce présent <choice><sic>institue</sic><corr>instituer</corr></choice> pour ma
+          <lb/>légataire universelle <choice><abbr>M<hi rend="superscript">e</hi></abbr><expan>Madame</expan></choice>
+          <persName>Jolivet <lb/>née Louise Richy</persName> mon <choice><sic>Epouse
+              en</sic><corr>épouse. En</corr></choice>
+          <lb/><choice><sic>Conséquence Je</sic><corr>conséquence je</corr></choice> lui lègue en
+              <choice><sic>Toute proprieté</sic><corr>toute propriété,</corr></choice>
+          <lb/><choice><sic>Pour</sic><corr>pour</corr></choice> en jouir
+              <choice><sic>a</sic><corr>à</corr></choice> compter de mon <choice><sic>Déces
+              Tous</sic><corr>décès, tous</corr></choice>
+          <lb/>les biens meubles et immeuble et droits
+              <choice><sic>quelconque</sic><corr>quelconques</corr></choice>
+          <lb/>qui m’<choice><sic>appartienne</sic><corr>appartiennent ou </corr></choice> qui
+          composeront ma <lb/><choice><sic>Sucession</sic><corr>succession</corr></choice> sans
+          aucune exception ni <choice><sic>Reserve</sic><corr>réserve.</corr></choice>
+          <lb/>Je la dispense de <choice><sic>Fournir</sic><corr>fournir</corr></choice> caution
+            <add place="above">et</add> de <choice><sic>Faire</sic><corr>faire</corr></choice>
+              emploi<choice><sic/><corr>.</corr></choice></p>
+        <dateline>Fait <choice><sic>a</sic><corr>à</corr></choice>
+          <placeName type="willPlace" ref="#pl-12"><choice><sic>Neuville S<hi rend="superscript">t</hi> Vasst</sic><corr>Neuville-Saint-Vaast</corr></choice>
+            <add place="below">(<choice><sic>Pas de
+              Calais</sic><corr>Pas-de-Calais</corr></choice>)</add></placeName> le <date type="willDate" when="1915-09-14">14
+              <choice><sic>Septembre</sic><corr>septembre</corr></choice>
+              1915</date><choice><sic/><corr>.</corr></choice></dateline>
+        <signed><persName ref="#pers-130"><surname>Jolivet</surname> <choice><sic>Frederic</sic><corr>Frédéric</corr></choice></persName></signed>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD95_0051">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Alfred Auguste Ducourrau (2 novembre 1917)] : édition électronique</title><author><persName ref="#pers-445">Alfred Auguste Ducourrau
+                    (1887-1918)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#SDoman">Sarah Doman</persName><persName ref="#JK">Juline Kibongui</persName><persName ref="#SD">Sophie Delinge</persName><persName ref="#TO">Thomas Olivier</persName><persName ref="#SDechavanne">Sylvie Dechavanne</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#GBMireille">Mireille Grais-Bruguière</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD95_0051</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD95_0051_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales du Val-d’Oise</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>2E25 588, minute du 6 août 1920 (dépôt du testament de Alfred Auguste
+                            Ducourrau)</idno>
+                        <msName>Testament de Alfred Auguste Ducourrau (2 novembre 1917)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1917-11-02">2 novembre 1917</date>.
+                                    <placeName type="willPlace" ref="#pl-647">Saint-Leu-la-Forêt</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-445"><forename source="#will_AD95_0051_tes #will_AD95_0051_min #MDH #AS">Alfred</forename> <forename source="#will_AD95_0051_tes #will_AD95_0051_min #MDH #AS">Auguste</forename> <surname>Ducourrau</surname></persName>, mort
+                                pour la France le <date when="1918-10-14" source="#will_AD95_0051_min #MDH #AS">14 octobre 1918 [NOT][MDH]
+                                    [AS]</date> à <placeName ref="#pl-222" source="#will_AD95_0051_min #MDH">Reims (Marne) [NOT] |
+                                    ambulance 9-18 S.P. 14 Reims (Marne)
+                            [MDH]</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier ivoire réglé timbré (testament). Enveloppe ivoire
+                                    timbrée (enveloppe). </support>
+                                <extent>1 page et 1 enveloppe. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>17,8</height>
+                                        <width>24,9</width>
+                                    </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                                        <height>11,5</height>
+                                        <width>14,6</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Enveloppe : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>Corneau Taverny</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD95_0051_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales du Val-d’Oise</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>2E25 588, minute du 6 août 1920 (dépôt du testament de Alfred Auguste
+                            Ducourrau)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1917-11-02">2 novembre 1917</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>2 novembre 1917.
+                                    Saint-Leu-la-Forêt.</p><p>testament olographe de Alfred Auguste Ducourrau, mort
+                                pour la France le 14 octobre 1918 [NOT][MDH]
+                                    [AS] à Reims (Marne) [NOT] |
+                                    ambulance 9-18 S.P. 14 Reims (Marne)
+                            [MDH].</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-10-09/2020-03-04" who="#MFGarreau #GBMireille">transcription</change>
+            <change when-iso="2019-10-09/2019-11-20" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD95_0051___JPEG___FRAD95_Poilus_t-0051_01.jpg" xml:id="FRAD95_Poilus_t-0051_01"/>
+        </surface>
+        <surface type="will-envelope-recto" n="02">
+            <graphic url="testament_AD95_0051___JPEG___FRAD95_Poilus_t-0051_02.jpg" xml:id="FRAD95_Poilus_t-0051_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD95_0051">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD95_Poilus_t-0051_01"/>
+                <head>Ceci est mon testament</head>
+                <p>Je soussigné <persName ref="#pers-445">Alfred Auguste
+                            <surname>Ducourrau</surname></persName>
+                    <lb/>demeurant à <placeName type="willAuthorResidence" ref="#pl-647"><choice><sic>Saint Leu la
+                                Forêt</sic><corr>Saint-Leu-la-Forêt</corr></choice></placeName>
+                            (Seine<choice><sic>-</sic><corr>-et-</corr></choice>Oise)
+                    <lb/>actuellement mobilisé au <orgName ref="#o-42">43<hi rend="superscript">e</hi>
+                        <choice><sic>Régiment</sic><corr>régiment</corr></choice>
+                        <lb/>d’<choice><sic>Infanterie</sic><corr>infanterie</corr></choice>
+                        <choice><sic>Coloniale</sic><corr>coloniale</corr></choice></orgName> 21<hi rend="superscript">e</hi>
+                    <choice><sic>Compagnie</sic><corr>compagnie</corr></choice>
+                    <lb/><choice><sic>Secteur</sic><corr>secteur</corr></choice> postal 13 déclare
+                    instituer et institue <lb/><persName>Madame Louise Esther Anna Morin</persName>,
+                    mon <lb/>épouse pour ma légataire universelle de <lb/>tous les biens meubles et
+                    immeubles qui <choice><sic>dépenderont</sic><corr>dépendront</corr></choice>
+                    <lb/>de ma succession au jour de mon décès, voulant <lb/>et entendant qu’elle
+                    puisse en jouir et disposer <lb/>comme de choses lui appartenant à compter de
+                    <lb/>mon dit décès sans qu’elle ait <choice><sic>a</sic><corr>à</corr></choice>
+                    fournir caution <lb/>ni à faire emploi.</p>
+                <dateline>Fait et écrit en entier de ma main à <placeName type="willAuthorResidence" ref="#pl-647"><choice><sic>Saint <lb/>Leu la Forêt</sic><corr>Saint-Leu-la-Forêt</corr></choice></placeName>
+                    <date type="willDate" when="1917-11-02">le deux
+                                <choice><sic>Novembre</sic><corr>novembre</corr></choice> mil neuf
+                        cent <choice><sic>dix <lb/>sept</sic><corr>dix-sept</corr></choice></date>.</dateline>
+                <signed rend="centered"><persName ref="#pers-445">A <surname>Ducourrau</surname></persName></signed>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAD95_Poilus_t-0051_02"/>
+                <p>Enveloppe contenant mes dernières <lb/>volontés et à n’ouvrir qu’à mon décès.</p>
+                <dateline><placeName type="willPlace" ref="#pl-647"><choice><sic>Saint Leu la Forêt</sic><corr>Saint-Leu-la-Forêt</corr></choice></placeName>
+                    <date type="willDate" when="1917-11-02">le deux
+                                <choice><sic>Novembre</sic><corr>novembre</corr></choice>
+                        mil <lb/>neuf cent <choice><sic>dix sept</sic><corr>dix-sept</corr></choice>.</date></dateline>
+                <signed rend="right"><persName ref="#pers-445">A <surname>Ducourrau</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

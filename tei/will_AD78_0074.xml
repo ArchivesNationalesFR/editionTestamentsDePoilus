@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0074">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Joseph Béchec (3 août 1914)] : édition électronique</title><author><persName ref="#pers-362">Joseph Béchec (1877-1915)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#DMD">Denis Michel-Dansac</persName><persName ref="#MDeuve">Mathilde Deuve</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#SL.">EG</persName><persName ref="#GBMireille">Mireille Grais-Bruguière</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0074</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0074_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E4 367, minute du 18 janvier 1916 (dépôt du testament de Joseph
+                            Béchec)</idno>
+                        <msName>Testament de Joseph Béchec (3 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-03">3 août 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-14">Rueil-Malmaison</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-362"><forename>Joseph</forename> <surname>Béchec</surname></persName>, mort
+                                pour la France le <date when="1915-05-30">30 mai 1915</date> à
+                                    <placeName ref="#pl-548">St-Nicolas
+                                (Pas-de-Calais)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>26</height>
+                                        <width>17</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de Bougival</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0074_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E4 367, minute du 18 janvier 1916 (dépôt du testament de Joseph
+                            Béchec)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-03">3 août 1914</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>3 août 1914.
+                                    Rueil-Malmaison.</p><p>testament olographe de Joseph Béchec, mort
+                                pour la France le 30 mai 1915 à
+                                    St-Nicolas
+                                (Pas-de-Calais).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-07-01/2020-05-12" who="#MFGarreau #lelia #SL. #GBMireille">transcription</change>
+            <change when-iso="2019-07-01/2019-11-06" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0074___JPEG___FRAD78_Poilus_t-0074_01.jpg" xml:id="FRAD78_Poilus_t-0074_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0074">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0074_01"/>
+                <head><choice><sic>ce ci</sic><corr>Ceci</corr></choice> est mon
+                            testament<choice><sic/><corr>.</corr></choice></head>
+                <p><choice><sic>jinstitue</sic><corr>J’institue</corr></choice> pour ma
+                            <lb/><choice><sic>Léjataire</sic><corr>légataire</corr></choice>
+                    universelle <lb/><choice><sic>san s</sic><corr>sans</corr></choice> aucune
+                    <lb/>exception <choice><sic>nireserve</sic><corr>ni
+                    réserve</corr></choice> <lb/>ma <choice><sic>soe
+                        ur</sic><corr>soeur</corr></choice> <persName><choice><sic>franci
+                                neBechec</sic><corr>Francine
+                            Béchec</corr></choice></persName><choice><sic/><corr>.</corr></choice></p>
+                <dateline><choice><sic>fait a</sic><corr>Fait à</corr></choice> <placeName type="willPlace" ref="#pl-14"><choice><sic>rueile</sic><corr>Rueil</corr></choice></placeName> 
+                        <date type="willDate" when="1914-08-03"><choice><sic>letrois aout
+                        </sic><corr>le trois août</corr></choice> <lb/>mil<gap reason="cancelled"/> <choice><sic>neufcent</sic><corr>neuf cent</corr></choice>
+                            quatorze</date><choice><sic/><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="centered"><persName ref="#pers-362"><surname><choice><sic>Bechec</sic><corr>Béchec</corr></choice></surname>
+                        Joseph</persName></signed> <postscript rend="centered"><p>rue
+                        <choice><sic>rue mauillon</sic><corr>Rue Mouillon</corr></choice> n<hi rend="superscript-double-underlined">o</hi>3<choice><sic/><corr>.</corr></choice></p></postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0025">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de André Lelandais (16 juin 1915)] : édition électronique</title><author><persName ref="#pers-24">André Lelandais (1880-1918)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#CSouchon">Catherine Souchon</persName><persName ref="#SBlanchard">Sophie Blanchard</persName><persName ref="#MDeuve">Mathilde Deuve</persName><persName ref="#FAuriau">Françoise Auriau</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#LBIsabelle">LBIsabelle</persName><persName ref="#ALemoine">Aurélie Lemoine</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#TPellé">TPellé</persName><persName ref="#Jideuxhemme">Jideuxhemme</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#EdChamps">Emmanuelle de Champs</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0025</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0025_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E30 676, minute du 9 octobre 1918 (dépôt du testament de André
+                            Lelandais)</idno>
+                        <msName>Testament de André Lelandais (16 juin 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1915-06-16">16 juin 1915</date>.
+                                    <placeName type="willPlace" ref="#pl-54">Berneuil-sur-Aisne</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-24"><forename>André</forename> <surname>Lelandais</surname></persName>,
+                                mort pour la France le <date when="1918-08-13">13 aout 1918</date> à
+                                    l’<placeName ref="#pl-53">Hôpital militaire de
+                                    Belfort</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de
+                            Neauphle-le-Château</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0025_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E30 676, minute du 9 octobre 1918 (dépôt du testament de André
+                            Lelandais)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-06-16">16 juin 1915</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>16 juin 1915.
+                                    Berneuil-sur-Aisne.</p><p>testament olographe de André Lelandais,
+                                mort pour la France le 13 aout 1918 à
+                                    l’Hôpital militaire de
+                                    Belfort.</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-10-15" who="#SL. #LBIsabelle #ALemoine #lelia #TPellé #Jideuxhemme">transcription</change>
+            <change when-iso="2018-01-24/2018-09-26" who="#PCharbonnier #EdChamps ">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0025___JPEG___FRAD78_Poilus_t-0025_01.jpg" xml:id="FRAD78_Poilus_t-0025_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0025">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0025_01"/>
+                <dateline rend="right"><placeName type="willPlace" ref="#pl-54"><choice><sic>Berneuil-sur-aisne</sic><corr>Berneuil-sur-Aisne</corr></choice></placeName>
+                    <date type="willDate" when="1915-06-16">le <choice><sic>Seize Juin<lb/> Mil Neuf
+                                Cent Quinze</sic><corr>seize juin mil neuf cent
+                            quinze</corr></choice></date>.</dateline>
+                <space quantity="4" unit="lines" dim="vertical"/>
+                <p>Ceci est mon testament révoquant <lb/>toutes dispositions antérieures.</p>
+                <p>Je, soussigné, <persName ref="#pers-24">André
+                        <surname>Lelandais</surname></persName> <lb/><choice><sic>Employé</sic><corr>employé</corr></choice>
+                    à <orgName>la Société <choice><sic>Générale Française</sic><corr>générale française</corr></choice> <lb/>
+                        d’assurances mutuelles sur la
+                        <choice><sic>Vie</sic><corr>vie</corr></choice></orgName><choice><sic/><corr>,</corr></choice> <lb/>27
+                            <choice><sic>Boulevard</sic><corr>boulevard</corr></choice> des
+                    Italiens, <placeName type="otherPlace" ref="#pl-2">Paris</placeName><choice><sic/><corr>,</corr></choice> <lb/>demeurant à <placeName type="willAuthorResidence" ref="#pl-2">Paris</placeName>,
+                    rue Berthollet, <choice><abbr>N<hi rend="superscript-underlined">o</hi></abbr><expan>numéro</expan></choice> 24, <lb/>en ce moment aux
+                    <choice><sic>Armées</sic><corr>armées</corr></choice><choice><sic>. Donne</sic><corr>, donne</corr></choice> et lègue par le présent à <lb/><persName>Ann<subst><del>a</del><add>e</add></subst> Louise Henriette
+                            <surname>Fournou</surname></persName> ma <lb/>femme, l’usufruit pendant
+                    sa vie de <lb/>l’universalité de tous les biens, meubles et <lb/>immeubles, qui
+                    m’appartiendront au jour <lb/>de mon
+                        <choice><sic>dèçés</sic><corr>décès</corr></choice> et composeront ma
+                    succession <lb/>sans aucune exception ni réserve. <lb/>Ce legs sera réduit à <add place="above">l’usufruit de</add> la moitié des mêmes <lb/>biens si je
+                    laisse des enfants ou autres descendants.</p>
+                <p>Dans l’un comme dans l’autre cas, <lb/>ma femme jouira de l’usufruit
+                            <choice><sic>lègué</sic><corr>légué</corr></choice> à <lb/>compter dudit
+                    jour de mon <choice><sic>dèçés</sic><corr>décès</corr></choice> sans être <lb/>
+                    tenue de fournir caution ni de faire emploi, <lb/>mais à la charge de faire
+                    faire inventaire.</p>
+                <dateline><choice><sic>Ecrit</sic><corr>Écrit</corr></choice> et signé en entier de ma
+                    main <lb/><date type="willDate" when="1915-06-16"><choice><sic>le Seize Juin Mil Neuf Cent
+                                Quinze</sic><corr>le seize juin mil neuf cent
+                        quinze.</corr></choice></date></dateline>
+                <signed rend="centered"><persName ref="#pers-24"><surname>Lelandais</surname>.
+                        A</persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

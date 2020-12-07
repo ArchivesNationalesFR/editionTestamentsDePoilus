@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0007">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Achille Pierre Lambert (1 mai 1915)] : édition électronique</title><author><persName ref="#pers-7">Achille Pierre Lambert
+                    (1893-1915)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#VLemee">Valérie Lemée</persName><persName ref="#SBlanchard">Sophie Blanchard</persName><persName ref="#MDeuve">Mathilde Deuve</persName><persName ref="#FAuriau">Françoise Auriau</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#ALemoine">Aurélie Lemoine</persName><persName ref="#StephaneAuje">StephaneAuje</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#FClavaud">Florence Clavaud</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0007</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0007_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E6 517, minute du 4 juillet 1917 (dépôt du testament de Achille
+                            Pierre Lambert)</idno>
+                        <msName>Testament de Achille Pierre Lambert (1 mai 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1915-05-01">1 mai 1915</date>.
+                                    <placeName type="willPlace" ref="#pl-18">Verdun</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-7"><forename>Achille</forename> <forename>Pierre</forename> <surname>Lambert</surname></persName>,
+                                mort pour la France le <date when="1915-07-13">13 juillet
+                                    1915</date> à <placeName>Bolande</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>29,5</height>
+                                        <width>20</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de Chatou</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0007_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E6 517, minute du 4 juillet 1917 (dépôt du testament de Achille
+                            Pierre Lambert)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-05-01">1 mai 1915</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>1 mai 1915.
+                                    Verdun.</p><p>testament
+                                    olographe de Achille Pierre Lambert,
+                                mort pour la France le 13 juillet
+                                    1915 à Bolande.</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-04-16" who="#SL. #lelia #ALemoine #StephaneAuje">transcription</change>
+            <change when-iso="2018-01-24/2018-03-14" who="#PCharbonnier #FClavaud">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0007___JPEG___FRAD78_Poilus_t-0007_01.jpg" xml:id="FRAD78_Poilus_t-0007_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0007">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0007_01"/>
+                <head rend="centered">Ceci est mon testament.</head>
+                <p>Je soussigné <persName ref="#pers-7">Achille Pierre <hi rend="capital-letters">Lambert</hi></persName>, ins<lb break="no"/>titue pour mon légataire
+                    universel mon frère <lb/><persName>Raymond <hi rend="capital-letters">Lambert</hi></persName> sous la condition résolutoire <lb/> qu’il soit
+                    encore vivant le <del>àquinze</del><date>15 <choice>
+                            <sic>Mars</sic>
+                            <corr>mars</corr>
+                        </choice>
+                        <lb/>1916</date>, à charge <choice>
+                        <sic>par</sic>
+                        <corr>pour</corr>
+                    </choice> lui d’exécuter le legs <lb/>suivant<choice><sic> :</sic><corr>.</corr></choice></p>
+                <p>Je lègue à titre universel <choice>
+                        <sic/>
+                        <corr>à</corr>
+                    </choice>
+                    <persName>Madame <lb/>Françoise <hi rend="capital-letters">Ricardon</hi></persName>, veuve de <persName>Monsieur Othoniel <lb/><hi rend="capital-letters">Lambert</hi></persName><choice><sic/><corr>,</corr></choice> l’usufruit et <choice><sic/><corr>la </corr></choice>jouissance
+                    sa vie durant <lb/>et jusqu’au jour de son décès net de frais <lb/>et droits, de la totalité de ma succession.</p>
+                <p>Pour le cas où mon frère viendrait <lb/>à décéder avant moi ou encore pour le cas
+                    où <lb/>il viendrait à décéder avant le 15 <choice><sic>Mars</sic><corr>mars</corr></choice> <lb/>1916, j’institue pour ma
+                    légataire universelle <lb/><persName>Madame Françoise <hi rend="capital-letters">Ricardon</hi></persName>, veuve de Monsieur <lb/><persName>Othoniel <hi rend="capital-letters">Lambert</hi></persName>.</p>
+                <p rend="centered">Je révoque tous testaments antérieurs<choice><sic/><corr>.</corr></choice></p>
+                <p rend="centered">Fait en entier de ma main.</p>
+                <p rend="centered"> L’an 1915.</p>
+                <dateline rend="centered"><date type="willDate" when="1915-05-01">Le 1er <choice>
+                            <sic>Mai</sic>
+                            <corr>mai</corr>
+                        </choice> 1915.</date></dateline>
+                <signed rend="centered">(Signé) <persName ref="#pers-7">A.P. <surname rend="capital-letters">Lambert</surname></persName>.</signed>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0318">
+      <teiHeader>
+            <fileDesc>
+                  <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de
+                              Poilus de la Grande Guerre</title><title type="main">[Testament de Louis Raymond Boverat (27 juillet 1914)] : édition électronique</title><author><persName ref="#pers-461">Louis Raymond Boverat
+                                    (1883-1915)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+                  <editionStmt>
+                        <edition>Première édition électronique, fondée sur un travail de
+                              transcription collaborative</edition>
+                        <respStmt><resp>Numérisation</resp><orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+                        Département de la Conservation. Atelier photographique</orgName></respStmt>
+                        <respStmt><resp>Identification et description du testament</resp><persName ref="#LC">Laure Cadars</persName><persName ref="#AM">Aurélie Massie</persName><persName ref="#LVieillon">Lucie Vieillon</persName><persName ref="#MLocatelli">Mélisa Locatelli</persName></respStmt>
+                        <respStmt><resp>Transcription</resp><persName ref="#lelia">Lélia Picabia</persName><persName ref="#GBMireille">Mireille Grais-Bruguière</persName><persName ref="#SL.">EG</persName></respStmt>
+                        <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                        <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                  </editionStmt>
+                  <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AN_0318</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+                  <sourceDesc>
+                        <msDesc xml:id="will_AN_0318_tes">
+                              <msIdentifier>
+                                    <country>France</country>
+                                    <institution>Archives nationales</institution>
+                                    <collection>Minutier central des notaires de Paris</collection>
+                                    <idno>MC/ET/XXXIV/1641, minute du 12 mars 1915 (dépôt du
+                                          testament de Louis Raymond Boverat)</idno>
+                                    <msName>Testament de Louis Raymond Boverat (27 juillet
+                                          1914)</msName>
+                              </msIdentifier>
+                              <msContents>
+                                    <summary><p><date type="willDate" when="1914-07-27">27 juillet
+                                                  1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament olographe</term> de
+                                                  <persName ref="#pers-461"><forename>Louis</forename> <forename>Raymond</forename> <surname>Boverat</surname></persName>,
+                                                mort pour la France le <date when="1915-02-24">24
+                                                  février 1915</date> à <placeName ref="#pl-140">Perthes les Hurlus
+                                          (Marne)</placeName>.</p></summary>
+                              </msContents>
+                              <physDesc>
+                                    <objectDesc>
+                                          <supportDesc>
+                                                <support>Papier à en-tête (testament). </support>
+                                                <extent>3 pages. Dimensions du testament :
+                                                  <dimensions type="willPage" unit="cm">
+                                                  <height>20,6</height>
+                                                  <width>13,1</width>
+                                                  </dimensions>.</extent>
+                                          </supportDesc>
+                                    </objectDesc>
+                                    <handDesc>
+                                          <p>Testament : encre.</p>
+                                    </handDesc>
+                              </physDesc>
+                              <history>
+                                    <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010161">étude notariale 34 (CRPCEN :
+                                                75018)</orgName></provenance>
+                              </history>
+                        </msDesc>
+                        <msDesc xml:id="will_AN_0318_min">
+                              <msIdentifier>
+                                    <country>France</country>
+                                    <institution>Archives nationales</institution>
+                                    <collection>Minutier central des notaires de Paris</collection>
+                                    <idno>MC/ET/XXXIV/1641, minute du 12 mars 1915 (dépôt du
+                                          testament de Louis Raymond Boverat)</idno>
+                                    <msName>Couverture de la minute, et le cas échéant jugement
+                                          inclus dans la minute</msName>
+                              </msIdentifier>
+                        </msDesc>
+                  </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                  <creation><date type="willDate" when="1914-07-27">27 juillet
+                        1914</date></creation>
+                  <langUsage><language ident="fr">français</language></langUsage>
+                  <abstract><p>27 juillet
+                                                  1914. Paris.</p><p>testament olographe de
+                                                  Louis Raymond Boverat,
+                                                mort pour la France le 24
+                                                  février 1915 à Perthes les Hurlus
+                                          (Marne).</p></abstract>
+                  <textClass>
+                        <keywords>
+                              <term type="subject">Grande Guerre</term>
+                              <term type="subject">Poilu</term>
+                              <term type="subject">testament</term>
+                        </keywords>
+                  </textClass>
+            </profileDesc>
+            <revisionDesc>
+                  <change when="2020-04-07" who="#lelia #GBMireille #SL.">transcription</change>
+                  <change when-iso="2020-04-07/2020-02-21" who="#PCharbonnier">validation</change>
+                  <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change>
+            </revisionDesc>
+      </teiHeader>
+      <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+            <surface type="will-page" n="01">
+                  <graphic url="testament_AN_0318___JPEG___FRAN_Poilus_t-0318_01.jpg" xml:id="FRAN_Poilus_t-0318_01"/>
+            </surface>
+            <surface type="will-page" n="02">
+                  <graphic url="testament_AN_0318___JPEG___FRAN_Poilus_t-0318_02.jpg" xml:id="FRAN_Poilus_t-0318_02"/>
+            </surface>
+            <surface type="will-page" n="03">
+                  <graphic url="testament_AN_0318___JPEG___FRAN_Poilus_t-0318_03.jpg" xml:id="FRAN_Poilus_t-0318_03"/>
+            </surface>
+      </facsimile>
+      <text xml:id="will_AN_0318">
+            <body>
+                  <div type="will">
+                        <pb facs="#FRAN_Poilus_t-0318_01"/>
+                        <dateline rend="right"><placeName type="willPlace" ref="#pl-2">Paris</placeName>, <date type="willDate" when="1914-07-27">le
+                                    27 <choice><sic>J</sic><corr>j</corr></choice>uillet
+                              1914</date>.</dateline>
+                        <metamark function="separating" rend="horizontal-line"/>
+                        <space dim="vertical" unit="lines" quantity="3"/>
+                        <head rend="centered">Ceci est mon testament.</head>
+                        <metamark function="separating" rend="horizontal-line"/>
+                        <p>Je lègue à mon frère <persName>Fernand
+                                    <lb/><surname>Boverat</surname></persName> tout ce que je
+                              <lb/>possède, à charge pour lui <lb/>de remettre : </p>
+                        <list>
+                              <item>1<hi rend="superscript-double-underlined">o</hi> à
+                                          <persName>Marie Thérèse <surname>de
+                                          Langenhagen</surname></persName>, <lb/>ma fiancée, la
+                                    bague saphir <lb/>et la bague émeraude qui <lb/>me viennent de
+                                    ma mère
+                                                <lb/><choice><sic>A</sic><corr>a</corr></choice>dorée<choice><sic>.</sic><corr>,</corr></choice></item>
+                              <item>2<hi rend="superscript-double-underlined">e</hi> à
+                                          <persName>Raymond <surname>Drufin</surname></persName>,
+                                    <lb/>mon filleul, une somme <lb/>de cinq mille
+                                                francs<choice><sic>.</sic><corr>,</corr></choice></item>
+                              <item>3<hi rend="superscript-double-underlined">e</hi> à
+                                          <orgName>l’Union française pour <pb facs="#FRAN_Poilus_t-0318_02"/>le sauvetage de l’enfance</orgName> <lb/>une somme de
+                                    cinq mille
+                                          <lb/>francs<choice><sic>.</sic><corr>,</corr></choice></item>
+                              <item>4<hi rend="superscript-double-underlined">o</hi> à l’oeuvre de
+                                                  <persName>Mademoiselle <lb/><surname/>Koppe</persName> une somme de cinq
+                                    <lb/>mille francs
+                                          également<choice><sic>.</sic><corr>,</corr></choice></item>
+                              <item>5<hi rend="superscript-double-underlined">o</hi> il partagera si
+                                    la guerre <lb/>éclate une somme de <lb/>dix mille francs entre
+                                    des enfants <lb/>malheureux dont les pères auraient <lb/>été
+                                    tués pendant la guerre. <lb/>S’il n’y a pas de guerre, cette
+                                    <lb/>somme sera versée au fonds de <lb/>secours de
+                                          <orgName>l’Alliance nationale <lb/>pour l’accroissement de
+                                          la population
+                                                <lb/>française</orgName><choice><sic>.</sic><corr>,</corr></choice></item>
+                              <item>6<hi rend="superscript-double-underlined">o</hi> il remettra à
+                                          <persName>Marie Misrahi</persName><choice><sic/><corr>,</corr></choice> <lb/>118
+                                                <choice><sic>Rue de la Boetie</sic><corr>rue de
+                                                      La Boétie</corr></choice> à Paris<choice><sic/><corr>,</corr></choice> <lb/>la somme de
+                                    vingt mille francs <pb facs="#FRAN_Poilus_t-0318_03"/>que je lui
+                                    ai promise.</item>
+                        </list>
+                        <metamark function="separating" rend="horizontal-line"/>
+                        <p>Si je <choice><sic>mourais</sic><corr>mourrais</corr></choice> à
+                                    <placeName type="otherPlace" ref="#pl-2">Paris</placeName>,
+                              <lb/>je désire être enterré au <lb/>cimetière de <placeName type="otherPlace">Bougival</placeName> dans <lb/>le tombeau où
+                              reposent ma <lb/>mère et mon
+                                    grand<choice><sic/><corr>-</corr></choice>père.</p>
+                        <p>Mes obsèques seraient <lb/>civiles et devraient être <lb/>faites
+                              exactement comme <lb/>l’ont été celles de ma mère.</p>
+                        <space dim="vertical" unit="lines" quantity="1"/>
+                        <p>Dans le cas où <persName>mon frère <lb/>Fernand</persName> serait mort
+                              lui<choice><sic/><corr>-</corr></choice>même<choice><sic/><corr>,</corr></choice> <lb/>je prie
+                              mon père que j’ai <lb/>tant aimé de vouloir bien <lb/>se conformer à
+                              mes dernières <lb/>volontés. </p>
+                        <signed rend="right"><persName ref="#pers-461">Raymond
+                                          <surname>Boverat</surname></persName></signed>
+                  </div>
+            </body>
+      </text>
+</TEI>

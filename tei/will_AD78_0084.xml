@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0084">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Jean Joseph Robichon (26 mai 1915)] : édition électronique</title><author><persName ref="#pers-372">Jean Joseph Robichon
+                    (1870-1915)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#RG">Regine Guillot</persName><persName ref="#SBlanchard">Sophie Blanchard</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#lelia">Lélia Picabia</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#YvelinesDoc">YvelinesDoc</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0084</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0084_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E16 352, minute du 28 février 1916 (dépôt du testament de Jean Joseph
+                            Robichon)</idno>
+                        <msName>Testament de Jean Joseph Robichon (26 mai 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1915-05-26">26 mai 1915</date>.
+                                    <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-372"><forename>Jean</forename> <forename>Joseph</forename> <surname>Robichon</surname></persName>,
+                                mort pour la France le <date when="1915-09-25" source="#will_AD78_0084_min">25 septembre mil neuf cent quinze
+                                    [NOT]</date> ou le <date when="1915-11-20" source="#MDH">20 nov
+                                    1915 [MDH]</date> à <placeName ref="#pl-125">Souchez</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré (testament). </support>
+                                <extent>2 pages. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>25</height>
+                                        <width>17,5</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de
+                            Le-Mesnil-Saint-Denis</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0084_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E16 352, minute du 28 février 1916 (dépôt du testament de Jean Joseph
+                            Robichon)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-05-26">26 mai 1915</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>26 mai 1915.
+                                    Paris.</p><p>testament
+                                    olographe de Jean Joseph Robichon,
+                                mort pour la France le 25 septembre mil neuf cent quinze
+                                    [NOT] ou le 20 nov
+                                    1915 [MDH] à Souchez.</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-07-01/2020-05-26" who="#lelia">transcription</change>
+            <change when-iso="2019-07-01/2019-07-09" who="#PCharbonnier #YvelinesDoc">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0084___JPEG___FRAD78_Poilus_t-0084_01.jpg" xml:id="FRAD78_Poilus_t-0084_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AD78_0084___JPEG___FRAD78_Poilus_t-0084_02.jpg" xml:id="FRAD78_Poilus_t-0084_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0084">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0084_01"/>
+                <p>Je soussigné <persName ref="#pers-372"><surname>Robichon</surname> Jean
+                        Joseph</persName>, <lb/>né <date type="willAuthorBirthDate" when="1870-03-13">le 13 <choice><sic>Mars</sic><corr>mars</corr></choice>
+                            mil huit cent soixante<choice><sic/><corr>-</corr></choice>dix</date> <lb/>à <placeName type="willAuthorBirthPlace" ref="#pl-567">Aigre (Charente)</placeName> ;
+                    demeurant, 56 rue <lb/>de Verneuil à <placeName type="willAuthorResidence" ref="#pl-2">Paris</placeName>,
+                        <choice><sic>légue</sic><corr>lègue</corr></choice> à
+                            <persName><surname>Rallier</surname> <lb/>Berthe Marie
+                        Joséphine</persName>, tout ce que la loi <lb/>me permet de lui
+                            léguer<choice><sic/><corr>.</corr></choice> <lb/>Exception est faite,
+                    pour une pièce de <lb/>terre, dénommée les Sablons
+                            <choice><sic>où</sic><corr>ou</corr></choice> les Gailleteries <lb/>sise
+                    commune de Chennevières, près Pontchartrain <lb/>(<choice><sic>Seine et
+                            Oise</sic><corr>Seine-et-Oise</corr></choice>) ; je désire laisser
+                    seulement la <lb/>jouissance, sa vie durant, de la dite pièce de <lb/>terre à
+                            <persName><surname>Rallier</surname> Berthe Marie Joséphine, <lb/>épouse
+                                Robichon</persName><choice><sic>-</sic><corr>,</corr></choice> <choice><sic>Les</sic><corr>les</corr></choice> Sablons<choice><sic/><corr>,</corr></choice>
+                    devant <lb/>revenir plus tard à mes
+                    fils<choice><sic/><corr>.</corr></choice></p>
+                <p>Mon <choice><sic>Avoir</sic><corr>avoir</corr></choice> se compose en dehors
+                    des <lb/>meubles et effets de : </p>
+                <list>
+                    <item>1<hi rend="superscript-double-underlined">o</hi> Trois obligations
+                        communales 1912, entièrement <lb/>libérées et portant les numéros
+                        <lb/>1960830 = 1960829 = 0359176 <lb/>ces titres déposés, <orgName>agence D,
+                            rue du Bac, <lb/><choice><sic>Societé Générale</sic><corr>Société
+                                    générale</corr></choice></orgName><choice><sic/><corr>.</corr></choice></item>
+                    <item>2<hi rend="superscript-double-underlined">o</hi> Dix actions ordinaires
+                        The New Jagersfontein <lb/>Mining et exploration ; déposées <orgName>agence
+                            D, <lb/>rue du Bac, <choice><sic>Societé Générale</sic><corr>Société
+                                    générale</corr></choice></orgName><choice><sic/><corr>.</corr></choice></item>
+                    <item>3<hi rend="superscript-double-underlined">o</hi> Une créance au nom de
+                                <persName><surname>Marsat </surname>Antoine</persName>,
+                        <lb/>demeurant, villa des Bluets à <placeName>Verrières-le-Buisson
+                                    <lb/>(Seine<choice><sic/><corr>-</corr></choice>et<choice><sic/><corr>-</corr></choice>Oise)</placeName><choice><sic/><corr>.</corr></choice></item>
+                    <item>4<hi rend="superscript-double-underlined">o</hi> Une somme de
+                        <choice><sic>Trois</sic><corr>trois</corr></choice> mille cinq
+                        <lb/>cents francs, déposée sur mon livret de <lb/>retraite pour la
+                        vieillesse, livret <choice><abbr>N<hi rend="superscript-double-underlined">o</hi></abbr><expan>numéro</expan></choice> 75D =
+                                37178<choice><sic/><corr>.</corr></choice></item>
+                    <pb facs="#FRAD78_Poilus_t-0084_02"/>
+                    <item>5<hi rend="superscript">o</hi> Une assurance-vie, contractée sur la
+                        <lb/>tête de mon fils <choice><sic>ainé</sic><corr>aîné</corr></choice>,
+                        mais devant être touchée <lb/>par moi à l’expiration du contrat ; numéro
+                        <lb/>de police 25 508,
+                        <orgName><choice><sic>assurances</sic><corr>Assurances</corr></choice>-vie La
+                            France</orgName>, <lb/>sise 14 rue de Grammont. <placeName type="otherPlace" ref="#pl-2">Paris</placeName>.</item>
+                </list>
+                <p>Sur cette assurance j’ai contracté à la veille <lb/>de la guerre, soit le <date type="otherDate" when="1914-07-30">30 juillet 1914</date>, un <lb/>prêt de
+                    <choice><sic>Trois</sic><corr>trois</corr></choice> mille francs ; le
+                    semestre <lb/>de septembre 1914 <choice><sic>à</sic><corr>a</corr></choice> bien
+                    été payé à la <lb/>compagnie <orgName>La France</orgName>, mais à partir de
+                    <lb/>cette époque il n’a plus été fait<del>e</del> de versement.</p>
+                <dateline>Fait à <placeName type="willPlace" ref="#pl-2">Paris</placeName>, le
+                    mercredi <date type="willDate" when="1915-05-26">26 <choice><sic>Mai</sic><corr>mai</corr></choice> mil neuf cent
+                        quinze</date><choice><sic/><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <signed rend="centered"><persName ref="#pers-372">J. Robichon</persName></signed><space dim="vertical" unit="lines" quantity="2"/><postscript rend="centered"><p>56 rue de Verneuil</p></postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

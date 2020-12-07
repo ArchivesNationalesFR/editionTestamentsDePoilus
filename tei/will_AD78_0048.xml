@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0048">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Jean Elie Picut (3 août 1914)] : édition électronique</title><author><persName ref="#pers-46">Jean Elie Picut (1887-1914)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#TR">Thierry Rihouey</persName><persName ref="#FAuriau">Françoise Auriau</persName><persName ref="#SBlanchard">Sophie Blanchard</persName><persName ref="#MDeuve">Mathilde Deuve</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#DBR">DBR</persName><persName ref="#secotine">secotine</persName><persName ref="#SL.">EG</persName><persName ref="#FMARIECLAIRE">FMARIECLAIRE</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#EdChamps">Emmanuelle de Champs</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0048</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0048_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E44 993, minute du 15 juin 1915 (dépôt du testament de Jean Elie
+                            Picut)</idno>
+                        <msName>Testament de Jean Elie Picut (3 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-03">3 août 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-35">Versailles</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-46"><forename>Jean</forename> <forename>Elie</forename> <surname>Picut</surname></persName>, mort
+                                pour la France le <date when="1914-09-16">16 septembre 1914</date> à
+                                    <placeName ref="#pl-94">Berry-au-Bac
+                            (Aisne)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à en-tête (testament). Enveloppe de deuil
+                                    (enveloppe). </support>
+                                <extent>2 pages et 1 enveloppe. Dimensions du testament :
+                                        <dimensions type="willPage" unit="cm">
+                                        <height>27</height>
+                                        <width>20,5</width>
+                                    </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                                        <height>9</height>
+                                        <width>14,9</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Enveloppe : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de Versailles, étude
+                            Gayot</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0048_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E44 993, minute du 15 juin 1915 (dépôt du testament de Jean Elie
+                            Picut)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-03">3 août 1914</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>3 août 1914.
+                                    Versailles.</p><p>testament
+                                    olographe de Jean Elie Picut, mort
+                                pour la France le 16 septembre 1914 à
+                                    Berry-au-Bac
+                            (Aisne).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-10-10" who="#DBR #secotine #SL. #FMARIECLAIRE">transcription</change>
+            <change when-iso="2018-01-24/2018-03-22" who="#PCharbonnier #EdChamps">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-envelope-recto" n="01">
+            <graphic url="testament_AD78_0048___JPEG___FRAD78_Poilus_t-0048_01.jpg" xml:id="FRAD78_Poilus_t-0048_01"/>
+        </surface>
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0048___JPEG___FRAD78_Poilus_t-0048_03.jpg" xml:id="FRAD78_Poilus_t-0048_03"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AD78_0048___JPEG___FRAD78_Poilus_t-0048_04.jpg" xml:id="FRAD78_Poilus_t-0048_04"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0048">
+        <body>
+            <div type="envelope">
+                <pb facs="#FRAD78_Poilus_t-0048_01"/>
+                <p>Ceci est mon <choice><sic>Testament</sic><corr>testament.</corr></choice></p>
+                <metamark function="separating" rend="horizontal-line"/>
+                <signed rend="centered"><persName ref="#pers-46">Jean
+                        <surname>Picut</surname></persName></signed>
+            </div>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0048_03"/>
+                <dateline rend="centered"><date type="willDate" when="1914-08-03">Le 3 <add place="below">(Trois)</add> <choice><sic>Aout</sic><corr>août</corr></choice> 1914</date></dateline>
+                <head rend="centered">Ceci est mon <choice><sic>Testament</sic><corr>testament.</corr></choice></head>
+                <p rend="left">Je, soussigné, <persName ref="#pers-46">Jean <lb/><surname>Picut</surname></persName>, 63 Rue des Chantiers à
+                        <placeName type="willAuthorResidence" ref="#pl-35">Versailles</placeName> <lb/>étant sain de corps et d’esprit, <lb/>rappelé
+                        <date type="otherDate" when="1914-08-04">le quatre <choice><sic>aout</sic><corr>août</corr></choice> 1914</date> par <lb/>la mobilisation
+                    générale <seg>pour repousser <lb/>l’envahisseur</seg>, ai fait et
+                            <choice><sic>ecrit</sic><corr>écrit</corr></choice> en <lb/>entier mon
+                    testament ainsi qu’il <lb/>suit<choice><sic> :</sic><corr>.</corr></choice></p>
+                <p rend="left">Je donne et lègue toute la portion de <lb/>mes biens dont la loi me
+                    permet de <lb/>disposer à mon épouse <persName><choice><sic>Eugenie</sic><corr>Eugénie</corr></choice> <lb/>Tournerie</persName> en lui
+                    demandant <lb/>de les laisser dans la société <orgName>Picut &amp; Bussy</orgName> <lb/>afin de les faire
+                            <choice><sic>prosperer</sic><corr>prospérer</corr></choice>,
+                    de veiller à <lb/>la <choice><sic>prosperite</sic><corr>prospérité</corr></choice> de cette entreprise par la <pb facs="#FRAD78_Poilus_t-0048_04"/>méthode et
+                            l’économie<choice><sic/><corr>,</corr></choice> <lb/>d’<choice><sic>elever</sic><corr>élever</corr></choice>
+                    l’enfant qui <choice><sic>naitra</sic><corr>naîtra, </corr></choice> en lui <lb/>donnant en même temps qu’une éducation <lb/>soignée <hi rend="underlined">un
+                        métier manuel</hi> avec lequel <lb/>on ne meurt jamais de faim et en <lb/>lui rappelant quelquefois que son père est <lb/>mort en
+                            <choice><sic>defendant</sic><corr>défendant</corr></choice> le sol natal pour <lb/>qu’il puisse le venger à
+                    l’occasion<choice><sic/><corr>.</corr></choice></p>
+                <p>Et puis<choice><sic> --</sic><corr>...</corr></choice> je demande à ma chère
+                        <lb/><persName>Ninée</persName> d’avoir une petite attention, un bon
+                    <lb/>mouvement ! Je ne dis pas pour qui et je <lb/>ne
+                            <choice><sic>precise</sic><corr>précise</corr></choice> pas l’objet. Si
+                    elle honore ma <lb/>mémoire, en faisant cela elle aura le <lb/>sentiment de
+                    m’avoir fait <choice><sic>plaisir</sic><corr>plaisir.</corr></choice></p>
+                <dateline rend="left">Fait à <placeName type="willPlace" ref="#pl-35">Versailles</placeName> en mon bureau <lb/><date when="1914-08-03" type="willDate">le 3 <choice><sic>aout</sic><corr>août</corr></choice>
+                        1914<choice><sic/><corr>.</corr></choice></date> (Je dis trois<choice><sic/><corr>.</corr></choice>)</dateline>
+                <signed><persName ref="#pers-46">Jean <surname>Picut</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

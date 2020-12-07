@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0228">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Edouard Lucien Marie de Thieffries de Layens (17 août 1915)] : édition électronique</title><author><persName ref="#pers-286">Edouard Lucien Marie de Thieffries de Layens
+                        (1893-1915)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+                        Département de la Conservation. Atelier photographique</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#CNougaret">Christine Nougaret</persName><persName ref="#LVieillon">Lucie Vieillon</persName><persName ref="#MLocatelli">Mélisa Locatelli</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#lelia">Lélia Picabia</persName><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#PROMBAUT">PROMBAUT</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#FClavaud">Florence Clavaud</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AN_0228</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0228_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXVII/1718, minute du 4 janvier 1916 (dépôt du testament de
+                            Edouard Lucien Marie de Thieffries de Layens)</idno>
+                        <msName>Testament de Edouard Lucien Marie de Thieffries de Layens (17 août
+                            1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1915-08-17">17 août 1915</date>.
+                                    <placeName type="willPlace" ref="#pl-454">Lunéville</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-286"><forename>Edouard</forename> <forename>Lucien</forename> <forename>Marie</forename> <surname>Thieffries de
+                                    Layens</surname></persName>, mort pour la France le <date when="1915-12-29">29 décembre 1915</date> à l’<placeName ref="#pl-454">hôpital militaire de Lunéville
+                                    (Meurthe-et-Moselle)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à en-tête militaire (testament). </support>
+                                <extent>5 pages et 1 enveloppe. Dimensions du testament :
+                                        <dimensions type="willPage" unit="cm">
+                                        <height>19,4</height>
+                                        <width>15,5</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre bleue.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010244">étude notariale 117 (CRPCEN : 75035)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0228_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXVII/1718, minute du 4 janvier 1916 (dépôt du testament de
+                            Edouard Lucien Marie de Thieffries de Layens)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-08-17">17 août 1915</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>17 août 1915.
+                                    Lunéville.</p><p>testament
+                                    olographe de Edouard Lucien Marie Thieffries de
+                                    Layens, mort pour la France le 29 décembre 1915 à l’hôpital militaire de Lunéville
+                                    (Meurthe-et-Moselle).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-09-10/2019-02-07" who="#lelia #MFGarreau #PROMBAUT">transcription</change>
+            <change when-iso="2018-09-10/2019-01-30" who="#PCharbonnier #FClavaud">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0228___JPEG___FRAN_Poilus_t-0228_01.jpg" xml:id="FRAN_Poilus_t-0228_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0228___JPEG___FRAN_Poilus_t-0228_02.jpg" xml:id="FRAN_Poilus_t-0228_02"/>
+        </surface>
+        <surface type="will-page" n="03">
+            <graphic url="testament_AN_0228___JPEG___FRAN_Poilus_t-0228_03.jpg" xml:id="FRAN_Poilus_t-0228_03"/>
+        </surface>
+        <surface type="will-page" n="04">
+            <graphic url="testament_AN_0228___JPEG___FRAN_Poilus_t-0228_04.jpg" xml:id="FRAN_Poilus_t-0228_04"/>
+        </surface>
+        <surface type="will-page" n="05">
+            <graphic url="testament_AN_0228___JPEG___FRAN_Poilus_t-0228_05.jpg" xml:id="FRAN_Poilus_t-0228_05"/>
+        </surface>
+        <surface type="will-envelope-recto" n="06">
+            <graphic url="testament_AN_0228___JPEG___FRAN_Poilus_t-0228_06.jpg" xml:id="FRAN_Poilus_t-0228_06"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0228">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0228_01"/>
+                <dateline rend="centered"><date type="willDate" when="1915-08-17"><hi rend="underlined">Le 17
+                                <choice><sic>Août</sic><corr>août</corr></choice>
+                    1915</hi></date></dateline>
+                <space dim="vertical" unit="lines" quantity="3"/>
+                <head rend="centered">Ceci est mon testament </head>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Je donne :</p>
+                <list>
+                    <item> A <persName>Madame la
+                                    <choice><sic>M</sic><corr>m</corr></choice>arquise<lb/> de
+                            Boisdenemets</persName>
+                        demeurant<lb/> 11
+                        avenue de la Bourdonnais <placeName type="otherPlace" ref="#pl-2">Paris<lb/></placeName> la somme de trois
+                                <choice><sic>cents</sic><corr>cent</corr></choice> mille<lb/>
+                                francs<choice><sic> -</sic><corr>.</corr></choice></item>
+                    <item>A Monsieur <persName>Fernand
+                            Tardieu</persName></item>
+                    <pb facs="#FRAN_Poilus_t-0228_02"/>
+                    <item> demeurant rue <choice><abbr>St
+                            Fursy</abbr><expan>Saint-Fursy</expan></choice> <choice><sic>a</sic><corr>à</corr></choice> <lb/><placeName type="otherPlace">Péronne (Somme)</placeName><lb/> la somme de trois
+                                <choice><sic>cents</sic><corr>cent</corr></choice> mille<lb/> francs
+                        (Il est joint à mon testament<lb/> une lettre pour
+                                    <persName>Monsieur
+                            Fernand<lb/> Tardieu</persName>, pour lui dire l’usage que<lb/> je lui
+                        prie de faire de cette somme)<choice><sic/><corr>.</corr></choice></item>
+                    <item> A <persName>Monsieur
+                                    l’<choice><sic>A</sic><corr>a</corr></choice>bbé M.
+                            Solignac</persName><lb/> demeurant à <placeName type="otherPlace">Canet<choice><sic/><corr>-</corr></choice>d’Olt par<lb/>
+                                    Saint-Laurent<choice><sic/><corr>-</corr></choice>d’Olt
+                            (Aveyron)</placeName><lb/> la somme de cinquante mille<lb/>
+                                francs<choice><sic/><corr>.</corr></choice></item>
+                    <item>A <persName>Monsieur le
+                                    <choice><sic>C</sic><corr>c</corr></choice>omte
+                        Alain</persName></item>
+                    <pb facs="#FRAN_Poilus_t-0228_03"/>
+                    <item> de Vergennes demeurant<lb/> 4 rue Boissière à <placeName type="otherPlace" ref="#pl-2">Paris</placeName>, la<lb/> somme de
+                        cinquante mille<lb/> francs<choice><sic/><corr>.</corr></choice></item>
+                    <item>A <persName>Miss Mary Carden</persName> demeurant<lb/> 93 rue de
+                                <choice><sic>Longchamps</sic><corr>Longchamp</corr></choice> <placeName type="otherPlace" ref="#pl-2">Paris</placeName><lb/> la somme de cinq
+                        mille francs<choice><sic/><corr>.</corr></choice></item>
+                    <item>A <persName>Monsieur Alphonse
+                            Debry</persName><lb/> demeurant au <placeName type="otherPlace">Château
+                            de Boucly<lb/> Roisel (Somme)</placeName> la somme<lb/> de cinq mille
+                                francs<choice><sic/><corr>.</corr></choice></item>
+                    <item>A <persName>Monsieur Aimable
+                            Favré</persName>,<lb/> chauffeur de Monsieur le
+                                <choice><sic>C</sic><corr>c</corr></choice>omte</item>
+                    <pb facs="#FRAN_Poilus_t-0228_04"/>
+                    <item><persName>Alain de Vergennes</persName>
+                                la <lb/><choice><sic>Somme</sic><corr>somme</corr></choice> de deux
+                        mille francs<choice><sic/><corr>.</corr></choice></item>
+                    <item>A <persName>Monsieur Elie de
+                            Fesquet</persName><lb/> demeurant 4 avenue Elisée-Reclus <lb/>tous mes
+                        biens immobiliers sans<lb/> exception, en ce qui concerne la<lb/> nue
+                        propriété et une somme de<lb/> trois cents mille
+                                francs<choice><sic/><corr>.</corr></choice></item>
+                    <item>A <persName>Madame de
+                            Fesquet</persName>, ma mère<lb/> l’usufruit de ces biens immobiliers
+                        et<lb/> la pleine propriété des valeurs dont je<lb/> possède actuellement la
+                        nue propriété<lb/> et dont elle a
+                            l’usufruit<choice><sic/><corr>.</corr></choice><lb/> Plus une somme de
+                        vingt mille<lb/> francs que je lui demande de partager<lb/> entre ses
+                        domestiques de la manière<lb/> qu’elle le jugera bon.</item>
+                    <item>A <persName>Monsieur Jean de
+                            Fesquet</persName></item>
+                    <pb facs="#FRAN_Poilus_t-0228_05"/>
+                    <item> mon beau-père, le
+                            <choice><sic>pro-rata</sic><corr>prorata</corr></choice><lb/> de la
+                        liquidation de mes valeurs<choice><sic/><corr>.</corr></choice></item>
+                </list>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <dateline rend="right">A <placeName type="willPlace" ref="#pl-454">Lunéville</placeName> le <date type="willDate" when="1915-08-17">17
+                                <choice><sic>Aout</sic><corr>août</corr></choice>
+                    1915</date></dateline>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <signed rend="right"><persName ref="#pers-286">E. de <surname>Layens</surname></persName>. </signed>
+                <postscript>
+                    <p>Toutes mes valeurs sont
+                            en <lb/><choice><sic>depôt</sic><corr>dépôt</corr></choice> à la
+                            <orgName>Société
+                                <choice><sic>generale</sic><corr>générale</corr></choice> <choice><sic>A</sic><corr>a</corr></choice>gence
+                                    AF<choice><sic/><corr>.</corr></choice><lb/></orgName> Je
+                        possède à la <orgName>Banque de France</orgName><lb/> un
+                                <choice><sic>depot</sic><corr>dépôt</corr></choice> de 170
+                        obligations<lb/> Nord anciennes 3% en nantissement<lb/> d’un emprunt de
+                        25.000 francs.<lb/> Dans les papiers que j’ai confiés à<lb/> ma mère se
+                        trouve une lettre de<lb/> la <orgName>Compagnie d’Aniche</orgName> de 24
+                                <choice><sic>Parts</sic><corr>parts</corr></choice> de<lb/> 1/240 de
+                                <choice><sic>Denier</sic><corr>denier</corr></choice>. </p>
+                    <signed rend="right"><persName ref="#pers-286">E. de <surname>Layens</surname></persName>. </signed>
+                         </postscript>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0228_06"/>
+                <p>
+                        <supplied unit="chars" reason="hidden" quantity="1">P</supplied>rière
+                            de faire parvenir à <persName><choice><abbr>M<hi rend="superscript-underlined">me</hi></abbr><expan>Madame</expan></choice> de
+                                Fesquet</persName><lb/> 4 avenue
+                            Elisée-Reclus <lb/><placeName type="otherPlace" ref="#pl-2">Paris</placeName> <add place="marginRight">après <hi rend="underlined">ma
+                            mort</hi></add>
+                        
+                    </p>
+                <p>Ceci est le <choice><sic>T</sic><corr>t</corr></choice>estament<lb/> d’<persName ref="#pers-286">Edouard, Lucien, Marie de <surname>Thieffries de Layens</surname></persName><lb/><address>
+                        <addrLine>4 avenue Elisée-Reclus</addrLine>
+                        <addrLine><hi rend="underlined">à <placeName type="willAuthorResidence" ref="#pl-2">Paris</placeName></hi></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

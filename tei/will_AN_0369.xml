@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0369">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Henri Émile Pinot (3 janvier 1916)] : édition électronique</title><author><persName ref="#pers-510">Henri Émile Pinot (1896-1918)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+                        Département de la Conservation. Atelier photographique</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#PH">Philippe Henwood</persName><persName ref="#LVieillon">Lucie Vieillon</persName><persName ref="#MLocatelli">Mélisa Locatelli</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#lelia">Lélia Picabia</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AN_0369</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0369_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVII/1492, minute du 7 juin 1919 (dépôt du testament de Henri
+                            Émile Pinot)</idno>
+                        <msName>Testament de Henri Émile Pinot (3 janvier 1916)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1916-01-03">3 janvier 1916</date>.
+                                    <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-510"><forename>Henri</forename> <forename>Émile</forename> <surname>Pinot</surname></persName>, mort
+                                pour la France le <date when="1918-04-21">21 avril 1918</date> à
+                                    <placeName ref="#pl-761">ambulance 1/155 à Jonchery sur
+                                    Vesle</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). Enveloppe écrue
+                                    (enveloppe). </support>
+                                <extent>1 page et 1 enveloppe. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                                        <height>11,5</height>
+                                        <width>14,5</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Enveloppe : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010184">étude
+                                notariale 57 (CRPCEN : 75006)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0369_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVII/1492, minute du 7 juin 1919 (dépôt du testament de Henri
+                            Émile Pinot)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1916-01-03">3 janvier 1916</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>3 janvier 1916.
+                                    Paris.</p><p>testament
+                                    olographe de Henri Émile Pinot, mort
+                                pour la France le 21 avril 1918 à
+                                    ambulance 1/155 à Jonchery sur
+                                    Vesle.</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2020-05-11/2020-06-02" who="#lelia">transcription</change>
+            <change when="2020-05-12" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0369___JPEG___FRAN_Poilus_t-0369_01.jpg" xml:id="FRAN_Poilus_t-0369_01"/>
+        </surface>
+        <surface type="will-envelope-recto" n="02">
+            <graphic url="testament_AN_0369___JPEG___FRAN_Poilus_t-0369_02.jpg" xml:id="FRAN_Poilus_t-0369_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0369">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0369_01"/>
+                <dateline><placeName type="willPlace" ref="#pl-2">Paris</placeName> le <date type="willDate" when="1916-01-03">trois
+                            <choice><sic>J</sic><corr>j</corr></choice>anvier mille neuf
+                                <choice><sic>cents sen<add place="above">i</add>ze</sic><corr>cent
+                                seize</corr></choice></date></dateline>
+                <space dim="vertical" unit="lines" quantity="3"/>
+                <head rend="centered">Ceci est mon
+                    testament</head>
+                <space dim="vertical" unit="lines" quantity="3"/>
+                <p>J’institue ma mère <persName>Jeanne Pinot <lb/>née Jeanne Thuillier</persName> ma
+                    légataire <lb/>universelle et lui laisse tout ce que <lb/>la loi m’autorise.</p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <dateline><placeName type="willPlace" ref="#pl-2">Paris</placeName> le <date type="willDate" when="1916-01-03"><subst><del>3</del><add>t</add></subst>rois <choice><sic>J</sic><corr>j</corr></choice>anvier mille neuf
+                                <choice><sic>cents</sic><corr>cent</corr></choice>
+                            seize</date></dateline>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <signed rend="centered"><persName ref="#pers-510">H <surname>Pinot</surname></persName></signed>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0369_02"/>
+                <p rend="centered">Ceci est mon testament<choice><sic/><corr>.</corr></choice></p>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <signed rend="centered"><persName ref="#pers-510">H <surname>Pinot</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0061">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Jean Henri Rousselet (12 juillet 1914)] : édition électronique</title><author><persName ref="#pers-58">Jean Henri Rousselet
+                    (1890-1916)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#TR">Thierry Rihouey</persName><persName ref="#FAuriau">Françoise Auriau</persName><persName ref="#SBlanchard">Sophie Blanchard</persName><persName ref="#MDeuve">Mathilde Deuve</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#mcv">mcv</persName><persName ref="#JFRIDLI">JFRIDLI</persName><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#G.Abitbol">G.Abitbol</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#EdChamps">Emmanuelle de Champs</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0061</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0061_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E44 1002, minute du 20 novembre 1916 (dépôt du testament de Jean
+                            Henri Rousselet)</idno>
+                        <msName>Testament de Jean Henri Rousselet (12 juillet 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-07-12">12 juillet 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-112">Clermont-Ferrand</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-58"><forename>Jean</forename> <forename>Henri</forename> <surname>Rousselet</surname></persName>,
+                                mort pour la France le <date when="1916-11-06">6 novembre
+                                    1916</date> à <placeName ref="#pl-114">Fleury
+                                    (Marne)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). Enveloppe commerciale, 5
+                                    cachets de cire rouge (enveloppe). </support>
+                                <extent>1 page et 1 enveloppe. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                                        <height>11,4</height>
+                                        <width>14</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Enveloppe : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de Versailles, étude
+                            Gayot</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0061_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E44 1002, minute du 20 novembre 1916 (dépôt du testament de Jean
+                            Henri Rousselet)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-07-12">12 juillet 1914</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>12 juillet 1914.
+                                    Clermont-Ferrand.</p><p>testament olographe de Jean Henri Rousselet,
+                                mort pour la France le 6 novembre
+                                    1916 à Fleury
+                                    (Marne).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-06-06" who="#SL. #mcv #JFRIDLI #MFGarreau #G.Abitbol">transcription</change>
+            <change when-iso="2018-01-24/2018-03-30" who="#PCharbonnier #EdChamps ">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-envelope-recto" n="01">
+            <graphic url="testament_AD78_0061___JPEG___FRAD78_Poilus_t-0061_02.jpg" xml:id="FRAD78_Poilus_t-0061_02"/>
+        </surface>
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0061___JPEG___FRAD78_Poilus_t-0061_03.jpg" xml:id="FRAD78_Poilus_t-0061_03"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0061">
+        <body>
+            <div type="envelope">
+                <pb facs="#FRAD78_Poilus_t-0061_02"/>
+                <p><persName ref="#pers-58"><surname>Rousselet</surname> Jean Henri</persName></p>
+                <space quantity="3" unit="lines" dim="vertical"/>
+                <p rend="centered">Ceci est mon testament<choice><sic/><corr>.</corr></choice></p>
+            </div>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0061_03"/>
+                <p>Je, soussigné <persName ref="#pers-58"><surname>Rousselet</surname> <lb/>Jean
+                        Henri</persName>, né <date type="willAuthorBirthDate" when="1890-11-23">le 23 novembre 1890</date> <lb/>à <placeName type="willAuthorBirthPlace" ref="#pl-113">Montpellier (Hérault)</placeName><choice><sic/><corr>,</corr></choice> fils
+                        de <lb/><persName>Etienne Nicolas Georges Ernest</persName> et de <lb/>feu
+                        <persName>Marie Petit</persName>, institue comme
+                            <lb/><choice><sic>legataire</sic><corr>légataire</corr></choice>
+                    universel mon frère <persName>Rousselet <lb/>René Auguste</persName> né <date when="1890-11-23" type="otherDate">le 23 novembre 1890</date> <lb/>à <placeName type="otherPlace" ref="#pl-113">Montpellier (Hérault)</placeName> et désire
+                    que <lb/>toute ma fortune déposée au <orgName><choice><sic>Credit
+                                <lb/>Lyonnais</sic><corr>Crédit
+                        <lb/>lyonnais</corr></choice></orgName> et <subst><del>ma for</del><add>tous
+                            mes m</add></subst>eubles lui reviennent <lb/>sans condition.</p>
+                <space quantity="1" unit="lines" dim="vertical"/>
+                <dateline rend="centered">Fait à <placeName type="willPlace" ref="#pl-112"><choice><sic>Clermont
+                            Ferrand</sic><corr>Clermont-Ferrand</corr></choice></placeName> <lb/>
+                        <date type="willDate" when="1914-07-12"><choice><sic>Le</sic><corr>le</corr></choice> 12 Juillet 1914</date><choice><sic/><corr>.</corr></choice></dateline>
+                <space quantity="1" unit="lines" dim="vertical"/>
+                <signed rend="centered"><persName ref="#pers-58">J<surname>Rousselet</surname></persName></signed>
+                <space quantity="4" unit="lines" dim="vertical"/>
+                <postscript><p><persName ref="#pers-58">J. <surname>Rousselet</surname></persName>.
+                                <choice><abbr>L<hi rend="superscript-underlined">t</hi></abbr><expan>Lieutenant</expan></choice> au
+                                    <orgName><choice><abbr>5<hi rend="superscript-underlined">o</hi></abbr><expan>5e régiment
+                                de</expan></choice> <choice><sic>Spahis</sic><corr>spahis</corr></choice></orgName>.
+                        <placeName type="otherPlace">Aïn Sefra</placeName>.</p></postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0220">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Gilbert Laval (10 octobre 1916)] : édition électronique</title><author><persName ref="#pers-281">Gilbert Laval (1875-1917)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+                        Département de la Conservation. Atelier photographique</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#CNougaret">Christine Nougaret</persName><persName ref="#LVieillon">Lucie Vieillon</persName><persName ref="#MLocatelli">Mélisa Locatelli</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#MFGarreau">MFGarreau</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#FClavaud">Florence Clavaud</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AN_0220</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0220_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LXXVI/1283, minute du 16 janvier 1918 (dépôt du testament de
+                            Gilbert Laval)</idno>
+                        <msName>Testament de Gilbert Laval (10 octobre 1916)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1916-10-10">10 octobre 1916</date>.
+                                    <placeName type="willPlace" ref="#pl-423">inconnu</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-281"><forename>Gilbert</forename> <surname>Laval</surname></persName>, mort
+                                pour la France le <date when="1917-05-08">8 mai 1917</date> à
+                                    <placeName ref="#pl-447">Ambulance 9/8, Belrupt
+                                    (Meuse)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré (testament). </support>
+                                <extent>1 page et 1 enveloppe. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010203">étude notariale 076 (CRPCEN : 75005)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0220_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LXXVI/1283, minute du 16 janvier 1918 (dépôt du testament de
+                            Gilbert Laval)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1916-10-10">10 octobre 1916</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>10 octobre 1916.
+                                    inconnu.</p><p>testament
+                                    olographe de Gilbert Laval, mort
+                                pour la France le 8 mai 1917 à
+                                    Ambulance 9/8, Belrupt
+                                    (Meuse).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-09-10/2020-05-05" who="#SL. #lelia #MFGarreau">transcription</change>
+            <change when-iso="2018-09-10/2018-09-25" who="#PCharbonnier #FClavaud">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0220___JPEG___FRAN_Poilus_t-0220_01.jpg" xml:id="FRAN_Poilus_t-0220_01"/>
+        </surface>
+        <surface type="will-envelope-recto" n="02">
+            <graphic url="testament_AN_0220___JPEG___FRAN_Poilus_t-0220_02.jpg" xml:id="FRAN_Poilus_t-0220_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0220">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0220_01"/>
+                <p>J’institue pour légataire universelle
+                                <lb/><persName>Madame
+                        Marie Gabrielle <surname>Reboul</surname> née <lb/>Christofle</persName>,
+                    épouse de <persName>Monsieur Désiré <lb/>Marius Honoré <surname>Reboul</surname></persName>, née à
+                        <placeName type="otherPlace">Agde <lb/>(Hérault)</placeName> et demeurant à
+                        <placeName type="otherPlace" ref="#pl-2">Paris</placeName> 33
+                            <choice><abbr>r.</abbr><expan>rue</expan></choice> de
+                            l’Entrepôt<choice><sic/><corr>.</corr></choice></p>
+                <p>En conséquence, je lui lègue la pleine <lb/>propriété de tous mes biens et droits
+                    <lb/>qui composent ma succession sans exception <lb/>ni réserve.</p>
+                <p>Pour le cas où ce legs serait sujet <lb/>à réduction j’entends qu’il comprenne
+                    <lb/>le fonds de commerce que j’exploite <lb/>sous le nom de "la
+                            Lysine"<choice><sic/><corr>,</corr></choice> 11 <choice><abbr>faubourg
+                                <lb/>S<hi rend="superscript-double-underlined">t</hi>
+                            Martin</abbr><expan>rue du Faubourg-Saint-Martin</expan></choice> à
+                        <placeName type="otherPlace" ref="#pl-2">Paris</placeName> et qui comporte
+                    <lb/>les marques "La Lysine"<choice><sic/><corr>,</corr></choice> Pauseptine
+                    <lb/>Injexine, produits <choice><sic>H</sic><corr>h</corr></choice>istologiques
+                    et <lb/><choice><sic>Véterinaires</sic><corr>vétérinaires,</corr></choice>
+                    etc.</p>
+                <dateline>Fait aux Armées
+                    <date type="willDate" when="1916-10-10">le 10 octobre
+                        1916</date><choice><sic/><corr>.</corr></choice> <lb/></dateline>
+                <signed rend="right"><persName ref="#pers-281"><surname>Laval</surname></persName></signed>
+                <dateline><date type="willDate" when="1916-10-10">Dix octobre 1916 <lb/><choice><sic>Mille</sic><corr>mille</corr></choice> neuf cent
+                    seize</date><choice><sic/><corr>.</corr></choice> <lb/></dateline><signed rend="left">L</signed>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0220_02"/>
+                <p><address>
+                        <addrLine rend="centered"><persName><choice><sic>Maitre</sic><corr>Maître</corr></choice>
+                                Félix <surname>Delapalme</surname></persName><choice><sic/><corr>,</corr></choice></addrLine>
+                            <addrLine>Notaire<choice><sic/><corr>,</corr></choice></addrLine>
+                        <addrLine rend="centered">250 <choice><abbr>B<hi rend="superscript-double-underlined">vard</hi></abbr><expan>boulevard</expan></choice> <choice><abbr>S<hi rend="superscript-double-underlined">t
+                                    </hi></abbr><expan>Saint</expan></choice><choice><sic> </sic><corr>-</corr></choice>Germain
+                            </addrLine>
+                        <addrLine rend="right"><placeName type="otherPlace" ref="#pl-2">Paris<choice><sic/><corr>.</corr></choice></placeName></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

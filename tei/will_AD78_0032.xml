@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0032">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Georges Marcel Fleuret (1 août 1914)] : édition électronique</title><author><persName ref="#pers-31">Georges Marcel Fleuret
+                    (1886-1917)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#DA">Danièle Allezard</persName><persName ref="#SBlanchard">Sophie Blanchard</persName><persName ref="#MDeuve">Mathilde Deuve</persName><persName ref="#FAuriau">Françoise Auriau</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#LBIsabelle">LBIsabelle</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#lagrange">lagrange</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#EdChamps">Emmanuelle de Champs</persName><persName ref="#FClavaud">Florence Clavaud</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0032</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0032_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E38 818, minute du 11 avril 1922 (dépôt du testament de Georges
+                            Marcel Fleuret)</idno>
+                        <msName>Testament de Georges Marcel Fleuret (1 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-01">1 août 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-24">Saint-Germain-en-Laye</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-31"><forename>Georges</forename> <forename>Marcel</forename> <surname>Fleuret</surname></persName>,
+                                mort pour la France le <date when="1917-06-09">9 juin 1917</date> à
+                                    l’<placeName ref="#pl-66">Hopital 38, Solesmes
+                                    (Sarthe)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à lettres, deuil (testament). Papier à lettres,
+                                    deuil (codicille). </support>
+                                <extent>2 pages. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>17,9</height>
+                                        <width>13,4</width>
+                                    </dimensions>. Dimensions du codicille : <dimensions type="willCodicil" unit="cm">
+                                        <height>17,9</height>
+                                        <width>13,4</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Codicille : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de Saint-Germain-en-Laye, étude
+                                Plantelin</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0032_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E38 818, minute du 11 avril 1922 (dépôt du testament de Georges
+                            Marcel Fleuret)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-01">1 août 1914</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>1 août 1914.
+                                    Saint-Germain-en-Laye.</p><p>testament olographe de Georges Marcel Fleuret,
+                                mort pour la France le 9 juin 1917 à
+                                    l’Hopital 38, Solesmes
+                                    (Sarthe).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-05-28" who="#SL. #LBIsabelle #lelia #lagrange">transcription</change>
+            <change when-iso="2018-01-24/2018-03-26" who="#PCharbonnier #EdChamps #FClavaud">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0032___JPEG___FRAD78_Poilus_t-0032_01.jpg" xml:id="FRAD78_Poilus_t-0032_01"/>
+        </surface>
+        <surface type="codicil-page" n="02">
+            <graphic url="testament_AD78_0032___JPEG___FRAD78_Poilus_t-0032_02.jpg" xml:id="FRAD78_Poilus_t-0032_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0032">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0032_01"/>
+                <dateline><placeName type="willPlace" ref="#pl-24"><choice><abbr>S<hi rend="superscript-underlined">t</hi></abbr><expan>Saint</expan></choice><choice><sic> </sic><corr>-</corr></choice>Germain</placeName>, <date type="willDate" when="1914-08-01">le <del>31</del> 1<hi rend="superscript-underlined">er</hi> <choice><sic>Août</sic><corr>août</corr></choice>
+                        1914</date></dateline>
+                <space quantity="1" unit="lines" dim="vertical"/>
+                <p>Ce jour <date type="willDate" when="1914-08-01">premier août mil neuf cent
+                        quatorze,</date> <lb/><choice><sic>etant</sic><corr>étant</corr></choice>
+                    sain de corps et d’esprit, je fixe sur ce papier <lb/>mes volontés dernières, en
+                    raison des événements militaires.</p>
+                <p>J<choice><sic/><corr>’</corr></choice>entends que ma femme chérie,
+                        <persName>Jeanne, née Armand</persName>, <lb/>hérite entièrement de tout ce
+                    qui m’appartient et ce <lb/>au détriment de tous autres héritiers.</p>
+                <p>Dans mon petit patrimoine j’ai la moitié de possesion <lb/>d’un jardin qui
+                    appartenait à ma mère regrettée et <lb/>à mon <choice><sic>beau
+                            père</sic><corr>beau-père</corr></choice>, j’entends que mes droits de
+                    succession <lb/>retournent en entier à ma femme adorée mais je la <lb/>prie bien
+                    vivement de laisser la jouissance entière du <lb/>jardin à mon <choice><sic>beau
+                            père</sic><corr>beau-père</corr></choice> tant qu’il vivra.</p>
+                <p>Le numéraire, 2 bons de <choice><sic>panama</sic><corr>Panama</corr></choice>, le
+                    mobilier et les <lb/>provisions<choice><sic/><corr>, </corr></choice> <del>tout
+                        cela et</del> les effets et toutes autres choses devien<lb break="no"/>nent
+                    la propriété exclusive de ma chère petite épouse<choice><sic/><corr>,</corr></choice> <lb/>que Dieu garde et rende
+                    heureuse.</p>
+                <signed rend="centered"><persName ref="#pers-31"><surname>Fleuret</surname>G.</persName></signed>
+                <fw rend="right"><choice><abbr>T.S.V.P.</abbr><expan>Tournez s’il vous
+                                        plaît.</expan></choice>
+                </fw>
+            </div>
+            <div type="codicil">
+                <pb facs="#FRAD78_Poilus_t-0032_02"/>
+                <fw place="right">(Suite)</fw>
+                <dateline><date type="codicilDate" when="1916-12-11">11 <choice><sic>Decembre</sic><corr>décembre</corr></choice>
+                        1916</date>.</dateline>
+                <space quantity="1" unit="lines" dim="vertical"/>
+                <p>J’ai légalement une <choice><sic>créancè</sic><corr>créance</corr></choice>
+                        sur <lb/><persName>Monsieur Henri <surname>Armand</surname></persName> et en
+                    vertu de <lb/>mon acte d’association avec <persName>Monsieur
+                            <surname>Benam</surname></persName><choice><sic/><corr>,</corr></choice> <lb/>un crédit à fixer. Pour tout
+                    cela également <lb/>je déclare mon épouse <hi rend="underlined"><choice><sic>Seule heritière</sic><corr>seule
+                            héritière</corr></choice></hi> <lb/>à l’exclusion, de toute autre
+                    personne de parenté <lb/>proche ou lointaine.</p>
+                <space quantity="1" unit="lines" dim="vertical"/>
+                <signed><persName ref="#pers-31"><surname>Fleuret</surname>G</persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0084">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Ambroise François Marie Le Pocreau (4 août 1914)] : édition électronique</title><author><persName ref="#pers-140">Ambroise François Marie Le Pocreau
+                        (1887-1915)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+                        Département de la Conservation. Atelier photographique</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#AM">Aurélie Massie</persName><persName ref="#MLocatelli">Mélisa Locatelli</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#GBMireille">Mireille Grais-Bruguière</persName><persName ref="#Gautierhache">Gautierhache</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#MFGarreau">MFGarreau</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AN_0084</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0084_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1646, minute du 13 novembre 1919 (dépôt du testament de
+                            Ambroise François Marie Le Pocreau)</idno>
+                        <msName>Testament de Ambroise François Marie Le Pocreau (4 août
+                            1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-04">4 août 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-140"><forename>Ambroise</forename> <forename>François</forename> <forename>Marie</forename> <surname>Le Pocreau</surname></persName>,
+                                mort pour la France le <date when="1915-09-25">25 septembre
+                                    1915</date> à <placeName ref="#pl-140">Perthes
+                                    (Marne)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010247">étude
+                                notariale 120 (CRPCEN : 75100)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0084_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1646, minute du 13 novembre 1919 (dépôt du testament de
+                            Ambroise François Marie Le Pocreau)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-04">4 août 1914</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>4 août 1914.
+                                    Paris.</p><p>testament
+                                    olographe de Ambroise François Marie Le Pocreau,
+                                mort pour la France le 25 septembre
+                                    1915 à Perthes
+                                    (Marne).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-04-06" who="#SL. #GBMireille #Gautierhache #lelia #MFGarreau">transcription</change>
+            <change when-iso="2018-01-24/2018-04-05" who="#PCharbonnier ">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0084___JPEG___FRAN_Poilus_t-0084_01.jpg" xml:id="FRAN_Poilus_t-0084_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0084">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0084_01"/>
+                <head>Ceci est mon testament</head>
+                <dateline><choice><sic>fait</sic><corr>Fait</corr></choice> ce jour<choice><sic/><corr>,</corr></choice> <date when="1914-08-04" type="willDate">quatre
+                                <lb/><choice><sic>Août</sic><corr>août</corr></choice> mille neuf
+                        cent <lb/>quatorze.</date></dateline>
+                <p>Je fais ma femme <lb/><persName>Anne Marie Bellanger</persName> ma <lb/>légataire
+                            universelle<choice><sic/><corr>.</corr></choice> <choice><sic>par</sic><corr>Par</corr></choice>
+                    ce <lb/>présent je reconnais que c’est <lb/>elle qui m’a
+                            <choice><sic>apporter</sic><corr>apporté</corr></choice> en <lb/>mariage
+                        <add place="above">une somme</add> de trois mille
+                            francs<choice><sic/><corr>.</corr></choice></p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <dateline><placeName type="willPlace" ref="#pl-2">Paris</placeName> <date when="1914-08-04" type="willDate">le 4
+                            <choice><sic>Aout</sic><corr>août</corr></choice>
+                    1914</date><choice><sic/><corr>,</corr></choice> <lb/>9
+                        Bou<subst><del>l</del><add>le</add></subst>vard Arago<choice><sic><surplus>9</surplus></sic><corr>.</corr></choice></dateline>
+                <signed rend="right"><persName ref="#pers-140"><surname>Le Pocréau</surname>
+                        Ambroise</persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

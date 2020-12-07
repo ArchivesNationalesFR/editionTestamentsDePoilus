@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0044">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la
+               Grande Guerre</title><title type="main">[Testament de Charles Marius Urbain Chapuy (1 août 1914)] : édition électronique</title><author><persName ref="#pers-42">Charles Marius Urbain Chapuy
+               (1868-1914)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+         <editionStmt>
+            <edition>Première édition électronique, fondée sur un travail de transcription
+               collaborative</edition>
+            <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+            <respStmt><resp>Identification et description du testament</resp><persName ref="#TR">Thierry Rihouey</persName><persName ref="#FAuriau">Françoise Auriau</persName><persName ref="#SBlanchard">Sophie Blanchard</persName><persName ref="#MDeuve">Mathilde Deuve</persName></respStmt>
+            <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#ALemoine">Aurélie Lemoine</persName><persName ref="#GPINET">GPINET</persName></respStmt>
+            <respStmt><resp>Validation</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+         </editionStmt>
+         <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0044</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="will_AD78_0044_tes">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives départementales des Yvelines</institution>
+                  <collection>Archives notariales</collection>
+                  <idno>3E44 989, minute du 22 décembre 1914 (dépôt du testament de Charles Marius
+                     Urbain Chapuy)</idno>
+                  <msName>Testament de Charles Marius Urbain Chapuy (1 août 1914)</msName>
+               </msIdentifier>
+               <msContents>
+                  <summary><p><date type="willDate" when="1914-08-01">1 août 1914</date>. <placeName type="willPlace" ref="#pl-89">Igny</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-42"><forename>Charles</forename> <forename>Marius</forename> <forename>Urbain</forename> <surname>Chapuy</surname></persName>, mort pour la
+                        France le <date when="1914-12-08">8 décembre 1914</date> à <placeName ref="#pl-90">Poelcapelle (Belgique)</placeName>.</p></summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>Papier timbré (testament). Enveloppe commerciale (enveloppe). </support>
+                        <extent>2 pages et 1 enveloppe. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                              <height>24,9</height>
+                              <width>17,8</width>
+                           </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                              <height>11,2</height>
+                              <width>17,3</width>
+                           </dimensions>.</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <p>Testament : encre. Enveloppe : encre.</p>
+                  </handDesc>
+               </physDesc>
+               <history>
+                  <provenance><orgName>étude notariale de Versailles, étude
+                     Gayot</orgName></provenance>
+               </history>
+            </msDesc>
+            <msDesc xml:id="will_AD78_0044_min">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives départementales des Yvelines</institution>
+                  <collection>Archives notariales</collection>
+                  <idno>3E44 989, minute du 22 décembre 1914 (dépôt du testament de Charles Marius
+                     Urbain Chapuy)</idno>
+                  <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                     minute</msName>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation><date type="willDate" when="1914-08-01">1 août 1914</date></creation>
+         <langUsage><language ident="fr">français</language></langUsage>
+         <abstract><p>1 août 1914. Igny.</p><p>testament olographe de Charles Marius Urbain Chapuy, mort pour la
+                        France le 8 décembre 1914 à Poelcapelle (Belgique).</p></abstract>
+         <textClass>
+            <keywords>
+               <term type="subject">Grande Guerre</term>
+               <term type="subject">Poilu</term>
+               <term type="subject">testament</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when-iso="2018-01-24/2018-03-26" who="#SL. #ALemoine #GPINET">transcription</change>
+         <change when-iso="2018-01-24/2018-02-08" who="#FClavaud #PCharbonnier">validation</change>
+         <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements et
+            contrôle de qualité finaux</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+      <surface type="will-envelope-recto" n="01">
+         <graphic url="testament_AD78_0044___JPEG___FRAD78_Poilus_t-0044_01.jpg" xml:id="FRAD78_Poilus_t-0044_01"/>
+      </surface>
+      <surface type="will-page" n="01">
+         <graphic url="testament_AD78_0044___JPEG___FRAD78_Poilus_t-0044_03.jpg" xml:id="FRAD78_Poilus_t-0044_03"/>
+      </surface>
+      <surface type="will-page" n="02">
+         <graphic url="testament_AD78_0044___JPEG___FRAD78_Poilus_t-0044_04.jpg" xml:id="FRAD78_Poilus_t-0044_04"/>
+      </surface>
+   </facsimile>
+   <text xml:id="will_AD78_0044">
+      <body>
+         <div type="envelope">
+            <pb facs="#FRAD78_Poilus_t-0044_01"/>
+            <p rend="centered">Mon testament<choice><sic/><corr>.</corr></choice>
+               <lb/><choice><sic/><corr>(</corr></choice><app><lem><add place="marginLeft">En cas de décès envoyer
+                              <choice><sic>a</sic><corr>à</corr></choice> l’adresse
+                              <lb/><choice><sic>ci Dessous</sic><corr>ci-dessous.</corr></choice>
+                        <lb/><choice><abbr type="superscription">Mme</abbr><expan>Madame</expan></choice>
+                        <persName>Gendronneau</persName>
+                        <lb/>à <placeName>Igny</placeName><choice><sic>.</sic><corr/></choice>
+                        <lb/>(<choice><sic>Seine et
+                              oise</sic><corr>Seine-et-Oise</corr></choice>)<choice><sic/><corr>.</corr></choice></add></lem><note resp="#PCharbonnier">L’adresse est ajoutée au crayon entre les lignes.</note></app><choice><sic/><corr>)</corr></choice></p>
+            <signed rend="centered"><persName ref="#pers-42">C
+               <surname>Chapuy</surname></persName></signed>
+            <postscript>
+               <p><persName ref="#pers-42">Chapuy Charles</persName>, Capitaine au <orgName>63<hi rend="superscript">e</hi>
+                     <choice><abbr>Régt</abbr><expan>régiment</expan></choice><lb/>
+                              d’<choice><abbr>Inf<hi rend="superscript">ie</hi></abbr><expan>infanterie</expan></choice>
+                     <choice><sic>Territoriale</sic><corr>territoriale</corr></choice></orgName>
+                  <lb/><placeName type="willPlace" ref="#pl-89">Igny <lb/>(<choice><sic>Seine et
+                           oise</sic><corr>Seine-et-Oise</corr></choice>)</placeName><choice><sic/><corr>.</corr></choice></p>
+            </postscript>
+         </div>
+         <div type="will">
+            <pb facs="#FRAD78_Poilus_t-0044_03"/>
+            <p>Je soussigné <persName ref="#pers-42"><surname>Chapuy</surname>, Charles, Marius,
+                  Urbain</persName>, <lb/><choice><sic>Receveur</sic><corr>receveur</corr></choice>
+               buraliste demeurant présentement à <placeName type="willAuthorResidence" ref="#pl-89">Igny</placeName>, <lb/>rue du Moulin n° 26, étant absolument sain de <lb/>corps
+               et d’esprit, ai rédigé les dispositions suivantes que <lb/>je déclare être
+               l’expression fidèle de mes dernières volontés<choice><sic>
+                  :</sic><corr>.</corr></choice></p>
+            <p>Je donne et lègue à Madame <persName>Marguerite Jeanne <lb/>Trencart, femme
+                  Gendronneau</persName>, née à <placeName>Igny</placeName>
+               <date type="otherDate" when="1876-10-03">le 3 octobre <lb/>1876</date>, ma
+               propriétaire, en souvenir de notre bonne amitié <lb/>et <choice><sic/><corr>pour
+                  </corr></choice>la remercier du service qu’elle va me
+                     rendre<choice><sic/><corr>,</corr></choice> la totalité <lb/>de ce qui est
+               contenu dans mon logement de garçon, <lb/>mobilier, linge, effets, bibelots etc, le
+               tout n’ayant <lb/>que la valeur du souvenir, à la seule condition
+                     d’<choice><sic>exé-<lb/>cuter</sic><corr>exé<lb break="no"/>cuter</corr></choice> scrupuleusement mes dernières volontés ci-dessous.</p>
+            <p>Elle vendra ma petite maison située rue Franchipani <lb/>n° 11 à <placeName type="otherPlace"><choice><sic>La Seyne sur mer</sic><corr>La
+                     Seyne-sur-Mer</corr></choice> (Var)</placeName>. Le produit <lb/>de la vente
+               servira à rembourser <choice><abbr>M<hi rend="superscript">e</hi></abbr><expan>Maître</expan></choice><persName>
+                        Lauflé<choice><sic/><corr>,</corr></choice></persName> notaire à
+                        <placeName><choice><sic>Toul-<lb/>on</sic><corr>Tou<lb break="no"/>lon</corr></choice></placeName>
+                  (<choice><sic>var</sic><corr>Var</corr></choice>)<choice><sic/><corr>,</corr></choice>
+               des <choice><sic>Cinq</sic><corr>cinq</corr></choice> mille francs qu’il m’a prêtés
+                  <date type="otherDate" when="1911-02-25">le 25 <lb/>février 1911</date>. Elle
+               versera à la Caisse des <choice><sic>dépots</sic><corr>dépôts</corr></choice> et
+                     <choice><sic>consigna-<lb/>tions</sic><corr>consigna<lb break="no"/>tions</corr></choice>, après frais de succession et d’enterrement prélevés,
+               tout <lb/>l’argent liquide provenant de ma solde, arrérages de <lb/>retraite et de
+               médaille militaire, vente de 2300 francs
+                     <lb/>(<choice><sic>Deux</sic><corr>deux</corr></choice> mille trois cents
+               francs) de titres au porteur du <orgName>Crédit <lb/>Foncier</orgName> et de la
+                  <orgName>Ville de Paris</orgName>, de mon livret de <orgName>Caisse
+                  <lb/>d’épargne</orgName><choice><sic/><corr>,</corr></choice> pour former un petit
+                     <choice><sic>Capital</sic><corr>capital</corr></choice> qui sera <lb/>
+               <choice><sic>remi<del>s</del></sic><corr>remis</corr></choice> à
+                        <persName>Pierre<choice><sic>,</sic><corr/></choice> Joseph
+                  Geslin</persName><choice><sic/><corr>,</corr></choice> né à
+                  <placeName>Igny</placeName>
+               <date type="otherDate" when="1903-07-01">le premier <lb/>juillet 1903</date>, que
+               j’aime comme s’il était mon fils ; à <lb/>sa majorité ou à son retour du service
+               militaire. <lb/>Si Pierre venait à mourir avant d’être
+                     majeur<choice><sic/><corr>,</corr></choice> ce capital <lb/>serait remis à mes
+               deux cousins germains <persName>Joseph <pb facs="#FRAD78_Poilus_t-0044_04"/><surname>Bousquet</surname></persName><choice><sic/><corr>,</corr></choice>
+               fils de la soeur de ma mère<choice><sic/><corr>,</corr></choice> demeurant <lb/>à
+                  <placeName>Marseille</placeName> villa des Palmiers <choice><abbr>B<hi rend="superscript-underlined">d</hi> S<hi rend="superscript-underlined">t</hi></abbr><expan>boulevard Saint</expan></choice><choice><sic> </sic><corr>-</corr></choice>Trophime<choice><sic/><corr>,</corr></choice>
+               <lb/>Montolivet.<choice><sic>.</sic><corr/></choice> Madame <persName>Gendronneau
+               </persName>conservera dans <lb/>deux de mes grosses malles pour les remettre à
+               Pierrot, <lb/><choice><sic>non</sic><corr>nom</corr></choice> familier de Pierre, à
+               son retour du service, mon revolver <lb/><unclear>B<hi rend="superscript-double-underlined">el</hi></unclear><choice><sic/><corr>,</corr></choice> ma meilleure tenue de
+                     capitaine<choice><sic/><corr>,</corr></choice> mes
+                     décorations<choice><sic/><corr>,</corr></choice>
+               <lb/>quelques mouchoirs et serviettes brodées
+                  <choice><sic>a</sic><corr>à</corr></choice> mes initiales <lb/>C.C., mon
+               vérascope, deux <choice><sic>boites</sic><corr>boîtes</corr></choice>
+               <choice><sic/><corr>de</corr></choice> clichés concernant mon <lb/>frère, Pierre,
+               moi, mes appartements, ma maison etc... <lb/>les papiers de famille, militaire brevet
+               médaille et <lb/>croix de Légion d’Honneur<choice><sic/><corr>,</corr></choice> mes
+               albums de photographie<choice><sic/><corr>,</corr></choice>
+               <lb/>quelques bijoux<choice><sic/><corr>,</corr></choice> montre, bague, la vitrine
+                     <choice><sic>ou</sic><corr>où</corr></choice> il y a <lb/>les décorations
+               d’épaulettes de mon frère, ma canne, qui <lb/>lui rappelleront
+                     <choice><sic>sont</sic><corr>son</corr></choice> meilleur ami. Madame
+                  <persName>Gendronneau</persName>
+               <lb/>vendra ou donnera les objets qu’elle ne désire pas
+                     conserver<choice><sic/><corr>,</corr></choice>
+               <lb/>elle versera une petite somme, dont sa conscience fixera le <lb/>chiffre, pour
+               augmenter la somme déposée à la <orgName>Caisse des
+                        <choice><sic>Dépots</sic><corr>dépôts</corr></choice> et
+                        <lb/><choice><sic>consignation</sic><corr>consignations</corr></choice></orgName>
+               qui doit être remise à <persName>Pierre Geslin</persName> quand il <lb/> sera majeur.
+               Les interêts de ce capital seront versés <lb/>tous les trimestres à la mère de Pierre
+               ou à Pierre si sa mère n’était plus. <lb/>Je prie <persName>Madame Gendronneau
+               </persName> de <choice><sic>bruler</sic><corr>brûler</corr></choice> tous mes papiers
+               intimes <lb/>contenus dans des enveloppes ou des
+                     <choice><sic>boites</sic><corr>boîtes</corr></choice> sur lesquelles il <lb/>y
+               a la mention "<choice><sic>a</sic><corr>à</corr></choice>
+               <choice><sic>bruler</sic><corr>brûler</corr></choice> à ma mort", sans les vérifier.
+               <lb/>Je désire des obsèques purement civiles. Je désire que l’on ne <lb/>pose pas les
+               scellés chez moi à <supplied reason="deleted">ma</supplied>
+                     mort<choice><sic/><corr>,</corr></choice> que Madame <persName>Gendronneau </persName>
+               <lb/>dispose de suite de mes appartements dont elle a les clefs après <lb/>avoir
+               présenté ce testament au <choice><sic>Maire</sic><corr>maire</corr></choice>
+               d’Igny.</p>
+            <p>Daté<choice><sic/><corr>, </corr></choice>signé et écrit par moi en pleine
+               liberté.</p>
+            <dateline>Fait à <placeName type="willPlace" ref="#pl89">Igny</placeName>
+               <date type="willDate" when="1914-08-01">le samedi premier <choice><sic>Août</sic><corr>août</corr></choice> mil neuf cent quatorze</date>. </dateline>
+            <signed rend="centered"><persName>C. <surname>Chapuy</surname></persName></signed>
+         </div>
+      </body>
+   </text>
+</TEI>

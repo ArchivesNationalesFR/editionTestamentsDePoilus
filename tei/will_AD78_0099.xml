@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0099">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Pierre Marie Posnic (10 septembre 1914)] : édition électronique</title><author><persName ref="#pers-386">Pierre Marie Posnic
+                    (1873-1915)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#MOD">Marie-Odile DUHEM</persName><persName ref="#CChauvelier">Catherine Chauvelier</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#SL.">EG</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0099</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0099_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E30 672, minute du 10 juillet 1915 (dépôt du testament de Pierre
+                            Marie Posnic)</idno>
+                        <msName>Testament de Pierre Marie Posnic (10 septembre 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-09-10">10 septembre
+                                1914</date>. <placeName type="willPlace" ref="#pl-49">Neauphle-le-Château</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-386"><forename>Pierre</forename> <forename>Marie</forename> <surname>Posnic</surname></persName>, mort
+                                pour la France le <date when="1915-05-12">12 mai 1915</date> à
+                                    <placeName ref="#pl-594">Zuydcoote
+                            (Nord)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,8</height>
+                                        <width>17,4</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de
+                            Neauphle-le-Château</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0099_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E30 672, minute du 10 juillet 1915 (dépôt du testament de Pierre
+                            Marie Posnic)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-09-10">10 septembre 1914</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>10 septembre
+                                1914. Neauphle-le-Château.</p><p>testament olographe de Pierre Marie Posnic, mort
+                                pour la France le 12 mai 1915 à
+                                    Zuydcoote
+                            (Nord).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-07-01/2020-05-26" who="#MFGarreau #lelia #SL.">transcription</change>
+            <change when-iso="2019-07-01/2019-11-04" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0099___JPEG___FRAD78_Poilus_t-0099_01.jpg" xml:id="FRAD78_Poilus_t-0099_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0099">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0099_01"/>
+                <head rend="centered">Ceci est mon
+                    <choice><sic>Testament</sic><corr>testament.</corr></choice></head>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Je soussigné <persName ref="#pers-386"><surname>Posnic</surname>
+                        Pierre</persName> <choice><sic>debitant</sic><corr>débitant</corr></choice> <lb/>de
+                    boissons <choice><sic>a</sic><corr>à</corr></choice> <placeName type="willAuthorResidence" ref="#pl-49"><choice><sic>Neauphle-le Château</sic><corr>Neauphle-le-Château</corr></choice> <add place="inline">(<choice><sic>Seine et
+                                oise</sic><corr>Seine-et-Oise</corr></choice>)</add></placeName><choice><sic/><corr>.</corr></choice> <lb/>Je
+                            <choice><sic>legue a</sic><corr>lègue
+                                à</corr></choice> <persName><choice><sic>Heloïse 
+                                </sic><corr>Héloïse</corr></choice> Tredaniel</persName><choice><sic/><corr>,</corr></choice> ma
+                            <lb/>femme<choice><sic/><corr>,</corr></choice> la pleine propriété de
+                            l<choice><sic>,</sic><corr>’</corr></choice>universalité <lb/>des biens
+                    et droits mobiliers et <lb/>immobiliers qui composeront ma <lb/>succession en
+                    quoi qu<choice><sic>,</sic><corr>’</corr></choice>ils puissent <lb/>consister et
+                    en quelque lieu qu<choice><sic>,</sic><corr>’</corr></choice>ils <lb/>soient
+                            <choice><sic>dûs</sic><corr>dus</corr></choice> et situés<choice><sic/><corr>,</corr></choice> sans aucune <lb/><choice><sic>exeption</sic><corr>exception</corr></choice> ni
+                            <choice><sic>résèrve</sic><corr>réserve</corr></choice>.</p>
+                <dateline><choice><sic>Ecrit</sic><corr>Écrit</corr></choice>
+                            <choice><sic/><corr>en</corr></choice> entier de ma main à
+                    <lb/><placeName type="willPlace" ref="#pl-49"><choice><sic>Neauphle-le Chateau</sic><corr>Neauphle-le-Château</corr></choice> (<choice><sic>Seine et
+                                oise</sic><corr>Seine-et-Oise</corr></choice>)</placeName> <lb/><date type="willDate" when="1914-09-10">le dix septembre mil neuf cent
+                                quatorze<choice><sic/><corr>.</corr></choice></date></dateline>
+                <signed rend="centered"><persName ref="#pers-386">P
+                        <surname>Posnic</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

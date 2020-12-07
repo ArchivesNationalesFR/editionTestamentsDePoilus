@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0120">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la
+               Grande Guerre</title><title type="main">[Testament de Louis Charles Joseph Julien Maubec (28 mars 1915)] : édition électronique</title><author><persName ref="#pers-182">Louis Charles Joseph Julien Maubec
+                  (1876-1915)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+         <editionStmt>
+            <edition>Première édition électronique, fondée sur un travail de transcription
+               collaborative</edition>
+            <respStmt><resp>Numérisation</resp><orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+                        Département de la Conservation. Atelier photographique</orgName></respStmt>
+            <respStmt><resp>Identification et description du testament</resp><persName ref="#MDeuve">Mathilde Deuve</persName><persName ref="#AM">Aurélie Massie</persName><persName ref="#MLocatelli">Mélisa Locatelli</persName></respStmt>
+            <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#FMARIECLAIRE">FMARIECLAIRE</persName><persName ref="#lelia">Lélia Picabia</persName></respStmt>
+            <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#FClavaud">Florence Clavaud</persName></respStmt>
+            <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+         </editionStmt>
+         <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AN_0120</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="will_AN_0120_tes">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives nationales</institution>
+                  <collection>Minutier central des notaires de Paris</collection>
+                  <idno>MC/ET/XLVIII/1736, minute du 15 décembre 1915 (dépôt du testament de Louis
+                     Charles Joseph Julien Maubec)</idno>
+                  <msName>Testament de Louis Charles Joseph Julien Maubec (28 mars 1915)</msName>
+               </msIdentifier>
+               <msContents>
+                  <summary><p><date type="willDate" when="1915-03-28">28 mars 1915</date>.
+                           <placeName type="willPlace" ref="#pl-304">Rouen</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-182"><forename>Louis</forename> <forename>Charles</forename> <forename>Joseph</forename> <forename>Julien</forename> <surname>Maubec</surname></persName>, mort
+                        pour la France le <date when="1915-10-13">13 octobre 1915</date> dans
+                           l’<placeName ref="#pl-303">ambulance 12 du 20e corps d’armée à Croix en
+                           Champagne (Marne)</placeName>.</p></summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>Papier à lettre (testament). Enveloppe cachetée (enveloppe). </support>
+                        <extent>1 page et 1 enveloppe. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                              <height>27,2</height>
+                              <width>20,7</width>
+                           </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                              <height>11,3</height>
+                              <width>14,5</width>
+                           </dimensions>.</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <p>Testament : encre. Enveloppe : encre.</p>
+                  </handDesc>
+               </physDesc>
+               <history>
+                  <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010175">étude
+                        notariale 048 (CRPCEN : 75047)</orgName></provenance>
+               </history>
+            </msDesc>
+            <msDesc xml:id="will_AN_0120_min">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives nationales</institution>
+                  <collection>Minutier central des notaires de Paris</collection>
+                  <idno>MC/ET/XLVIII/1736, minute du 15 décembre 1915 (dépôt du testament de Louis
+                     Charles Joseph Julien Maubec)</idno>
+                  <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                     minute</msName>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation><date type="willDate" when="1915-03-28">28 mars 1915</date></creation>
+         <langUsage><language ident="fr">français</language></langUsage>
+         <abstract><p>28 mars 1915.
+                           Rouen.</p><p>testament olographe de Louis Charles Joseph Julien Maubec, mort
+                        pour la France le 13 octobre 1915 dans
+                           l’ambulance 12 du 20e corps d’armée à Croix en
+                           Champagne (Marne).</p></abstract>
+         <textClass>
+            <keywords>
+               <term type="subject">Grande Guerre</term>
+               <term type="subject">Poilu</term>
+               <term type="subject">testament</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when-iso="2018-04-20/2018-07-03" who="#SL. #MFGarreau #FMARIECLAIRE #lelia">transcription</change>
+         <change when-iso="2018-04-20/2018-06-06" who="#PCharbonnier #FClavaud">validation</change>
+         <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements et
+            contrôle de qualité finaux</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+      <surface type="will-page" n="01">
+         <graphic url="testament_AN_0120___JPEG___FRAN_Poilus_t-0120_01.jpg" xml:id="FRAN_Poilus_t-0120_01"/>
+      </surface>
+      <surface type="will-envelope-recto" n="02">
+         <graphic url="testament_AN_0120___JPEG___FRAN_Poilus_t-0120_02.jpg" xml:id="FRAN_Poilus_t-0120_02"/>
+      </surface>
+   </facsimile>
+   <text xml:id="will_AN_0120">
+      <body>
+         <div type="will">
+            <pb facs="#FRAN_Poilus_t-0120_01"/>
+            <dateline><placeName type="willPlace" ref="#pl-304">Rouen</placeName> <date type="willDate" when="1915-03-28">ce 28 mars 1915</date><choice><sic/><corr>,</corr></choice> 6<choice><abbr><hi rend="superscript">h</hi></abbr><expan>
+                           heures</expan></choice><choice><sic/><corr> du </corr></choice>soir<choice><sic/><corr>,</corr></choice> <lb/>chez
+                           <persName><choice><abbr>M<hi rend="superscript-underlined">e</hi></abbr><expan>maître</expan></choice> Casset</persName> <lb/>32 rue
+               d’Ernemont<choice><sic/><corr>.</corr></choice></dateline>
+            <space dim="vertical" unit="lines" quantity="5"/>
+            <p>Ceci est mon testament au point de vue <lb/>matériel. Si je venais à partir sur le
+               front <lb/>je le compléterais au point de vue moral ; mais <lb/>je tiens dès
+               maintenant à mettre ma femme <lb/><persName>Marie Maubec née Marie Roque</persName> à
+               l’abri de <lb/>toute espèce d’ennui au cas de mon
+                     <choice><sic>décés</sic><corr>décès</corr></choice>.</p>
+            <p>J’entends <choice><sic>expressement</sic><corr>expressément</corr></choice>, <hi rend="underlined">de la façon la <lb/>plus absolue</hi>, laisser à ma chère femme
+                  <persName>Marie <lb/>Maubec née Marie Roque</persName><choice><sic/><corr>,</corr></choice> en toute propriété <lb/>et
+               jouissance<choice><sic/><corr>,</corr></choice> la moitié de l’<choice><sic>usu fruit</sic><corr>usufruit</corr></choice>
+               de <lb/>mon avoir tel qu’il sera établi à mon
+                     <choice><sic>dècès</sic><corr>décès</corr></choice>. <lb/>Avant mon départ pour
+                  <placeName type="otherPlace" ref="#pl-304">Rouen</placeName> j’ai remis à
+                     mon <lb/><choice><sic>beau
+                  père</sic><corr>beau-père</corr></choice> <persName>Monsieur Roque</persName> la
+               balance de mes <lb/>comptes <choice><sic>arretés</sic><corr>arrêtés</corr></choice> à
+               fin <choice><sic>Février</sic><corr>février</corr></choice> 1915. Je donne tout <lb/>pouvoir à <persName>Monsieur Louis Roque</persName> pour, dans la mesure <lb/>la plus
+               large possible, régler <add place="above">d’accord avec ma femme</add> au mieux les
+                     <choice><sic>différents</sic><corr>différends</corr></choice> <lb/>qui
+               pourraient survenir par suite d’une circonstance <lb/>quelconque.</p>
+            <dateline rend="centered">Fait à <placeName type="willPlace" ref="#pl-304">Rouen</placeName> <date type="willDate" when="1915-03-28">le 28
+                        <choice><sic>Mars</sic><corr>mars</corr></choice><choice><sic><surplus> Mars</surplus></sic><corr/></choice>
+                  1915</date><choice><sic/><corr>.</corr></choice></dateline>
+            <signed rend="centered"><persName ref="#pers-182">L.
+                  <surname>Maubec</surname></persName></signed>
+            <postscript>
+               <p>En cas du <choice><sic>deçés</sic><corr>décès</corr></choice> de
+                           <persName>Monsieur Louis Roque</persName> je laisse à ma femme le soin de
+                        déléguer <lb/>ma confiance et la sienne à la personne qu’elle pensera en
+                        être la plus digne<choice><sic/><corr>.</corr></choice></p><signed><persName ref="#pers-182">L. M</persName></signed>
+            </postscript>
+            
+         </div>
+         <div type="envelope">
+            <pb facs="#FRAN_Poilus_t-0120_02"/>
+            <p>Ceci est mon testament qui <lb/>ne devra être<damage agent="stain"><supplied>ouv</supplied></damage>ert qu’après <lb/>mon
+                     <choice><sic>dècès</sic><corr>décès</corr></choice>. </p>
+            <signed rend="centered"><persName ref="#pers-182">L.<surname>Maubec</surname></persName></signed>
+            <dateline rend="right"><placeName type="willPlace" ref="#pl-304">Rouen</placeName><date type="willDate" when="1915-03-28">28
+                     <choice><sic>Mars</sic><corr>mars</corr></choice> 1915</date></dateline>
+         </div>
+      </body>
+   </text>
+</TEI>

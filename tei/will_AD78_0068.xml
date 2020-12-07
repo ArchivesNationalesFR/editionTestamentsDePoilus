@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0068">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Edouard Charles Pfitzinger (6 juin 1915)] : édition électronique</title><author><persName ref="#pers-65">Edouard Charles Pfitzinger
+                    (1884-1917)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#TR">Thierry Rihouey</persName><persName ref="#FAuriau">Françoise Auriau</persName><persName ref="#SBlanchard">Sophie Blanchard</persName><persName ref="#MDeuve">Mathilde Deuve</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#EPerrin">EPerrin</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#FClavaud">Florence Clavaud</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0068</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0068_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E44 1010, minute du 9 janvier 1918 (dépôt du testament de Edouard
+                            Charles Pfitzinger)</idno>
+                        <msName>Testament de Edouard Charles Pfitzinger (6 juin 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1915-06-06">6 juin 1915</date>.
+                                    <placeName type="willPlace" ref="#pl-121">Garches</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-65"><forename>Edouard</forename> <forename>Charles</forename> <surname>Pfitzinger</surname></persName>,
+                                mort pour la France le <date when="1917-02-12">12 février
+                                    1917</date> à <placeName ref="#pl-94">Berry au Bac au
+                                    Kodat</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à en-tête quadrillé (testament). Enveloppe à en-tête
+                                    (enveloppe). </support>
+                                <extent>1 page et 1 enveloppe. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>20,8</height>
+                                        <width>13,4</width>
+                                    </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                                        <height>11,3</height>
+                                        <width>14,4</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Enveloppe : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de Versailles, étude
+                            Gayot</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0068_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E44 1010, minute du 9 janvier 1918 (dépôt du testament de Edouard
+                            Charles Pfitzinger)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-06-06">6 juin 1915</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>6 juin 1915.
+                                    Garches.</p><p>testament
+                                    olographe de Edouard Charles Pfitzinger,
+                                mort pour la France le 12 février
+                                    1917 à Berry au Bac au
+                                    Kodat.</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2020-05-27" who="#SL. #lelia #EPerrin">transcription</change>
+            <change when-iso="2018-01-24/2018-10-02" who="#PCharbonnier #FClavaud ">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0068___JPEG___FRAD78_Poilus_t-0068_01.jpg" xml:id="FRAD78_Poilus_t-0068_01"/>
+        </surface>
+        <surface type="will-envelope-recto" n="01">
+            <graphic url="testament_AD78_0068___JPEG___FRAD78_Poilus_t-0068_03.jpg" xml:id="FRAD78_Poilus_t-0068_03"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0068">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0068_01"/>
+                <dateline rend="centered"><placeName type="willPlace" ref="#pl-121">Garches</placeName><choice><sic> -</sic><corr>,</corr></choice> 
+                        <date type="willDate" when="1915-06-06">le <lb/>six
+                                <choice><sic>Juin</sic><corr>juin</corr></choice> <lb/>mil neuf cent
+                        quinze</date><choice><sic/><corr>.</corr></choice></dateline>
+                <metamark function="separating" rend="horizontal-line"/>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p rend="left">En cas de <choice><sic>dèces</sic><corr>décès</corr></choice> de ma
+                    part <lb/>de <choice><sic>lèguer</sic><corr>léguer</corr></choice> toutes mes
+                    affaires <lb/>personnelles ainsi que ce qui <lb/>pourrait me revenir de ma
+                    <lb/>famille ou autre à ma soeur <lb/><space quantity="1" unit="lines" dim="vertical"/><persName>Madame
+                                <surname><unclear>Doert</unclear></surname><lb/>née Elise
+                            <surname>Pfitzinger</surname></persName><choice><sic/><corr>.</corr></choice></p>
+                <space quantity="2" unit="lines" dim="vertical"/>
+                <signed rend="centered"><persName ref="#pers-65">Ed<surname>Pfitzinger</surname></persName></signed>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAD78_Poilus_t-0068_03"/>
+                <p rend="centered"><choice><sic>à</sic><corr>À</corr></choice>
+                    <lb/><choice><sic>Remettre</sic><corr>remettre</corr></choice> <lb/>à
+                        <persName>Madame Doert</persName><choice><sic/><corr>.</corr></choice></p>
+            </div>
+        </body>
+    </text>
+</TEI>

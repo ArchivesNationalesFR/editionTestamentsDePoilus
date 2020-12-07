@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD95_0043">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Paul Alfred Alline (20 janvier 1916)] : édition électronique</title><author><persName ref="#pers-437">Paul Alfred Alline (1884-1917)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#JCL">Jean-Claude Lescure</persName><persName ref="#TG">Tristan Girard</persName><persName ref="#SD">Sophie Delinge</persName><persName ref="#TO">Thomas Olivier</persName><persName ref="#SDechavanne">Sylvie Dechavanne</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#GBMireille">Mireille Grais-Bruguière</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD95_0043</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD95_0043_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales du Val-d’Oise</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>2E41 514, minute du 15 janvier 1918 (dépôt du testament de Paul Alfred
+                            Alline)</idno>
+                        <msName>Testament de Paul Alfred Alline (20 janvier 1916)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1916-01-20">20 janvier 1916</date>.
+                                    <placeName type="willPlace" ref="#pl-684">Puteaux</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-437"><forename source="#will_AD95_0043_tes #will_AD95_0043_min #MDH #AS">Paul</forename> <forename source="#will_AD95_0043_tes #will_AD95_0043_min #MDH #AS">Alfred</forename> <surname>Alline</surname></persName>, mort
+                                pour la France le <date when="1917-10-25" source="#will_AD95_0043_min #MDH #AS">25 octobre 1917 [NOT]
+                                    [MDH] [AS]</date> à l’<placeName ref="#pl-685" source="#will_AD95_0043_min #AS #MDH">Ambulance 2/14 [NOT] [AS]
+                                    | Cuffies [MDH]</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier ivoire timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>17,8</height>
+                                        <width>24,9</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre rouge.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>André Masson et Léon Boutfol (substituant)
+                                Sannois</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD95_0043_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales du Val-d’Oise</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>2E41 514, minute du 15 janvier 1918 (dépôt du testament de Paul Alfred
+                            Alline)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1916-01-20">20 janvier 1916</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>20 janvier 1916.
+                                    Puteaux.</p><p>testament
+                                    olographe de Paul Alfred Alline, mort
+                                pour la France le 25 octobre 1917 [NOT]
+                                    [MDH] [AS] à l’Ambulance 2/14 [NOT] [AS]
+                                    | Cuffies [MDH].</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-10-09/2020-02-17" who="#SL. #MFGarreau #GBMireille">transcription</change>
+            <change when-iso="2019-10-09/2019-10-28" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD95_0043___JPEG___FRAD95_Poilus_t-0043_01.jpg" xml:id="FRAD95_Poilus_t-0043_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD95_0043">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD95_Poilus_t-0043_01"/>
+                <head rend="centered"><choice><sic>Ceçi</sic><corr>Ceci</corr></choice> est mon
+                    testament</head>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Je, soussigné <persName ref="#pers-437">Paul, Alfred,
+                        <surname>Alline</surname></persName>, <lb/>demeurant
+                            <choice><sic>a</sic><corr>à</corr></choice> <placeName type="willAuthorResidence" ref="#pl-684">Puteaux</placeName> 31
+                            <choice><sic>Rue</sic><corr>rue</corr></choice>
+                            Auguste-<lb/>Blanche, <app><lem><add place="inline" type="testatorComment"><seg type="signature"><persName ref="#pers-437">Paul
+                            Alline</persName></seg></add></lem><note resp="#PCharbonnier">Le testateur a signé à droite.</note></app> <lb/><choice><sic>Donne</sic><corr>donne</corr></choice>
+                    et lègue <choice><sic>a</sic><corr>à</corr></choice> <persName>Clémence,
+                        Henriette, Guérin</persName> <lb/>ma femme, demeurant avec moi,
+                    <lb/><choice><sic>L’Usufruit</sic><corr>l’usufruit</corr></choice><choice><sic>,</sic><corr/></choice>
+                    de l’<choice><sic>Universalité</sic><corr>universalité</corr></choice> des biens et droits
+                    <lb/><choice><sic>Mobiliers</sic><corr>mobiliers</corr></choice> et
+                    <choice><sic>Immobiliers</sic><corr>immobiliers</corr></choice> qui composeront ma
+                    <lb/>succession, en quoi qu’ils puissent consister <lb/>et en quelque lieu
+                    qu’ils soient dus et <lb/>situés, sans aucune
+                            <choice><sic>exeption</sic><corr>exception</corr></choice>.</p>
+                <p>En cas d’existence d’ascendant <choice><sic>a</sic><corr>à</corr></choice> mon
+                    <lb/>décès, ce legs subira la réduction
+                        légale<choice><sic/><corr>.</corr></choice> <lb/>Si je laisse
+                            <choice><sic>a</sic><corr>à</corr></choice> mon décès des enfants de
+                    <lb/>notre mariage, ou descendants, ce legs ne <lb/>subira de réduction
+                            qu’<choice><sic>a</sic><corr>à</corr></choice> leur demande, <lb/>et
+                    dans ce cas, il sera réduit <choice><sic>a</sic><corr>à</corr></choice> la plus
+                    <lb/>forte portion permise par la loi, tant <lb/>en pleine propriété qu’en
+                    usufruit, en <lb/>y comprenant les rapports.</p>
+                <p>Et pour jouir de l’usufruit auquel elle <lb/>aura droit, ma femme sera dispensée
+                    de <lb/>fournir caution et de faire emploi ainsi <lb/>que de dresser état des
+                    <choice><sic>Immeubles</sic><corr>immeubles</corr></choice>, mais <lb/>elle
+                    devra faire <choice><sic>Inventaire</sic><corr>inventaire</corr></choice>.</p>
+                <p>Je révoque tous testaments ou
+                        <choice><sic>codiciles</sic><corr>codicilles</corr></choice> <lb/>faits
+                            antérieurement<choice><sic>s</sic><corr/></choice> au présent
+                    <lb/>testament qui seul renferme mes <lb/>dernières
+                    <choice><sic>volontée</sic><corr/></choice>volontés.</p>
+                <dateline><choice><sic>Ecrit</sic><corr>Écrit</corr></choice> et signé en entier <lb/>de ma main
+                            <choice><sic>a</sic><corr>à</corr></choice> <placeName type="willPlace" ref="#pl-684">Puteaux</placeName> <date type="willDate" when="1916-01-20">le
+                                        <choice><sic><subst><del>2</del><add>V</add></subst></sic><corr>v</corr></choice>ingt
+                        janvier <lb/>dix<choice><sic/><corr>-</corr></choice>neuf cent
+                                seize<choice><sic/><corr>.</corr></choice></date></dateline>
+                <signed rend="centered"><persName ref="#pers-437">Paul
+                        <surname>Alline</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

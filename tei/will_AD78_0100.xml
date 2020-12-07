@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0100">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Léon Jaccottin (10 janvier 1915)] : édition électronique</title><author><persName ref="#pers-387">Léon Jaccottin (1894-1915)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#MOD">Marie-Odile DUHEM</persName><persName ref="#CChauvelier">Catherine Chauvelier</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#SL.">EG</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#GBMireille">Mireille Grais-Bruguière</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0100</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0100_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E30 672, minute du 10 juillet 1915 (dépôt du testament de Léon
+                            Jaccottin)</idno>
+                        <msName>Testament de Léon Jaccottin (10 janvier 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1915-01-10">10 janvier 1915</date>.
+                                    <placeName type="willPlace" ref="#pl-124">Vienne-le-Château</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-387"><forename>Léon</forename> <surname>Jaccottin</surname></persName>,
+                                mort pour la France le <date when="1915-02-28">28 février
+                                    1915</date> à <placeName ref="#pl-126">Mesnil-le-Hurlus</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Feuille de papier (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>11,5</height>
+                                        <width>17,5</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : crayon violet.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de
+                            Neauphle-le-Château</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0100_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E30 672, minute du 10 juillet 1915 (dépôt du testament de Léon
+                            Jaccottin)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-01-10">10 janvier 1915</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>10 janvier 1915.
+                                    Vienne-le-Château.</p><p>testament olographe de Léon Jaccottin,
+                                mort pour la France le 28 février
+                                    1915 à Mesnil-le-Hurlus.</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-07-01/2020-05-25" who="#MFGarreau #SL. #lelia #GBMireille">transcription</change>
+            <change when-iso="2019-07-01/2019-10-24" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0100___JPEG___FRAD78_Poilus_t-0100_01.jpg" xml:id="FRAD78_Poilus_t-0100_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0100">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0100_01"/>
+                <head>Ceci est mon testament<choice><sic/><corr>.</corr></choice></head>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>J’institue pour ma légataire <lb/>universelle en toute propriété,
+                        <lb/><persName><choice><sic>madame</sic><corr>Madame</corr></choice> veuve Jaccottin</persName> ma <lb/>mère demeurant à
+                        <placeName type="otherPlace" ref="#pl-49">Neauphle-<lb/>le-Château</placeName>. <lb/><space dim="horizontal" unit="chars" quantity="19"/>(Seine-et-Oise)</p>
+                <dateline>Fait à <placeName type="willPlace" ref="#pl-124">Vienne-le-Château</placeName> <lb/><date type="willDate" when="1915-01-10">le 10 <choice><sic>Janvier</sic><corr>janvier</corr></choice>
+                                1915<choice><sic/><corr>.</corr></choice></date></dateline>
+                <signed rend="right"><persName ref="#pers-387">L.
+                        <surname>Jaccottin</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

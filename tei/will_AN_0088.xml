@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0088">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title><title type="main">[Testament de René Marie Le Balacon (11 avril 1917)] : édition électronique</title><author><persName ref="#pers-144">René Marie Le Balacon (1878-1918)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+      <editionStmt>
+        <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+        <respStmt><resp>Numérisation</resp><orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+                        Département de la Conservation. Atelier photographique</orgName></respStmt>
+        <respStmt><resp>Identification et description du testament</resp><persName ref="#AM">Aurélie Massie</persName><persName ref="#MLocatelli">Mélisa Locatelli</persName></respStmt>
+        <respStmt><resp>Transcription</resp><persName ref="#lelia">Lélia Picabia</persName><persName ref="#ALemoine">Aurélie Lemoine</persName><persName ref="#DChristiane">Christiane Demeulenaere-Douyère</persName></respStmt>
+        <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+        <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#jmorvan">Josselin Morvan</persName></respStmt>
+      </editionStmt>
+      <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AN_0088</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="will_AN_0088_tes">
+          <msIdentifier>
+            <country>France</country>
+            <institution>Archives nationales</institution>
+            <collection>Minutier central des notaires de Paris</collection>
+            <idno>MC/ET/CXX/1654, minute du 22 janvier 1920 (dépôt du testament de René Marie Le Balacon)</idno>
+            <msName>Testament de René Marie Le Balacon (11 avril 1917)</msName>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p><date type="willDate" when="1917-04-11">11 avril 1917</date>. <placeName type="willPlace">aux armées</placeName>.</p>
+              <p><term type="willType">testament olographe</term> de <persName ref="#pers-144"><forename>René</forename> <forename>Marie</forename> <surname>Le Balacon</surname></persName>, mort pour la France le <date when="1918-10-11">11 octobre 1918</date> à l’<placeName ref="#pl-252">ambulance E 15/9 à Antilly (Oise)</placeName>.</p>
+            </summary>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>Papier quadrillé (testament). </support>
+                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                    <height>21,1</height>
+                    <width>13,1</width>
+                  </dimensions>.</extent>
+              </supportDesc>
+            </objectDesc>
+            <handDesc>
+              <p>Testament : encre.</p>
+            </handDesc>
+          </physDesc>
+          <history>
+            <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010247">étude notariale 120 (CRPCEN : 75100)</orgName></provenance>
+          </history>
+        </msDesc>
+        <msDesc xml:id="will_AN_0088_min">
+          <msIdentifier>
+            <country>France</country>
+            <institution>Archives nationales</institution>
+            <collection>Minutier central des notaires de Paris</collection>
+            <idno>MC/ET/CXX/1654, minute du 22 janvier 1920 (dépôt du testament de René Marie Le Balacon)</idno>
+            <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation><date type="willDate" when="1917-04-11">11 avril 1917</date></creation>
+      <langUsage><language ident="fr">français</language></langUsage>
+      <abstract><p>11 avril 1917. aux armées.</p><p>testament olographe de René Marie Le Balacon, mort pour la France le 11 octobre 1918 à l’ambulance E 15/9 à Antilly (Oise).</p></abstract>
+      <textClass>
+        <keywords>
+          <term type="subject">Grande Guerre</term>
+          <term type="subject">Poilu</term>
+          <term type="subject">testament</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when-iso="2018-01-24/2018-04-30" who="#lelia #ALemoine #DChristiane">transcription</change>
+      <change when-iso="2018-01-24/2018-02-22" who="#PCharbonnier ">validation</change>
+      <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+    <surface type="will-page" n="01">
+      <graphic url="testament_AN_0088___JPEG___FRAN_Poilus_t-0088_01.jpg" xml:id="FRAN_Poilus_t-0088_01"/>
+    </surface>
+  </facsimile>
+  <text xml:id="will_AN_0088">
+    <body>
+      <div type="will">
+        <pb facs="#FRAN_Poilus_t-0088_01"/>
+        <dateline>Aux Armées le <date when="1917-04-11" type="willDate">11 <choice><sic>Avril</sic><corr>avril</corr></choice> 1917</date></dateline>
+        <space quantity="4" unit="lines" dim="vertical"/>
+        <p>Je soussigné <persName ref="#pers-144">René <surname>Le Balacon</surname></persName> <lb/>né le <date type="willAuthorBirthDate" when="1878-10-11">11 octobre 1878</date> <choice><sic>a</sic><corr>à</corr></choice> <placeName type="willAuthorBirthPlace" ref="#pl-251">Loctudy</placeName><choice><sic/><corr>,</corr></choice> <lb/>Finistère.</p>
+        <p rend="centered">Déclare</p>
+        <space quantity="1" unit="lines" dim="vertical"/>
+        <p>Léguer en cas de mort <choice><sic>tous</sic><corr>tout</corr></choice> ce <lb/>qui lui appartient à <choice><abbr>M<hi rend="superscript-underlined">me</hi></abbr><expan>Madame</expan></choice> René <lb/>Le Balacon née <persName>Célestine Semelet</persName><choice><sic/><corr>,</corr></choice> <lb/>sa femme. Ce présent acte <choice><sic>pourrat</sic><corr>pourra</corr></choice> <lb/>lui servir autant que le besoin se fera <lb/>sentir, et servira comme légataire <lb/>universel <choice><sic>a</sic><corr>à</corr></choice> <choice><abbr>M<hi rend="superscript-underlined">me</hi></abbr><expan>Madame</expan></choice> Le Balacon René<choice><sic/><corr>.</corr></choice></p>
+        <signed rend="right">Et je signe <lb/><persName ref="#pers-144"><surname>Le Balacon</surname> René Marie</persName></signed>
+      </div>
+    </body>
+  </text>
+</TEI>

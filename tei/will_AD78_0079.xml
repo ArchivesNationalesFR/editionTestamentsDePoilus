@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0079">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Gabriel Pierre Brout (25 février 1915)] : édition électronique</title><author><persName ref="#pers-367">Gabriel Pierre Brout
+                    (1891-1918)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#CChauvelier">Catherine Chauvelier</persName><persName ref="#SBlanchard">Sophie Blanchard</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#SL.">EG</persName><persName ref="#GBMireille">Mireille Grais-Bruguière</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0079</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0079_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E10 291, minute du 22 novembre 1918 (dépôt du testament de Gabriel
+                            Pierre Brout)</idno>
+                        <msName>Testament de Gabriel Pierre Brout (25 février 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1915-02-25">25 février 1915</date>.
+                                    <placeName type="willPlace" ref="#pl-304">Rouen</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-367"><forename>Gabriel</forename> <forename>Pierre</forename> <surname>Brout</surname></persName>, mort
+                                pour la France le <date when="1918-06-14">14 juin 1918</date> à
+                                    l’<placeName ref="#pl-558">hôpital complémentaire d’armée 38 à
+                                    Beauvais</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,6</height>
+                                        <width>17,6</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de Epône</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0079_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E10 291, minute du 22 novembre 1918 (dépôt du testament de Gabriel
+                            Pierre Brout)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-02-25">25 février 1915</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>25 février 1915.
+                                    Rouen.</p><p>testament
+                                    olographe de Gabriel Pierre Brout, mort
+                                pour la France le 14 juin 1918 à
+                                    l’hôpital complémentaire d’armée 38 à
+                                    Beauvais.</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-07-01/2020-05-12" who="#MFGarreau #lelia #SL. #GBMireille">transcription</change>
+            <change when-iso="2019-07-01/2019-11-14" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0079___JPEG___FRAD78_Poilus_t-0079_01.jpg" xml:id="FRAD78_Poilus_t-0079_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0079">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0079_01"/>
+                <p>J’institue pour ma légataire <lb/>universelle, en pleine propriété <lb/>et
+                    jouissance de ma succession <lb/>ma mère
+                                <persName>Madame
+                                <choice><sic>Veuve</sic><corr>veuve</corr></choice> <lb/>Brout née
+                        Foin</persName><choice><sic/><corr>,</corr></choice> demeurant <lb/>à <placeName type="otherPlace" ref="#pl-557"><choice><sic>la</sic><corr>La</corr></choice>
+                                Plagne<choice><sic/><corr>,</corr></choice> commune de
+                        Guerville</placeName><choice><sic/><corr>.</corr></choice></p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <dateline rend="centered"><placeName type="willPlace" ref="#pl-304">Rouen</placeName><choice><sic/><corr>,</corr></choice> <date type="willDate" when="1915-02-25">le 25 février 1915</date>.</dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="centered"><persName ref="#pers-367">Gabriel
+                        <surname>Brout</surname></persName></signed>
+                    <space dim="vertical" unit="lines" quantity="1"/><postscript rend="centered"><p><choice><sic>soldat</sic><corr>Soldat</corr></choice> au <orgName ref="#o-82">74<hi rend="superscript-double-underlined">e</hi> <choice><abbr>de
+                                ligne</abbr><expan>régiment d’infanterie de
+                        ligne</expan></choice></orgName> <lb/>2<subst><del>2</del><add>8</add></subst><hi rend="superscript-double-underlined">e</hi> <choice><abbr><hi rend="superscript-double-underlined">comp</hi></abbr><expan>compagnie</expan></choice><choice><sic/><corr>.</corr></choice></p></postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

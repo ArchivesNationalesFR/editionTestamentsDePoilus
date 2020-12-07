@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0038">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Jean Antoine Marie de Servins d’Héricourt (27 juin 1916)] : édition électronique</title><author><persName ref="#pers-36">Jean Antoine Marie de Servins d’Héricourt
+                        (1896-1917)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#FAuriau">Françoise Auriau</persName><persName ref="#SBlanchard">Sophie Blanchard</persName><persName ref="#MDeuve">Mathilde Deuve</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#SL.">EG</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#VdLavenne">VdLavenne</persName><persName ref="#FMARIECLAIRE">FMARIECLAIRE</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#EdChamps">Emmanuelle de Champs</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0038</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0038_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E46 595, minute du 14 mars 1919 (dépôt du testament de Jean Antoine
+                            Marie de Servins d’Héricourt)</idno>
+                        <msName>Testament de Jean Antoine Marie de Servins d’Héricourt (27 juin
+                            1916)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1916-06-27">27 juin 1916</date>.
+                                    <placeName type="willPlace" ref="#pl-77">Lorient</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-36"><forename>Jean</forename> <forename>Antoine</forename> <forename>Marie</forename> <surname>Servins
+                                    d’Héricourt</surname></persName>, mort pour la France le <date when="1917-08-05">5 août 1917</date> à <placeName ref="#pl-76">Saint Léonard (Marne)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier commercial (testament). </support>
+                                <extent>2 pages. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>13,7</height>
+                                        <width>18,3</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre violette.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de Versailles, étude
+                            Savouré</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0038_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E46 595, minute du 14 mars 1919 (dépôt du testament de Jean Antoine
+                            Marie de Servins d’Héricourt)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1916-06-27">27 juin 1916</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>27 juin 1916.
+                                    Lorient.</p><p>testament
+                                    olographe de Jean Antoine Marie Servins
+                                    d’Héricourt, mort pour la France le 5 août 1917 à Saint Léonard (Marne).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2020-05-27" who="#MFGarreau #SL. #lelia #VdLavenne #FMARIECLAIRE">transcription</change>
+            <change when-iso="2018-01-24/2018-10-31" who="#PCharbonnier #EdChamps ">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0038___JPEG___FRAD78_Poilus_t-0038_01.jpg" xml:id="FRAD78_Poilus_t-0038_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AD78_0038___JPEG___FRAD78_Poilus_t-0038_02.jpg" xml:id="FRAD78_Poilus_t-0038_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0038">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0038_01"/>
+                <head rend="centered">Ceci est mon testament
+                                    <lb/><choice><sic>ecrit</sic><corr>écrit</corr></choice>
+                            entièrement de ma main<choice><sic/><corr>.</corr></choice></head>
+                <metamark function="other" rend="horizontal-wavy-line"/>
+                <space quantity="3" unit="lines" dim="vertical"/>
+                <p rend="left">Je, soussigné <persName ref="#pers-36">Jean, Antoine Marie
+                            <lb/><surname>de Servins
+                                    d’<choice><sic>Hericourt</sic><corr>Héricourt</corr></choice></surname></persName>,
+                    sain de corps <lb/>et d’esprit au moment où j’écris <lb/>ces lignes déclare
+                    léguer à ma <lb/><choice><sic>Mère</sic><corr>mère</corr></choice> la
+                                <persName><choice><sic>Marquise</sic><corr>marquise</corr></choice>
+                        de Servins d’<choice><sic>Hericourt</sic><corr>Héricourt</corr></choice>
+                        <lb/>née <surname>Hugo de Spitzemberg</surname></persName> tous mes
+                    <lb/>biens meubles et immeubles, en <lb/>particulier tout ce que je possède
+                    <lb/>à <placeName type="otherPlace">Héricourt</placeName> (<choice><abbr>P de
+                            C.</abbr><expan>Pas-de-Calais</expan></choice>), sans aucune <pb facs="#FRAD78_Poilus_t-0038_02"/><choice><sic>condition
+                            .</sic><corr>condition,</corr></choice> pour en disposer <lb/>comme
+                    elle l’entendra.</p>
+                <dateline><choice><sic>fait</sic><corr>Fait</corr></choice> à <placeName type="willPlace" ref="#pl-77">Lorient</placeName> au quartier Frébault
+                        <lb/><date type="willDate" when="1916-06-27"/>le 27 juin
+                            1916<choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="centered"><persName ref="#pers-36">Jean de <surname>Servins
+                            d’Héricourt</surname></persName></signed>
+                <postscript>
+                    <p rend="centered"><choice><sic>aspirant</sic><corr>Aspirant</corr></choice> au <orgName ref="#o-33"><choice><abbr>111<hi rend="superscript">e</hi></abbr><expan>111e
+                                régiment</expan></choice> d’artillerie</orgName><choice><sic/><corr>,</corr></choice> <lb/>sans grattage, ni
+                        biffage ni <lb/>surcharge<choice><sic/><corr>.</corr></choice></p>
+                    <signed><persName ref="#pers-36"> J.
+                        <surname>d’Héricourt</surname></persName></signed>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

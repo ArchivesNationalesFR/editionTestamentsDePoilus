@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0006">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title><title type="main">[Testament de Édouard Désiré Cauville (3 août 1914)] : édition électronique</title><author><persName ref="#pers-171">Édouard Désiré Cauville (1876-1914)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+                        Département de la Conservation. Atelier photographique</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#DChristiane">Christiane Demeulenaere-Douyère</persName><persName ref="#MLocatelli">Mélisa Locatelli</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#lelia">Lélia Picabia</persName><persName ref="#mickael.lefevr">mickael.lefevr</persName><persName ref="#SL.">EG</persName><persName ref="#Chloelsa">Chloé Hamadache</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#jmorvan">Josselin Morvan</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AN_0006</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0006_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXIII/1639, minute du 29 mars 1915 (dépôt du testament de Édouard Désiré Cauville)</idno>
+                        <msName>Testament de Édouard Désiré Cauville (3 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1914-08-03">3 août 1914</date>. <placeName type="willPlace" ref="#pl-287">Carentan</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-171"><forename>Édouard</forename> <forename>Désiré</forename> <surname>Cauville</surname></persName>, mort pour la France le <date when="1914-12-30">30 décembre 1914</date> à <placeName ref="#pl-83">Amiens (Somme), 1 rue de l’Oratoire, hôpital temporaire n°5</placeName>.</p>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à lettre (testament). </support>
+                                <extent>4 pages. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>17,8</height>
+                                        <width>11,5</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010240">étude notariale 113 (CRPCEN : 75068)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0006_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXIII/1639, minute du 29 mars 1915 (dépôt du testament de Édouard Désiré Cauville)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-03">3 août 1914</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>3 août 1914. Carentan.</p><p>testament olographe de Édouard Désiré Cauville, mort pour la France le 30 décembre 1914 à Amiens (Somme), 1 rue de l’Oratoire, hôpital temporaire n°5.</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-25/2018-04-16" who="#lelia #mickael.lefevr #SL. #Chloelsa">transcription</change>
+            <change when-iso="2018-01-25/2018-02-22" who="#PCharbonnier ">validation</change>
+            <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0006___JPEG___FRAN_Poilus_t-0006_01.jpg" xml:id="FRAN_Poilus_t-0006_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0006___JPEG___FRAN_Poilus_t-0006_02.jpg" xml:id="FRAN_Poilus_t-0006_02"/>
+        </surface>
+        <surface type="will-page" n="03">
+            <graphic url="testament_AN_0006___JPEG___FRAN_Poilus_t-0006_03.jpg" xml:id="FRAN_Poilus_t-0006_03"/>
+        </surface>
+        <surface type="will-page" n="04">
+            <graphic url="testament_AN_0006___JPEG___FRAN_Poilus_t-0006_04.jpg" xml:id="FRAN_Poilus_t-0006_04"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0006">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0006_01"/>
+                <dateline rend="centered"><placeName type="willPlace" ref="#pl-287">Carentan</placeName>
+                    <date type="willDate" when="1914-08-02">3 août 1914</date></dateline>
+                <space quantity="2" unit="lines" dim="vertical"/>
+                <head rend="centered">Ceci est mon testament</head>
+                <space quantity="1" unit="lines" dim="vertical"/>
+                <p>Dans le cas où je viendrais <lb/>à décéder, ayant des enfants, <lb/>je leur <choice><sic>légue ceque</sic><corr>lègue ce que</corr></choice> je pourrais <lb/>posséder, mais ils auraient <lb/>à supporter l’usufruit de <lb/>cette fortune au profit de <lb/>ma chère et bien aimée femme.</p>
+                <p>Si je décédais sans enfants, <lb/>l’usufruit de ma fortune <lb/>entière irait également à <lb/>ma chère petite femme de <lb/>façon à ce qu’elle puisse <lb/>en jouir toute sa vie en <pb facs="#FRAN_Poilus_t-0006_02"/>complète tranquillité<choice><sic/><corr>.</corr></choice></p>
+                <p>L’usufruit passerait ensuite <lb/><choice><sic><surplus>à ma mère </surplus></sic><corr/></choice>- si besoin <lb/>était - à ma mère tant aimée<choice><sic/><corr>.</corr></choice></p>
+                <p>La nue-propriété et la <lb/>jouissance <choice><sic>compléte</sic><corr>complète</corr></choice>, sous <lb/><choice><sic>rèserve</sic><corr>réserve</corr></choice> des usufruits ci-dessus<choice><sic/><corr>,</corr></choice> <lb/><choice><sic>irait</sic><corr>iraient</corr></choice> à ma sœur chérie - <lb/>et à ses enfants si elle venait <lb/>à en avoir.</p>
+                <p>Dans le cas où ma sœur <lb/>décéderait avant ma femme <lb/>et ne laisserait pas d’enfants ; <lb/>ma femme recueillerait <lb/>toute ma succession en complète <lb/>propriété ; je lui demanderais <lb/>seulement d’en laisser à <lb/>sa mort une part importante <lb/>aux pauvres de Carentan<choice><sic/><corr>,</corr></choice> <pb facs="#FRAN_Poilus_t-0006_03"/>spécialement à l’<orgName>hospice de Carentan </orgName> <lb/>qui devrait recevoir en tous cas <lb/>ma petite propriété de <choice><sic>méautis</sic><corr>Méautis</corr></choice> - <lb/>ma sœur agirait de même <lb/>si elle devenait mon héritière<choice><sic/><corr>.</corr></choice></p>
+                <p>Ma femme et ma sœur <lb/>voudraient bien offrir à mes <lb/>bons amis un souvenir de <lb/>moi<choice><sic> -</sic><corr>.</corr></choice></p>
+                <p>Ce testament annule <lb/>ceux que j’aurais pu faire <lb/>précédemment.</p>
+                <dateline rend="centered">Fait à <placeName type="willPlace" ref="#pl-287">Carentan</placeName>, le <lb/><date type="willDate" when="1914-08-03">3 août 1914<choice><sic/><corr>.</corr></choice></date></dateline>
+                <space unit="lines" quantity="1" dim="vertical"/>
+                <signed rend="right"><persName ref="#pers-171">Ed. <surname>Cauville</surname></persName></signed>
+                <pb facs="#FRAN_Poilus_t-0006_04"/>
+                <postscript>
+                    <p>Ma chère maman<choice><sic/><corr>,</corr></choice> <lb/><choice><sic>Ma</sic><corr>ma</corr></choice> chère petite femme<choice><sic/><corr>,</corr></choice> <lb/><choice><sic>Ma</sic><corr>ma</corr></choice> chère <choice><sic>alice</sic><corr>Alice</corr></choice>,</p>
+                    <space unit="lines" quantity="1" dim="vertical"/>
+                    <p>Vous êtes toutes les trois toute <lb/>ma vie, tout mon bonheur. <lb/>Je vous remercie de tout le <lb/>bonheur que vous m’avez <lb/>donné, du plus profond de <lb/>mon cœur qui vous appartenait<choice><sic> ;</sic><corr>.</corr></choice> <lb/>Je vous demande de rester bien <lb/>unies et de vous aimer beaucoup <lb/>en souvenir de moi et de vous <lb/>soutenir mutuellement toutes <lb/>les trois.</p>
+                    <p>Si je meurs, ce sera en pensant à <lb/>vous.</p>
+                    <p>Que Dieu nous ait en sa sainte <lb/>garde et nous réunisse un jour<choice><sic/><corr>.</corr></choice></p>
+                    <signed rend="right">Votre <persName ref="#pers-171"><forename>Edouard</forename></persName> qui <lb/>vous embrasse bien bien fort.</signed>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

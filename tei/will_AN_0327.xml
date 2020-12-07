@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0327">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la
+               Grande Guerre</title><title type="main">[Testament de Paul Georges Gaston Frédéric Viven (6 août 1914)] : édition électronique</title><author><persName ref="#pers-470">Paul Georges Gaston Frédéric Viven
+                  (1881-1915)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+         <editionStmt>
+            <edition>Première édition électronique, fondée sur un travail de transcription
+               collaborative</edition>
+            <respStmt><resp>Numérisation</resp><orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+                        Département de la Conservation. Atelier photographique</orgName></respStmt>
+            <respStmt><resp>Identification et description du testament</resp><persName ref="#RCM">Rosine Cleyet-Michaud</persName><persName ref="#LVieillon">Lucie Vieillon</persName><persName ref="#MLocatelli">Mélisa Locatelli</persName></respStmt>
+            <respStmt><resp>Transcription</resp><persName ref="#lelia">Lélia Picabia</persName><persName ref="#SL.">EG</persName><persName ref="#GBMireille">Mireille Grais-Bruguière</persName><persName ref="#Lamotte">Isabelle Lamotte</persName></respStmt>
+            <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#CNougaret">Christine Nougaret</persName></respStmt>
+            <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+         </editionStmt>
+         <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AN_0327</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="will_AN_0327_tes">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives nationales</institution>
+                  <collection>Minutier central des notaires de Paris</collection>
+                  <idno>MC/ET/XXVII/1224, minute du 22 juin 1915 (dépôt du testament de Paul Georges
+                     Gaston Frédéric Viven)</idno>
+                  <msName>Testament de Paul Georges Gaston Frédéric Viven (6 août 1914)</msName>
+               </msIdentifier>
+               <msContents>
+                  <summary><p><date type="willDate" when="1914-08-06">6 août 1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-470"><forename>Paul</forename> <forename>Georges</forename> <forename>Gaston</forename> <forename>Frédéric</forename> <surname>Viven</surname></persName>,
+                        mort pour la France le <date when="1915-06-09">9 juin 1915</date> à
+                           <placeName ref="#pl-126">Mesnil-les-Hurlus
+                     (Marne)</placeName>.</p></summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>Papier à lettre (testament). Enveloppe cachetée (enveloppe). Papier
+                           à lettre (codicille). </support>
+                        <extent>4 pages et 1 enveloppe. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                              <height>31,2</height>
+                              <width>20</width>
+                           </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                              <height>9,6</height>
+                              <width>12</width>
+                           </dimensions>. Dimensions du codicille : <dimensions type="willCodicil" unit="cm">
+                              <height>31,2</height>
+                              <width>20</width>
+                           </dimensions>.</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <p>Testament : encre. Enveloppe : encre. Codicille : encre.</p>
+                  </handDesc>
+               </physDesc>
+               <history>
+                  <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010154">étude
+                        notariale 27 (CRPCEN : 75111)</orgName></provenance>
+               </history>
+            </msDesc>
+            <msDesc xml:id="will_AN_0327_min">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives nationales</institution>
+                  <collection>Minutier central des notaires de Paris</collection>
+                  <idno>MC/ET/XXVII/1224, minute du 22 juin 1915 (dépôt du testament de Paul Georges
+                     Gaston Frédéric Viven)</idno>
+                  <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                     minute</msName>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation><date type="willDate" when="1914-08-06">6 août 1914</date></creation>
+         <langUsage><language ident="fr">français</language></langUsage>
+         <abstract><p>6 août 1914. Paris.</p><p>testament olographe de Paul Georges Gaston Frédéric Viven,
+                        mort pour la France le 9 juin 1915 à
+                           Mesnil-les-Hurlus
+                     (Marne).</p></abstract>
+         <textClass>
+            <keywords>
+               <term type="subject">Grande Guerre</term>
+               <term type="subject">Poilu</term>
+               <term type="subject">testament</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when-iso="2020-03-04/2020-05-04" who="#lelia #SL. #GBMireille #Lamotte">transcription</change>
+         <change when-iso="2020-03-04/2020-03-31" who="#PCharbonnier #CNougaret">validation</change>
+         <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements et
+            contrôle de qualité finaux</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+      <surface type="will-page" n="01">
+         <graphic url="testament_AN_0327___JPEG___FRAN_Poilus_t-0327_01.jpg" xml:id="FRAN_Poilus_t-0327_01"/>
+      </surface>
+      <surface type="will-page" n="02">
+         <graphic url="testament_AN_0327___JPEG___FRAN_Poilus_t-0327_02.jpg" xml:id="FRAN_Poilus_t-0327_02"/>
+      </surface>
+      <surface type="will-page" n="03">
+         <graphic url="testament_AN_0327___JPEG___FRAN_Poilus_t-0327_03.jpg" xml:id="FRAN_Poilus_t-0327_03"/>
+      </surface>
+      <surface type="codicil-page" n="04">
+         <graphic url="testament_AN_0327___JPEG___FRAN_Poilus_t-0327_04.jpg" xml:id="FRAN_Poilus_t-0327_04"/>
+      </surface>
+      <surface type="will-envelope-verso" n="05">
+         <graphic url="testament_AN_0327___JPEG___FRAN_Poilus_t-0327_05.jpg" xml:id="FRAN_Poilus_t-0327_05"/>
+      </surface>
+      <surface type="will-envelope-verso" n="06">
+         <graphic url="testament_AN_0327___JPEG___FRAN_Poilus_t-0327_06.jpg" xml:id="FRAN_Poilus_t-0327_06"/>
+      </surface>
+   </facsimile>
+   <text xml:id="will_AN_0327">
+      <body>
+         <div type="will">
+            <pb facs="#FRAN_Poilus_t-0327_01"/>
+            <dateline>Ceci est mon testament, entièrement écrit de <lb/>ma main, en toute lucidité
+               d’esprit, <date type="willDate" when="1914-08-06">ce 6
+                        <choice><sic>Août</sic><corr>août</corr></choice> <lb/>mil neuf cent
+                  quatorze</date>.</dateline>
+            <space dim="vertical" unit="lines" quantity="1"/>
+            <p rend="centered">Ma chère <choice><sic>Mère</sic><corr>mère,</corr></choice> <lb/><choice><sic>Ma</sic><corr>ma</corr></choice> chère
+                     <choice><sic>Femme</sic><corr>femme,</corr></choice> <lb/><choice><sic>Mes</sic><corr>mes</corr></choice>
+                     <choice><sic>Enfants</sic><corr>enfants,</corr></choice> adorés, <lb/> 
+            <space dim="vertical" unit="lines" quantity="1"/>
+            <choice><sic>Avant</sic><corr>avant</corr></choice> toutes choses, je vous recommande de rester <lb/>bien unis : j’y vois la
+               condition essentielle de votre bonheur <lb/>et de votre prospérité à tous.</p>
+            <space dim="vertical" unit="lines" quantity="1"/>
+            <p>J’entends que mon avoir soit <hi rend="underlined">partagé également</hi> <lb/>entre
+               mes enfants, en sorte que mon aîné n’ait pas à <lb/>souffrir, dans ce partage, de sa
+               situation d’enfant naturel.</p>
+            <p>Je prie ma <choice><sic>Mère</sic><corr>mère</corr></choice>, sur mon avoir, de payer
+               <lb/>mes dettes dont elle trouvera le relevé dans mon petit <lb/>calepin personnel
+               placé dans mon coffret et qui s’élèvent <lb/>à une quinzaine de mille francs au
+               maximum, si <lb/>je ne me trompe.</p>
+            <p>Qu’elle ne se préoccupe plus des <choice><sic>12.500</sic><corr>12 500</corr></choice> <choice><abbr><hi rend="superscript-underlined">fs</hi></abbr><expan>francs</expan></choice> <lb/>de la <orgName>Banque
+                  Leenhardt</orgName>, ni des 5 000 <choice><abbr><hi rend="superscript-underlined">fs</hi></abbr><expan>francs</expan></choice> prêt
+                  <persName>Philippot</persName>, <lb/>fonds qui ont été employés par moi au
+               règlement d’un <lb/>passif antérieur (ainsi que les 1000 <choice><abbr><hi rend="superscript-underlined">fs</hi></abbr><expan>francs</expan></choice>
+               prêt <persName>Auric</persName>)
+               <choice><sic>=</sic><corr>:</corr></choice> <lb/>c’est pour compenser le manquant de
+               toutes ces sommes <lb/>que j’avais contracté une assurance sur la vie de <choice><sic>25.000</sic><corr>25 000</corr></choice>
+                        <choice><abbr><hi rend="superscript-underlined">fs</hi></abbr><expan>francs</expan></choice>, <lb/>tout en payant à ma mère
+               les intérêts de ces prétendus <lb/>placements.</p>
+            <p>Je prie ma mère de bien vouloir continuer à <lb/>assurer l’existence de la mère de
+               mon fils dont elle <lb/>trouvera l’adresse, avec tous renseignements utiles, dans
+               <lb/>mon coffret : c’est même une obligation formelle que <pb facs="#FRAN_Poilus_t-0327_02"/>j’impose et pour laquelle on prélèvera sur <lb/>mon
+               avoir ou les intérêts de mon avoir une <lb/>somme suffisante qui ne pourra être
+               inférieure à <lb/>cent francs par mois.</p>
+            <p>D’autre part, <app><lem><gap reason="cancelled"/> <metamark function="other" rend="cross"/> <add place="above" type="testatorComment">1 mot rayé <seg type="signature"><persName ref="#pers-470">Viven</persName></seg></add></lem><note resp="#PCharbonnier">Mention "1 mot rayé" ajoutée au-dessus et signée "Viven".</note></app> j’entends que mon
+                     <choice><sic>Fils</sic><corr>fils</corr></choice>
+               <persName>Georges</persName> <lb/>soit exclusivement élevé par ma mère et à son
+               <lb/>défaut, par ma chère <choice><sic>Femme</sic><corr>femme</corr></choice>, qui l’aime
+               comme son <lb/>propre enfant et n’oubliera d’ailleurs jamais les <lb/>devoirs (tels
+               que le droit de visite) qu’elle doit remplir <lb/>vis à vis de la mère de cet enfant
+                     <choice><sic>=</sic><corr>:</corr></choice> celle-ci est une <lb/>brave fille
+                <app><lem> <gap reason="cancelled"/> <metamark function="other" rend="cross"/> <add place="inline" type="testatorComment"> <metamark function="other" rend="cross"/>un mot rayé <seg type="signature"><persName ref="#pers-470">Viven</persName></seg></add></lem><note resp="#PCharbonnier">Mention "un mot rayé" ajoutée et signée "Viven".</note></app>
+               vis à vis de laquelle je demande à ma <lb/>mère et à ma
+                     <choice><sic>Femme</sic><corr>femme</corr></choice> d’avoir d’affectueux
+               ménagements <lb/>qu’elle paraît mériter.</p>
+            <space dim="vertical" unit="lines" quantity="1"/>
+            <p>Je prie enfin ma <choice><sic>Mère</sic><corr>mère</corr></choice> de bien vouloir
+                  <lb/>remettre,<app><lem> <gap reason="cancelled"/> <metamark function="other" rend="cross"/><add place="marginLeft" type="testatorComment"><metamark function="other" rend="cross"/> un mot rayé
+                     <seg type="signature"><persName ref="#pers-470">Viven</persName></seg></add></lem><note resp="#PCharbonnier">Mention "un mot rayé" ajoutée en marge et signée "Viven".</note></app> à
+                     <persName>Mademoiselle <lb/>Marie-Thérèse Laussucq</persName>, 56, Rue La
+               Rouchefoucauld, <lb/>qui m’a aidé dans des circonstances très difficiles <lb/>une
+               somme de cinq mille francs.</p>
+            <space dim="vertical" unit="lines" quantity="1"/>
+            <p><choice><sic>= </sic><corr/></choice>Tout cela fait, je laisse peu de chose,
+               <lb/>hélas ! Je tiens à dire que ce que j’ai dissipé du <lb/>patrimoine qui m’avait
+               été légué <choice><sic><surplus>à moi-même</surplus></sic><corr/></choice><choice><sic>,</sic><corr> ;</corr></choice> je <lb/>l’ai surtout
+               employé dans l’intérêt de ceux qui m’étaient <lb/>chers. Que tous les miens se disent
+               que les plaies d’argent <lb/>ne sont rien si, encore un coup, <hi rend="underlined">l’union</hi> entre les <lb/>membres de la
+                  <choice><sic>Famille</sic><corr>famille</corr></choice> ne subit aucune atteinte et si
+               <lb/>les enfants se soumettent consciencieusement à la loi du <lb/>travail, comme je
+               l’ai fait moi-même de mon mieux.</p>
+            <space dim="vertical" unit="lines" quantity="1"/>
+            <p>J’aurais voulu avoir le temps de leur <lb/>préparer un avenir brillant : j’ai fait
+               tout ce <lb/>que j’ai pu et je les prie, je vous prie tous d<choice><sic>e </sic><corr>’</corr></choice><pb facs="#FRAN_Poilus_t-0327_03"/>en garder un souvenir indulgent et affectueux.</p>
+            <space dim="vertical" unit="lines" quantity="1"/>
+            <signed rend="centered"><persName ref="#pers-470">Paul
+                  <surname>Viven</surname></persName></signed>
+            <space dim="vertical" unit="lines" quantity="3"/>
+            <dateline>Fait à <placeName type="willPlace" ref="#pl-2">Paris</placeName>, avant mon
+               départ pour l’armée, <date type="willDate" when="1914-08-06">ce 6
+                        <choice><sic>Août</sic><corr>août</corr></choice>
+                     1914</date><choice><sic/><corr>.</corr></choice></dateline>
+            <space dim="vertical" unit="lines" quantity="1"/>
+            <signed rend="right"><persName ref="#pers-470"><surname>Viven</surname></persName></signed>
+         </div>
+         <div type="codicil">
+            <pb facs="#FRAN_Poilus_t-0327_04"/>
+            <head><hi rend="underlined">Codicille</hi></head>
+            <space dim="vertical" unit="lines" quantity="1"/>
+            <p>Je prie mes vieux et chers <choice><sic>Amis</sic><corr>amis</corr></choice>
+                  <persName>Henry Loubers</persName> et <lb/><persName>Jean Philippot</persName>
+               d’être respectivement les <choice><sic>Tuteurs</sic><corr>tuteurs</corr></choice> de
+               <lb/>mon <choice><sic>Fils</sic><corr>fils</corr></choice> et de ma
+               <choice><sic>Fille</sic><corr>fille</corr></choice>. <choice><sic>A</sic><corr>À</corr></choice> leur défaut, j’adresse
+               <lb/>la même prière, dans cet ordre, à mes
+               <choice><sic>Amis</sic><corr>amis</corr></choice> <lb/><persName>Henri
+                  Robillon</persName>, <persName>Albert Ulmer</persName>, <persName>Gabriel Le
+                  Ber</persName>, <persName>André <lb/>Bonnet</persName>, en qui j’ai la plus
+               affectueuse confiance et <lb/>que, par avance, je remercie en leur recommandant mes
+               <lb/><choice><sic>Enfants</sic><corr>enfants</corr></choice> de toute mon âme.</p>
+            <p>Je prie ma <choice><sic>Mère</sic><corr>mère</corr></choice> et ma
+               <choice><sic>Femme</sic><corr>femme</corr></choice> de choisir pour <lb/>les
+               tuteurs de mes <choice><sic>Enfants</sic><corr>enfants</corr></choice> parmi nos bijoux,
+               livres, etc. <lb/>un souvenir
+               qui ne soit pas trop indigne d’eux<choice><sic/><corr>.</corr></choice></p>
+            <space dim="vertical" unit="lines" quantity="1"/>
+            <dateline rend="right"><date type="codicilDate" when="1914-08-06">6
+               <choice><sic>Août</sic><corr>août</corr></choice>
+                     1914</date><choice><sic/><corr>.</corr></choice></dateline>
+            <space dim="vertical" unit="lines" quantity="1"/>
+            <signed rend="right"><persName ref="#pers-470">Paul
+               <surname>Viven</surname></persName></signed>
+         </div>
+         <div type="envelope">
+            <pb facs="#FRAN_Poilus_t-0327_05"/>
+            <p rend="centered">À n’ouvrir que si je ne rentre
+                  pas<choice><sic/><corr>.</corr></choice></p>
+            <dateline rend="right"><date type="willDate" when="1914-08-06"/>6
+               <choice><sic>Août</sic><corr>août</corr></choice> 1914 </dateline>
+            <signed rend="right"><persName ref="#pers-470">Paul
+               <surname>Viven</surname></persName></signed>
+            <pb facs="#FRAN_Poilus_t-0327_06"/>
+            <signed><hi rend="underlined"><persName ref="#pers-470">Paul
+                     <surname>Viven</surname></persName></hi></signed>
+            <space dim="vertical" unit="lines" quantity="4"/>
+            <signed><hi rend="underlined"><persName ref="#pers-470">Paul
+                     <surname>Viven</surname></persName></hi></signed>
+         </div>
+      </body>
+   </text>
+</TEI>

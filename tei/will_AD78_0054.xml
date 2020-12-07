@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0054">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Gabriel Alexis Bouland (7 mars 1915)] : édition électronique</title><author><persName ref="#pers-52">Gabriel Alexis Bouland
+                    (1879-1916)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#TR">Thierry Rihouey</persName><persName ref="#FAuriau">Françoise Auriau</persName><persName ref="#SBlanchard">Sophie Blanchard</persName><persName ref="#MDeuve">Mathilde Deuve</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#DMichel">DMichel</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#EdChamps">Emmanuelle de Champs</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0054</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0054_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E44 998, minute du 10 avril 1916 (dépôt du testament de Gabriel
+                            Alexis Bouland)</idno>
+                        <msName>Testament de Gabriel Alexis Bouland (7 mars 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1915-03-07">7 mars 1915</date>.
+                                    <placeName type="willPlace" ref="#pl-102">Proyart</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-52"><forename>Gabriel</forename> <forename>Alexis</forename> <surname>Bouland</surname></persName>,
+                                mort pour la France le <date when="1916-03-02">2 mars 1916</date> à
+                                    <placeName ref="#pl-101">Somme - Suippe
+                            (Marne)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier commercial (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>17,5</height>
+                                        <width>12</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre violette.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de Versailles, étude
+                            Gayot</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0054_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E44 998, minute du 10 avril 1916 (dépôt du testament de Gabriel
+                            Alexis Bouland)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-03-07">7 mars 1915</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>7 mars 1915.
+                                    Proyart.</p><p>testament
+                                    olographe de Gabriel Alexis Bouland,
+                                mort pour la France le 2 mars 1916 à
+                                    Somme - Suippe
+                            (Marne).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-03-26" who="#SL. #lelia #DMichel">transcription</change>
+            <change when-iso="2018-01-24/2018-03-22" who="#PCharbonnier #EdChamps ">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0054___JPEG___FRAD78_Poilus_t-0054_01.jpg" xml:id="FRAD78_Poilus_t-0054_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0054">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0054_01"/>
+                <p>Ceci est mon testament <lb/>qui révoque toute disposition <lb/> antérieure<choice><sic> :</sic><corr>.</corr></choice></p>
+                <p>Je soussigné <persName ref="#pers-52">Gabriel
+                        <surname>Bouland</surname></persName><lb/><choice><sic> Lieutenant</sic><corr>,
+                            lieutenant</corr></choice> au <orgName ref="#o-11">17<hi rend="superscript-underlined">e</hi>
+                                d’<choice><sic>Infanterie</sic><corr>infanterie</corr></choice> <lb/><choice><sic>Territoriale</sic><corr>territoriale</corr></choice></orgName>
+                    donne et lègue <lb/>à ma femme, née <persName>Marguerite <lb/>Acker</persName>,
+                    tout ce dont la loi <lb/>me permet et me permettra <lb/>la disposition en sa
+                    faveur <lb/>tant en toute propriété <lb/>qu’en usufruit.</p>
+                <p>Et pour jouir de l’usufruit <lb/>auquel elle pourrait avoir <lb/>ainsi droit, je
+                    déclare la <lb/>dispenser de fournir caution <lb/>et de faire
+                            emploi<choice><sic/><corr>.</corr></choice></p>
+                <dateline>Fait à <placeName type="willPlace" ref="#pl-102">Proyart
+                        (Somme)</placeName>, le <lb/><date type="willDate" when="1915-03-07"><choice><sic>Sept Mars</sic><corr>sept mars</corr></choice> mil
+                        neuf cent quinze</date><choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="centered"><persName ref="#pers-52">Gabriel
+                        <surname>Bouland</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD95_0018">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Paul Herbaut (2 août 1914)] : édition électronique</title><author><persName ref="#pers-412">Paul Herbaut (1877-1916)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#TP">Tiffanie Pitot</persName><persName ref="#ELL">Emilie Laffitte-Louisou</persName><persName ref="#SD">Sophie Delinge</persName><persName ref="#TO">Thomas Olivier</persName><persName ref="#SDechavanne">Sylvie Dechavanne</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#GBMireille">Mireille Grais-Bruguière</persName><persName ref="#SL.">EG</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD95_0018</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD95_0018_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales du Val-d’Oise</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>2E25 562, minute du 9 décembre 1916 (dépôt du testament de Paul
+                            Herbaut)</idno>
+                        <msName>Testament de Paul Herbaut (2 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-02">2 août 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-643">Frépillon</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-412"><forename source="#will_AD95_0018_tes ">Paul</forename> <forename source="#MDH #AS">Paul-Émile-Élie</forename> <surname>Herbaut</surname></persName>,
+                                mort pour la France le <date when="1916-01-09" source="#MDH #AS">9
+                                    janvier 1916 [MDH] [AS] | neuf janvier mil neuf cent seize
+                                    [AS]</date> à <placeName ref="#pl-58" source="#MDH #AS">Massiges
+                                    (Marnes) [MDH] [AS] | Maisons de champagne commune de Massiges
+                                    (Marne)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier ivoire timbré réglé (testament). Ivoire (enveloppe). </support>
+                                <extent>1 page et 1 enveloppe. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>17,8</height>
+                                        <width>24,9</width>
+                                    </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                                        <height>11</height>
+                                        <width>14,5</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Enveloppe : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>Bastidé Taverny</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD95_0018_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales du Val-d’Oise</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>2E25 562, minute du 9 décembre 1916 (dépôt du testament de Paul
+                            Herbaut)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-02">2 août 1914</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>2 août 1914.
+                                    Frépillon.</p><p>testament
+                                    olographe de Paul Paul-Émile-Élie Herbaut,
+                                mort pour la France le 9
+                                    janvier 1916 [MDH] [AS] | neuf janvier mil neuf cent seize
+                                    [AS] à Massiges
+                                    (Marnes) [MDH] [AS] | Maisons de champagne commune de Massiges
+                                    (Marne).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-10-09/2020-03-18" who="#MFGarreau #GBMireille #SL.">transcription</change>
+            <change when-iso="2019-10-09/2019-12-17" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD95_0018___JPEG___FRAD95_Poilus_t-0018_01.jpg" xml:id="FRAD95_Poilus_t-0018_01"/>
+        </surface>
+        <surface type="will-envelope-recto" n="02">
+            <graphic url="testament_AD95_0018___JPEG___FRAD95_Poilus_t-0018_02.jpg" xml:id="FRAD95_Poilus_t-0018_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD95_0018">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD95_Poilus_t-0018_01"/>
+                <head rend="centered">Ceci est mon testament</head>
+                <p><choice><sic>A</sic><corr>À</corr></choice> ma mort je <choice><sic>legue</sic><corr>lègue</corr></choice> tout
+                            <lb/><choice><sic>a</sic><corr>à</corr></choice> ma
+                            femme née <persName>Fantine
+                                <lb/>Tison</persName><choice><sic/><corr>,</corr></choice> <date type="otherDate" when="1881-06-02">le deux
+                                <choice><sic>Juin</sic><corr>juin</corr></choice> mille huit <lb/>cent
+                                quatre<choice><sic> vingt
+                        </sic><corr>-vingt-</corr></choice>un</date><choice><sic/><corr> :</corr></choice> <lb/><choice><sic>Argent
+                            propriétées meuble etc</sic><corr>argent, propriété, meubles,
+                            etc.</corr></choice> <lb/>ainsi que tout bien de
+                            <choice><sic>communautes</sic><corr>la communauté.</corr></choice></p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <dateline rend="centered">Fait à <placeName type="willPlace" ref="#pl-643">Frépillon</placeName> <lb/><date type="willDate" when="1914-08-02">le deux
+                                <choice><sic>Aout diz neuf</sic><corr>août dix-neuf</corr></choice> 
+                        <lb/>cent quatorze</date><choice><sic/><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="centered"><persName ref="#pers-412"><surname>Herbaut</surname>
+                        Paul</persName></signed>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAD95_Poilus_t-0018_02"/>
+                <p rend="centered"><choice><sic>A</sic><corr>À</corr></choice> ouvrir <choice><sic>apres</sic><corr>après</corr></choice> <lb/>ma
+                            mort<choice><sic/><corr>.</corr></choice></p>
+                <signed rend="centered"><persName ref="#pers-412"><surname>Herbaut</surname>
+                        Paul</persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

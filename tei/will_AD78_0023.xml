@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0023">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Gabriel Louis Lambert (25 septembre 1909)] : édition électronique</title><author><persName ref="#pers-22">Gabriel Louis Lambert
+                    (1883-1916)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#MR">Michel Renard</persName><persName ref="#SBlanchard">Sophie Blanchard</persName><persName ref="#MDeuve">Mathilde Deuve</persName><persName ref="#FAuriau">Françoise Auriau</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#LBIsabelle">LBIsabelle</persName><persName ref="#MIna">MIna</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#EdChamps">Emmanuelle de Champs</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0023</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0023_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E27 983, minute du 1 mars 1921 (dépôt du testament de Gabriel Louis
+                            Lambert)</idno>
+                        <msName>Testament de Gabriel Louis Lambert (25 septembre 1909)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1909-09-25">25 septembre
+                                1909</date>. <placeName type="willPlace" ref="#pl-47">Meulan</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-22"><forename>Gabriel</forename> <forename>Louis</forename> <surname>Lambert</surname></persName>, mort
+                                pour la France le <date when="1916-04-13">13 avril 1916</date> à
+                                    l’<placeName ref="#pl-48">Hôpital de Compiègne,
+                                    Royallieu</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de Meulan, étude
+                            Pousset</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0023_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E27 983, minute du 1 mars 1921 (dépôt du testament de Gabriel Louis
+                            Lambert)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1909-09-25">25 septembre 1909</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>25 septembre
+                                1909. Meulan.</p><p>testament
+                                    olographe de Gabriel Louis Lambert, mort
+                                pour la France le 13 avril 1916 à
+                                    l’Hôpital de Compiègne,
+                                    Royallieu.</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-03-23" who="#SL. #LBIsabelle #MIna">transcription</change>
+            <change when-iso="2018-01-24/2018-03-23" who="#PCharbonnier #EdChamps ">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0023___JPEG___FRAD78_Poilus_t-0023_01.jpg" xml:id="FRAD78_Poilus_t-0023_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0023">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0023_01"/>
+                <head>Ceci est mon
+                    <choice><sic>Testament</sic><corr>testament</corr></choice></head>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Je donne et lègue
+                    <choice><sic>a</sic><corr>à</corr></choice> <persName>Madame <lb/>Denise <surname>Violet</surname></persName><choice><sic/><corr>,</corr></choice> ma mère<choice><sic/><corr>,</corr></choice>
+                            <choice><sic>Veuve</sic><corr>veuve</corr></choice> <lb/>Louis Eleonore
+                    Lambert<choice><sic/><corr>,</corr></choice> tous les <lb/>biens meubles et immeubles
+                            qui <lb/><choice><sic>m’appartiendrons</sic><corr>m’appartiendront</corr></choice>
+                    au jour de mon <lb/>décès sans aucune
+                            <choice><sic>exeption</sic><corr>exception</corr></choice>,
+                            en <lb/><choice><sic>consequence</sic><corr>conséquence</corr></choice> je
+                            l’institue pour <lb/>ma légataire universelle en <lb/>toute propriété.</p>
+                <p>Je <choice><sic>revoque tous testaments</sic><corr>révoque tout
+                        testament</corr></choice> <lb/><choice><sic>antérieurs</sic><corr>antérieur</corr></choice>.</p>
+                <dateline>Fait et <choice><sic>ecrit</sic><corr>écrit</corr></choice> de ma main
+                            <lb/><choice><sic>a</sic><corr>à</corr></choice> <placeName type="willPlace" ref="#pl-47">Meulan</placeName> <date type="willDate" when="1909-09-25">le 25 septembre <lb/>1909</date>.</dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="right"><persName ref="#pers-22">Gabriel
+                        <surname>Lambert</surname></persName>.</signed>
+            </div>
+        </body>
+    </text>
+</TEI>

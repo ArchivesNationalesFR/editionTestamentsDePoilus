@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD95_0002">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Paul Delabrousse (12 août 1914)] : édition électronique</title><author><persName ref="#pers-397">Paul Delabrousse (1877-1917)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#AP">Anais Pontoparia</persName><persName ref="#KSifakis">Konstantinos Sifakis</persName><persName ref="#SD">Sophie Delinge</persName><persName ref="#TO">Thomas Olivier</persName><persName ref="#SDechavanne">Sylvie Dechavanne</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#SophieBB">SophieBB</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#SDechavanne">Sylvie Dechavanne</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD95_0002</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD95_0002_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales du Val-d’Oise</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>2E24 189, minute du 11 septembre 1917 (dépôt du testament de Paul
+                            Delabrousse)</idno>
+                        <msName>Testament de Paul Delabrousse (12 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-12">12 août 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-621">Beaumont-sur-Oise</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-397"><forename>Paul</forename> <surname>Delabrousse</surname></persName>,
+                                mort pour la France le <date when="1917-05-24" source="#will_AD95_0002_min #MDH #AS">24 mai 1917 [NOT] [MDH]
+                                    [AS]</date> à <placeName ref="#pl-622" source="#will_AD95_0002_min #MDH #AS">Moronvilliers (Marne)
+                                    [NOT] [MDH] [AS]</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré ivoire (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>17,8</height>
+                                        <width>24,9</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>Vernat Beaumont-sur-Oise 2</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD95_0002_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales du Val-d’Oise</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>2E24 189, minute du 11 septembre 1917 (dépôt du testament de Paul
+                            Delabrousse)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-12">12 août 1914</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>12 août 1914.
+                                    Beaumont-sur-Oise.</p><p>testament olographe de Paul Delabrousse,
+                                mort pour la France le 24 mai 1917 [NOT] [MDH]
+                                    [AS] à Moronvilliers (Marne)
+                                    [NOT] [MDH] [AS].</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-10-09/2020-03-04" who="#MFGarreau #SophieBB">transcription</change>
+            <change when-iso="2019-10-09/2019-11-06" who="#PCharbonnier #Dechavanne">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD95_0002___JPEG___FRAD95_Poilus_t-0002_01.jpg" xml:id="FRAD95_Poilus_t-0002_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD95_0002">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD95_Poilus_t-0002_01"/>
+                <head rend="centered">Ceci est mon testament</head>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Je soussigné<choice><sic> :</sic><corr/></choice> <persName ref="#pers-397">Paul
+                    <surname>Delabrousse</surname></persName><choice><sic/><corr>,</corr></choice>
+                    <lb/>ouvrier en tapis demeurant <lb/>rue Pasteur <choice><abbr>n<hi rend="superscript-double-underlined">o</hi></abbr><expan>numéro</expan></choice> 24 à <placeName type="willAuthorResidence" ref="#pl-621"><choice><sic>Beaumont <lb/>sur Oise</sic><corr>Beaumont-<lb/>sur-Oise</corr></choice></placeName><choice><sic/><corr>,</corr></choice>
+                    <choice><sic>Seine et Oise</sic><corr>Seine-et-Oise</corr></choice><choice><sic/><corr>,</corr></choice>
+                    <lb/><choice><sic>ait</sic><corr>ai</corr></choice> fait mon testament ainsi
+                    <lb/>qu’il suit<choice><sic> :</sic><corr>.</corr></choice> <lb/>J’institue pour ma légataire <lb/>universelle, la dame
+                        <persName>Juliette <lb/>Aline Barras</persName>, mon épouse, <lb/>demeurant
+                    avec moi à <lb/><placeName type="willAuthorResidence" ref="#pl-621"> <choice><sic>Beaumont sur Oise</sic><corr>Beaumont-sur-Oise</corr></choice></placeName>. <lb/>Pour par elle jouir
+                    et disposer <lb/>de tous les biens qui composeront <lb/>ma succession, en pleine
+                    et <lb/>absolue propriété, à compter <lb/>du jour de mon décès, sans <lb/>aucune
+                    exception ni réserves.</p>
+                <dateline>Fait, écrit, daté et signé en <lb/>entier de ma main, à <lb/><placeName type="willPlace" ref="#pl-621"><choice><sic>Beaumont sur Oise</sic><corr>Beaumont-sur-Oise</corr></choice></placeName>, <date type="willDate" when="1914-08-02">le deux <lb/><choice><sic>Aout
+                                </sic><corr>août</corr></choice> mil neuf cent quatorze</date>.</dateline>
+                <signed rend="left"><persName ref="#pers-397">Paul
+                        <surname>Delabrousse</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

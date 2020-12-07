@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD95_0038">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Maurice Delcourt (2 août 1914)] : édition électronique</title><author><persName ref="#pers-432">Maurice Delcourt (1877-1916)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#PCB">Paul Cazin-Bernier</persName><persName ref="#VLemee">Valérie Lemée</persName><persName ref="#SD">Sophie Delinge</persName><persName ref="#TO">Thomas Olivier</persName><persName ref="#SDechavanne">Sylvie Dechavanne</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#GBMireille">Mireille Grais-Bruguière</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#SL.">EG</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#SDechavanne">Sylvie Dechavanne</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD95_0038</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD95_0038_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales du Val-d’Oise</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>2E36 687, minute du 2 février 1921 (dépôt du testament de Maurice
+                            Delcourt)</idno>
+                        <msName>Testament de Maurice Delcourt (2 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-02">2 août 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-676">Genainville</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-432"><forename source="#will_AD95_0038_tes #will_AD95_0038_min #MDH #AS">Maurice</forename> <forename source="#MDH #AS">Aimé</forename> <forename source="#MDH #AS">Léon</forename> <forename source="#MDH #AS">Emile</forename> <surname>Delcourt</surname></persName>, mort
+                                pour la France le <date when="1916-12-29" source="#will_AD95_0038_min #MDH #AS">vingt neuf décembre mil
+                                    neuf cent seize [NOT] | 29 décembre 1916 [MDH] [AS]</date> à
+                                    <placeName ref="#pl-105" source="#will_AD95_0038_min #AS #MDH">Au Mort Homme [NOT] [AS] | Le Mort Homme Chattancourt Meuse
+                                    [MDH] | Mort Homme Chattancourt [AS]</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Carton polychrome (testament). Enveloppe rouge (enveloppe). </support>
+                                <extent>2 pages et 1 enveloppe. Dimensions du testament :
+                                        <dimensions type="willPage" unit="cm">
+                                        <height>10,6</height>
+                                        <width>15,5</width>
+                                    </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                                        <height>12,5</height>
+                                        <width>15,6</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Enveloppe : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName> Eugène Ladevie Magny-en-Vexin 2</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD95_0038_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales du Val-d’Oise</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>2E36 687, minute du 2 février 1921 (dépôt du testament de Maurice
+                            Delcourt)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-02">2 août 1914</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>2 août 1914.
+                                    Genainville.</p><p>testament
+                                    olographe de Maurice Aimé Léon Emile Delcourt, mort
+                                pour la France le vingt neuf décembre mil
+                                    neuf cent seize [NOT] | 29 décembre 1916 [MDH] [AS] à
+                                    Au Mort Homme [NOT] [AS] | Le Mort Homme Chattancourt Meuse
+                                    [MDH] | Mort Homme Chattancourt [AS].</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-10-09/2020-03-26" who="#MFGarreau #GBMireille #lelia #SL.">transcription</change>
+            <change when-iso="2019-10-09/2019-10-28" who="#PCharbonnier #Dechavanne">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD95_0038___JPEG___FRAD95_Poilus_t-0038_01.jpg" xml:id="FRAD95_Poilus_t-0038_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AD95_0038___JPEG___FRAD95_Poilus_t-0038_02.jpg" xml:id="FRAD95_Poilus_t-0038_02"/>
+        </surface>
+        <surface type="will-envelope-recto" n="03">
+            <graphic url="testament_AD95_0038___JPEG___FRAD95_Poilus_t-0038_03.jpg" xml:id="FRAD95_Poilus_t-0038_03"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD95_0038">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD95_Poilus_t-0038_01"/>
+                <head><app><lem><choice><sic>- </sic><corr/></choice>Ceci est mon testament :</lem><note resp="#PCharbonnier">Le texte du testament figure sur le verso de la
+                    carte du cabaret du Chat noir. Sur le recto ne figurent que des mentions du
+                    juge ou du notaire qui n’ont pas été transcrites.</note></app></head>
+                <p>Je lègue la totalité de <lb/>mes biens meubles et <lb/>immeubles, sous réserve
+                    <lb/>des exceptions qui peuvent <lb/>être soulevées par
+                                <persName><choice><abbr>m.</abbr><expan>Monsieur</expan></choice>
+                        Manzi</persName>, <lb/>15 rue de
+                    <choice><sic>La</sic><corr>la</corr></choice>
+                        Ville<choice><sic/><corr>-</corr></choice>l’Evêque, <lb/><placeName type="otherPlace" ref="#pl-2">Paris</placeName>, au sujet de mes
+                    <lb/>oeuvres peintes qui se trouvent <lb/>être sa propriété et encore <lb/>en ma
+                    possession, à ma <lb/>femme,
+                    <persName><choice><sic>Eugenie</sic><corr>Eugénie</corr></choice> Delcourt,
+                        <lb/>née Gérard</persName>, et à son <lb/>défaut, à ma tante
+                    <persName><choice><sic>Adélaï-<lb/>de</sic><corr>Adélaï<lb break="no"/>de</corr></choice> Delcourt, née Baulard</persName>.</p>
+                <p>Je désire que mon ami <persName><choice><sic>Clement</sic><corr>Clément</corr></choice>
+                        Janin</persName>, <lb/>chef de
+                    <choice><sic>Bureau</sic><corr>bureau</corr></choice> au
+                    <orgName><choice><sic>Credit</sic><corr>Crédit</corr></choice>
+                        Foncier</orgName>, <lb/>soit mon exécuteur testamentaire<choice><sic/><corr>.</corr></choice></p>
+                <dateline><choice><sic>- </sic><corr/></choice>Fait à <placeName type="willPlace" ref="#pl-676">Chatnoirville<choice><sic> -</sic><corr>,</corr></choice> Commune
+                        <lb/>de Genainville</placeName>, <date type="willDate" when="1914-08-02">le <choice><sic>Dimanche</sic><corr>dimanche</corr></choice> <lb/>2
+                                <choice><sic>aout</sic><corr>août</corr></choice>
+                            1914</date><choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="centered"><persName ref="#pers-432">Maurice
+                            <surname>Delcourt</surname></persName></signed>
+                <pb facs="#FRAD95_Poilus_t-0038_02"/>
+                
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAD95_Poilus_t-0038_03"/>
+                <p><choice><sic>à</sic><corr>À</corr></choice> ouvrir par
+                                    <persName><choice><abbr>M<hi rend="superscript-double-underlined">e</hi></abbr><expan>maître</expan></choice>
+                    Ladevie</persName> <lb/>en cas de décès de <lb/><persName>Maurice</persName> ou
+                    de <persName>Eugénie <lb/>Delcourt</persName>, propriétaires à <placeName type="willAuthorResidence" ref="#pl-676">Genainville<lb/>-en-Vexin</placeName> (Seine-et-Oise), <lb/>en présence de
+                    <choice><abbr>m.</abbr><expan>Monsieur</expan></choice> <persName><choice><sic>Clement</sic><corr>Clément</corr></choice>
+                        Janin</persName>, chef <lb/>de
+                    <choice><sic>Bureau</sic><corr>bureau</corr></choice> au <orgName>Crédit
+                        Foncier</orgName>.</p>
+                <signed rend="centered"><persName ref="#pers-432">M.
+                        <surname>Delcourt</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

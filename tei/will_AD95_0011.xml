@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD95_0011">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la
+          Grande Guerre</title><title type="main">[Testament de Léon Georges Joseph Malatrait (1 août 1914)] : édition électronique</title><author><persName ref="#pers-405">Léon Georges Joseph Malatrait
+          (1886-1916)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+      <editionStmt>
+        <edition>Première édition électronique, fondée sur un travail de transcription
+          collaborative</edition>
+        <respStmt><resp>Numérisation</resp><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></respStmt>
+        <respStmt><resp>Identification et description du testament</resp><persName ref="#AMangeot">Antoine Mangeot</persName><persName ref="#CSalmon">Chloé Salmon</persName><persName ref="#SD">Sophie Delinge</persName><persName ref="#TO">Thomas Olivier</persName><persName ref="#SDechavanne">Sylvie Dechavanne</persName></respStmt>
+        <respStmt><resp>Transcription</resp><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#SL.">EG</persName><persName ref="#GBMireille">Mireille Grais-Bruguière</persName></respStmt>
+        <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+        <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+      </editionStmt>
+      <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD95_0011</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="will_AD95_0011_tes">
+          <msIdentifier>
+            <country>France</country>
+            <institution>Archives départementales du Val-d’Oise</institution>
+            <collection>Archives notariales</collection>
+            <idno>2E4 573, minute du 25 octobre 1916 (dépôt du testament de Léon Georges Joseph
+              Malatrait)</idno>
+            <msName>Testament de Léon Georges Joseph Malatrait (1 août 1914)</msName>
+          </msIdentifier>
+          <msContents>
+            <summary><p><date type="willDate" when="1914-08-01">1 août 1914</date>. <placeName type="willPlace" ref="#pl-632">Saint-Brice-sous-Forêt</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-405"><forename source="#will_AD95_0011_min #AS #will_AD95_0011_tes">Léon</forename> <forename source="#will_AD95_0011_min #AS #MDH">Georges</forename> <forename source="#will_AD95_0011_min #AS #MDH">Joseph</forename> <forename source="#MDH">Louis</forename> <surname>Malatrait</surname></persName>, mort pour la France le
+                  <date when="1916-09-15" source="#will_AD95_0011_min #MDH">quinze septembre mil
+                  neuf cent seize [NOT] | ou le 15 septembre 1916 [MDH]</date> ou le <date when="1916-09-11" source="#AS">11 septembre 1916 [AS]</date> à <placeName ref="#pl-578" source="#will_AD95_0011_min #MDH #AS">Soyécourt (Somme) [NOT] [MDH]
+                  [Soyecourt [AS]</placeName>.</p></summary>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>Papier timbré ivoire (testament). </support>
+                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                    <height>17,8</height>
+                    <width>24,9</width>
+                  </dimensions>.</extent>
+              </supportDesc>
+            </objectDesc>
+            <handDesc>
+              <p>Testament : encre.</p>
+            </handDesc>
+          </physDesc>
+          <history>
+            <provenance><orgName>René Pettré Ecouen</orgName></provenance>
+          </history>
+        </msDesc>
+        <msDesc xml:id="will_AD95_0011_min">
+          <msIdentifier>
+            <country>France</country>
+            <institution>Archives départementales du Val-d’Oise</institution>
+            <collection>Archives notariales</collection>
+            <idno>2E4 573, minute du 25 octobre 1916 (dépôt du testament de Léon Georges Joseph
+              Malatrait)</idno>
+            <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+              minute</msName>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation><date type="willDate" when="1914-08-01">1 août 1914</date></creation>
+      <langUsage><language ident="fr">français</language></langUsage>
+      <abstract><p>1 août 1914. Saint-Brice-sous-Forêt.</p><p>testament olographe de Léon Georges Joseph Louis Malatrait, mort pour la France le
+                  quinze septembre mil
+                  neuf cent seize [NOT] | ou le 15 septembre 1916 [MDH] ou le 11 septembre 1916 [AS] à Soyécourt (Somme) [NOT] [MDH]
+                  [Soyecourt [AS].</p></abstract>
+      <textClass>
+        <keywords>
+          <term type="subject">Grande Guerre</term>
+          <term type="subject">Poilu</term>
+          <term type="subject">testament</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when-iso="2019-10-09/2020-03-20" who="#MFGarreau #lelia #SL. #GBMireille">transcription</change>
+      <change when-iso="2019-10-09/2019-11-05" who="#PCharbonnier">validation</change>
+      <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements et
+        contrôle de qualité finaux</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+    <surface type="will-page" n="01">
+      <graphic url="testament_AD95_0011___JPEG___FRAD95_Poilus_t-0011_01.jpg" xml:id="FRAD95_Poilus_t-0011_01"/>
+    </surface>
+  </facsimile>
+  <text xml:id="will_AD95_0011">
+    <body>
+      <div type="will">
+        <pb facs="#FRAD95_Poilus_t-0011_01"/>
+        <dateline><placeName type="willPlace" ref="#pl-632"><choice><abbr>S<hi rend="superscript-underlined">t</hi> Brice s
+                forêt</abbr><expan>Saint-Brice-sous-Forêt</expan></choice><choice><sic/><corr>,</corr></choice> <choice><abbr>S
+                et O</abbr><expan>Seine-et-Oise</expan></choice></placeName> <lb/><space dim="horizontal" unit="chars" quantity="15"/><date type="willDate" when="1914-08-01">1<hi rend="superscript">er</hi> août 1914</date></dateline>
+        <space dim="vertical" unit="lines" quantity="2"/>
+        <p>Je désire qu’en cas de <choice><sic>decès</sic><corr>décès</corr></choice> <lb/>tout ce
+          que je possède ou qui me <lb/>revient, revienne à ma femme <lb/><persName>Lucie Ernestine
+            Graux femme <lb/>Malatrait</persName><choice><sic/><corr>.</corr></choice></p>
+        <p>Je désire également qu’aucune <lb/>constestation <choice><sic/><corr>ne</corr></choice>
+          lui soit faite <lb/>en aucun cas<choice><sic/><corr>.</corr></choice></p>
+        <dateline><choice><sic>f</sic><corr>F</corr></choice>ait à <placeName type="willPlace" ref="#pl-632"><choice><abbr>S<hi rend="superscript-double-underlined">t</hi>
+                Brice</abbr><expan>Saint-Brice-sous-Forêt</expan></choice></placeName> <lb/><space dim="horizontal" unit="chars" quantity="4"/><date type="willDate" when="1914-08-01">le premier <choice><sic>Août</sic><corr>août</corr></choice> <lb/><space dim="horizontal" unit="chars" quantity="13"/>mil neuf cent
+            quatorze</date><choice><sic/><corr>.</corr></choice></dateline>
+        <signed rend="centered"><persName ref="#pers-405">Léon
+            <surname>Malatrait</surname></persName></signed>
+      </div>
+    </body>
+  </text>
+</TEI>

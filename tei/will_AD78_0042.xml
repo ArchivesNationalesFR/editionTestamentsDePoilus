@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0042">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Henri René Auguste Simon (30 juillet 1914)] : édition électronique</title><author><persName ref="#pers-40">Henri René Auguste Simon
+                    (1892-1914)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#TR">Thierry Rihouey</persName><persName ref="#FAuriau">Françoise Auriau</persName><persName ref="#SBlanchard">Sophie Blanchard</persName><persName ref="#MDeuve">Mathilde Deuve</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#lelia">Lélia Picabia</persName><persName ref="#ALemoine">Aurélie Lemoine</persName><persName ref="#GLEMOINE">GLEMOINE</persName><persName ref="#laplume25">laplume25</persName><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#Adèle">Adèle</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#EdChamps">Emmanuelle de Champs</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0042</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0042_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E44 989, minute du 30 novembre 1914 (dépôt du testament de Henri René
+                            Auguste Simon)</idno>
+                        <msName>Testament de Henri René Auguste Simon (30 juillet 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-07-30">30 juillet 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-35">Versailles</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-40"><forename>Henri</forename> <forename>René</forename> <forename>Auguste</forename> <surname>Simon</surname></persName>, mort
+                                pour la France le <date when="1914-09-27">27 septembre 1914</date> à
+                                    <placeName ref="#pl-87">Castres</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier commercial quadrillé (testament). Enveloppe
+                                    commerciale (enveloppe). </support>
+                                <extent>1 page et 1 enveloppe. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>17,5</height>
+                                        <width>11,3</width>
+                                    </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                                        <height>9</height>
+                                        <width>12,2</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Enveloppe : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de Versailles, étude
+                            Gayot</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0042_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E44 989, minute du 30 novembre 1914 (dépôt du testament de Henri René
+                            Auguste Simon)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-07-30">30 juillet 1914</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>30 juillet 1914.
+                                    Versailles.</p><p>testament
+                                    olographe de Henri René Auguste Simon, mort
+                                pour la France le 27 septembre 1914 à
+                                    Castres.</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-04-16" who="#lelia #ALemoine #GLEMOINE #laplume25 #MFGarreau #Adèle">transcription</change>
+            <change when-iso="2018-01-24/2018-03-01" who="#PCharbonnier #EdChamps">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-envelope-recto" n="01">
+            <graphic url="testament_AD78_0042___JPEG___FRAD78_Poilus_t-0042_01.jpg" xml:id="FRAD78_Poilus_t-0042_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AD78_0042___JPEG___FRAD78_Poilus_t-0042_02.jpg" xml:id="FRAD78_Poilus_t-0042_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0042">
+        <body>
+            <div type="envelope">
+                <pb facs="#FRAD78_Poilus_t-0042_01"/>
+                <p><address>
+                        <addrLine><persName><choice><abbr>M<hi rend="superscript-underlined">elle</hi></abbr><expan>Mademoiselle</expan></choice>
+                                Yvonne <surname>Drouard</surname></persName></addrLine>
+                        <addrLine>3 Rue Porte de Buc</addrLine>
+                        <addrLine><placeName ref="#pl-35">Versailles</placeName></addrLine>
+                    <addrLine>(<choice><sic>Seine et Oise</sic><corr>Seine-et-Oise</corr></choice>)</addrLine>
+                    </address></p>
+            </div>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0042_02"/>
+                <dateline><placeName type="willPlace" ref="#pl-35">Versailles</placeName> <date type="willDate" when="1914-07-30">le 30
+                                <choice><sic>Juillet</sic><corr>juillet</corr></choice>
+                    1914</date></dateline>
+                <space dim="vertical" unit="lines" quantity="4"/>
+                <head>Ceci est ma dernière volonté.</head>
+                <p>Je donne tout ce qui
+                        m’<choice><sic>appar-<lb/>tiens</sic><corr>appar<lb break="no"/>tient</corr></choice> <choice><sic>sest
+                            a dire</sic><corr>c’est-à-dire</corr></choice> la moitié de
+                            l’<choice><sic>hostel</sic><corr>hôtel</corr></choice> <lb/>du Nord qui
+                    est <choice><sic>située</sic><corr>situé</corr></choice> à <placeName type="otherPlace">Ecommoy</placeName><lb/> et tout ce qui
+                            <choice><sic>reviens</sic><corr>revient</corr></choice> de
+                            mon <lb/><choice><sic>Père a</sic><corr>père à</corr></choice> <choice><abbr>M<hi rend="superscript-underlined">ell</hi></abbr><expan>Mademoiselle</expan></choice> <persName>Yvonne
+                        Drouard</persName> <lb/>habitant 3 <choice><sic>Rue</sic><corr>rue</corr></choice> Porte de Buc
+                        <choice><sic>3</sic><corr/></choice> <lb/><placeName type="otherPlace" ref="#pl-35">Versailles</placeName><choice><sic/><corr>,</corr></choice> ou en cas de
+                            décès <lb/><choice><sic>a</sic><corr>à</corr></choice> son frère habitant
+                    au <lb/>même <choice><sic>numeros</sic><corr>numéro</corr></choice> chez ses
+                            parents<choice><sic/><corr>.</corr></choice></p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <dateline>Fait <date type="willDate" when="1914-07-30">le 30
+                                <choice><sic>Juillet</sic><corr>juillet</corr></choice>
+                    1914.</date> <lb/>Sain de corps et
+                            d’<choice><sic>espris</sic><corr>esprit.</corr></choice></dateline>
+                <signed><persName ref="#pers-40">Henri <surname>Simon</surname></persName></signed> <postscript><p><choice><sic>sapeur</sic><corr>Sapeur</corr></choice> au
+                        <orgName ref="#o-32">1<hi rend="superscript">e</hi> <choice><sic>Genie</sic><corr>Génie</corr></choice> <lb/>compagnie 22/1</orgName>. <placeName type="otherPlace" ref="#pl-35">Versailles</placeName><choice><sic/><corr>.</corr></choice></p></postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0002">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title><title type="main">[Testament de Fernand Marius Paulat (1 août 1914)] : édition électronique</title><author><persName ref="#pers-168">Fernand Marius Paulat (1886-1914)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+                        Département de la Conservation. Atelier photographique</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#MLocatelli">Mélisa Locatelli</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#LBIsabelle">LBIsabelle</persName><persName ref="#SCayeux">SCayeux</persName><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#GLEMOINE">GLEMOINE</persName><persName ref="#alp">alp</persName><persName ref="#havannah">havannah</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#jmorvan">Josselin Morvan</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AN_0002</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0002_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LXIX/1541, minute du 28 juin 1915 (dépôt du testament de Fernand Marius Paulat)</idno>
+                        <msName>Testament de Fernand Marius Paulat (1 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1914-08-01">1 août 1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-168"><forename>Fernand</forename> <forename>Marius</forename> <surname>Paulat</surname></persName>, mort pour la France le <date notBefore="1914-09-06" notAfter="1914-09-08">6, 7 ou 8 septembre 1914</date> au <placeName ref="#pl-231">Combat de Barcy (Seine-et-Marne)</placeName>.</p>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à en-tête commercial (testament). </support>
+                                <extent>2 pages. Dimensions du testament : <dimensions type="willPage" unit="cm"><height>27,5</height><width>21</width></dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010196">étude notariale 069 (CRPCEN : 75007)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0002_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LXIX/1541, minute du 28 juin 1915 (dépôt du testament de Fernand Marius Paulat)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-01">1 août 1914</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>1 août 1914. Paris.</p><p>testament olographe de Fernand Marius Paulat, mort pour la France le 6, 7 ou 8 septembre 1914 au Combat de Barcy (Seine-et-Marne).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-25/2018-04-16" who="#SL. #LBIsabelle #SCayeux #MFGarreau #lelia #GLEMOINE #alp #havannah">transcription</change>
+            <change when-iso="2018-01-25/2018-03-13" who="#PCharbonnier ">validation</change>
+            <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0002___JPEG___FRAN_Poilus_t-0002_01.jpg" xml:id="FRAN_Poilus_t-0002_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0002___JPEG___FRAN_Poilus_t-0002_02.jpg" xml:id="FRAN_Poilus_t-0002_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0002">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0002_01"/>
+                <p> <choice><sic>Aujourd Hui</sic><corr>Aujourd’hui</corr></choice> <date type="willDate" when="1914-08-01"><choice><sic>1 Aout mil-neuf-cent-<lb/>quatorze</sic><corr>1<hi rend="superscript">er</hi> août mil neuf cent quatorze</corr></choice></date>, ayant <choice><sic>consciense</sic><corr>conscience</corr></choice> de moi-même <lb/>je <choice><sic>lêgue</sic><corr>lègue</corr></choice> mon argent liquide, fonds <lb/>de commerce et tout ce qui <choice><sic>peut-etre</sic><corr>peut-être</corr></choice> <lb/>comme fonds de commerce, argent dehors, <lb/>autrement <choice><sic>dis</sic><corr>dit</corr></choice> les clients qui me doivent <lb/>environ <choice><sic>dix-mille-francs</sic><corr>dix mille francs</corr></choice><del>.</del> sans <choice><sic>exageré</sic><corr>exagérer</corr></choice>, <lb/>plus <choice><sic>cinq-mille</sic><corr>cinq mille</corr></choice> francs au <orgName>Comptoir d’<choice><sic><unclear reason="quite-illegible">Escompte</unclear></sic><corr>escompte</corr></choice></orgName> <lb/>et <choice><sic>quatre-mille</sic><corr>quatre mille</corr></choice> francs de marchandises. <lb/>Le fonds étant <choice><sic>achete</sic><corr>acheté</corr></choice> par moi-même <lb/><choice><sic>a</sic><corr>à</corr></choice> <choice><abbr type="superscription">M<hi rend="superscript-underlined">r</hi></abbr><expan>Monsieur</expan></choice> <persName>Paulat</persName> Père = <choice><sic>aux</sic><corr>au</corr></choice> prix de <choice><sic>sept<lb/>-mille</sic><corr>sept mille</corr></choice> francs sur ce que je lui <choice><sic>doit</sic><corr>dois</corr></choice> <lb/>il ne reste que deux <choice><sic>milles</sic><corr>mille</corr></choice> francs X<choice><sic/><corr>.</corr></choice> <lb/>Je lègue mon petit avoir <choice><sic>a</sic><corr>à</corr></choice> <persName>Madame Paulat <lb/>ma femme - Demoiselle <unclear>Lynet</unclear> Férère</persName> - qui <lb/><choice><sic>marie</sic><corr>mariée</corr></choice> m’a <choice><sic>apporte</sic><corr>apporté</corr></choice> comme dot la somme <pb facs="#FRAN_Poilus_t-0002_02"/>de <choice><sic>dix-mille-francs</sic><corr>dix mille francs.</corr></choice></p>
+                <space dim="vertical" quantity="1" unit="lines"/>
+                <dateline rend="centered">Fait <choice><sic>a</sic><corr>à</corr></choice>
+                    <placeName type="willPlace" ref="#pl-2">Paris</placeName> le <date type="willDate" when="1914-08-01"><choice><sic>1 Aout 1914</sic><corr>1<hi rend="superscript">er</hi> août 1914</corr></choice></date>
+                    <lb/>en toute conscience !</dateline>
+                <space dim="vertical" quantity="1" unit="lines"/>
+                <signed rend="centered"><persName ref="#pers-168">Marius <surname>Paulat</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

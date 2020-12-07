@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0054">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la
+               Grande Guerre</title><title type="main">[Testament de Israël Barouh ou Barouch (9 janvier 1917)] : édition électronique</title><author><persName ref="#pers-111">Israël Barouh ou Barouch
+               (1876-1917)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+         <editionStmt>
+            <edition>Première édition électronique, fondée sur un travail de transcription
+               collaborative</edition>
+            <respStmt><resp>Numérisation</resp><orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+                        Département de la Conservation. Atelier photographique</orgName></respStmt>
+            <respStmt><resp>Identification et description du testament</resp><persName ref="#AM">Aurélie Massie</persName><persName ref="#MLocatelli">Mélisa Locatelli</persName></respStmt>
+            <respStmt><resp>Transcription</resp><persName ref="#lelia">Lélia Picabia</persName><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#LBIsabelle">LBIsabelle</persName><persName ref="#SCayeux">SCayeux</persName><persName ref="#alp">alp</persName><persName ref="#SL.">EG</persName></respStmt>
+            <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+         </editionStmt>
+         <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AN_0054</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="will_AN_0054_tes">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives nationales</institution>
+                  <collection>Minutier central des notaires de Paris</collection>
+                  <idno>MC/ET/CXX/1596, minute du 8 janvier 1918 (dépôt du testament de Israël
+                     Barouh ou Barouch)</idno>
+                  <msName>Testament de Israël Barouh ou Barouch (9 janvier 1917)</msName>
+               </msIdentifier>
+               <msContents>
+                  <summary><p><date type="willDate" when="1917-01-09">9 janvier 1917</date>.
+                           <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-111"><forename>Israël</forename> <surname>Barouch</surname></persName>, mort pour la
+                        France le <date when="1917-04-16">16 avril 1917</date> dans le <placeName ref="#pl-37">secteur d’Auberive</placeName>.</p></summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>Papier timbré réglé (testament). </support>
+                        <extent>2 pages. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                              <height>24,9</height>
+                              <width>17,8</width>
+                           </dimensions>.</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <p>Testament : encre.</p>
+                  </handDesc>
+               </physDesc>
+               <history>
+                  <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010247">étude
+                        notariale 120 (CRPCEN : 75100)</orgName></provenance>
+               </history>
+            </msDesc>
+            <msDesc xml:id="will_AN_0054_min">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives nationales</institution>
+                  <collection>Minutier central des notaires de Paris</collection>
+                  <idno>MC/ET/CXX/1596, minute du 8 janvier 1918 (dépôt du testament de Israël
+                     Barouh ou Barouch)</idno>
+                  <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                     minute</msName>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation><date type="willDate" when="1917-01-09">9 janvier 1917</date></creation>
+         <langUsage><language ident="fr">français</language></langUsage>
+         <abstract><p>9 janvier 1917.
+                           Paris.</p><p>testament olographe de Israël Barouch, mort pour la
+                        France le 16 avril 1917 dans le secteur d’Auberive.</p></abstract>
+         <textClass>
+            <keywords>
+               <term type="subject">Grande Guerre</term>
+               <term type="subject">Poilu</term>
+               <term type="subject">testament</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when-iso="2018-01-24/2018-04-05" who="#lelia #MFGarreau #LBIsabelle #SCayeux #alp #SL.">transcription</change>
+         <change when-iso="2018-01-24/2018-04-04" who="#PCharbonnier ">validation</change>
+         <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements et
+            contrôle de qualité finaux</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+      <surface type="will-page" n="01">
+         <graphic url="testament_AN_0054___JPEG___FRAN_Poilus_t-0054_01.jpg" xml:id="FRAN_Poilus_t-0054_01"/>
+      </surface>
+      <surface type="will-page" n="02">
+         <graphic url="testament_AN_0054___JPEG___FRAN_Poilus_t-0054_02.jpg" xml:id="FRAN_Poilus_t-0054_02"/>
+      </surface>
+   </facsimile>
+   <text xml:id="will_AN_0054">
+      <body>
+         <div type="will">
+            <pb facs="#FRAN_Poilus_t-0054_01"/>
+            <head>Ceci est mon testament : </head>
+            <p>Je soussigné <persName ref="#pers-111"><surname>Barouh</surname>
+                     Israël</persName> <choice><sic>entrep-<lb/>reneur</sic><corr>entre<lb break="no"/>preneur</corr></choice>
+               de transports en librairie demeur<add place="above">ant</add> <lb/>à <placeName type="willAuthorResidence" ref="#pl-2">Paris</placeName> rue Malebranche
+                     <choice><sic>numero</sic><corr>numéro</corr></choice>
+                     15, <lb/><choice><sic>Institue</sic><corr>institue</corr></choice> pour mes
+                     <choice><sic>legataires</sic><corr>légataires</corr></choice>
+               <choice><sic>univer-<lb/>selles</sic><corr>univer<lb break="no"/>selles</corr></choice> de tous les biens meubles et <lb/>immeubles qui
+                     <choice><sic>composerait</sic><corr>composeraient</corr></choice> ma
+               <choice><sic>suc-<lb/>cession</sic><corr>suc<lb break="no"/>cession</corr></choice> sans aucune exception
+                     ni <lb/><choice><sic>reserve</sic><corr>réserve</corr></choice>, Mesdemoiselles
+                  <persName>Marguerite</persName> et
+                     <persName>Marcelle</persName><choice><sic/><corr>,</corr></choice> mes deux
+               filles<choice><sic>. <lb/>Pour</sic><corr>, pour</corr></choice> en jouir en toute propriété <lb/>à compter du jour de mon
+                     <choice><sic>decés</sic><corr>décès</corr></choice>.</p>
+            <p>Dans le cas <choice><sic>ou mon décés</sic><corr>où mon décès</corr></choice>
+               <choice><sic>survien-<lb/>drait</sic><corr>survien<lb break="no"/>drait</corr></choice> avant leur majorité, je prie <lb/><persName>Mademoiselle
+                     <surname>Colas</surname> Marguerite</persName><choice><sic> dessinateur</sic><corr>, dessinatrice</corr></choice> <lb/>demeurant à <placeName>Paris</placeName> rue Saint<choice><sic> </sic><corr>-</corr></choice>Jacques <lb/><choice><sic>numero</sic><corr>numéro</corr></choice> 244, d’en
+               accepter la tutelle <lb/><choice><sic>dative</sic><corr>dative,</corr></choice> ne
+               voulant pas que cette tutelle <lb/>soit confiée à aucun membre de ma <lb/>famille ni
+               de celle de leur <choice><sic>defunte</sic><corr>défunte</corr></choice> mère.</p>
+            <p>En <choice><sic>consequence</sic><corr>conséquence</corr></choice> <persName>Mademoiselle <lb/>Colas</persName> sera tutrice dative de mes deux <lb/>filles et se chargera de les
+               élever en <lb/>leur donnant l’instruction et l’éducation <lb/>qu’il y aura.</p>
+            <p>Je désire que ma maison de <lb/>commerce (maison de transports pour <lb/>librairie)
+               ne soit pas vendue avant <lb/>un <choice><sic>delai</sic><corr>délai</corr></choice>
+               d’au moins cinq ans après <lb/>mon
+                  <choice><sic>décés</sic><corr>décès</corr></choice>.</p>
+            <pb facs="#FRAN_Poilus_t-0054_02"/>
+            <p>Pendant ce
+                  <choice><sic>delai</sic><corr>délai</corr></choice> <persName>Mademoiselle <lb/>Colas</persName> en aura l’administration conjoin<lb break="no"/>tement avec mon
+               associé <persName>Monsieur <lb/>Renard</persName>, et si elle juge qu’il y ait
+               utilité <lb/>ou nécessité de procéder à la vente <lb/>dudit fonds<choice><sic/><corr>,</corr></choice> elle pourra en
+               demander <lb/>l’autorisation au Conseil de famille <lb/>de nos filles.</p>
+            <dateline><choice><sic>fait</sic><corr>Fait</corr></choice> et écrit en entier de ma <lb/>main à <placeName type="willPlace" ref="#pl-2">Paris</placeName> <date type="willDate" when="1917-01-09">le neuf
+                  <choice><sic>Janvier</sic><corr>janvier</corr></choice> <lb/>mille neuf cent <choice><sic>Dix Sept</sic><corr>dix-sept</corr></choice></date><choice><sic/><corr>.</corr></choice></dateline>
+            <space quantity="1" unit="lines" dim="vertical"/>
+            <signed><persName ref="#pers-111">I. <surname>Barouch</surname></persName></signed>
+         </div>
+      </body>
+   </text>
+</TEI>

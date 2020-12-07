@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0063">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de François Rebeyrotte (3 août 1914)] : édition électronique</title><author><persName ref="#pers-60">François Rebeyrotte (1884-1916)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#TR">Thierry Rihouey</persName><persName ref="#FAuriau">Françoise Auriau</persName><persName ref="#SBlanchard">Sophie Blanchard</persName><persName ref="#MDeuve">Mathilde Deuve</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#Genea78">Genea78</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#EdChamps">Emmanuelle de Champs</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0063</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0063_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E44 1002, minute du 5 décembre 1916 (dépôt du testament de François
+                            Rebeyrotte)</idno>
+                        <msName>Testament de François Rebeyrotte (3 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-03">3 août 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-35">Versailles</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-60"><forename>François</forename> <surname>Rebeyrotte</surname></persName>,
+                                mort pour la France le <date when="1916-06-13">13 juin 1916</date> à
+                                    <placeName ref="#pl-18">Baleycourt
+                            (Meuse)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre violette.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de Versailles, étude
+                            Gayot</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0063_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E44 1002, minute du 5 décembre 1916 (dépôt du testament de François
+                            Rebeyrotte)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-03">3 août 1914</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>3 août 1914.
+                                    Versailles.</p><p>testament
+                                    olographe de François Rebeyrotte,
+                                mort pour la France le 13 juin 1916 à
+                                    Baleycourt
+                            (Meuse).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-08-21" who="#SL. #Genea78">transcription</change>
+            <change when-iso="2018-01-24/2018-03-30" who="#PCharbonnier #EdChamps ">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0063___JPEG___FRAD78_Poilus_t-0063_01.jpg" xml:id="FRAD78_Poilus_t-0063_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0063">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0063_01"/>
+                <head rend="centered">Ceci est mon testament</head>
+                <p>Je <choice><sic>sous signe</sic><corr>soussigné</corr></choice><persName ref="#pers-60">
+                        <choice><sic>Francois</sic><corr>François</corr></choice>
+                    <surname>Rebeyrotte</surname></persName> <lb/><app><lem><del>institue</del> <add place="marginLeft" type="testatorComment">1 mot rayé nul
+                        <seg type="signature"><persName ref="#pers-60"><choice><sic>Francois</sic><corr>François</corr></choice>
+                            Rebeyrotte</persName></seg></add></lem><note resp="#PCharbonnier">Mention "1 mot rayé nul" ajoutée en marge et
+                                signée par le testateur.</note></app> <choice><sic>
+                            Je</sic><corr/></choice> <choice><sic>legue</sic><corr>lègue</corr></choice>
+                    à ma femme tout <lb/>ce que la loi me permet de lui <lb/>donner en
+                            <choice><sic>Usufruit</sic><corr>usufruit.</corr></choice></p>
+                <dateline><choice><sic>Ecrit</sic><corr>Écrit</corr></choice> en entier de ma main
+                    <lb/>à <placeName type="willPlace" ref="#pl-35">Versailles</placeName>
+                    <date type="willDate" when="1914-08-03">le
+                                <choice><sic><surplus>3</surplus></sic><corr/></choice> trois
+                                <choice><sic>Aout</sic><corr>août</corr></choice>
+                        <lb/>mil neuf cent
+                    quatorze</date><choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="right"><persName ref="#pers-60"><choice><sic>Francois</sic><corr>François</corr></choice>
+                        Rebeyrotte</persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

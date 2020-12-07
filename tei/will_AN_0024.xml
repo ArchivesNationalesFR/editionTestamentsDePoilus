@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0024">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title><title type="main">[Testament de Lucien Beau (2 août 1914)] : édition électronique</title><author><persName ref="#pers-82">Lucien Beau (1885-1915)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+                        Département de la Conservation. Atelier photographique</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#AM">Aurélie Massie</persName><persName ref="#MLocatelli">Mélisa Locatelli</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#LBIsabelle">LBIsabelle</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#ALemoine">Aurélie Lemoine</persName><persName ref="#Jideuxhemme">Jideuxhemme</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#jmorvan">Josselin Morvan</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AN_0024</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0024_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1540, minute du 28 juin 1915 (dépôt du testament de Lucien Beau)</idno>
+                        <msName>Testament de Lucien Beau (2 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1914-08-02">2 août 1914</date>. <placeName type="willPlace" ref="#pl-150">Le Kremlin-Bicêtre</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-82"><forename>Lucien</forename> <surname>Beau</surname></persName>, mort pour la France le <date when="1915-04-25">25 avril 1915</date> au <placeName ref="#pl-151">combat des Eparges</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010247">étude notariale 120 (CRPCEN : 75100)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0024_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1540, minute du 28 juin 1915 (dépôt du testament de Lucien Beau)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-02">2 août 1914</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>2 août 1914. Le Kremlin-Bicêtre.</p><p>testament olographe de Lucien Beau, mort pour la France le 25 avril 1915 au combat des Eparges.</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-05-02" who="#LBIsabelle #lelia #ALemoine #Jideuxhemme">transcription</change>
+            <change when-iso="2018-01-24/2018-03-09" who="#PCharbonnier ">validation</change>
+            <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0024___JPEG___FRAN_Poilus_t-0024_01.jpg" xml:id="FRAN_Poilus_t-0024_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0024">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0024_01"/>
+                <dateline rend="right"><placeName type="willPlace" ref="#pl-150">Bicêtre</placeName> le <date type="willDate" when="1914-08-02">2 <choice><sic>aout</sic><corr>août</corr></choice> 1914</date></dateline>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <p>Je lègue à ma mère<choice><sic/><corr>,</corr></choice> que je considère <lb/>ma seule héritière<choice><sic/><corr>,</corr></choice> tous mes biens présents et futurs. <lb/>Je l’institue ma légataire universelle. <lb/><persName>Madame <choice><sic>Veuve</sic><corr>veuve</corr></choice> Beau</persName><choice><sic/><corr>,</corr></choice> veuve de <persName>Louis Antoine Beau</persName><choice><sic/><corr>,</corr></choice> <lb/>ma mère<choice><sic/><corr>,</corr></choice> <choice><sic>a</sic><corr>à</corr></choice> qui je <choice><sic>legue</sic><corr>lègue</corr></choice> tous mes biens meubles <lb/>et immeubles que je <choice><sic>possederai</sic><corr>possèderai</corr></choice> au jour de mon <choice><sic>decès</sic><corr>décès</corr></choice>. <lb/>Je révoque tout testament antérieur ou préscrit.</p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Je donne à mon ami <persName><surname>Giraud</surname></persName> qui <lb/>fut pour moi le meilleur camarade mon épingle en <lb/>diamant.</p>
+                <p><choice><sic>A</sic><corr>À</corr></choice> mon ami <persName>Rousset</persName> ma <choice><sic>chaine</sic><corr>chaîne</corr></choice> et ma montre <lb/>en or.</p>
+                <p>Je prie ma mère de <choice><sic>considerer</sic><corr>considérer</corr></choice> <persName><choice><sic>madame</sic><corr>Madame</corr></choice> <lb/><surname>Appay</surname></persName> comme une bonne amie et de lui faire <lb/>un cadeau en souvenir de moi.</p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <dateline>Fait au <placeName type="willPlace" ref="#pl-150"><choice><sic>Kremlin Bicetre</sic><corr>Kremlin-Bicêtre</corr></choice></placeName> le <lb/><date type="willDate" when="1914-08-02">deux <choice><sic>Août</sic><corr>août</corr></choice> mille neuf cent quatorze</date>.</dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed><persName ref="#pers-82"><surname>Beau</surname> Lucien</persName><choice><sic/><corr>,</corr></choice> employé à la <orgName>Banque de <lb/>France</orgName><choice><sic/><corr>.</corr></choice></signed>
+                <space quantity="2" unit="lines" dim="vertical"/>
+                <signed rend="centered"><persName ref="#pers-82">L <surname>Beau</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

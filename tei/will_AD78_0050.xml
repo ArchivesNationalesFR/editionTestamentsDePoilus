@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0050">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Marcel André Antonin Fronty (2 mars 1915)] : édition électronique</title><author><persName ref="#pers-48">Marcel André Antonin Fronty
+                    (1891-1915)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#TR">Thierry Rihouey</persName><persName ref="#FAuriau">Françoise Auriau</persName><persName ref="#SBlanchard">Sophie Blanchard</persName><persName ref="#MDeuve">Mathilde Deuve</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#SLespinasse">Suzie Lespinasse</persName><persName ref="#ASJPeronneau">ASJPeronneau</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#EdChamps">Emmanuelle de Champs</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0050</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0050_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E44 996, minute du 9 novembre 1915 (dépôt du testament de Marcel
+                            André Antonin Fronty)</idno>
+                        <msName>Testament de Marcel André Antonin Fronty (2 mars 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1915-03-02">2 mars 1915</date>.
+                                    <placeName type="willPlace" ref="#pl-97">Nevers</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-48"><forename>Marcel</forename> <forename>André</forename> <forename>Antonin</forename> <surname>Fronty</surname></persName>,
+                                mort pour la France le <date when="1915-10-23">23 octobre
+                                    1915</date> à <placeName ref="#pl-96">Tours, hôpital auxiliaire
+                                    n°2 (dit de la Grande Bretèche)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>2 pages. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de Versailles, étude
+                            Gayot</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0050_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E44 996, minute du 9 novembre 1915 (dépôt du testament de Marcel
+                            André Antonin Fronty)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-03-02">2 mars 1915</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>2 mars 1915.
+                                    Nevers.</p><p>testament
+                                    olographe de Marcel André Antonin Fronty,
+                                mort pour la France le 23 octobre
+                                    1915 à Tours, hôpital auxiliaire
+                                    n°2 (dit de la Grande Bretèche).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-03-28" who="#SL. #lelia #MFGarreau #SLespinasse #ASJPeronneau">transcription</change>
+            <change when-iso="2018-01-24/2018-03-27" who="#PCharbonnier #EdChamps ">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0050___JPEG___FRAD78_Poilus_t-0050_01.jpg" xml:id="FRAD78_Poilus_t-0050_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AD78_0050___JPEG___FRAD78_Poilus_t-0050_02.jpg" xml:id="FRAD78_Poilus_t-0050_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0050">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0050_01"/>
+                <dateline rend="right">Lundi</dateline>
+                <space dim="vertical" unit="lines" quantity="1 "/>
+                <head rend="centered">Testament</head>
+                <p>Je <choice><sic>certifies</sic><corr>certifie</corr></choice> moi <persName ref="#pers-48">Marcel <surname>Fronty </surname></persName>
+                    <lb/><choice><sic>Laisser</sic><corr>laisser</corr></choice> la somme de deux
+                            <lb/><choice><sic>milles</sic><corr>mille</corr></choice> francs
+                            <choice><sic>a</sic><corr>à</corr></choice>
+                    <persName>Monsieur Charles <lb/>Fronty</persName>. <add place="inline">Et</add> <choice>
+                        <sic>La</sic><corr>la</corr></choice> somme de
+                            <choice><sic>Deux</sic><corr>deux</corr></choice>
+                    <lb/><choice><sic>Milles a</sic><corr>mille à</corr></choice>
+                    <persName>Monsieur Paul Fronty</persName>
+                    <app>
+                        <lem><add place="below"><choice><sic>à
+                                        alençon</sic><corr>à
+                                    Alençon</corr></choice></add></lem><note resp="#PCharbonnier">La mention ajoutée sous "Paul Fronty" n’est, a
+                            priori, pas autographe.</note></app><lb/><choice><sic>mais Frères</sic><corr>, mes frères</corr></choice>.</p>
+                <p>Je vous <choice><sic>saurais</sic><corr>serais</corr></choice> très
+                            <choice><sic>reconnais-<lb/>sant</sic><corr>reconnais<lb break="no"/>sant</corr></choice>, de
+                            <choice><sic>dèduire</sic><corr>déduire</corr></choice> sur la
+                    <lb/>somme de <choice><sic>Sept cent</sic><corr>sept cents</corr></choice>
+                    francs <lb/><choice><sic>La</sic><corr>la</corr></choice> somme de
+                    <app><lem><choice><sic>Deux dix</sic><corr>vingt</corr></choice></lem><note resp="#PCharbonnier">Il faut probablement comprendre vingt.</note></app> francs<lb/> que
+                    je dois à <persName><choice><abbr>M<hi rend="superscript">me
+                                V</hi></abbr><expan>Madame Veuve</expan></choice>
+                            Fronty</persName><choice><sic/><corr>,</corr></choice>
+                    <lb/>ma <choice><sic>Mère</sic><corr>mère</corr></choice>.</p>
+                <p><choice><sic>En cas ou je saurais blesser</sic><corr>Au cas où je serais
+                            blessé</corr></choice>
+                    <lb/>et <choice><sic>que</sic><corr>où</corr></choice> je mourrais
+                            <choice><sic>a l’Hopi<lb/>tal</sic><corr>à l’hôpi<lb break="no"/>tal</corr></choice>, de me faire transporter à <lb/><placeName type="otherPlace" ref="#pl-35">Versailles</placeName><choice><sic>. Ci
+                            </sic><corr> s’</corr></choice>il est possible,
+                            <choice><sic>si-<lb/>non</sic><corr>si<lb break="no"/>non</corr></choice> me faire enterrer dans la <lb/>ville
+                            <choice><sic>ou</sic><corr>où</corr></choice> je
+                            <choice><sic>mourrais</sic><corr>mourrai</corr></choice>.</p>
+                <p> <choice><sic>En cas, ou</sic><corr>Au cas où</corr></choice> l’un de
+                            <choice><sic>mais</sic><corr>mes</corr></choice>
+                    <lb/><choice><sic>Frères sera</sic><corr>frères serait</corr></choice> mort,
+                            <choice><sic>Je</sic><corr>je</corr></choice> vous prierais <lb/>de
+                    changer mon testament <lb/><choice><sic>c’est a dire.
+                            Donner</sic><corr>c’est-à-dire : donner</corr></choice> la
+                            <lb/><choice><sic>Somme</sic><corr>somme</corr></choice> de trois
+                            <choice><sic>milles Francs</sic><corr>mille francs</corr></choice>
+                    <pb facs="#FRAD78_Poilus_t-0050_02"/><choice><sic>a</sic><corr>à</corr></choice>
+                    celui qui reste.</p>
+                <p>Et la somme de <choice><sic>Milles</sic><corr>mille</corr></choice> francs
+                            <lb/><choice><sic>a</sic><corr>à</corr></choice> partager en deux
+                            <choice><sic>a mon</sic><corr>à mes</corr></choice>
+                    <lb/><choice><sic>Cousin et Cousine</sic><corr>cousin et cousine</corr></choice>
+                    <lb/><persName>Roger</persName> et <persName>Georgette Termoz</persName>.
+                    <lb/>Le reste sera pour vous <lb/> payer de
+                        <choice><sic>se</sic><corr>ce</corr></choice> que je <add place="above">vous</add> dois. <lb/>Ainsi que les
+                            <choice><sic>Frais</sic><corr>frais</corr></choice> de mon
+                    <lb/>enterrement <choice><sic>ci </sic><corr>s’</corr></choice>il est
+                    possible.</p>
+                <space quantity="1" unit="lines" dim="vertical"/>
+                <dateline rend="left">Fait <choice><sic>a</sic><corr>à</corr></choice>
+                    <placeName type="willPlace" ref="#pl-97">Nevers</placeName>
+                    <lb/><date type="willDate" when="1915-03-02"><app>
+                            <lem>Le 2 <choice><sic>Mars</sic><corr>mars</corr></choice> 1915</lem>
+                            <note resp="#PCharbonnier">Le 2 mars 1915 est un mardi, or la 1ère page
+                                indique "Lundi".</note>
+                        </app></date></dateline>
+                <signed rend="right"><persName ref="#pers-48">Marcel
+                        <surname>Fronty</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0062">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title><title type="main">[Testament de Georges Alphonse Henri Michel Aubert (9 août 1914)] : édition électronique</title><author><persName ref="#pers-119">Georges Alphonse Henri Michel Aubert (1885-1918)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+                        Département de la Conservation. Atelier photographique</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#AM">Aurélie Massie</persName><persName ref="#MLocatelli">Mélisa Locatelli</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#MJoya">MJoya</persName><persName ref="#secotine">secotine</persName><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#Rita72">Rita72</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#jmorvan">Josselin Morvan</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AN_0062</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0062_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1611, minute du 21 septembre 1918 (dépôt du testament de Georges Alphonse Henri Michel Aubert)</idno>
+                        <msName>Testament de Georges Alphonse Henri Michel Aubert (9 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1914-08-09">9 août 1914</date>. <placeName type="willPlace" ref="#pl-207">Azay-sur-Cher</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-119"><forename>Georges</forename> <forename>Alphonse</forename> <forename>Henri</forename> <forename>Michel</forename> <surname>Aubert</surname></persName>, mort pour la France le <date when="1918-03-23">23 mars 1918</date> à <placeName ref="#pl-206">Frières (Aisne)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à lettre (testament). </support>
+                                <extent>2 pages. Dimensions du testament : <dimensions type="willPage" unit="cm"><height>17,6</height><width>10,9</width></dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre bleue.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010247">étude notariale 120 (CRPCEN : 75100)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0062_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1611, minute du 21 septembre 1918 (dépôt du testament de Georges Alphonse Henri Michel Aubert)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-09">9 août 1914</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>9 août 1914. Azay-sur-Cher.</p><p>testament olographe de Georges Alphonse Henri Michel Aubert, mort pour la France le 23 mars 1918 à Frières (Aisne).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-04-06" who="#SL. #MJoya #secotine #MFGarreau #Rita72">transcription</change>
+            <change when-iso="2018-01-24/2018-04-06" who="#PCharbonnier ">validation</change>
+            <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0062___JPEG___FRAN_Poilus_t-0062_01.jpg" xml:id="FRAN_Poilus_t-0062_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0062___JPEG___FRAN_Poilus_t-0062_02.jpg" xml:id="FRAN_Poilus_t-0062_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0062">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0062_01"/>
+                <head rend="centered">Ceci est mon <choice><sic>Testament</sic><corr>testament</corr></choice></head>
+                <space dim="horizontal" unit="lines" quantity="2"/>
+                <p>Avant de partir rejoindre <lb/>mon régiment pour partir <lb/>en campagne je laisse ici <lb/>mes dernières volontés.</p>
+                <p>Je donne à ma <choice><sic>Femme</sic><corr>femme</corr></choice> <lb/>née <persName>Léontine <surname>Deviercy</surname></persName><choice><sic> ;</sic><corr/></choice> tout <lb/>ce que je possède sans aucune <lb/>restriction ; je lui lègue également <lb/>mille <choice><sic>Francs prétés</sic><corr>francs prêtés</corr></choice> par moi <lb/>à <persName>Henri <surname>Aubert</surname></persName> et à sa <choice><sic>Fem-<lb/>me</sic><corr>fem<lb break="no"/>me</corr></choice>, née <persName>Augustine<surname> Davoust</surname></persName> ; <lb/>ils devront se conformer, pour <lb/>le remboursement<choice><sic/><corr>,</corr></choice> à ce qui <pb facs="#FRAN_Poilus_t-0062_02"/>a été convenu entre nous. <lb/>Je recommande toutefois à <lb/>ma <choice><sic>Femme,</sic><corr>femme</corr></choice> de ne pas <choice><sic>conter</sic><corr>compter</corr></choice> <lb/>l’année courante pour le <lb/>remboursement ; ce qui fait <lb/>que le remboursement total <lb/>devra être effectué le <date type="otherDate" when="1920-01-01">premier <lb/>janvier mil neuf cent vingt</date> au <lb/>lieu du <date type="otherDate" when="1919-01-01">premier janvier mil <lb/>neuf cent <choice><sic>dix neuf</sic><corr>dix-neuf</corr></choice></date>.</p>
+                <dateline>Fait au <placeName type="willPlace" ref="#pl-207"><choice><sic>Chateau</sic><corr>château</corr></choice> de Beauvais<choice><sic/><corr>,</corr></choice> <lb/><choice><sic>Commune</sic><corr>commune</corr></choice> d’<choice><abbr>Azay s/ Cher</abbr><expan>Azay-sur-Cher</expan></choice><choice><sic>.</sic><corr>,</corr></choice> <lb/><choice><sic>Département d’Indre et Loire</sic><corr>département d’Indre-et-Loire</corr></choice></placeName><choice><sic/><corr>,</corr></choice> <lb/><date type="willDate" when="1914-08-09">le neuf août mil neuf cent <lb/>quatorze</date> de ma propre volonté <lb/>et écrit entièrement de ma main.</dateline>
+                <signed rend="centered"><persName ref="#pers-119">G. <surname>Aubert</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0037">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title><title type="main">[Testament de Charles Alexandre Deschamps (10 août 1914)] : édition électronique</title><author><persName ref="#pers-94">Charles Alexandre Deschamps (1882-1914)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+                        Département de la Conservation. Atelier photographique</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#AM">Aurélie Massie</persName><persName ref="#MLocatelli">Mélisa Locatelli</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#Genea78">Genea78</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#jmorvan">Josselin Morvan</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AN_0037</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0037_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1555, minute du 14 avril 1916 (dépôt du testament de Charles Alexandre Deschamps)</idno>
+                        <msName>Testament de Charles Alexandre Deschamps (10 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1914-08-10">10 août 1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-94"><forename>Charles</forename> <forename>Alexandre</forename> <surname>Deschamps</surname></persName>, mort pour la France le <date when="1914-11-04">4 novembre 1914</date> au <placeName ref="#pl-124">poste de secours central de La Harazée (Marne)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament).</support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm"><height>24,9</height><width>17,8</width></dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre bleue.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010247">étude notariale 120 (CRPCEN : 75100)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0037_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1555, minute du 14 avril 1916 (dépôt du testament de Charles Alexandre Deschamps)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-10">10 août 1914</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>10 août 1914. Paris.</p><p>testament olographe de Charles Alexandre Deschamps, mort pour la France le 4 novembre 1914 au poste de secours central de La Harazée (Marne).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-04-09" who="#SL. #lelia #Genea78">transcription</change>
+            <change when-iso="2018-01-24/2018-03-30" who="#PCharbonnier ">validation</change>
+            <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0037___JPEG___FRAN_Poilus_t-0037_01.jpg" xml:id="FRAN_Poilus_t-0037_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0037">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0037_01"/>
+                <head rend="centered">Ceci est mon testament</head>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Je soussigné <persName ref="#pers-94">Charles Alexandre <lb/><surname>Deschamps</surname></persName><choice><sic/><corr>,</corr></choice> en parfait état <lb/>de santé de corps et d’esprit<choice><sic/><corr>,</corr></choice> <lb/>et voulant disposer de mes biens <lb/>pour le temps où je n’existerai <lb/>plus<choice><sic/><corr>.</corr></choice></p>
+                <p>Je donne et lègue tout ce <lb/>que je possède à <persName>Marie Victorine <lb/>Regnoult</persName> mon épouse<choice><sic/><corr>.</corr></choice></p>
+                <space quantity="1" unit="lines" dim="vertical"/>
+                <dateline>Fait à <placeName type="willPlace" ref="#pl-2">Paris</placeName> le <date type="willDate" when="1914-08-10">10 <choice><sic>Août</sic><corr>août</corr></choice> 1914</date><choice><sic/><corr>.</corr></choice></dateline>
+                <signed><persName ref="#pers-94">C <surname>Deschamps</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

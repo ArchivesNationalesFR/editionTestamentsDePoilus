@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0040">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Médéric Fagnou (3 août 1914)] : édition électronique</title><author>
+                    <persName ref="#pers-38">Médéric Fagnou (1880-1914)</persName>
+                </author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#TR">Thierry Rihouey</persName><persName ref="#FAuriau">Françoise Auriau</persName><persName ref="#SBlanchard">Sophie Blanchard</persName><persName ref="#MDeuve">Mathilde Deuve</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#lelia">Lélia Picabia</persName><persName ref="#Jideuxhemme">Jideuxhemme</persName><persName ref="#SL.">EG</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0040</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0040_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E44 988, minute du 7 octobre 1914 (dépôt du testament de Médéric
+                            Fagnou)</idno>
+                        <msName>Testament de Médéric Fagnou (3 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1914-08-03">3 août 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-35">Versailles</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-38"><forename>Médéric</forename> <surname>Fagnou</surname></persName>,
+                                mort pour la France le <date when="1914-09-30">30 septembre
+                                    1914</date> à l’ <placeName ref="#pl-80">Hôpital temporaire du
+                                    Havre</placeName>.</p>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). Enveloppe commerciale, un
+                                    timbre fiscal + enveloppe commerciale, un timbre fiscal pour le
+                                    codicille (enveloppe). Papier commercial (codicille). </support>
+                                <extent>1 page et 1 enveloppe. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                                        <height>9,4</height>
+                                        <width>12 + 11,3</width>
+                                    </dimensions>. Dimensions du codicille : <dimensions type="willCodicil" unit="cm">
+                                        <height>11</height>
+                                        <width>17,5</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Enveloppe : encre. Codicille : encre violette.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance>
+                            <orgName>étude notariale de Versailles, étude Gayot</orgName>
+                        </provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0040_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E44 988, minute du 7 octobre 1914 (dépôt du testament de Médéric
+                            Fagnou)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date type="willDate" when="1914-08-03">3 août 1914</date>
+            </creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>3 août 1914.
+                                    Versailles.</p><p>testament olographe de Médéric Fagnou,
+                                mort pour la France le 30 septembre
+                                    1914 à l’ Hôpital temporaire du
+                                    Havre.</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-07-10" who="#lelia #Jideuxhemme #SL.">transcription</change>
+            <change when-iso="2018-01-24/2018-03-26" who="#PCharbonnier ">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-envelope-recto" n="01">
+            <graphic url="testament_AD78_0040___JPEG___FRAD78_Poilus_t-0040_01.jpg" xml:id="FRAD78_Poilus_t-0040_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AD78_0040___JPEG___FRAD78_Poilus_t-0040_03.jpg" xml:id="FRAD78_Poilus_t-0040_03"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0040">
+        <body>
+            <div type="envelope">
+                <pb facs="#FRAD78_Poilus_t-0040_01"/>
+                <p rend="centered"><choice><sic>A</sic><corr>À</corr></choice>
+                    <persName>Madame
+                            <surname>Fagnou</surname></persName><choice><sic/><corr>.</corr></choice>
+                    <lb/><choice><sic>mon</sic><corr>Mon</corr></choice>
+                    <choice><sic>testamant</sic><corr>testament.</corr></choice></p>
+                    <p><seg type="signature"><persName ref="#pers-38"><surname>Fagnou</surname>
+                            Médéric</persName></seg></p>
+                    <p><address>
+                        <addrLine>90 rue Remilly <placeName ref="#pl-35">Versailles</placeName>
+                            <choice><abbr>S O</abbr><expan>Seine-et-Oise</expan></choice></addrLine>
+                    </address></p>
+            </div>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0040_03"/>
+                <head><choice><sic>Testamant</sic><corr>Testament.</corr></choice>
+                    <lb/>Ceci est mon
+                    <choice><sic>testamant</sic><corr>testament.</corr></choice></head>
+                <p>Je soussigné <persName ref="#pers-38">Médéric
+                        <surname>Fagnou</surname></persName><lb/><choice><sic>
+                            Demeurant</sic><corr>, demeurant</corr></choice> 30 rue Rémilly
+                            <lb/><choice><sic>a</sic><corr>à</corr></choice>
+                    <placeName type="willAuthorResidence" ref="#pl-35">Versailles</placeName><choice><sic> saint</sic><corr>,
+                        sain</corr></choice> de corps <lb/>et d’esprit
+                            <choice><sic>Nome</sic><corr>nomme</corr></choice> légataire <lb/>
+                    universelle ma femme née <lb/><persName>Ernestine
+                                <choice><sic>augustine</sic><corr>Augustine</corr></choice> Eugénie
+                        Fauconnier <lb/></persName><choice><sic>tous ce que je possede présent <lb/>
+                            et avenir</sic><corr>de tout ce que je possède, à présent et à
+                            l’avenir.</corr></choice> <choice><sic>j’ai le
+                            Double</sic><corr>J’ai mis le double</corr></choice>
+                    <lb/>entre les mains de ma femme<choice><sic/><corr>.</corr></choice></p>
+                <space quantity="2" unit="lines" dim="vertical"/>
+                <dateline rend="centered"><placeName type="willPlace" ref="#pl-35">Versailles</placeName>
+                    <date type="willDate" when="1914-08-03">le trois
+                                <choice><sic>Aout</sic><corr>août</corr></choice>
+                        <lb/><space quantity="1" unit="lines" dim="vertical"/>mille neuf cent
+                                quatorze<choice><sic/><corr>.</corr></choice></date></dateline>
+                <space quantity="2" unit="lines" dim="vertical"/>
+                <signed rend="left">
+                    <persName ref="#pers-38">Médéric <surname>Fagnou</surname></persName>
+                </signed>
+            </div>
+        </body>
+    </text>
+</TEI>

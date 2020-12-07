@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0029">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Georges Trigeaud (26 septembre 1915)] : édition électronique</title><author><persName ref="#pers-28">Georges Trigeaud (1884-1917)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#DA">Danièle Allezard</persName><persName ref="#SBlanchard">Sophie Blanchard</persName><persName ref="#MDeuve">Mathilde Deuve</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#LBIsabelle">LBIsabelle</persName><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#GBMireille">Mireille Grais-Bruguière</persName><persName ref="#SCayeux">SCayeux</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0029</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0029_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E38 787, minute du 9 mai 1917 (dépôt du testament de Georges
+                            Trigeaud)</idno>
+                        <msName>Testament de Georges Trigeaud (26 septembre 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1915-09-26">26 septembre
+                                1915</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-28"><forename>Georges</forename> <surname>Trigeaud</surname></persName>, mort
+                                pour la France le <date when="1917-04-23">23 avril 1917</date> à
+                                    <placeName ref="#pl-24">Saint-Germain-en-Laye, 2 rue Baronne
+                                    Gérard</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre bleue.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de Saint-Germain-en-Laye, étude
+                                Plantelin</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0029_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E38 787, minute du 9 mai 1917 (dépôt du testament de Georges
+                            Trigeaud)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-09-26">26 septembre 1915</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>26 septembre
+                                1915. Paris.</p><p>testament
+                                    olographe de Georges Trigeaud, mort
+                                pour la France le 23 avril 1917 à
+                                    Saint-Germain-en-Laye, 2 rue Baronne
+                                    Gérard.</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-10-15" who="#SL. #LBIsabelle #MFGarreau #lelia #GBMireille #SCayeux">transcription</change>
+            <change when-iso="2018-01-24/2018-03-30" who="#PCharbonnier ">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0029___JPEG___FRAD78_Poilus_t-0029_01.jpg" xml:id="FRAD78_Poilus_t-0029_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0029">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0029_01"/>
+                <p>Je soussigné <persName ref="#pers-28"><surname>Trigeaud</surname>
+                        Georges</persName> faisant <lb/>élection de
+                            <choice><sic>dommicile</sic><corr>domicile</corr></choice> à <placeName type="willAuthorResidence" ref="#pl-2">Paris</placeName><choice><sic/><corr>,</corr></choice>
+                    <choice><sic>Passage</sic><corr>passage</corr></choice> Barrault
+                            <lb/><choice><sic>Numero</sic><corr>numéro</corr></choice>
+                            huit<choice><sic/><corr>,</corr></choice> déclare léguer à mon épouse,
+                    <lb/>née <persName>Cadiou Marie Françoise Hyacinthe</persName> faisant
+                    <lb/>élection de domicile à la même adresse<choice><sic/><corr>,</corr></choice>
+                            <lb/><choice><sic>Passage</sic><corr>passage</corr></choice> Barrault
+                            <choice><sic>Numéro</sic><corr>numéro</corr></choice> huit à <placeName type="willAuthorResidence" ref="#pl-2">Paris
+                                <lb/><choice><sic>treizieme</sic><corr>treizième</corr></choice></placeName><choice><sic/><corr>,</corr></choice>
+                    la totalité de nos biens communs.</p>
+                <p>Ces<del>t</del> biens consistent<choice><sic/><corr> :</corr></choice></p>
+                <list>
+                    <item>1<hi rend="superscript-underlined">er</hi> <choice><sic>en</sic><corr>En</corr></choice> une
+                                <lb/><choice><sic>propriétée</sic><corr>propriété</corr></choice>
+                        située à <placeName type="otherPlace">Vignats<choice><sic> lieu
+                                    dit</sic><corr>, lieu-dit</corr></choice> <choice><abbr>S<hi rend="superscript-underlined">t</hi></abbr><expan>Saint</expan></choice><choice><sic> </sic><corr>-</corr></choice>Nicolas<choice><sic/><corr>,</corr></choice> 
+                            <lb/>Calvados</placeName><choice><sic>. Composée</sic><corr>,
+                            composée</corr></choice> d’une
+                        maison<choice><sic>,</sic><corr/></choice> d’habitation, <lb/><supplied reason="deleted">d’</supplied>une cour
+                        et <supplied reason="deleted">d’un</supplied> jardin d’une superficie <lb/>totale d’environ cinq
+                                ares<choice><sic/><corr>, </corr></choice> achetée par
+                            nous <lb/><date type="otherDate" when="1908-08-30">le 30 <choice><sic>
+                                    Août mille-neuf-cent-huit</sic><corr>août mille neuf-cent
+                                    huit</corr></choice></date>, acte <lb/>de vente dûment
+                                <choice><sic>établie</sic><corr>établi</corr></choice> en l’étude
+                                de <lb/><persName><choice><sic>Maître</sic><corr>maître</corr></choice> Gruyer<choice><sic>,</sic><corr/></choice>
+                            Albert</persName><choice><sic> Notaire</sic><corr>, notaire</corr></choice>
+                        à <placeName type="otherPlace">Crocy</placeName> <lb/>Calvados et enregistré
+                        à <placeName type="otherPlace" ref="#pl-34">Falaise</placeName> <date type="otherDate" when="1908-09-12">le douze <lb/><choice><sic>Septembre
+                                    mille-neuf-cent-huit</sic><corr>septembre mille neuf-cent
+                                    huit</corr></choice></date>.</item>
+                    <item>2<hi rend="superscript-underlined">o</hi> En meubles, lingerie, et tous
+                        ustensiles<lb/> composant notre ménage, le tout situé en notre<lb/> domicile
+                        commun sis <choice><sic>Passage</sic><corr>passage</corr></choice>
+                                Barrault <lb/><choice><sic>Numéro</sic><corr>numéro</corr></choice>
+                        huit à <placeName type="willAuthorResidence" ref="#pl-2">Paris</placeName>
+                        treizième.</item>
+                </list>
+                <p>Les dispositions mentionnées <choice><sic>ci
+                        dessus</sic><corr>ci-dessus</corr></choice> ont pour <lb/>effet d’annuler
+                    toute <choice><sic>revendications</sic><corr>revendication</corr></choice> qui
+                    pourrait <lb/>être formulée par un ou plusieurs membres de <lb/>ma famille.</p>
+                <dateline>Fait à <placeName type="willPlace" ref="#pl-2">Paris</placeName> <choice><sic>Sain</sic><corr>sain</corr></choice> de
+                    corps et d’esprit <lb/><date type="willDate" when="1915-09-26"><choice><sic>Le
+                                Vingt-Six-Septembre Mille-neuf-cent-quinze</sic><corr>le vingt-six
+                                septembre mille neuf-cent quinze.</corr></choice></date></dateline>
+                <signed rend="centered"><persName ref="#pers-28">G.<surname>Trigeaud</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

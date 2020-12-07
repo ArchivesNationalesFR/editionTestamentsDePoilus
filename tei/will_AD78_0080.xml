@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0080">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Albert Lainé (2 octobre 1918)] : édition électronique</title><author><persName ref="#pers-368">Albert Lainé (1888-1918)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#CF">Chantal Furgaut</persName><persName ref="#CChauvelier">Catherine Chauvelier</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#GBMireille">Mireille Grais-Bruguière</persName><persName ref="#lelia">Lélia Picabia</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0080</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0080_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E11 399, minute du 7 avril 1920 (dépôt du testament de Albert
+                            Lainé)</idno>
+                        <msName>Testament de Albert Lainé (2 octobre 1918)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1918-10-02">2 octobre 1918</date>.
+                                    <placeName type="willPlace">Aux Armées</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-368"><forename>Albert</forename> <surname>Lainé</surname></persName>, mort
+                                pour la France le <date when="1918-12-21" source="#will_AD78_0080_min">21/12/1918 [NOT]</date> à
+                                    <placeName ref="#pl-417">Odessa
+                            Russie</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre violette.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de Garancières</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0080_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E11 399, minute du 7 avril 1920 (dépôt du testament de Albert
+                            Lainé)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1918-10-02">2 octobre 1918</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>2 octobre 1918.
+                                    Aux Armées.</p><p>testament olographe de Albert Lainé, mort
+                                pour la France le 21/12/1918 [NOT] à
+                                    Odessa
+                            Russie.</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-07-01/2020-05-26" who="#SL. #GBMireille #lelia">transcription</change>
+            <change when-iso="2019-07-01/2019-07-15" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0080___JPEG___FRAD78_Poilus_t-0080_01.jpg" xml:id="FRAD78_Poilus_t-0080_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0080">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0080_01"/>
+                <dateline>Aux <choice><sic>Armées</sic><corr>armées</corr></choice> <date type="willDate" when="1918-10-02">le 2 octobre
+                            1918</date><choice><sic/><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="6"/>
+                <p>Je soussigné <persName ref="#pers-368">Monsieur <surname>
+                            Lainé</surname> Albert</persName> <lb/><orgName ref="#o-295"> 1<hi rend="superscript-double-underlined">e</hi> <choice><sic>Régiment</sic><corr>régiment</corr></choice>
+                                de <choice><sic>Marche</sic><corr>marche</corr></choice> d’Afrique
+                                    2<hi rend="superscript-double-underlined">e</hi> <choice><abbr>B<hi rend="superscript-double-underlined">on</hi></abbr><expan>bataillon</expan></choice> <lb/>7<hi rend="superscript-double-underlined">e</hi> <choice><abbr>C<hi rend="superscript-double-underlined">ies</hi></abbr><expan>compagnie</expan></choice><choice><sic/><corr>,</corr></choice>
+                        actuellement mobilisé aux
+                            <choice><sic>Armée</sic><corr>armées</corr></choice> <lb/>d’Orient,
+                                <choice><sic>Secteur</sic><corr>secteur</corr></choice> 503.</orgName></p>
+                <p>J’autorise ma femme <persName>Madame Lainé <lb/>Madeleine<choice><sic/><corr>,</corr></choice> fille
+                    Duval</persName><choice><sic/><corr>,</corr></choice> <choice><sic>a</sic><corr>à</corr></choice> toucher la
+                            <lb/><choice><sic>succésion</sic><corr>succession</corr></choice> de ma
+                    tante, <persName>Madame Lainé
+                        <lb/>Lucie</persName>, décédée <date type="otherDate" when="1918-08-29">le
+                            29 <choice><sic>Août</sic><corr>août</corr></choice>
+                            1918</date> <choice><sic>a</sic><corr>à</corr></choice> son <lb/>domicile
+                    59 rue <choice><sic>cardinal </sic><corr>du Cardinal-</corr></choice>Lemoine, <placeName type="otherPlace" ref="#pl-2">Paris</placeName><choice><sic/><corr/></choice>.</p>
+                <p rend="centered">Et je <choice><sic>fait</sic><corr>fais</corr></choice> ma femme
+                    héritière <choice><sic>élégatère</sic><corr> et légataire</corr></choice> <lb/>de
+                    mon bien <choice><sic>a</sic><corr>à</corr></choice>
+                            venir<choice><sic/><corr>.</corr></choice></p>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <dateline rend="right">Aux <choice><sic>Armées</sic><corr>armées</corr></choice> <date type="willDate" when="1918-10-02">le 2 octobre
+                            <lb/>1918</date><choice><sic/><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="centered"><persName ref="#pers-368"><surname>Lainé</surname>
+                        Albert</persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

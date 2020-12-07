@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0031">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title><title type="main">[Testament de André Le Guen (14 septembre 1915)] : édition électronique</title><author><persName ref="#pers-89">André Le Guen (1897-1915)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+      <editionStmt>
+        <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+        <respStmt><resp>Numérisation</resp><orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+                        Département de la Conservation. Atelier photographique</orgName></respStmt>
+        <respStmt><resp>Identification et description du testament</resp><persName ref="#AM">Aurélie Massie</persName><persName ref="#MLocatelli">Mélisa Locatelli</persName></respStmt>
+        <respStmt><resp>Transcription</resp><persName ref="#LBIsabelle">LBIsabelle</persName><persName ref="#Genea78">Genea78</persName></respStmt>
+        <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+        <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#jmorvan">Josselin Morvan</persName></respStmt>
+      </editionStmt>
+      <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AN_0031</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="will_AN_0031_tes">
+          <msIdentifier>
+            <country>France</country>
+            <institution>Archives nationales</institution>
+            <collection>Minutier central des notaires de Paris</collection>
+            <idno>MC/ET/CXX/1550, minute du 29 janvier 1916 (dépôt du testament de André Le Guen)</idno>
+            <msName>Testament de André Le Guen (14 septembre 1915)</msName>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p><date type="willDate" when="1915-09-14">14 septembre 1915</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p>
+              <p><term type="willType">testament olographe</term> de <persName ref="#pers-89"><forename>André</forename> <surname>Le Guen</surname></persName>, mort pour la France <date when="1915-09-28">vers le 28 septembre 1915</date> à la <placeName ref="#pl-162" source="#will_AN_0031_min #MDH">bataille de Berthonval, commune du Mont Saint Eloi [NOT] | Souchez cote 119 (Pas-de-Calais) [MDH]</placeName>.</p>
+            </summary>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>Papier timbré réglé (testament).</support>
+                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm"><height>24,9</height><width>17,8</width></dimensions>.</extent>
+              </supportDesc>
+            </objectDesc>
+            <handDesc>
+              <p>Testament : encre.</p>
+            </handDesc>
+          </physDesc>
+          <history>
+            <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010247">étude notariale 120 (CRPCEN : 75100)</orgName></provenance>
+          </history>
+        </msDesc>
+        <msDesc xml:id="will_AN_0031_min">
+          <msIdentifier>
+            <country>France</country>
+            <institution>Archives nationales</institution>
+            <collection>Minutier central des notaires de Paris</collection>
+            <idno>MC/ET/CXX/1550, minute du 29 janvier 1916 (dépôt du testament de André Le Guen)</idno>
+            <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation><date type="willDate" when="1915-09-14">14 septembre 1915</date></creation>
+      <langUsage><language ident="fr">français</language></langUsage>
+      <abstract><p>14 septembre 1915. Paris.</p><p>testament olographe de André Le Guen, mort pour la France vers le 28 septembre 1915 à la bataille de Berthonval, commune du Mont Saint Eloi [NOT] | Souchez cote 119 (Pas-de-Calais) [MDH].</p></abstract>
+      <textClass>
+        <keywords>
+          <term type="subject">Grande Guerre</term>
+          <term type="subject">Poilu</term>
+          <term type="subject">testament</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when-iso="2018-01-24/2018-04-30" who="#LBIsabelle #Genea78">transcription</change>
+      <change when-iso="2018-01-24/2018-02-19" who="#PCharbonnier ">validation</change>
+      <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+    <surface type="will-page" n="01">
+      <graphic url="testament_AN_0031___JPEG___FRAN_Poilus_t-0031_01.jpg" xml:id="FRAN_Poilus_t-0031_01"/>
+    </surface>
+  </facsimile>
+  <text xml:id="will_AN_0031">
+    <body>
+      <div type="will">
+        <pb facs="#FRAN_Poilus_t-0031_01"/>
+        <dateline rend="right"><placeName type="willPlace" ref="#pl-2">Paris</placeName> le <date type="willDate" when="1915-09-14">14 <choice><sic>Septembre</sic><corr>septembre</corr></choice> 1915</date></dateline>
+        <space quantity="3" unit="lines" dim="vertical"/>
+        <head rend="left">Ceci est mon testament</head>
+        <space quantity="3" unit="lines" dim="vertical"/>
+        <p rend="left">Je soussigné <persName ref="#pers-89">André <surname>Le Guen</surname></persName><choice><sic/><corr>,</corr></choice> <lb/>soldat au <orgName ref="#o-66"><choice><sic>282<hi rend="superscript-underlined">ème</hi> Régiment Infanterie 23<hi rend="superscript-underlined">ème</hi></sic><corr>282<hi rend="superscript">e</hi> régiment d’infanterie 23<hi rend="superscript">e</hi></corr></choice> <choice><abbr>C<hi rend="superscript-underlined">ie</hi></abbr><expan>compagnie</expan></choice></orgName><choice><sic/><corr>,</corr></choice> <lb/><choice><sic>Actuellement</sic><corr>actuellement</corr></choice> au front engagé volontaire à 17 <choice><sic>Ans 1/2</sic><corr>ans et demi,</corr></choice> <lb/>étant en permission chez ma mère à l’heure <choice><sic>actuel</sic><corr>actuelle,</corr></choice> <lb/>je veux <choice><sic>en cas qu’</sic><corr>au cas où</corr></choice> il m’<choice><sic>arriverai</sic><corr>arriverait</corr></choice> quelque chose <lb/>pendant mon temps sous les drapeaux que tout <lb/>ce que je possède<choice><sic/><corr>,</corr></choice> autant <choice><sic>quand</sic><corr>en</corr></choice> meuble, <choice><sic>que en</sic><corr>qu’en</corr></choice> <lb/>immeuble<choice><sic/><corr>,</corr></choice> soit tout pour ma mère <persName><choice><abbr>M<hi rend="superscript-underlined">me</hi></abbr><expan>Madame</expan></choice> <choice><sic>Veuve</sic><corr>veuve</corr></choice> <lb/>Le Guen femme Lacoste</persName><choice><sic/><corr>.</corr></choice></p>
+        <space quantity="1" unit="lines" dim="vertical"/>
+        <signed rend="right"><persName ref="#pers-89"> A. <surname>Le Guen</surname></persName></signed>
+        <space quantity="1" unit="lines" dim="vertical"/>
+        <dateline><choice><sic>le</sic><corr>Le</corr></choice>
+          <date type="willDate" when="1915-09-14">14 <choice><sic>Septembre</sic><corr>septembre</corr></choice> 1915</date><choice><sic/><corr>.</corr></choice></dateline>
+      </div>
+    </body>
+  </text>
+</TEI>

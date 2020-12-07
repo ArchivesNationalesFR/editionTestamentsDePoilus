@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0062">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Aristide Jean Victor Lerouvillois (11 août 1916)] : édition électronique</title><author><persName ref="#pers-59">Aristide Jean Victor Lerouvillois
+                        (1873-1916)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#TR">Thierry Rihouey</persName><persName ref="#FAuriau">Françoise Auriau</persName><persName ref="#SBlanchard">Sophie Blanchard</persName><persName ref="#MDeuve">Mathilde Deuve</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#FMARIECLAIRE">FMARIECLAIRE</persName><persName ref="#SL.">EG</persName><persName ref="#lelia">Lélia Picabia</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#EdChamps">Emmanuelle de Champs</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0062</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0062_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E44 1002, minute du 25 novembre 1916 (dépôt du testament de Aristide
+                            Jean Victor Lerouvillois)</idno>
+                        <msName>Testament de Aristide Jean Victor Lerouvillois (11 août
+                            1916)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1916-08-11">11 août 1916</date>.
+                                    <placeName type="willPlace" ref="#pl-35">Versailles</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-59"><forename>Aristide</forename> <forename>Jean</forename> <forename>Victor</forename> <surname>Lerouvillois</surname></persName>,
+                                mort pour la France le <date when="1916-07-15">15 juillet
+                                    1916</date> à <placeName ref="#pl-18">Verdun
+                                (Meuse)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). Enveloppe commerciale, 5
+                                    cachets de cire rouge (enveloppe). </support>
+                                <extent>2 pages et 1 enveloppe. Dimensions du testament :
+                                        <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                                        <height>16</height>
+                                        <width>24,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Enveloppe : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de Versailles, étude
+                            Gayot</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0062_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E44 1002, minute du 25 novembre 1916 (dépôt du testament de Aristide
+                            Jean Victor Lerouvillois)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1916-08-11">11 août 1916</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>11 août 1916.
+                                    Versailles.</p><p>testament
+                                    olographe de Aristide Jean Victor Lerouvillois,
+                                mort pour la France le 15 juillet
+                                    1916 à Verdun
+                                (Meuse).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-03-23" who="#FMARIECLAIRE #SL. #lelia">transcription</change>
+            <change when-iso="2018-01-24/2018-03-23" who="#PCharbonnier #EdChamps">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-envelope-recto" n="01">
+            <graphic url="testament_AD78_0062___JPEG___FRAD78_Poilus_t-0062_02.jpg" xml:id="FRAD78_Poilus_t-0062_02"/>
+        </surface>
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0062___JPEG___FRAD78_Poilus_t-0062_03.jpg" xml:id="FRAD78_Poilus_t-0062_03"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AD78_0062___JPEG___FRAD78_Poilus_t-0062_04.jpg" xml:id="FRAD78_Poilus_t-0062_04"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0062">
+        <body>
+            <div type="envelope">
+                <pb facs="#FRAD78_Poilus_t-0062_02"/>
+                <p rend="centered">Ceci est mon testament<choice><sic/><corr>.</corr></choice></p>
+                <signed rend="centered"><persName ref="#pers-59">A.
+                                <surname><unclear>Lerouvillois</unclear></surname></persName></signed>
+            </div>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0062_03"/>
+                <head>Ceci est mon testament.</head>
+                <dateline><placeName type="willPlace" ref="#pl-35">Versailles</placeName> <date type="willDate" when="1914-08-11">le onze
+                            août<choice><sic>,</sic><corr/></choice> mil neuf <lb/>cent
+                        quatorze.</date></dateline>
+                <p>Je soussigné <persName ref="#pers-59">Aristide Jean Victor
+                            <lb/><surname>Lerouvillois</surname></persName>, officier du génie,
+                    époux <lb/>de <persName>Madame Augustine Louise
+                        <surname>Fontaine</surname></persName>
+                    <lb/>demeurant à <placeName type="willAuthorResidence" ref="#pl-35">Versailles</placeName><choice><sic/><corr>,</corr></choice> 14 rue Royale,
+                    <lb/>au cas<choice><sic>,</sic><corr/></choice> où je viendrais à décéder
+                    <lb/>sans héritiers directs, enfants ou <lb/><choice><sic>petits
+                            enfants</sic><corr>petits-enfants</corr></choice>, déclare par les
+                            <choice><sic>pré<lb/>sentes</sic><corr>pré<lb break="no"/>sentes</corr></choice> mes dernières volontés.</p>
+                <p>Au cas d’absence d’<choice><sic>heritiers</sic><corr>héritiers</corr></choice>
+                    directs <lb/>je veux que tous les biens me venant <lb/>de ma famille et
+                    m’appartenant en <lb/>propre restent dans ma famille.</p>
+                <p>J’institue donc pour ma légataire <lb/>universelle de tous mes biens, meubles
+                    <lb/>et immeubles, titres hypothèques, com<lb break="no"/>posant ma succession
+                    au jour de <lb/>mon <choice><sic>décés</sic><corr>décès</corr></choice>, ma
+                    nièce <persName>Mademoiselle <lb/>Germaine <surname>Rondel</surname></persName>,
+                    demeurant place <lb/>Divette à <placeName type="otherPlace">Cherbourg</placeName>, fille de ma soeur <lb/><persName>Madame veuve
+                            <surname>Rondel</surname></persName>, aujourd’hui <lb/>remariée à
+                                <persName><choice><sic>monsieur</sic><corr>Monsieur</corr></choice>
+                        Armand <surname>Martin</surname></persName>, <lb/>à charge pour ma légataire
+                    universelle <lb/>d’exécuter le legs suivant<choice><sic> : </sic><corr>.</corr></choice></p>
+                <p>Je donne et <choice><sic>légue</sic><corr>lègue</corr></choice> quitte de
+                    toutes <lb/>charges la part me revenant dans la <lb/>communauté de biens
+                    existant entre <lb/>moi et <persName>Madame <surname>Lerouvillois</surname></persName>
+                    mon épouse <pb facs="#FRAD78_Poilus_t-0062_04"/>à
+                            <persName>Mademoiselle Madeleine
+                        Clémentine <lb/><surname>Huet</surname></persName><choice><sic/><corr>,</corr></choice> fille de ma femme, et
+                        demeu<lb break="no"/>rant 14 rue Royale à <placeName type="otherPlace" ref="#pl-35">Versailles</placeName>. <lb/><choice><sic>A</sic><corr>À</corr></choice> son défaut je substitue en
+                    ses <lb/>lieux et place pour ce dit legs et <lb/>dans les mêmes conditions
+                            <choice><sic>;</sic><corr> :</corr></choice> <persName>Madame <lb/>Augustine
+                        Joséphine <surname>Paillet</surname> épouse <lb/>Masseron</persName><choice><sic/><corr>,</corr></choice> fille
+                    de <persName>Madame Paillet</persName><add>,</add>
+                    sœur <lb/>de ma femme.</p>
+                <p>Je veux que <choice><sic>madame</sic><corr>Madame</corr></choice> <persName><surname>Lerouvillois <lb/>née
+                        Fontaine</surname></persName> mon épouse jouisse sa <lb/>vie
+                            <choice><sic>durante</sic><corr>durant</corr></choice> de tous mes biens
+                    sans <lb/>être aucunement inquiétée à cet égard<choice><sic/><corr>,</corr></choice> <lb/>à seule charge par elle
+                            <choice><sic/><corr>de</corr></choice> faire dresser <lb/>inventaire.</p>
+                <p>J’annule formellement tout testa<lb break="no"/>ment<choice><sic/><corr>,</corr></choice> legs, donations, codicilles,
+                        expres<lb break="no"/>sions de dernières volontés quelles qu’elles <lb/>soient existant à ce jour, reconnaissant <lb/>comme seul et valable le
+                            <choice><sic>present</sic><corr>présent</corr></choice> testa<lb break="no"/>ment écrit entièrement de ma main <lb/>daté et signé par moi.</p>
+                <dateline><placeName type="willPlace" ref="#pl-35">Versailles</placeName> <date when="1914-08-11" type="willDate">le onze août mil <lb/>neuf <add place="above">cent</add> quatorze</date>.</dateline>
+                <space quantity="1" unit="lines" dim="vertical"/>
+                <signed rend="centered"><persName ref="#pers-59">A.<surname>Lerouvillois</surname></persName></signed>
+                <space quantity="1" unit="lines" dim="vertical"/>
+                <dateline><placeName type="willPlace" ref="#pl-35">Versailles</placeName> <date when="1914-08-11" type="willDate">le onze août <lb/>mil neuf cent
+                        quatorze</date><choice><sic/><corr>.</corr></choice></dateline>
+                <space quantity="1" unit="lines" dim="vertical"/>
+                <signed rend="centered"><persName ref="#pers-59">A.<surname>Lerouvillois</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD95_0026">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la
+          Grande Guerre</title><title type="main">[Testament de Alphonse Charles Laforest (20 mai 1918)] : édition électronique</title><author><persName ref="#pers-420">Alphonse Charles Laforest (1896-1918)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+      <editionStmt>
+        <edition>Première édition électronique, fondée sur un travail de transcription
+          collaborative</edition>
+        <respStmt><resp>Numérisation</resp><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></respStmt>
+        <respStmt><resp>Identification et description du testament</resp><persName ref="#SDoman">Sarah Doman</persName><persName ref="#JK">Juline Kibongui</persName><persName ref="#SD">Sophie Delinge</persName><persName ref="#TO">Thomas Olivier</persName><persName ref="#SDechavanne">Sylvie Dechavanne</persName></respStmt>
+        <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#GBMireille">Mireille Grais-Bruguière</persName></respStmt>
+        <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#SDechavanne">Sylvie Dechavanne</persName></respStmt>
+        <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+      </editionStmt>
+      <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD95_0026</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="will_AD95_0026_tes">
+          <msIdentifier>
+            <country>France</country>
+            <institution>Archives départementales du Val-d’Oise</institution>
+            <collection>Archives notariales</collection>
+            <idno>2E18 358, minute du 7 novembre 1921 (dépôt du testament de Alphonse Charles
+              Laforest)</idno>
+            <msName>Testament de Alphonse Charles Laforest (20 mai 1918)</msName>
+          </msIdentifier>
+          <msContents>
+            <summary><p><date type="willDate" when="1918-05-20">20 mai 1918</date>. <placeName type="willPlace" ref="#pl-660">Vignoles</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-420"><forename source="#will_AD95_0026_tes #will_AD95_0026_min #MDH #AS">Alphonse</forename> <forename source="#will_AD95_0026_tes #will_AD95_0026_min #MDH #AS">Charles</forename> <surname>Laforest</surname></persName>, mort pour la France
+                le <date when="1918-10-18" source="#will_AD95_0026_tes #MDH #AS">18 octobre 1918
+                  [TES] [MDH] [AS] | dix huit Octobre mil neuf cent dix huit [AS]</date> à
+                  <placeName ref="#pl-659" source="#will_AD95_0026_min #MDH #AS">Glageon [NOT][MDH]
+                  | Glazeau [AS]</placeName>.</p></summary>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>Papier ivoire timbré réglé (testament). Papier vert (enveloppe). </support>
+                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                    <height>17,8</height>
+                    <width>24,9</width>
+                  </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                    <height>14,5</height>
+                    <width>11,2</width>
+                  </dimensions>.</extent>
+              </supportDesc>
+            </objectDesc>
+            <handDesc>
+              <p>Testament : encre. Enveloppe : encre.</p>
+            </handDesc>
+          </physDesc>
+          <history>
+            <provenance><orgName>Arnaud Luzarches 2</orgName></provenance>
+          </history>
+        </msDesc>
+        <msDesc xml:id="will_AD95_0026_min">
+          <msIdentifier>
+            <country>France</country>
+            <institution>Archives départementales du Val-d’Oise</institution>
+            <collection>Archives notariales</collection>
+            <idno>2E18 358, minute du 7 novembre 1921 (dépôt du testament de Alphonse Charles
+              Laforest)</idno>
+            <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+              minute</msName>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation><date type="willDate" when="1918-05-20">20 mai 1918</date></creation>
+      <langUsage><language ident="fr">français</language></langUsage>
+      <abstract><p>20 mai 1918. Vignoles.</p><p>testament olographe de Alphonse Charles Laforest, mort pour la France
+                le 18 octobre 1918
+                  [TES] [MDH] [AS] | dix huit Octobre mil neuf cent dix huit [AS] à
+                  Glageon [NOT][MDH]
+                  | Glazeau [AS].</p></abstract>
+      <textClass>
+        <keywords>
+          <term type="subject">Grande Guerre</term>
+          <term type="subject">Poilu</term>
+          <term type="subject">testament</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when-iso="2019-10-09/2020-03-18" who="#SL. #MFGarreau #lelia #GBMireille">transcription</change>
+      <change when-iso="2019-10-09/2020-01-14" who="#PCharbonnier #Dechavanne">validation</change>
+      <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements et
+        contrôle de qualité finaux</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+    <surface type="will-page" n="01">
+      <graphic url="testament_AD95_0026___JPEG___FRAD95_Poilus_t-0026_01.jpg" xml:id="FRAD95_Poilus_t-0026_01"/>
+    </surface>
+  </facsimile>
+  <text xml:id="will_AD95_0026">
+    <body>
+      <div type="will">
+        <pb facs="#FRAD95_Poilus_t-0026_01"/>
+        <p>Je <choice><sic>soussignè</sic><corr>soussigné</corr></choice>
+          <persName ref="#pers-420"><surname>Laforest</surname> Adolphe Charles</persName>
+          <lb/><choice><sic>Cultivateur</sic><corr>cultivateur</corr></choice>
+          <choice><sic>demerant</sic><corr>demeurant</corr></choice> <choice><sic>â</sic><corr>à</corr></choice>
+          <placeName type="willAuthorResidence" ref="#pl-658">Bellefontaine</placeName><choice><sic/><corr>,</corr></choice>
+          <lb/>actuellement <choice><sic>aux</sic><corr>au</corr></choice>
+          <orgName ref="#o-340">133<hi rend="superscript-double-underlined">e</hi>
+            <choice><sic>Régiment</sic><corr>régiment</corr></choice>
+            <lb/>d’infanterie</orgName> secteur 204<choice><sic/><corr>,</corr></choice>
+          <lb/>ai fait mon testament ainsi qu<choice><sic/><corr>’</corr></choice>il suit.</p>
+        <p><choice><sic>je</sic><corr>Je</corr></choice> lègue à ma mère <persName>Elisa Françoise
+                <lb/><choice><sic>Vancraeynest</sic><corr>Van Crayenest</corr></choice></persName>
+          sans <choice><sic>proféssion</sic><corr>profession</corr></choice> demeurant à
+            <lb/><placeName type="otherPlace" ref="#pl-658">Bellefontaine</placeName><choice><sic/><corr>,</corr></choice> <choice><sic>Veuve</sic><corr>veuve</corr></choice>
+          en 1<hi rend="superscript-underlined">e</hi>
+          <choice><sic>noçes</sic><corr>noces</corr></choice> de <lb/><persName>Victor
+            Laforest</persName> et épouse en <choice><abbr>2<hi rend="superscript-double-underlined">em</hi></abbr><expan>deuxièmes</expan></choice>
+          <choice><sic>noçes</sic><corr>noces</corr></choice>
+          <lb/>de <persName>Henrie Bousery</persName><choice><sic/><corr>,</corr></choice>
+          l’universalité <lb/>de mes <choice><sic>bient</sic><corr>biens</corr></choice> meubles et
+              immeubles<choice><sic/><corr>,</corr></choice>
+            terre<choice><sic/><corr>,</corr></choice>
+          <lb/>sans aucune exception ; en
+            <choice><sic>Conséquence</sic><corr>conséquence</corr></choice>, <lb/>je l’institue pour
+          ma légataire <lb/>universelle.</p>
+        <space dim="vertical" unit="lines" quantity="1"/>
+        <dateline><choice><sic>Ecrit</sic><corr>Écrit</corr></choice> et
+            signé<choice><sic>e</sic><corr/></choice> de ma main <lb/><space dim="horizontal" unit="chars" quantity="15"/>
+          <date type="willDate" when="1918-05-20">le vingt mai<choice><sic>.</sic><corr/></choice>
+            <lb/>mille neuf cent dix<choice><sic/><corr>-</corr></choice>huit</date>
+          <lb/><add place="marginLeft"><choice><sic>â</sic><corr>à</corr></choice>
+            <placeName type="willPlace" ref="#pl-660">Vigniole</placeName>
+            <choice><sic>meurthe <lb/>et Mozelle</sic><corr>Meurthe<lb break="no"/>-et-Moselle</corr></choice>.</add></dateline>
+        <signed><persName ref="#pers-420"><surname>Laforest</surname> Alponse</persName>.</signed>
+      </div>
+    </body>
+  </text>
+</TEI>

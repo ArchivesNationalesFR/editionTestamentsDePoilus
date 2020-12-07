@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD95_0019">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Maxime Meunier (5 décembre 1915)] : édition électronique</title><author><persName ref="#pers-413">Maxime Meunier (1881-1916)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#TP">Tiffanie Pitot</persName><persName ref="#ELL">Emilie Laffitte-Louisou</persName><persName ref="#SD">Sophie Delinge</persName><persName ref="#TO">Thomas Olivier</persName><persName ref="#SDechavanne">Sylvie Dechavanne</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#lelia">Lélia Picabia</persName><persName ref="#PGambette">Philippe Gambette</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#SDechavanne">Sylvie Dechavanne</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD95_0019</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD95_0019_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales du Val-d’Oise</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>2E25 265, minute du 2 juin 1917 (dépôt du testament de Maxime
+                            Meunier)</idno>
+                        <msName>Testament de Maxime Meunier (5 décembre 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1915-12-05">5 décembre 1915</date>.
+                                    <placeName type="willPlace" ref="#pl-645">Taverny</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-413"><forename source="#will_AD95_0019_tes #MDH #AS">Maxime</forename> <surname>Meunier</surname></persName>,
+                                mort pour la France le <date when="1916-09-06" source="#MDH #AS">6
+                                    septembre 1916 [MDH] | six septembre 1916 [AS]</date> à
+                                    <placeName ref="#pl-225" source="#MDH #AS">secteur de Thiaumont
+                                    [MDH] [AS] | aux environs de Fleury devant Douaumont (Meuse)
+                                    [AS]</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier ivoire timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>17,8</height>
+                                        <width>24,9</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>Trouffleaux Taverny</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD95_0019_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales du Val-d’Oise</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>2E25 265, minute du 2 juin 1917 (dépôt du testament de Maxime
+                            Meunier)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-12-05">5 décembre 1915</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>5 décembre 1915.
+                                    Taverny.</p><p>testament
+                                    olographe de Maxime Meunier,
+                                mort pour la France le 6
+                                    septembre 1916 [MDH] | six septembre 1916 [AS] à
+                                    secteur de Thiaumont
+                                    [MDH] [AS] | aux environs de Fleury devant Douaumont (Meuse)
+                                    [AS].</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-10-09/2020-03-20" who="#lelia #PGambette">transcription</change>
+            <change when-iso="2019-10-09/2020-01-23" who="#PCharbonnier #Dechavanne">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD95_0019___JPEG___FRAD95_Poilus_t-0019_01.jpg" xml:id="FRAD95_Poilus_t-0019_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD95_0019">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD95_Poilus_t-0019_01"/>
+                <dateline><placeName type="willPlace" ref="#pl-645">Taverny</placeName> <date type="willDate" when="1915-12-05">le 5
+                    <choice><sic>Décembre</sic><corr>décembre</corr></choice>
+                    1915</date></dateline>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <p>Je soussigné <persName ref="#pers-413"><surname>Meunier</surname>
+                        Maxime</persName> <lb/>actuellement mobilisé à <placeName type="otherPlace">Romorantin<choice><sic/><corr>,</corr></choice> <lb/>Loir-et-Cher</placeName><choice><sic/><corr>,</corr></choice> comme sergent-fourrier <lb/>au
+                                    <orgName>39<hi rend="superscript-double-underlined">e</hi> <choice><sic>Régiment</sic><corr>régiment</corr></choice>
+                                        <choice><sic>Territorial</sic><corr>territorial</corr></choice>
+                                        d’<choice><sic>Infanterie</sic><corr>infanterie</corr></choice> 13<hi rend="superscript-double-underlined">e</hi> <lb/><choice><sic>Compagnie</sic><corr>compagnie</corr></choice></orgName><choice><sic/><corr>,</corr></choice>
+                    déclare par la présente qu’en <lb/>cas de décès au cours des opérations de
+                            <lb/>guerre<choice><sic/><corr>,</corr></choice> l’actif pouvant me
+                    revenir en <lb/>propre<choice><sic/><corr>,</corr></choice> meubles et
+                            immeubles<choice><sic/><corr>,</corr></choice> ainsi que
+                    <lb/>participations diverses financières ou autres <lb/>seront léguées à ma
+                    femme née <persName>Patureaux <lb/>Aléxina</persName> sans recours de qui que ce
+                    soit. <lb/>En cas de décès<choice><sic/><corr>,</corr></choice> je lui abandonne
+                    tout mon <lb/>avoir à son profit mais sous la <lb/>condition que mes trois
+                    enfants issus de <lb/>notre mariage soient élevés jusqu’à leur <lb/>majorité
+                    avec une instruction et une <lb/>éducation ainsi qu’une existence exempte
+                    <lb/>de tout reproche. <space dim="horizontal" unit="chars" quantity="10"/>La
+                    présente déclaration <lb/>deviendra
+                    <choice><sic>Nulle</sic><corr>nulle</corr></choice> en cas de vie et la <choice><sic>
+                        Guerre</sic><corr>guerre</corr></choice>
+                        terminée<choice><sic/><corr>.</corr></choice></p>
+                <dateline rend="centered">Fait de bonne foi à Taverny <date type="willDate" when="1915-12-05">le <lb/><choice><sic>Cinq Décembre Mil Neuf Cent </sic><corr>cinq
+                                décembre mil neuf cent</corr></choice> quinze</date><choice><sic/><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="centered"><persName ref="#pers-413"><surname>Meunier</surname>
+                        Maxime</persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

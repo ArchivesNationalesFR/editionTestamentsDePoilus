@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0001">
+      <teiHeader>
+            <fileDesc>
+                  <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de
+                              Poilus de la Grande Guerre</title><title type="main">[Testament de Joseph Nisson (11 août 1914)] : édition électronique</title><author>
+                              <persName ref="#pers-1">Joseph Nisson (1872-1919)</persName>
+                        </author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+                  <editionStmt>
+                        <edition>Première édition électronique, fondée sur un travail de
+                              transcription collaborative</edition>
+                        <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                        <respStmt><resp>Identification et description du testament</resp><persName ref="#MAD">Marie-Anne Dor</persName><persName ref="#SBlanchard">Sophie Blanchard</persName><persName ref="#MDeuve">Mathilde Deuve</persName><persName ref="#FAuriau">Françoise Auriau</persName></respStmt>
+                        <respStmt><resp>Transcription</resp><persName ref="#lelia">Lélia Picabia</persName><persName ref="#Genea78">Genea78</persName><persName ref="#Gautierhache">Gautierhache</persName><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#GBMireille">Mireille Grais-Bruguière</persName><persName ref="#Silver08">Silver08</persName></respStmt>
+                        <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#FClavaud">Florence Clavaud</persName></respStmt>
+                        <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                  </editionStmt>
+                  <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0001</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+                  <sourceDesc>
+                        <msDesc xml:id="will_AD78_0001_tes">
+                              <msIdentifier>
+                                    <country>France</country>
+                                    <institution>Archives départementales des Yvelines</institution>
+                                    <collection>Archives notariales</collection>
+                                    <idno>3E3 554, minute du 11 juillet 1919 (dépôt du testament de
+                                          Joseph Nisson)</idno>
+                                    <msName>Testament de Joseph Nisson (11 août 1914)</msName>
+                              </msIdentifier>
+                              <msContents>
+                                    <summary>
+                                          <p><date type="willDate" when="1914-08-11">11 août
+                                                  1914</date>. <placeName type="willPlace" ref="#pl-3">Limetz-Villez</placeName>.</p>
+                                          <p><term type="willType">testament olographe</term> de
+                                                  <persName ref="#pers-1"><forename>Joseph</forename> 
+                                                  <surname>Nisson</surname></persName>, mort pour la
+                                                France le <date when="1919-01-28">28 janvier
+                                                  1919</date> à l’<placeName ref="#pl-2">hôpital
+                                                  auxiliaire n°273 à Paris 8e</placeName>.</p>
+                                    </summary>
+                              </msContents>
+                              <physDesc>
+                                    <objectDesc>
+                                          <supportDesc>
+                                                <support>Papier quadrillé (testament). </support>
+                                                <extent>1 page. Dimensions du testament :
+                                                  <dimensions type="willPage" unit="cm"><height>31</height><width>19,5</width></dimensions>.</extent>
+                                          </supportDesc>
+                                    </objectDesc>
+                                    <handDesc>
+                                          <p>Testament : encre.</p>
+                                    </handDesc>
+                              </physDesc>
+                              <history>
+                                    <provenance>
+                                          <orgName>étude notariale de Bonnières-sur-Seine</orgName>
+                                    </provenance>
+                              </history>
+                        </msDesc>
+                        <msDesc xml:id="will_AD78_0001_min">
+                              <msIdentifier>
+                                    <country>France</country>
+                                    <institution>Archives départementales des Yvelines</institution>
+                                    <collection>Archives notariales</collection>
+                                    <idno>3E3 554, minute du 11 juillet 1919 (dépôt du testament de
+                                          Joseph Nisson)</idno>
+                                    <msName>Couverture de la minute, et le cas échéant jugement
+                                          inclus dans la minute</msName>
+                              </msIdentifier>
+                        </msDesc>
+                  </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                  <creation>
+                        <date type="willDate" when="1914-08-11">11 août 1914</date>
+                  </creation>
+                  <langUsage><language ident="fr">français</language></langUsage>
+                  <abstract><p>11 août
+                                                  1914. Limetz-Villez.</p><p>testament olographe de
+                                                  Joseph 
+                                                  Nisson, mort pour la
+                                                France le 28 janvier
+                                                  1919 à l’hôpital
+                                                  auxiliaire n°273 à Paris 8e.</p></abstract>
+                  <textClass>
+                        <keywords>
+                              <term type="subject">Grande Guerre</term>
+                              <term type="subject">Poilu</term>
+                              <term type="subject">testament</term>
+                        </keywords>
+                  </textClass>
+            </profileDesc>
+            <revisionDesc>
+                  <change when-iso="2018-01-24/2018-04-03" who="#lelia #Genea78 #Gautierhache #MFGarreau #GBMireille #Silver08">transcription</change>
+                  <change when-iso="2018-01-24/2018-04-03" who="#PCharbonnier #FClavaud">validation</change>
+                  <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08"> enrichissements
+                        et contrôle de qualité finaux</change>
+            </revisionDesc>
+      </teiHeader>
+      <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+            <surface type="will-page" n="01">
+                  <graphic url="testament_AD78_0001___JPEG___FRAD78_Poilus_t-0001_01.jpg" xml:id="FRAD78_Poilus_t-0001_01"/>
+            </surface>
+      </facsimile>
+      <text xml:id="will_AD78_0001">
+            <body>
+                  <div type="will">
+                        <pb facs="#FRAD78_Poilus_t-0001_01"/>
+                        <dateline rend="right">
+                              <placeName type="willPlace" ref="#pl-3">Limetz</placeName>
+                              <date type="willDate" when="1914-08-11">le 11 août 1914</date>.
+                        </dateline>
+                        <space quantity="2" unit="lines" dim="vertical"/>
+                        <head rend="centered">Ceci est mon testament.</head>
+                        <space quantity="1" unit="lines" dim="vertical"/>
+                        <p>Je soussigné <persName ref="#pers-1">Joseph
+                                    <surname>Nisson</surname></persName>, né <lb/><date when="1872-12-13" type="willAuthorBirthDate">le 13 décembre
+                                                1872<choice><sic>.</sic><corr/></choice></date> à
+                                    <placeName type="willAuthorBirthPlace"><choice><sic>Saint
+                                                Denis</sic><corr>Saint-Denis</corr></choice></placeName><choice><sic>. Sain</sic><corr>, sain</corr></choice> de <lb/>corps et d’esprit déclare désigner comme <lb/>seule
+                              héritière de ce que je possède, ma <lb/>maîtresse, <choice><sic>mademoiselle</sic><corr>Mademoiselle</corr></choice>
+                                    <persName>Maria <surname>Danckaert</surname></persName> <lb/>née
+                              à <placeName type="otherPlace">Paris</placeName> <date type="otherDate" when="1871-01-03">le 3 janvier 1871</date>, avec <lb/>laquelle j’ai contracté un mariage libre.</p>
+                        <dateline>Fait à <placeName type="willPlace" ref="#pl-3">Limetz</placeName>,
+                              <date type="willDate" when="1914-08-11">le onze août mil neuf <choice><sic>cents</sic><corr>cent</corr></choice>
+                                    quatorze</date><choice><sic/><corr>.</corr></choice></dateline>
+                        <space quantity="1" unit="lines" dim="vertical"/>
+                        <signed rend="right">
+                              <persName ref="#pers-1">J <surname>Nisson</surname></persName>
+                        </signed>
+                  </div>
+            </body>
+      </text>
+</TEI>

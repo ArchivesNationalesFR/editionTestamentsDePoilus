@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0020">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Henri Florentin Gosselin (31 août 1915)] : édition électronique</title><author><persName ref="#pers-19">Henri Florentin Gosselin
+                    (1881-1918)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#FP">Françoise Pinchard</persName><persName ref="#SBlanchard">Sophie Blanchard</persName><persName ref="#MDeuve">Mathilde Deuve</persName><persName ref="#FAuriau">Françoise Auriau</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#alp">alp</persName><persName ref="#Alcofrybas">Alcofrybas</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#EdChamps">Emmanuelle de Champs</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0020</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0020_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E18 875, minute du 21 novembre 1918 (dépôt du testament de Henri
+                            Florentin Gosselin)</idno>
+                        <msName>Testament de Henri Florentin Gosselin (31 août 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1915-08-31">31 août 1915</date>.
+                                    <placeName type="willPlace" ref="#pl-40">Chartres</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-19"><forename>Henri</forename> <forename>Florentin</forename> <surname>Gosselin</surname></persName>,
+                                mort pour la France le <date when="1918-10-10">10 octobre
+                                    1918</date> à <placeName ref="#pl-39">Saint-Pierre à Arnes
+                                    (Ardennes)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier réglé (testament). Papier réglé (codicille). </support>
+                                <extent>2 pages. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>17</height>
+                                        <width>22</width>
+                                    </dimensions>. Dimensions du codicille : <dimensions type="willCodicil" unit="cm">
+                                        <height>17</height>
+                                        <width>22</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Codicille : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de Gargenville, étude rattachée à
+                                l’étude principale de Mantes-la-Jolie, étude
+                            Guyon</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0020_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E18 875, minute du 21 novembre 1918 (dépôt du testament de Henri
+                            Florentin Gosselin)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-08-31">31 août 1915</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>31 août 1915.
+                                    Chartres.</p><p>testament
+                                    olographe de Henri Florentin Gosselin,
+                                mort pour la France le 10 octobre
+                                    1918 à Saint-Pierre à Arnes
+                                    (Ardennes).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-06-06" who="#SL. #lelia #MFGarreau #alp #Alcofrybas">transcription</change>
+            <change when-iso="2018-01-24/2018-05-05" who="#PCharbonnier #EdChamps ">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0020___JPEG___FRAD78_Poilus_t-0020_01.jpg" xml:id="FRAD78_Poilus_t-0020_01"/>
+        </surface>
+        <surface type="codicil-page" n="02">
+            <graphic url="testament_AD78_0020___JPEG___FRAD78_Poilus_t-0020_02.jpg" xml:id="FRAD78_Poilus_t-0020_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0020">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0020_01"/>
+                <head rend="centered">Ceci est mon testament</head>
+                <space quantity="1" unit="lines" dim="vertical"/>
+                <p>Je soussigné <date type="willDate" when="1915-08-31">le 31
+                                <choice><sic>Août</sic><corr>août</corr></choice> 1915</date><choice><sic/><corr>,</corr></choice><space dim="horizontal" unit="cm" quantity="2"/> <choice><sic>leguer
+                            a</sic><corr>lègue à</corr></choice> mon
+                            frère <lb/><persName><surname>Gosselin</surname> Ernest</persName>
+                    domicilié <choice><sic>a</sic><corr>à</corr></choice> <placeName type="otherPlace">Mantes-la-Ville</placeName> et
+                            <choice><sic>a</sic><corr>à</corr></choice> ma
+                            soeur <lb/><persName><surname>Gosselin</surname> Augustine</persName>
+                    femme Chevallier <choice><sic>domiciliés a</sic><corr>domiciliée
+                        à</corr></choice> <placeName type="otherPlace">Chatou (<choice><abbr>S. et
+                                O.</abbr><expan>Seine-et-Oise</expan></choice>)</placeName> <lb/><app><lem><del>A mes neveux et nièces, réservant
+                                <choice><sic>lusues fruits</sic><corr>l’usufruit</corr></choice> des
+                        dites sommes <lb/>jusqu’a la majorité des dits sommes neveux et nièces alors
+                                    en <lb/>faveur de ces dites sommes.</del><add place="marginLeft" type="testatorComment">nul</add></lem><note resp="#PCharbonnier">Mention "nul" ajoutée en marge.</note></app> <lb/><choice><sic>En</sic><corr>en</corr></choice> général tout ce qui m’appartient en cas
+                            de <lb/><choice><sic>décés</sic><corr>décès</corr></choice><choice><sic>
+                            : </sic><corr>.</corr></choice> J’exprime d’une façon formelle mes
+                    dernières
+                            <choice><sic>volontées</sic><corr>volontés</corr></choice> <lb/><choice><sic>vis-a
+                            vis</sic><corr>vis-à-vis</corr></choice> de ma femme en priant le
+                            <choice><sic>leg a taire</sic><corr>légataire</corr></choice> universel
+                    de ne lui <lb/>léguer que la part
+                        <choice><sic>extrict</sic><corr>stricte</corr></choice> que la loi me force
+                            <choice><sic>a</sic><corr>à</corr></choice> lui léguer.</p>
+                <p>Je nomme <choice><sic>légateur universelle</sic><corr>légataire
+                        universel</corr></choice> mon frère
+                            <persName>Ernest <lb/><surname>Gosselin</surname></persName> domicilié
+                            <choice><sic>a</sic><corr>à</corr></choice> <placeName>Mantes-la-<choice><sic>ville</sic><corr>Ville</corr></choice></placeName>.
+                    Pour le <choice><sic>recompenser</sic><corr>récompenser</corr></choice> par
+                    préciput <lb/>et hors de part il devra être prélevé en faveur du
+                            <choice><sic>légateur</sic><corr>légataire
+                            </corr></choice> universel <lb/>une somme de cinq <choice><sic>cent</sic><corr>cents</corr></choice> francs. Ce testament
+                    annule toutes dispo<lb break="no"/>sitions antérieures que
+                            j’<choice><sic>auraient</sic><corr>aurais</corr></choice> pu
+                    prendre.</p>
+                <dateline rend="centered">Fait <choice><sic>a</sic><corr>à</corr></choice> <placeName type="willPlace" ref="#pl-40">Chartres</placeName> <date type="willDate" when="1915-08-31">le 31 <choice><sic>Aoùt</sic><corr>août</corr></choice>
+                        1915</date><choice><sic/><corr>.</corr></choice></dateline>
+                <space quantity="1" unit="lines" dim="vertical"/>
+                <signed rend="centered"><persName ref="#pers-19">H. <surname>Gosselin</surname></persName></signed>
+            </div>
+            <div type="codicil">
+                <pb facs="#FRAD78_Poilus_t-0020_02"/>
+                <head>Codicille</head>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Ayant quitté ma femme <date type="otherDate" when="1915-03-26">le 26 mars
+                        1915</date> et n’ayant <lb/>eu avec elle <choice><sic>aucuns
+                            rapports</sic><corr>aucun rapport</corr></choice> depuis cette date et
+                    l’ayant <lb/>quittée non enceinte de moi<choice><sic/><corr>,</corr></choice> je
+                    déclare formellement ne <lb/><choice><sic>reconnaitre aucuns droits
+                            a</sic><corr>reconnaître aucun droit à</corr></choice> mon héritage
+                            <choice><sic>a</sic><corr>à</corr></choice> tout
+                            <choice><sic>enfants</sic><corr>enfant</corr></choice> <lb/><choice><sic>nès</sic><corr>né</corr></choice>
+                    illégitimement d’un autre père que moi<choice><sic/><corr>.</corr></choice></p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed><persName ref="#pers-19">H <surname>Gosselin</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="utf-8"?>
+<teiCorpus xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0"
+  xml:id="TestamentsDePoilus" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Édition numérique collaborative de testaments de Poilus de la Grande
+          Guerre</title>
+        <editor xml:id="CNougaret">Christine Nougaret (Centre Jean-Mabillon de l’Ecole nationale des
+          Chartes)</editor>
+        <editor xml:id="EdChamps">Emmanuelle de Champs (CY Cergy Paris Université)</editor>
+        <editor xml:id="FClavaud">Florence Clavaud (Archives nationales | Centre Jean-Mabillon de
+          l’Ecole nationale des chartes)</editor>
+        <editor xml:id="PCharbonnier">Pauline Charbonnier (Archives nationales)</editor>
+        <funder>Fondation des Sciences du Patrimoine</funder>
+        <funder>École nationale des chartes - Université PSL - Centre Jean Mabillon</funder>
+        <funder>CY Cergy Paris Université</funder>
+        <funder>Archives nationales</funder>
+        <funder>École nationale des chartes - Université PSL - Centre Jean Mabillon</funder>
+        <funder>Archives départementales des Yvelines</funder>
+        <funder>Archives départementales du Val-d’Oise</funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>Première édition électronique, fondée sur un travail de transcription
+          collaborative</edition>
+        <respStmt>
+          <resp>Numérisation des testaments des Archives nationales</resp>
+          <orgName xml:id="AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+            Département de la Conservation. Atelier photographique</orgName>
+        </respStmt>
+        <respStmt>
+          <resp>Numérisation des testaments des Archives départementales des Yvelines</resp>
+          <orgName xml:id="AD78">Archives départementales des Yvelines</orgName>
+        </respStmt>
+        <respStmt>
+          <resp>Numérisation des testaments des Archives départementales du Val-d’Oise</resp>
+          <orgName xml:id="AD95">Archives départementales du Val-d’Oise</orgName>
+        </respStmt>
+        <respStmt>
+          <resp>Identification et description des testaments aux Archives nationales (personnel du
+            Minutier central des notaires de Paris)</resp>
+
+          <persName xml:id="AM">Aurélie Massie (stagiaire de l’Ecole nationale des
+            chartes)</persName>
+
+          <persName xml:id="BDavy">Benjamin Davy</persName>
+
+
+          <persName xml:id="LC">Laure Cadars</persName>
+
+          <persName xml:id="LVieillon">Lucie Vieillon (vacataire de recherche ; actuellement chef de
+            projet numérique à la Bibliothèque interuniversitaire de la Sorbonne)</persName>
+
+          <persName xml:id="MD">Marc Durand</persName>
+
+          <persName xml:id="MLocatelli">Mélisa Locatelli</persName>
+
+          <persName xml:id="WG">Wilfried Gourdon</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Identification et description des testaments aux Archives nationales (bénévoles ou
+            chercheurs)</resp>
+
+
+
+          <persName xml:id="DChristiane">Christiane Demeulenaere-Douyère (conservateur général du
+            patrimoine honoraire)</persName>
+
+          <persName ref="#CNougaret">Christine Nougaret (professeur émérite à l’École nationale des
+            chartes, membre du Centre Jean-Mabillon)</persName>
+
+          <persName xml:id="PH">Philippe Henwood (conservateur général du patrimoine
+            honoraire)</persName>
+          <persName xml:id="RCM">Rosine Cleyet-Michaud (conservateur général du patrimoine
+            honoraire)</persName>
+
+        </respStmt>
+        <respStmt>
+          <resp>Identification et description des testaments aux Archives départementales des
+            Yvelines (personnel du service)</resp>
+
+
+
+
+
+          <persName xml:id="MDeuve">Mathilde Deuve (responsable de la cellule de développement des
+            publics)</persName>
+
+
+          <persName xml:id="SBlanchard">Sophie Blanchard (responsable des actions pédagogiques et
+            éducatives à la cellule de développement des publics)</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Identification et description des testaments aux Archives départementales des
+            Yvelines (bénévoles)</resp>
+
+
+          <persName xml:id="CChauvelier">Catherine Chauvelier</persName>
+
+
+          <persName xml:id="CSouchon">Catherine Souchon</persName>
+
+          <persName xml:id="CF">Chantal Furgaut</persName>
+
+          <persName xml:id="DA">Danièle Allezard</persName>
+
+          <persName xml:id="DMD">Denis Michel-Dansac</persName>
+
+          <persName xml:id="DL">Dominique Lemaitre</persName>
+
+
+          <persName xml:id="FAuriau">Françoise Auriau</persName>
+
+          <persName xml:id="FP">Françoise Pinchard</persName>
+
+
+          <persName xml:id="JG">Jacqueline Gallois</persName>
+          <persName xml:id="MAD">Marie-Anne Dor</persName>
+
+          <persName xml:id="MOD">Marie-Odile DUHEM</persName>
+
+          <persName xml:id="MTS">Marie-Thérèse Solignat</persName>
+
+
+          <persName xml:id="MR">Michel Renard</persName>
+
+
+          <persName xml:id="NGiraud">Nicole Giraud</persName>
+
+          <persName xml:id="RG">Regine Guillot</persName>
+
+
+          <persName xml:id="TR">Thierry Rihouey</persName>
+
+
+          <persName xml:id="VLemee">Valérie Lemée</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Identification et description des testaments aux Archives départementales du
+            Val-d’Oise (personnel du service)</resp>
+
+          <persName xml:id="SD">Sophie Delinge</persName>
+          <persName xml:id="SDechavanne">Sylvie Dechavanne (chef du service des Publics)</persName>
+          <persName xml:id="TO">Thomas Olivier</persName>
+
+        </respStmt>
+        <respStmt>
+          <resp>Identification et description des testaments aux Archives départementales du
+            Val-d’Oise (étudiants ou chercheurs)</resp>
+
+          <persName xml:id="AP">Anais Pontoparia</persName>
+          <persName xml:id="AMangeot">Antoine Mangeot</persName>
+
+          <persName xml:id="CSalmon">Chloé Salmon</persName>
+          <persName xml:id="CR">Christian Rodriguez</persName>
+          <persName xml:id="ELL">Emilie Laffitte-Louisou</persName>
+          <persName xml:id="JCL">Jean-Claude Lescure (professeur des universités, Cergy-CY
+            Université)</persName>
+          <persName xml:id="JK">Juline Kibongui</persName>
+          <persName xml:id="KSifakis">Konstantinos Sifakis</persName>
+          <persName xml:id="LLecoutre">Lena Lecoutre</persName>
+          <persName xml:id="ML">Maeva Leblond</persName>
+
+          <persName xml:id="MLeuthereau">Maxime Leuthereau</persName>
+          <persName xml:id="PCB">Paul Cazin-Bernier</persName>
+
+          <persName xml:id="SDoman">Sarah Doman</persName>
+          <persName xml:id="SB">Sherine Berzig</persName>
+          <persName xml:id="TP">Tiffanie Pitot</persName>
+          <persName xml:id="TG">Tristan Girard</persName>
+          <persName xml:id="VL">Victor Lefranc</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Transcription bénévole et collaborative des testaments</resp>
+
+
+
+
+
+
+          <persName xml:id="ACourtin">ACourtin</persName>
+          <persName xml:id="Adèle">Adèle</persName>
+          <persName xml:id="Alcofrybas">Alcofrybas</persName>
+          <persName xml:id="ALemoine">Aurélie Lemoine</persName>
+          <persName xml:id="ALFUSTEC">Annie Le Fustec</persName>
+          <persName xml:id="alp">alp</persName>
+          <persName xml:id="Amarti">Amarti</persName>
+          <persName xml:id="Annie">Annie</persName>
+
+          <persName xml:id="ASJPeronneau">ASJPeronneau</persName>
+          <persName xml:id="BAlexis">BAlexis</persName>
+          <persName xml:id="barner66">barner66</persName>
+          <persName xml:id="BeaLct">BeaLct</persName>
+          <persName xml:id="BRingot">BRingot</persName>
+          <persName xml:id="C.Andrieux">C.Andrieux</persName>
+          <persName xml:id="Caillibot">Caillibot</persName>
+          <persName xml:id="Chloelsa">Chloé Hamadache</persName>
+          <persName xml:id="Chrisg58">Chrisg58</persName>
+          <persName xml:id="Clarisse.M">Clarisse.M</persName>
+          <persName xml:id="CLbt">CLbt</persName>
+          <persName xml:id="CMohr">CMohr</persName>
+          <persName xml:id="Constance">Constance</persName>
+          <persName xml:id="CRETE">CRETE</persName>
+          <persName xml:id="criondet">criondet</persName>
+          <persName xml:id="CTMercier">Camille Tolila Mercier</persName>
+          <persName xml:id="cyrillepons">cyrillepons</persName>
+          <persName xml:id="DBR">DBR</persName>
+          <persName ref="#DChristiane">Christiane Demeulenaere-Douyère</persName>
+          <persName xml:id="DDP9">DDP9</persName>
+          <persName xml:id="Desauthieux">Laurent Corbin</persName>
+          <persName xml:id="DMichel">DMichel</persName>
+          <persName xml:id="Douat">Frédéric Douat</persName>
+          <persName xml:id="EGénéalogie">EGénéalogie</persName>
+          <persName xml:id="emeline">emeline</persName>
+          <persName xml:id="Emilie_Fromont">Emilie_Fromont</persName>
+          <persName xml:id="emmanuelleph">emmanuelleph</persName>
+          <persName xml:id="eperrier">Eddy Perrier</persName>
+          <persName xml:id="EPerrin">EPerrin</persName>
+          <persName xml:id="Eugénie">Eugénie</persName>
+          <persName xml:id="F.Mace">F.Mace</persName>
+          <persName xml:id="fcys14">fcys14</persName>
+
+          <persName xml:id="FMARIECLAIRE">FMARIECLAIRE</persName>
+          <persName xml:id="G.Abitbol">G.Abitbol</persName>
+          <persName xml:id="Gaelle">Gaelle</persName>
+          <persName xml:id="Gautierhache">Gautierhache</persName>
+          <persName xml:id="GBMireille">Mireille Grais-Bruguière</persName>
+          <persName xml:id="Genea78">Genea78</persName>
+          <persName xml:id="GIROD">GIROD</persName>
+          <persName xml:id="GLEMOINE">GLEMOINE</persName>
+          <persName xml:id="GPINET">GPINET</persName>
+          <persName xml:id="havannah">havannah</persName>
+          <persName xml:id="HB.">Hélène Brossier</persName>
+          <persName xml:id="HGz">HGz</persName>
+          <persName xml:id="Ingrid">Ingrid</persName>
+          <persName xml:id="JBB">JBB</persName>
+
+          <persName xml:id="JCRenard">JCRenard</persName>
+          <persName xml:id="JFRIDLI">JFRIDLI</persName>
+          <persName xml:id="Jideuxhemme">Jideuxhemme</persName>
+          <persName xml:id="joanielacas">joanielacas</persName>
+          <persName xml:id="jpetit">jpetit</persName>
+          <persName xml:id="lagrange">lagrange</persName>
+          <persName xml:id="Lagrange">Lagrange</persName>
+          <persName xml:id="Lamotte">Isabelle Lamotte</persName>
+          <persName xml:id="laplume25">laplume25</persName>
+          <persName xml:id="lauraRsr">lauraRsr</persName>
+          <persName xml:id="LBIsabelle">LBIsabelle</persName>
+          <persName xml:id="lelia">Lélia Picabia</persName>
+          <persName xml:id="lescure">Jean-Claude Lescure</persName>
+          <persName xml:id="LHUGONNIER">LHUGONNIER</persName>
+          <persName xml:id="LJaubertie">LJaubertie</persName>
+          <persName xml:id="majubama">majubama</persName>
+          <persName xml:id="Maniet">Maniet</persName>
+          <persName xml:id="MarionJo">MarionJo</persName>
+          <persName xml:id="Marisele">Marisele</persName>
+          <persName xml:id="maud_a">maud_a</persName>
+
+          <persName xml:id="mcv">mcv</persName>
+          <persName xml:id="melcef">melcef</persName>
+          <persName xml:id="MFGarreau">MFGarreau</persName>
+          <persName xml:id="mickael.lefevr">mickael.lefevr</persName>
+          <persName xml:id="MIna">MIna</persName>
+          <persName xml:id="mjalouneix">mjalouneix</persName>
+          <persName xml:id="MJoya">MJoya</persName>
+          <persName xml:id="Nana">Nana</persName>
+          <persName xml:id="PaulineTest">Pauline Charbonnier</persName>
+          <persName xml:id="PGambette">Philippe Gambette</persName>
+          <persName xml:id="PPocard">PPocard</persName>
+          <persName xml:id="PROMBAUT">PROMBAUT</persName>
+          <persName xml:id="Rita72">Rita72</persName>
+          <persName xml:id="SCayeux">SCayeux</persName>
+          <persName xml:id="secotine">secotine</persName>
+          <persName xml:id="sgauthier">sgauthier</persName>
+          <persName xml:id="Silver08">Silver08</persName>
+          <persName xml:id="SL.">EG</persName>
+          <persName xml:id="SLespinasse">Suzie Lespinasse</persName>
+          <persName xml:id="solene">solene</persName>
+          <persName xml:id="SophieBB">SophieBB</persName>
+          <persName xml:id="StephaneAuje">StephaneAuje</persName>
+          <persName xml:id="svieuxlo">svieuxlo</persName>
+          <persName xml:id="TPellé">TPellé</persName>
+          <persName xml:id="tvboy76">tvboy76</persName>
+          <persName xml:id="UVandeex">Una Vandeex</persName>
+          <persName xml:id="Valérie">Valérie</persName>
+          <persName xml:id="Valkim">Valkim</persName>
+          <persName xml:id="VdLavenne">VdLavenne</persName>
+
+          <persName xml:id="Virginie">Virginie</persName>
+          <persName xml:id="yannlb">yannlb</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Modélisation et élaboration du fichier ODD et du schéma RelaxNG</resp>
+          <persName ref="#FClavaud">Florence Clavaud</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Validation des travaux collaboratifs de transcription et d’encodage</resp>
+          <persName ref="#CNougaret">Christine Nougaret</persName>
+          <persName ref="#EdChamps">Emmanuelle de Champs</persName>
+
+          <persName ref="#SDechavanne">Sylvie Dechavanne</persName>
+          <persName xml:id="YvelinesDoc">YvelinesDoc</persName>
+          <persName xml:id="PLPallec">PLPallec</persName>
+          <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+          <persName ref="#FClavaud">Florence Clavaud</persName>
+          <persName xml:id="jmorvan">Josselin Morvan</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Traitements finaux hors plateforme de transcription collaborative : enrichissements
+            et corrections automatiques, contrôle de qualité manuel final</resp>
+          <persName ref="#FClavaud">Florence Clavaud</persName>
+          <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+          <persName ref="#jmorvan">Josselin Morvan</persName>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher><orgName xml:id="AN">Archives nationales</orgName></publisher>
+        <publisher><orgName>CY Cergy Paris Université</orgName></publisher>
+        <publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher>
+        <publisher><orgName>École nationale des chartes</orgName></publisher>
+        <publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher>
+        <date when="2020-10"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence>
+        </availability>
+        <idno>TestamentsDePoilus</idno>
+
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="NOT_AN">
+          <msIdentifier>
+            <country>France</country>
+            <institution ref="#AN">Archives nationales</institution>
+            <collection>Minutier central des notaires de Paris</collection>
+          </msIdentifier>
+        </msDesc>
+        <msDesc xml:id="NOT_AD78">
+          <msIdentifier>
+            <country>France</country>
+            <institution ref="#AD78">Archives départementales des Yvelines</institution>
+            <collection>Archives notariales</collection>
+          </msIdentifier>
+        </msDesc>
+        <msDesc xml:id="NOT_AD95">
+          <msIdentifier>
+            <country>France</country>
+            <institution ref="#AD95">Archives départementales du Val-d’Oise</institution>
+            <collection>Archives notariales</collection>
+          </msIdentifier>
+        </msDesc>
+
+        <msDesc xml:id="EC">
+          <msIdentifier>
+            <country>France</country>
+            <collection>Registres d’Etat civil conservés aux Archives départementales</collection>
+          </msIdentifier>
+        </msDesc>
+        <msDesc xml:id="AS">
+          <msIdentifier>
+            <country>France</country>
+            <collection>Sources manuscrites diverses autres que les archives notariales ou l’Etat
+              civil</collection>
+          </msIdentifier>
+        </msDesc>
+        <bibl xml:id="MDH"><author><orgName>Ministère de la défense. Secrétariat général pour
+              l’administration. Direction de la mémoire, du patrimoine et des
+            archives</orgName></author><title><ref
+              target="http://www.memoiredeshommes.sga.defense.gouv.fr/fr/article.php?larub=24&amp;titre=morts-pour-la-france-de-la-premiere-guerre-mondiale"
+              >Site Mémoire des hommes : base de données des Morts pour la France de la Première
+              Guerre mondiale</ref></title></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation><date notBefore="1914-07-31" notAfter="1918-11-11"/>31 juillet 1914-11 novembre
+        1918</creation>
+      <langUsage>
+        <language ident="fr">français</language>
+      </langUsage>
+      <abstract>
+        <p>Le 1er août 1914, l’ordre de mobilisation générale est décrété en France. Partant à la
+          guerre sans savoir s’ils en reviendront, de nombreux hommes mobilisés rédigent leurs
+          testaments. Ces testaments de guerre, mis à exécution après leur mort au front ou des
+          suites de leurs blessures ou maladies contractées en service, sont désormais conservés au
+          sein des archives des notaires.</p>
+        <p>Ecrits dans le contexte exceptionnel de la guerre, ces testaments sont le fait d’hommes
+          jeunes, âgés de 19 à 45 ans, qui jettent sur le papier leurs dernières volontés, à la
+          veille de leur départ pour le front, à la faveur d’une permission, plus rarement sur le
+          front même quand la guerre s’éternise. Généralement courts et peu formalisés, écrits
+          parfois avec une orthographe incertaine, ces testaments appartiennent à la catégorie
+          juridique des testaments olographes c’est à dire écrits, datés et signés de la main même
+          du testateur. Gardés sur eux par les Poilus, confiés par eux à un proche ou serrés dans un
+          meuble, ces testaments ont pu être détruits à l’issue de la guerre quand le Poilu a
+          survécu et repris une vie civile. Les testaments qui nous sont parvenus sont donc ceux des
+          Poilus Morts pour la France et qui ont donc servi à leur succession. Ainsi s’explique leur
+          présence aujourd’hui dans les archives notariales.</p>
+        <p>Parfois seuls témoignages écrits subsistants de ces Morts pour la France, ces testaments
+          de guerre nous permettent de saisir, dans leur simplicité même, leur brièveté et leur
+          sincérité, l’urgence de la situation, le sentiment bien présent de la mort probable ou
+          imminente et l’état d’esprit d’hommes jeunes confrontés à l’inéluctable. Pour la plupart
+          d’entre eux, il s’agit moins de s’épancher que de parer au plus pressé en réglant le sort
+          de ses proches et en leur transmettant, le cas échéant, un dernier témoignage
+          d’affection.</p>
+      </abstract>
+      <textClass>
+        <keywords>
+          <term type="subject">Grande Guerre</term>
+          <term type="subject">Poilu</term>
+          <term type="subject">testament</term>
+          <term type="subject">édition collaborative</term>
+          <term type="subject">écrits du for privé</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <encodingDesc xml:id="globalEncodingDesc">
+      <projectDesc>
+        <p>Description générale du projet de transcription collaborative etc.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>L’édition est séquencée par document (le testament et sa ou ses éventuelles enveloppes) :
+          pour chacun d’entre eux, un fichier TEI est produit. Ce choix est adapté à la fois à la
+          nature du corpus (une collection homogène de documents) et aux modalités du travail
+          collaboratif. L’édition liste également les images numériques des documents, qui ont été
+          produites par les trois services d’archives concernés. A un document correspondent une ou
+          plusieurs images numériques, lesquelles correspondent en général chacune à une page du
+          testament ou à un des côtés (recto ou verso ) d’une enveloppe. Parfois cependant, le
+          document ayant été relié et étant solidaire des autres pièces composant la minute, il a
+          fallu produire deux images complémentaires pour la même page, puis constituer par
+          post-traitement une image à partir de ces deux images complémentaires.</p>
+        <p>Chaque document a reçu un numéro d’ordre qui reflète l’ordre chronologique dans lequel le
+          travail d’identification a été mené, sans autre signification.</p>
+        <p>Chaque testament est décrit par une brève analyse donnant : sa date de temps et de lieu ;
+          le nom de son auteur, les circonstances et la date du décès du Poilu ; une description
+          matérielle du testament (type de papier, pagination, dimensions, matière de l’écriture) ;
+          sa cote.</p>
+        <p>Nous avons fait le choix de livrer au lecteur une édition lui permettant à la fois de
+          lire une transcription imitative du texte, permettant de respecter le plus fidèlement
+          possible l’écriture et la mise en page du Poilu, et de rendre compte ainsi de la
+          matérialité du texte ; et une édition du texte définitif, modernisée (orthographe) et
+          normalisée (harmonisation de l’écriture des dates, de la ponctuation et de la
+          présentation, et résolution des abréviations correction des fautes de syntaxe), qui permet
+          une lecture plus fluide. Pour cette dernière, nous avons suivi les règles d’édition de
+          l’École des Chartes (<bibl><author>Nougaret (Christine)</author>,<author>Parinet
+              (Élisabeth)</author>,<respStmt>
+              <persName>Parinet (Élisabeth)</persName>
+              <resp>(collab.)</resp>
+            </respStmt>,<title level="a">L’édition critique des textes contemporains, XIXe-XXIe
+              siècle</title>. Paris : École nationale des chartes, 2015.</bibl>.</p>
+
+        <normalization>
+          <p>L’édition propose à la fois une transcription fidèle du texte et de sa graphie
+            d’origine, et une forme normalisée de cette graphie (emploi des majuscules, corrections
+            orthographiques et syntaxiques).</p>
+        </normalization>
+        <punctuation>
+          <p>La ponctuation d’origine a été transcrite. Une ponctuation normalisée est proposée.</p>
+        </punctuation>
+      </editorialDecl>
+      <samplingDecl>
+        <p>L’édition porte sur les testaments olographes et leurs enveloppes éventuelles, si elles
+          sont de la main du Poilu. Seules les parties du texte de la main du testateur sont
+          transcrites. La présente édition ne concerne donc pas les éléments textuels ajoutés au
+          testament lors de son ouverture au tribunal (pagination, paraphes, signature du juge...)
+          ni les autres mentions hors teneur. Seul est donc édité le texte autographe tel que
+          délimité par le bâtonnage du juge.</p>
+      </samplingDecl>
+      <variantEncoding method="parallel-segmentation" location="internal"/>
+      <appInfo>
+        <application version="1.0" ident="TranscribeToTEI">
+          <label>Transcribe To TEI</label>
+          <ref target="https://github.com/TranscribeToTEI">https://github.com/TranscribeToTEI</ref>
+        </application>
+      </appInfo>
+
+    </encodingDesc>
+  </teiHeader>
+  <xi:include href="personnes.xml" parse="xml"/>
+  <xi:include href="lieux.xml" parse="xml"/>
+  <xi:include href="unites.xml" parse="xml"/>
+  <xi:include href="will_AD78_0001.xml" parse="xml"/>
+  <xi:include href="will_AD78_0002.xml" parse="xml"/>
+  <xi:include href="will_AD78_0003.xml" parse="xml"/>
+  <xi:include href="will_AD78_0004.xml" parse="xml"/>
+  <xi:include href="will_AD78_0005.xml" parse="xml"/>
+  <xi:include href="will_AD78_0006.xml" parse="xml"/>
+  <xi:include href="will_AD78_0007.xml" parse="xml"/>
+  <xi:include href="will_AD78_0008.xml" parse="xml"/>
+  <xi:include href="will_AD78_0009.xml" parse="xml"/>
+  <xi:include href="will_AD78_0010.xml" parse="xml"/>
+  <xi:include href="will_AD78_0011.xml" parse="xml"/>
+  <xi:include href="will_AD78_0012.xml" parse="xml"/>
+  <xi:include href="will_AD78_0013.xml" parse="xml"/>
+  <xi:include href="will_AD78_0014.xml" parse="xml"/>
+  <xi:include href="will_AD78_0015.xml" parse="xml"/>
+  <xi:include href="will_AD78_0016.xml" parse="xml"/>
+  <xi:include href="will_AD78_0017.xml" parse="xml"/>
+  <xi:include href="will_AD78_0018.xml" parse="xml"/>
+  <xi:include href="will_AD78_0019.xml" parse="xml"/>
+  <xi:include href="will_AD78_0020.xml" parse="xml"/>
+  <xi:include href="will_AD78_0021.xml" parse="xml"/>
+  <xi:include href="will_AD78_0022.xml" parse="xml"/>
+  <xi:include href="will_AD78_0023.xml" parse="xml"/>
+  <xi:include href="will_AD78_0024.xml" parse="xml"/>
+  <xi:include href="will_AD78_0025.xml" parse="xml"/>
+  <xi:include href="will_AD78_0026.xml" parse="xml"/>
+  <xi:include href="will_AD78_0027.xml" parse="xml"/>
+  <xi:include href="will_AD78_0028.xml" parse="xml"/>
+  <xi:include href="will_AD78_0029.xml" parse="xml"/>
+  <xi:include href="will_AD78_0030.xml" parse="xml"/>
+  <xi:include href="will_AD78_0031.xml" parse="xml"/>
+  <xi:include href="will_AD78_0032.xml" parse="xml"/>
+  <xi:include href="will_AD78_0034.xml" parse="xml"/>
+  <xi:include href="will_AD78_0035.xml" parse="xml"/>
+  <xi:include href="will_AD78_0037.xml" parse="xml"/>
+  <xi:include href="will_AD78_0038.xml" parse="xml"/>
+  <xi:include href="will_AD78_0039.xml" parse="xml"/>
+  <xi:include href="will_AD78_0040.xml" parse="xml"/>
+  <xi:include href="will_AD78_0041.xml" parse="xml"/>
+  <xi:include href="will_AD78_0042.xml" parse="xml"/>
+  <xi:include href="will_AD78_0043.xml" parse="xml"/>
+  <xi:include href="will_AD78_0044.xml" parse="xml"/>
+  <xi:include href="will_AD78_0045.xml" parse="xml"/>
+  <xi:include href="will_AD78_0046.xml" parse="xml"/>
+  <xi:include href="will_AD78_0047.xml" parse="xml"/>
+  <xi:include href="will_AD78_0048.xml" parse="xml"/>
+  <xi:include href="will_AD78_0049.xml" parse="xml"/>
+  <xi:include href="will_AD78_0050.xml" parse="xml"/>
+  <xi:include href="will_AD78_0051.xml" parse="xml"/>
+  <xi:include href="will_AD78_0052.xml" parse="xml"/>
+  <xi:include href="will_AD78_0053.xml" parse="xml"/>
+  <xi:include href="will_AD78_0054.xml" parse="xml"/>
+  <xi:include href="will_AD78_0055.xml" parse="xml"/>
+  <xi:include href="will_AD78_0056.xml" parse="xml"/>
+  <xi:include href="will_AD78_0057.xml" parse="xml"/>
+  <xi:include href="will_AD78_0058.xml" parse="xml"/>
+  <xi:include href="will_AD78_0059.xml" parse="xml"/>
+  <xi:include href="will_AD78_0060.xml" parse="xml"/>
+  <xi:include href="will_AD78_0061.xml" parse="xml"/>
+  <xi:include href="will_AD78_0062.xml" parse="xml"/>
+  <xi:include href="will_AD78_0063.xml" parse="xml"/>
+  <xi:include href="will_AD78_0064.xml" parse="xml"/>
+  <xi:include href="will_AD78_0065.xml" parse="xml"/>
+  <xi:include href="will_AD78_0066.xml" parse="xml"/>
+  <xi:include href="will_AD78_0067.xml" parse="xml"/>
+  <xi:include href="will_AD78_0068.xml" parse="xml"/>
+  <xi:include href="will_AD78_0069.xml" parse="xml"/>
+  <xi:include href="will_AD78_0070.xml" parse="xml"/>
+  <xi:include href="will_AD78_0071.xml" parse="xml"/>
+  <xi:include href="will_AD78_0072.xml" parse="xml"/>
+  <xi:include href="will_AD78_0073.xml" parse="xml"/>
+  <xi:include href="will_AD78_0074.xml" parse="xml"/>
+  <xi:include href="will_AD78_0076.xml" parse="xml"/>
+  <xi:include href="will_AD78_0077.xml" parse="xml"/>
+  <xi:include href="will_AD78_0079.xml" parse="xml"/>
+  <xi:include href="will_AD78_0080.xml" parse="xml"/>
+  <xi:include href="will_AD78_0082.xml" parse="xml"/>
+  <xi:include href="will_AD78_0083.xml" parse="xml"/>
+  <xi:include href="will_AD78_0084.xml" parse="xml"/>
+  <xi:include href="will_AD78_0085.xml" parse="xml"/>
+  <xi:include href="will_AD78_0086.xml" parse="xml"/>
+  <xi:include href="will_AD78_0087.xml" parse="xml"/>
+  <xi:include href="will_AD78_0088.xml" parse="xml"/>
+  <xi:include href="will_AD78_0089.xml" parse="xml"/>
+  <xi:include href="will_AD78_0093.xml" parse="xml"/>
+  <xi:include href="will_AD78_0094.xml" parse="xml"/>
+  <xi:include href="will_AD78_0099.xml" parse="xml"/>
+  <xi:include href="will_AD78_0100.xml" parse="xml"/>
+  <xi:include href="will_AD78_0104.xml" parse="xml"/>
+  <xi:include href="will_AD78_0105.xml" parse="xml"/>
+  <xi:include href="will_AD78_0106.xml" parse="xml"/>
+  <xi:include href="will_AD78_0107.xml" parse="xml"/>
+  <xi:include href="will_AD78_0110.xml" parse="xml"/>
+  <xi:include href="will_AD95_0001.xml" parse="xml"/>
+  <xi:include href="will_AD95_0002.xml" parse="xml"/>
+  <xi:include href="will_AD95_0003.xml" parse="xml"/>
+  <xi:include href="will_AD95_0004.xml" parse="xml"/>
+  <xi:include href="will_AD95_0005.xml" parse="xml"/>
+  <xi:include href="will_AD95_0006.xml" parse="xml"/>
+  <xi:include href="will_AD95_0007.xml" parse="xml"/>
+  <xi:include href="will_AD95_0008.xml" parse="xml"/>
+  <xi:include href="will_AD95_0009.xml" parse="xml"/>
+  <xi:include href="will_AD95_0011.xml" parse="xml"/>
+  <xi:include href="will_AD95_0012.xml" parse="xml"/>
+  <xi:include href="will_AD95_0013.xml" parse="xml"/>
+  <xi:include href="will_AD95_0015.xml" parse="xml"/>
+  <xi:include href="will_AD95_0016.xml" parse="xml"/>
+  <xi:include href="will_AD95_0017.xml" parse="xml"/>
+  <xi:include href="will_AD95_0018.xml" parse="xml"/>
+  <xi:include href="will_AD95_0019.xml" parse="xml"/>
+  <xi:include href="will_AD95_0020.xml" parse="xml"/>
+  <xi:include href="will_AD95_0021.xml" parse="xml"/>
+  <xi:include href="will_AD95_0022.xml" parse="xml"/>
+  <xi:include href="will_AD95_0023.xml" parse="xml"/>
+  <xi:include href="will_AD95_0024.xml" parse="xml"/>
+  <xi:include href="will_AD95_0025.xml" parse="xml"/>
+  <xi:include href="will_AD95_0026.xml" parse="xml"/>
+  <xi:include href="will_AD95_0027.xml" parse="xml"/>
+  <xi:include href="will_AD95_0028.xml" parse="xml"/>
+  <xi:include href="will_AD95_0030.xml" parse="xml"/>
+  <xi:include href="will_AD95_0031.xml" parse="xml"/>
+  <xi:include href="will_AD95_0032.xml" parse="xml"/>
+  <xi:include href="will_AD95_0033.xml" parse="xml"/>
+  <xi:include href="will_AD95_0034.xml" parse="xml"/>
+  <xi:include href="will_AD95_0035.xml" parse="xml"/>
+  <xi:include href="will_AD95_0036.xml" parse="xml"/>
+  <xi:include href="will_AD95_0037.xml" parse="xml"/>
+  <xi:include href="will_AD95_0038.xml" parse="xml"/>
+  <xi:include href="will_AD95_0039.xml" parse="xml"/>
+  <xi:include href="will_AD95_0040.xml" parse="xml"/>
+  <xi:include href="will_AD95_0041.xml" parse="xml"/>
+  <xi:include href="will_AD95_0042.xml" parse="xml"/>
+  <xi:include href="will_AD95_0043.xml" parse="xml"/>
+  <xi:include href="will_AD95_0045.xml" parse="xml"/>
+  <xi:include href="will_AD95_0046.xml" parse="xml"/>
+  <xi:include href="will_AD95_0047.xml" parse="xml"/>
+  <xi:include href="will_AD95_0048.xml" parse="xml"/>
+  <xi:include href="will_AD95_0049.xml" parse="xml"/>
+  <xi:include href="will_AD95_0050.xml" parse="xml"/>
+  <xi:include href="will_AD95_0051.xml" parse="xml"/>
+  <xi:include href="will_AD95_0052.xml" parse="xml"/>
+  <xi:include href="will_AN_0001.xml" parse="xml"/>
+  <xi:include href="will_AN_0002.xml" parse="xml"/>
+  <xi:include href="will_AN_0003.xml" parse="xml"/>
+  <xi:include href="will_AN_0006.xml" parse="xml"/>
+  <xi:include href="will_AN_0007.xml" parse="xml"/>
+  <xi:include href="will_AN_0008.xml" parse="xml"/>
+  <xi:include href="will_AN_0009.xml" parse="xml"/>
+  <xi:include href="will_AN_0010.xml" parse="xml"/>
+  <xi:include href="will_AN_0011.xml" parse="xml"/>
+  <xi:include href="will_AN_0012.xml" parse="xml"/>
+  <xi:include href="will_AN_0015.xml" parse="xml"/>
+  <xi:include href="will_AN_0016.xml" parse="xml"/>
+  <xi:include href="will_AN_0017.xml" parse="xml"/>
+  <xi:include href="will_AN_0018.xml" parse="xml"/>
+  <xi:include href="will_AN_0020.xml" parse="xml"/>
+  <xi:include href="will_AN_0021.xml" parse="xml"/>
+  <xi:include href="will_AN_0022.xml" parse="xml"/>
+  <xi:include href="will_AN_0023.xml" parse="xml"/>
+  <xi:include href="will_AN_0024.xml" parse="xml"/>
+  <xi:include href="will_AN_0025.xml" parse="xml"/>
+  <xi:include href="will_AN_0026.xml" parse="xml"/>
+  <xi:include href="will_AN_0027.xml" parse="xml"/>
+  <xi:include href="will_AN_0030.xml" parse="xml"/>
+  <xi:include href="will_AN_0031.xml" parse="xml"/>
+  <xi:include href="will_AN_0032.xml" parse="xml"/>
+  <xi:include href="will_AN_0033.xml" parse="xml"/>
+  <xi:include href="will_AN_0034.xml" parse="xml"/>
+  <xi:include href="will_AN_0035.xml" parse="xml"/>
+  <xi:include href="will_AN_0037.xml" parse="xml"/>
+  <xi:include href="will_AN_0038.xml" parse="xml"/>
+  <xi:include href="will_AN_0039.xml" parse="xml"/>
+  <xi:include href="will_AN_0040.xml" parse="xml"/>
+  <xi:include href="will_AN_0041.xml" parse="xml"/>
+  <xi:include href="will_AN_0043.xml" parse="xml"/>
+  <xi:include href="will_AN_0044.xml" parse="xml"/>
+  <xi:include href="will_AN_0045.xml" parse="xml"/>
+  <xi:include href="will_AN_0046.xml" parse="xml"/>
+  <xi:include href="will_AN_0047.xml" parse="xml"/>
+  <xi:include href="will_AN_0048.xml" parse="xml"/>
+  <xi:include href="will_AN_0049.xml" parse="xml"/>
+  <xi:include href="will_AN_0050.xml" parse="xml"/>
+  <xi:include href="will_AN_0051.xml" parse="xml"/>
+  <xi:include href="will_AN_0052.xml" parse="xml"/>
+  <xi:include href="will_AN_0053.xml" parse="xml"/>
+  <xi:include href="will_AN_0054.xml" parse="xml"/>
+  <xi:include href="will_AN_0055.xml" parse="xml"/>
+  <xi:include href="will_AN_0056.xml" parse="xml"/>
+  <xi:include href="will_AN_0057.xml" parse="xml"/>
+  <xi:include href="will_AN_0058.xml" parse="xml"/>
+  <xi:include href="will_AN_0059.xml" parse="xml"/>
+  <xi:include href="will_AN_0060.xml" parse="xml"/>
+  <xi:include href="will_AN_0061.xml" parse="xml"/>
+  <xi:include href="will_AN_0062.xml" parse="xml"/>
+  <xi:include href="will_AN_0063.xml" parse="xml"/>
+  <xi:include href="will_AN_0064.xml" parse="xml"/>
+  <xi:include href="will_AN_0065.xml" parse="xml"/>
+  <xi:include href="will_AN_0066.xml" parse="xml"/>
+  <xi:include href="will_AN_0067.xml" parse="xml"/>
+  <xi:include href="will_AN_0068.xml" parse="xml"/>
+  <xi:include href="will_AN_0069.xml" parse="xml"/>
+  <xi:include href="will_AN_0070.xml" parse="xml"/>
+  <xi:include href="will_AN_0071.xml" parse="xml"/>
+  <xi:include href="will_AN_0072.xml" parse="xml"/>
+  <xi:include href="will_AN_0073.xml" parse="xml"/>
+  <xi:include href="will_AN_0074.xml" parse="xml"/>
+  <xi:include href="will_AN_0075.xml" parse="xml"/>
+  <xi:include href="will_AN_0077.xml" parse="xml"/>
+  <xi:include href="will_AN_0078.xml" parse="xml"/>
+  <xi:include href="will_AN_0079.xml" parse="xml"/>
+  <xi:include href="will_AN_0080.xml" parse="xml"/>
+  <xi:include href="will_AN_0081.xml" parse="xml"/>
+  <xi:include href="will_AN_0082.xml" parse="xml"/>
+  <xi:include href="will_AN_0083.xml" parse="xml"/>
+  <xi:include href="will_AN_0084.xml" parse="xml"/>
+  <xi:include href="will_AN_0086.xml" parse="xml"/>
+  <xi:include href="will_AN_0087.xml" parse="xml"/>
+  <xi:include href="will_AN_0088.xml" parse="xml"/>
+  <xi:include href="will_AN_0089.xml" parse="xml"/>
+  <xi:include href="will_AN_0090.xml" parse="xml"/>
+  <xi:include href="will_AN_0094.xml" parse="xml"/>
+  <xi:include href="will_AN_0103.xml" parse="xml"/>
+  <xi:include href="will_AN_0108.xml" parse="xml"/>
+  <xi:include href="will_AN_0111.xml" parse="xml"/>
+  <xi:include href="will_AN_0120.xml" parse="xml"/>
+  <xi:include href="will_AN_0125.xml" parse="xml"/>
+  <xi:include href="will_AN_0152.xml" parse="xml"/>
+  <xi:include href="will_AN_0154.xml" parse="xml"/>
+  <xi:include href="will_AN_0155.xml" parse="xml"/>
+  <xi:include href="will_AN_0156.xml" parse="xml"/>
+  <xi:include href="will_AN_0157.xml" parse="xml"/>
+  <xi:include href="will_AN_0158.xml" parse="xml"/>
+  <xi:include href="will_AN_0159.xml" parse="xml"/>
+  <xi:include href="will_AN_0160.xml" parse="xml"/>
+  <xi:include href="will_AN_0163.xml" parse="xml"/>
+  <xi:include href="will_AN_0164.xml" parse="xml"/>
+  <xi:include href="will_AN_0165.xml" parse="xml"/>
+  <xi:include href="will_AN_0166.xml" parse="xml"/>
+  <xi:include href="will_AN_0167.xml" parse="xml"/>
+  <xi:include href="will_AN_0168.xml" parse="xml"/>
+  <xi:include href="will_AN_0169.xml" parse="xml"/>
+  <xi:include href="will_AN_0170.xml" parse="xml"/>
+  <xi:include href="will_AN_0188.xml" parse="xml"/>
+  <xi:include href="will_AN_0194.xml" parse="xml"/>
+  <xi:include href="will_AN_0220.xml" parse="xml"/>
+  <xi:include href="will_AN_0228.xml" parse="xml"/>
+  <xi:include href="will_AN_0240.xml" parse="xml"/>
+  <xi:include href="will_AN_0249.xml" parse="xml"/>
+  <xi:include href="will_AN_0271.xml" parse="xml"/>
+  <xi:include href="will_AN_0318.xml" parse="xml"/>
+  <xi:include href="will_AN_0323.xml" parse="xml"/>
+  <xi:include href="will_AN_0325.xml" parse="xml"/>
+  <xi:include href="will_AN_0327.xml" parse="xml"/>
+  <xi:include href="will_AN_0343.xml" parse="xml"/>
+  <xi:include href="will_AN_0359.xml" parse="xml"/>
+  <xi:include href="will_AN_0369.xml" parse="xml"/>
+  <xi:include href="will_AN_0370.xml" parse="xml"/>
+  <xi:include href="will_AN_0371.xml" parse="xml"/>
+  <xi:include href="will_AN_0372.xml" parse="xml"/>
+  <xi:include href="will_AN_0373.xml" parse="xml"/>
+  <xi:include href="will_AN_0374.xml" parse="xml"/>
+  <xi:include href="will_AN_0375.xml" parse="xml"/>
+  <xi:include href="will_AN_0376.xml" parse="xml"/>
+  <xi:include href="will_AN_2001.xml" parse="xml"/>
+  <xi:include href="will_AN_2002.xml" parse="xml"/>
+  <xi:include href="will_AN_2003.xml" parse="xml"/>
+</teiCorpus>

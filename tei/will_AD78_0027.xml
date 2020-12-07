@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0027">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Hippolyte Augustin Béhuret (23 août 1915)] : édition électronique</title><author><persName ref="#pers-26">Hippolyte Augustin Béhuret
+                    (1880-1915)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#DA">Danièle Allezard</persName><persName ref="#SBlanchard">Sophie Blanchard</persName><persName ref="#MDeuve">Mathilde Deuve</persName><persName ref="#FAuriau">Françoise Auriau</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#lelia">Lélia Picabia</persName><persName ref="#EGénéalogie">EGénéalogie</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#EdChamps">Emmanuelle de Champs</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0027</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0027_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E38 782, minute du 12 novembre 1915 (dépôt du testament de Hippolyte
+                            Augustin Béhuret)</idno>
+                        <msName>Testament de Hippolyte Augustin Béhuret (23 août 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1915-08-23">23 août 1915</date>.
+                                    <placeName type="willPlace" ref="#pl-4">Chatou</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-26"><forename>Hippolyte</forename> <forename>Augustin</forename> <surname>Béhuret</surname></persName>,
+                                mort pour la France le <date when="1915-10-08">8 octobre 1915</date>
+                                à <placeName ref="#pl-58">Massiges
+                            (Marne)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de Saint-Germain-en-Laye, étude
+                                Plantelin</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0027_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E38 782, minute du 12 novembre 1915 (dépôt du testament de Hippolyte
+                            Augustin Béhuret)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-08-23">23 août 1915</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>23 août 1915.
+                                    Chatou.</p><p>testament
+                                    olographe de Hippolyte Augustin Béhuret,
+                                mort pour la France le 8 octobre 1915
+                                à Massiges
+                            (Marne).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-03-30" who="#lelia #EGénéalogie">transcription</change>
+            <change when-iso="2018-01-24/2018-02-25" who="#PCharbonnier #EdChamps ">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0027___JPEG___FRAD78_Poilus_t-0027_01.jpg" xml:id="FRAD78_Poilus_t-0027_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0027">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0027_01"/>
+                <p>Je soussigné <persName ref="#pers-26">Hippolyte
+                            Augustin <lb/><surname>Béhuret</surname></persName>, employé de commerce,
+                    demeurant <lb/>à <placeName type="willAuthorResidence" ref="#pl-4">Chatou</placeName>, route de Montesson <choice><abbr>n<hi rend="superscript-underlined">o</hi></abbr><expan>numéro</expan></choice> 238<choice><sic/><corr>,</corr></choice> <lb/>déclare faire mon
+                    testament comme il suit<choice><sic> :</sic><corr>.</corr></choice></p>
+                <p>J’institue <persName>Madame Marguerite Augustine <lb/>Désirée
+                            <surname>Grenier</surname></persName>, mon épouse, demeurant avec <lb/>
+                    moi, pour ma légataire universelle, en conséquence <lb/>je lui lègue tous les
+                    biens, meubles et immeubles <lb/>qui composeront ma succession, sans aucune <lb/>
+                    exception ni réserve ; elle en jouira et disposera <lb/>comme de chose lui
+                    appartenant en pleine <lb/>propriété à compter du jour de mon décès.</p>
+                <p>En cas d’existence d’enfants et de demande <lb/>en réduction, ce legs universel
+                    en toute propriété <lb/>se réduira à la plus forte quotité permise entre <lb/>
+                    époux des mêmes biens, meubles et immeubles et <lb/>pour jouir de la portion à
+                    laquelle elle aurait <lb/>droit en usufruit, mon épouse susnommée sera <lb/>
+                    dispensée de fournir caution et de faire
+                        emploi<choice><sic/><corr>.</corr></choice></p>
+                <dateline rend="right">Fait et écrit en entier de ma main <lb/>à <placeName type="willPlace" ref="#pl-4">Chatou</placeName>, <date type="willDate" when="1915-08-23">le <choice><sic>vingt trois Août</sic><corr>vingt-trois août</corr></choice> mil neuf cent <lb/>
+                        quinze</date><choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="centered"><persName ref="#pers-26">Hippolyte
+                            <surname>Béhuret</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0083">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title><title type="main">[Testament de Georges Fondanesche (3 juillet 1917)] : édition électronique</title><author><persName ref="#pers-173">Georges Fondanesche (-1919)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+                        Département de la Conservation. Atelier photographique</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#AM">Aurélie Massie</persName><persName ref="#MLocatelli">Mélisa Locatelli</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#lelia">Lélia Picabia</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#FClavaud">Florence Clavaud</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#jmorvan">Josselin Morvan</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AN_0083</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0083_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1645, minute du 6 novembre 1919 (dépôt du testament de Georges Fondanesche)</idno>
+                        <msName>Testament de Georges Fondanesche (3 juillet 1917)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1917-07-03">3 juillet 1917</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-173"><forename>Georges</forename> <surname>Fondanesche</surname></persName>, mort pour la France le <date when="1919-06-19">19 juin 1919</date> à <placeName ref="#pl-244">Perthes (Seine-et-Marne)</placeName>.</p>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre mauve.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010247">étude notariale 120 (CRPCEN : 75100)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0083_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1645, minute du 6 novembre 1919 (dépôt du testament de Georges Fondanesche)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1917-07-03">3 juillet 1917</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>3 juillet 1917. Paris.</p><p>testament olographe de Georges Fondanesche, mort pour la France le 19 juin 1919 à Perthes (Seine-et-Marne).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-03-22/2018-05-22" who="#SL. #lelia">transcription</change>
+            <change when-iso="2018-03-22/2018-03-29" who="#PCharbonnier #FClavaud">validation</change>
+            <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0083___JPEG___FRAN_Poilus_t-0083_01.jpg" xml:id="FRAN_Poilus_t-0083_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0083">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0083_01"/>
+                <head rend="centered">Ceci est mon testament</head>
+                <space quantity="1" unit="lines" dim="vertical"/>
+                <p>Je lègue <choice><sic>a</sic><corr>à</corr></choice> <persName>Germaine Thérèse Nottin</persName> <lb/>ma femme, au cas <choice><sic>ou</sic><corr>où</corr></choice> elle me <lb/><choice><sic>survivrais</sic><corr>survivrait,</corr></choice> la pleine propriété de <lb/>l’universalité des biens et droits mobiliers <lb/>et immobiliers qui composeront ma succession <lb/>au jour de mon <choice><sic>decés</sic><corr>décès,</corr></choice> en quoi qu’ils puissent <lb/>consister, et en quelques lieux qu’ils soient <lb/>dus et situés sans aucune exception ni <lb/><choice><sic>réserves</sic><corr>réserve</corr></choice> ; audit cas de survie jouir et disposer <lb/>desdits biens et droits comme bon lui semblera <lb/>et comme de choses lui <choice><sic>apartenant</sic><corr>appartenant</corr></choice> en pleine <lb/>propriété et <choice><sic>jouissanse a</sic><corr>jouissance à</corr></choice> compter du jour <lb/>de mon <choice><sic>décés</sic><corr>décès</corr></choice> ; si je laisse des enfants, ce <choice><sic>leg</sic><corr>legs</corr></choice> <lb/>sera réduit <choice><sic>a</sic><corr>à</corr></choice> la quotité la plus large dont <lb/>la <choice><sic>loie</sic><corr>loi</corr></choice> permet de disposer tant en pleine <lb/>propriété qu’en <choice><sic>usurfruit</sic><corr>usufruit</corr></choice>, avec dispense en <lb/>ce qui concerne l’<choice><sic>usurfruit</sic><corr>usufruit</corr></choice> de fournir <lb/><choice><sic>cotion</sic><corr>caution</corr></choice> et de faire <choice><sic>emploie</sic><corr>emploi</corr></choice>, mais <choice><sic>a</sic><corr>à</corr></choice> la charge <lb/>de faire inventaire.</p>
+                <p>Au cas <choice><sic>ou</sic><corr>où</corr></choice> ma femme viendrait <choice><sic>a</sic><corr>à</corr></choice> se remarier<choice><sic/><corr>,</corr></choice> <lb/>le <choice><sic>leg ci dessus</sic><corr>legs ci-dessus</corr></choice> profiterait <choice><sic>a</sic><corr>à</corr></choice> mes enfants.</p>
+                <p><choice><sic>Tels</sic><corr>Telles</corr></choice> sont mes dernières volontés.</p>
+                <dateline rend="centered">Fait <choice><sic>a</sic><corr>à</corr></choice>
+                    <placeName type="willPlace" ref="#pl-2">Paris</placeName>
+                    <date type="willDate" when="1917-07-03">le trois juillet 1917 <lb/><choice><sic/><corr>(</corr></choice>mille neuf cent <choice><sic>dix sept</sic><corr>dix-sept</corr></choice></date><choice><sic/><corr>),</corr></choice>
+                    <lb/><choice><sic>saint</sic><corr>sain</corr></choice> de corps et d’esprit<choice><sic/><corr>,</corr></choice>
+                    <lb/><choice><sic>Avenue</sic><corr>avenue</corr></choice> d’Italie 28<choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="centered"><persName ref="#pers-173">G <surname>Fondanesche</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

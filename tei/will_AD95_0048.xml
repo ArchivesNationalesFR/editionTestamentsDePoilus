@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD95_0048">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Maurice Moreau (21 avril 1915)] : édition électronique</title><author><persName ref="#pers-442">Maurice Moreau (1888-1918)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#MLocatelli">Mélisa Locatelli</persName><persName ref="#SD">Sophie Delinge</persName><persName ref="#TO">Thomas Olivier</persName><persName ref="#SDechavanne">Sylvie Dechavanne</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#GBMireille">Mireille Grais-Bruguière</persName><persName ref="#SL.">EG</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#SDechavanne">Sylvie Dechavanne</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD95_0048</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD95_0048_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales du Val-d’Oise</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>2E25 577, minute du 26 septembre 1919 (dépôt du testament de Maurice
+                            Moreau)</idno>
+                        <msName>Testament de Maurice Moreau (21 avril 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1915-04-21">21 avril 1915</date>.
+                                    <placeName type="willPlace" ref="#pl-229">Maisons-Alfort</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-442"><forename source="#will_AD95_0048_tes #will_AD95_0048_min  #MDH #AS">Maurice</forename> <forename source="#MDH #AS">Alexandre</forename> <forename source="#MDH #AS">Vincent</forename> <surname>Moreau</surname></persName>, mort
+                                pour la France le <date when="1918-11-24" source="#will_AD95_0048_min #MDH #AS">24 novembre 1918 [NOT]
+                                    [MDH] [AS]</date> à <placeName ref="#pl-569" source="#will_AD95_0048_min #MDH #AS">Salonique [NOT] | Hôpital
+                                    temporaire n° 1 à Zeïtenlick (Grèce) [MDH] | Hôpital temporaire
+                                    n° 1 [AS]</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier ivoire timbré réglé (testament). Enveloppe marron
+                                    (enveloppe). Papier quadrillé (codicille). </support>
+                                <extent>3 pages et 1 enveloppe. Dimensions du testament :
+                                        <dimensions type="willPage" unit="cm">
+                                        <height>17,8</height>
+                                        <width>24,9</width>
+                                    </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                                        <height>13,8</height>
+                                        <width>21,5</width>
+                                    </dimensions>. Dimensions du codicille : <dimensions type="willCodicil" unit="cm">
+                                        <height>10,9</height>
+                                        <width>16,9</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Enveloppe : encre. Codicille : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>Corneau Taverny</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD95_0048_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales du Val-d’Oise</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>2E25 577, minute du 26 septembre 1919 (dépôt du testament de Maurice
+                            Moreau)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-04-21">21 avril 1915</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>21 avril 1915.
+                                    Maisons-Alfort.</p><p>testament olographe de Maurice Alexandre Vincent Moreau, mort
+                                pour la France le 24 novembre 1918 [NOT]
+                                    [MDH] [AS] à Salonique [NOT] | Hôpital
+                                    temporaire n° 1 à Zeïtenlick (Grèce) [MDH] | Hôpital temporaire
+                                    n° 1 [AS].</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-10-09/2020-03-26" who="#MFGarreau #lelia #GBMireille #SL.">transcription</change>
+            <change when-iso="2019-10-09/2019-11-12" who="#PCharbonnier #Dechavanne">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD95_0048___JPEG___FRAD95_Poilus_t-0048_01.jpg" xml:id="FRAD95_Poilus_t-0048_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AD95_0048___JPEG___FRAD95_Poilus_t-0048_02.jpg" xml:id="FRAD95_Poilus_t-0048_02"/>
+        </surface>
+        <surface type="codicil-page" n="03">
+            <graphic url="testament_AD95_0048___JPEG___FRAD95_Poilus_t-0048_03.jpg" xml:id="FRAD95_Poilus_t-0048_03"/>
+        </surface>
+        <surface type="will-envelope-recto" n="04">
+            <graphic url="testament_AD95_0048___JPEG___FRAD95_Poilus_t-0048_04.jpg" xml:id="FRAD95_Poilus_t-0048_04"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD95_0048">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD95_Poilus_t-0048_01"/>
+                <head rend="centered">Ceci est mon testament.</head>
+                <p> Mes économies comportent : 1<hi rend="superscript-double-underlined">o</hi> Trois obligations <choice><sic>commu-<lb/>nales</sic><corr>commu<lb break="no"/>nales</corr></choice> 1912, l’une est complètement libérée, les deux autres
+                    <lb/>non libérées et sur lesquelles j’avais emprunté quelques <lb/>mois avant la
+                    guerre une somme de cent francs qui n’est <lb/>pas remboursée. Ces trois valeurs
+                    sont déposées au <orgName>Crédit
+                        <choice><sic>Lyonnais</sic><corr>lyonnais</corr></choice></orgName>. On
+                    <lb/>trouvera le récépissé de la première et l’acte qui a rapport à l’emprunt
+                    <lb/>contracté sur les deux autres dans le tiroir de droite de mon bureau.
+                        <lb/>2<hi rend="superscript-double-underlined">o</hi> Une somme d’argent
+                    liquide déposée à mon compte <choice><abbr>N<hi rend="superscript-underlined">o</hi></abbr><expan>numéro</expan></choice> 17274, Agence N <lb/>du
+                        <orgName>Crédit
+                            <choice><sic>Lyonnais</sic><corr>lyonnais</corr></choice></orgName>, 77
+                    <choice><sic>Boulevard</sic><corr>boulevard</corr></choice> Magenta, somme
+                    alimentée par les allocations qui <lb/>me sont octroyées par la <orgName>Société
+                        du <choice><sic>Gaz</sic><corr>gaz</corr></choice></orgName> et qu’elle verse
+                    à mon compte sur mon <lb/>ordre chaque mois renouvelé. — On puisera tout d’abord
+                    dans ces fonds les <lb/>mille francs que je dois à mon cousin <persName>Jules
+                        Forest</persName> de <placeName>Cormicy</placeName>, et on les lui
+                    <lb/>remettra avec les intérêts à
+                        5 <choice><sic><surplus>p</surplus></sic><corr/></choice> <choice><abbr>%</abbr><expan>pour
+                            cent</expan></choice> décomptés sans interruption d’aucune sorte depuis
+                    <lb/>le jour où j’ai contracté l’emprunt (<date type="otherDate" when="1913-07-14">le 14 <choice><sic>Juillet</sic><corr>juillet</corr></choice>
+                        1913</date>, je crois) jusqu’au jour où il <lb/>sera remboursé. — Chaque
+                    moitié de la somme qui restera sera remise, <lb/>l’une à mon frère Emile ou à
+                    ses héritiers, l’autre à ma soeur Jeanne ou <lb/>à ses héritiers. — Je déshérite
+                    complètement ma soeur Léonie et mon frère Edmond.</p>
+                <p>Sauf ma bibliothèque et mes livres, je lègue tous mes meubles, tableaux,
+                            <lb/>dessins<choice><sic>.</sic><corr>,</corr></choice> photographies à
+                    mon frère Emile dont le mobilier, s’il subsiste, n’a <lb/>eu qu’à souffrir de
+                    l’invasion allemande. — Je lègue toute ma musique à <lb/>ma nièce Marie-Louise.
+                    — Je lègue à mon neveu Jean mon portrait au <lb/>pastel (de Poitevin) et je prie
+                    ses parents de bien vouloir en faire tirer des <lb/>photographies convenables
+                    qui seront remises à ceux de mes amis qui en <lb/>feront la demande. On pourra
+                    leur remettre aussi un exemplaire de ma <lb/>photographie en brigadier : la
+                    plaque est dans la boîte en bois sur l’étagère <lb/>de mon bureau. — Je lègue ma
+                    bibliothèque et mes livres à mon ami <lb/><persName>Georges Dupretz</persName>
+                    (14 <choice><sic>Rue</sic><corr>rue</corr></choice> de la Pitié, <placeName type="otherPlace" ref="#pl-2">Paris</placeName>) ou à ses héritiers. Je prie
+                        <persName>Georges Dupretz</persName> <lb/>de choisir parmi mes livres : 1<hi rend="superscript-double-underlined">o</hi> : Tous les livres allemands
+                    qu’il remettra <lb/>à notre ami <persName>René Moreau</persName> 11
+                    <choice><sic>Place</sic><corr>place</corr></choice> Delambre à <placeName type="otherPlace">Lagny</placeName> (<choice><abbr>S.et.
+                            M.</abbr><expan>Seine-et-Marne</expan></choice>)<choice><sic/><corr>.</corr></choice>
+                    On y <pb facs="#FRAD95_Poilus_t-0048_02"/>joindra le vase en pâte de verre qui se
+                    trouve sur mon bureau. — 2<hi rend="superscript-double-underlined">o</hi> Tous
+                    <lb/>les livres qui ont trait aux sciences et à l’agriculture, le volume : <hi rend="underlined">La Mort</hi> <lb/>de <hi rend="underlined">Maeterlinck</hi>, et de les remettre avec tous mes cahiers d’agriculture à mon
+                    <lb/>ami <persName>Maurice Royer</persName> de <placeName type="otherPlace">Villaine<choice><sic> en </sic><corr>-en-</corr></choice>Duesmois</placeName> (Côte d’Or). On y
+                    joindra la petite <lb/>souris en porcelaine de Copenhague qui se trouve sur mon
+                    bureau. — Dans le <lb/>cas où <persName>Maurice Royer</persName> ou
+                        <persName>René Moreau</persName> seraient décédés, les legs que je leur
+                    <lb/>destinais demeureraient la propriété de <persName>Georges
+                        Dupretz</persName> ou de ses héritiers. — Je <lb/>lègue à mon ami
+                        <persName>Raymond Christoflour</persName>, 27
+                    <choice><sic>Rue</sic><corr>rue</corr></choice> du Château à <placeName type="otherPlace">Neuilly</placeName> (Seine)<choice><sic/><corr>,</corr></choice> <lb/>tous mes manuscrits,
+                    essais, brouillons, projets littéraires, ainsi que les lettres que <lb/>j’ai
+                    recueillies après les avoir écrites et tout ce qui, dans la correspondance que
+                    <lb/>j’ai conservée pourrait lui être utile. <persName>Raymond
+                        Christoflour</persName> deviendra le maître <lb/>absolu de mes écrits et en
+                    disposera avec autant de liberté que si lui-même il les <lb/>avait composés.
+                    S’il veut en tirer parti, ma volonté est qu’il corrige ce qui lui <lb/>semblera
+                    perfectible et qu’il détruise ce qui lui semblera mauvais. — Je lègue à mon
+                    <lb/>ami <persName>Pierre Poitevin</persName>, 4
+                    <choice><sic>Rue</sic><corr>rue</corr></choice> de Rivoli<choice><sic/><corr>,</corr></choice> le peu de cartes
+                    postales que j’ai collectionnées sur les <lb/>cathédrales et les monuments. Dans
+                    le cas où <persName>Poitevin</persName> serait décédé, ce legs deviendrait la
+                    <lb/>propriété de <persName>Georges Dupretz</persName>. — Je lègue à mon ami
+                    <persName>Michel Mesny</persName><choice><sic/><corr>,</corr></choice> 17
+                    <choice><sic>Avenue</sic><corr>avenue</corr></choice> de Gennevilliers <lb/>à
+                    <placeName type="otherPlace">Colombes</placeName><choice><sic/><corr>,</corr></choice> ma statue de
+                            Michel<choice><sic> </sic><corr>-</corr></choice>Ange, en plâtre, et le grand
+                    plateau de métal qui est sur la <lb/>cheminée de mon bureau. — Je lègue à
+                        <choice><abbr><unclear>M<hi rend="superscript">r</hi></unclear></abbr><expan>Monsieur</expan></choice> <persName>Jean
+                        Poitevin</persName>, 8 <choice><sic>Rue</sic><corr>rue</corr></choice>
+                            Sedaine<choice><sic/><corr>,</corr></choice> Paris, les deux babouches
+                    <lb/>provenant d’une idole chinoise, et qui se trouvent dans ma bibliothèque. —
+                    Je lègue à mon <lb/>cousin <persName>Henri Thérin</persName> la grande coupe de
+                    mon baptême qui se trouve sur mon bureau. — <lb/>On trouvera dans un tiroir de
+                    mon bureau mon carnet d’adresses. On enverra un faire-<lb/>part de ma
+                    mort à toutes les personnes qui y sont inscrites. On leur fera savoir qu’un
+                    <lb/>exemplaire de mon portrait est réservé, à qui en fera la demande. — Que
+                    ceux <lb/>que j’ai pu offenser me pardonnent. Mes plus affectueuses pensées vont
+                    à <lb/>ceux qui m’ont estimé assez pour me regretter.</p>
+                <dateline>Fait et écrit entièrement de ma main à <placeName type="willPlace" ref="#pl-229">Alfort</placeName> <date type="willDate" when="1915-04-21">le
+                            21 <choice><sic>Avril</sic><corr>avril</corr></choice>
+                                1915<choice><sic/><corr>.</corr></choice></date></dateline>
+                <signed rend="right"><persName ref="#pers-442">Maurice
+                        <surname>Moreau</surname></persName></signed>
+            </div>
+            <div type="codicil">
+                <pb facs="#FRAD95_Poilus_t-0048_03"/>
+                <head>Ceci est le premier <choice><sic>codicile</sic><corr>codicille</corr></choice>
+                    de mon testament</head>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>1<hi rend="superscript-double-underlined">o</hi> Je
+                                <choice><sic>dèsire</sic><corr>désire</corr></choice> que mon corps
+                        demeure où <lb/>l’autorité militaire l’aura fait inhumer.</p>
+                    <space dim="vertical" unit="lines" quantity="1"/>
+                    <p>2<hi rend="superscript-underlined">o</hi> Je
+                                <choice><sic>dèsire</sic><corr>désire</corr></choice> que mon ami
+                            <persName>Raymond <lb/>Christoflour</persName> bénéficie entièrement des
+                        droits <lb/>d’auteur que pourraient rapporter les manuscrits <lb/>que je
+                                lui<choice><sic>.</sic><corr/></choice> lègue.</p>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <dateline>Fait à la <choice><sic>Fosse</sic><corr>fosse</corr></choice> Calonne n<hi rend="superscript-underlined">o</hi> 2 de <placeName type="codicilPlace">Liévin</placeName> (Pas-de-Calais) <lb/><date type="codicilDate" when="1915-06-25">ce 25 <choice><sic>Juin</sic><corr>juin</corr></choice>
+                                1915<choice><sic/><corr>.</corr></choice></date></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="right"><persName ref="#pers-442">M. <surname>Moreau</surname></persName></signed>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAD95_Poilus_t-0048_04"/>
+                <p rend="right"><date type="codicilDate" when="1915-06-25">25
+                    <choice><sic>Juin</sic><corr>juin</corr></choice>
+                    1915</date><choice><sic/><corr>.</corr></choice></p>
+                <signed rend="right"><persName ref="#pers-442">M. <surname>Moreau</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

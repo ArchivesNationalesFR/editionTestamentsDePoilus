@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0007">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Édouard Laurent (24 août 1914)] : édition électronique</title><author><persName ref="#pers-66">Édouard Laurent (1879-1914)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+                        Département de la Conservation. Atelier photographique</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#AM">Aurélie Massie</persName><persName ref="#MLocatelli">Mélisa Locatelli</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#lelia">Lélia Picabia</persName><persName ref="#Genea78">Genea78</persName><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#SL.">EG</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#jmorvan">Josselin Morvan</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AN_0007</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0007_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1536, minute du 13 février 1915 (dépôt du testament de
+                            Édouard Laurent)</idno>
+                        <msName>Testament de Édouard Laurent (24 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1914-08-24">24 août 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-66"><forename>Édouard</forename> <surname>Laurent</surname></persName>,
+                                mort pour la France le <date when="1914-11-22" source="#MDH">22
+                                    novembre 1914 [MDH]</date> ou le <date when="1914-11-23" source="#will_AN_0007_min">23 novembre 1914 [NOT]</date> à
+                                <placeName ref="#pl-122" source="#will_AN_0007_min">Arvillers (Somme) [NOT]</placeName> | <placeName source="#MDH">Le
+                                    Quesnoy-en-Santerre (Somme) [MDH]</placeName>.</p>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à lettre imprimé (testament). Enveloppe imprimée
+                                    (enveloppe). </support>
+                                <extent>4 pages et 1 enveloppe. Dimensions du testament :
+                                        <dimensions type="willPage" unit="cm">
+                                        <height>18</height>
+                                        <width>13</width>
+                                    </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                                        <height>11,3</height>
+                                        <width>14,7</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Enveloppe : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010247">étude
+                                notariale 120 (CRPCEN : 75100)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0007_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1536, minute du 13 février 1915 (dépôt du testament de
+                            Édouard Laurent)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-24">24 août 1914</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>24 août 1914.
+                                    Paris.</p><p>testament olographe de Édouard Laurent,
+                                mort pour la France le 22
+                                    novembre 1914 [MDH] ou le 23 novembre 1914 [NOT] à
+                                Arvillers (Somme) [NOT] | Le
+                                    Quesnoy-en-Santerre (Somme) [MDH].</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-12-12" who="#lelia #Genea78 #MFGarreau #SL.">transcription</change>
+            <change when-iso="2018-01-24/2018-03-07" who="#PCharbonnier ">validation</change>
+            <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0007___JPEG___FRAN_Poilus_t-0007_01.jpg" xml:id="FRAN_Poilus_t-0007_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0007___JPEG___FRAN_Poilus_t-0007_02.jpg" xml:id="FRAN_Poilus_t-0007_02"/>
+        </surface>
+        <surface type="will-page" n="03">
+            <graphic url="testament_AN_0007___JPEG___FRAN_Poilus_t-0007_03.jpg" xml:id="FRAN_Poilus_t-0007_03"/>
+        </surface>
+        <surface type="will-page" n="04">
+            <graphic url="testament_AN_0007___JPEG___FRAN_Poilus_t-0007_04.jpg" xml:id="FRAN_Poilus_t-0007_04"/>
+        </surface>
+        <surface type="will-envelope-recto" n="05">
+            <graphic url="testament_AN_0007___JPEG___FRAN_Poilus_t-0007_05.jpg" xml:id="FRAN_Poilus_t-0007_05"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0007">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0007_01"/>
+                <head rend="centered"><hi rend="underlined">Ceci est mon testament</hi></head>
+                <space quantity="2" unit="lines" dim="vertical"/>
+                <dateline rend="centered"><date type="willDate" when="1914-08-24">24
+                                <choice><sic>Août</sic><corr>août</corr></choice>
+                    1914</date>.</dateline>
+                <space quantity="1" unit="lines" dim="vertical"/>
+                <p>Au moment de partir au
+                        <lb/><choice><sic>Régiment</sic><corr>régiment</corr></choice> je crois
+                    devoir <lb/>indiquer mes dernières volontés<choice><sic/><corr>,</corr></choice>
+                    <lb/>n’ayant pas eu le temps de <lb/>faire par acte notarié donations <lb/>à ma
+                    chère femme en cas <lb/>de décès.</p>
+                <p>Je laisse à ma chère <persName>Emmeline</persName>
+                    <lb/>en souvenir des jours si <lb/>heureux mais si courts passés <lb/>auprès
+                    d’elle tous mes meubles<choice><sic/><corr>,</corr></choice>
+                    <pb facs="#FRAN_Poilus_t-0007_02"/>bijoux,
+                        livres<choice><sic/><corr>,</corr></choice>
+                            effets<choice><sic/><corr>,</corr></choice> etc. <lb/>m’appartenant
+                    ainsi que <lb/>l’usufruit de la somme <lb/>qui m’a été donnée pour <lb/>mon
+                    mariage.</p>
+                <p>Cette somme se trouve réduite <lb/>par suite des avances que <lb/>j’ai cru devoir
+                    faire à mon <lb/>ancienne
+                        <choice><sic>maitresse</sic><corr>maîtresse</corr></choice>.</p>
+                <p>
+                    <choice><sic>Etant donné</sic><corr>Étant données</corr></choice> les
+                    circonstances <lb/>et la <unclear>diminution</unclear> probable <lb/>de fortune
+                    que va entraîner <lb/>la guerre<choice><sic/><corr>,</corr></choice>
+                        j’<unclear>estime</unclear> qu’il n’y <lb/>a pas lieu de continuer la
+                    <lb/>pension à <persName>M<hi rend="superscript-underlined">lle</hi>
+                        <surname>Valet</surname></persName> après <lb/>ma mort. Je prie seulement
+                        <pb facs="#FRAN_Poilus_t-0007_03"/>mon
+                        père<choice><sic/><corr>,</corr></choice> si sa situation <lb/>de fortune le
+                    lui permet<choice><sic/><corr>,</corr></choice>
+                    <lb/>de lui allouer la somme <lb/>qu’il jugera à
+                            propos<choice><sic/><corr>,</corr></choice> afin <lb/>de lui permettre
+                    de continuer <lb/>le commerce qu’elle a entrepris <lb/>ou de lui permettre
+                    d’attendre <lb/>le moment favorable pour <lb/>le liquider
+                            avantageusement<choice><sic/><corr>.</corr></choice>
+                    <lb/>(L’argent qu’elle en tirerait <lb/>pourrait alors
+                            <choice><sic>etre</sic><corr>être</corr></choice> mis en
+                            viager)<choice><sic/><corr>.</corr></choice></p>
+                <space quantity="1" unit="lines" dim="vertical"/>
+                <p>Je prie ma chère <persName>Line</persName> de <lb/>remettre un souvenir
+                            <choice><sic>a</sic><corr>à</corr></choice>
+                    <lb/>mes chers amis : <lb/><persName>Marcel Monniot</persName>
+                    <lb/>et <persName>Martinelli</persName>. <add place="marginRight">Si elle le
+                        juge à <lb/>propos
+                            <choice><sic>egalement</sic><corr>également</corr></choice>
+                        <lb/><choice><sic>a</sic><corr>à</corr></choice>
+                        <persName>Jeanne</persName> et <lb/><persName>Emile
+                                Blouchard</persName><choice><sic/><corr>.</corr></choice></add>
+                    <pb facs="#FRAN_Poilus_t-0007_04"/><choice><sic>que</sic><corr>Que</corr></choice> mes frères prennent
+                    <lb/>parmi les objets qui m’ont <lb/>appartenu ce qui pourra <lb/>le mieux leur
+                    plaire. <lb/><choice><sic>que</sic><corr>Que</corr></choice> ma
+                            <choice><sic>chere</sic><corr>chère</corr></choice>
+                            femme<choice><sic/><corr>,</corr></choice> ma
+                            <lb/><choice><sic>chere</sic><corr>chère</corr></choice>
+                    <subst>
+                        <del>mer</del>
+                        <add>maman</add>
+                    </subst>, mon <lb/>cher papa<choice><sic/><corr>,</corr></choice>
+                    <subst>
+                        <del><unclear>et</unclear></del>
+                        <add>mes</add>
+                    </subst> frères <lb/>et mes amis soient remerciés <lb/>de toute l’affection
+                    qu’ils m’ont témoignée.</p>
+                <p>Qu’ils sachent<choice><sic/><corr>,</corr></choice> si je
+                            meurs<choice><sic/><corr>,</corr></choice>
+                    <lb/>que ma dernière pensée <lb/>a été pour eux et que ma <lb/>mort
+                        <del>en</del> a été certainement <lb/>adoucie par la douceur de <lb/>tous
+                    les chers souvenirs <add>que je leur dois.</add></p>
+                <dateline><placeName type="willPlace" ref="#pl-2">Paris</placeName>
+                    <date type="willDate" when="1914-08-24">24
+                                <choice><sic>Août</sic><corr>août</corr></choice>
+                            1914</date><choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="right"><persName ref="#pers-66">E <surname>laurent</surname></persName></signed>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0007_05"/>
+                <metamark function="emphasis" rend="horizontal-line"/>
+                <p rend="centered">Ceci est mon
+                    <lb/>testament<choice><sic/><corr>.</corr></choice></p>
+                <metamark function="emphasis" rend="horizontal-line"/>
+            </div>
+        </body>
+    </text>
+</TEI>

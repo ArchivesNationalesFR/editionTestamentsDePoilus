@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0069">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la
+               Grande Guerre</title><title type="main">[Testament de Paul Charles Soucin (2 août 1914)] : édition électronique</title><author><persName ref="#pers-357">Paul Charles Soucin (1882-1914)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+         <editionStmt>
+            <edition>Première édition électronique, fondée sur un travail de transcription
+               collaborative</edition>
+            <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+            <respStmt><resp>Identification et description du testament</resp><persName ref="#DMD">Denis Michel-Dansac</persName><persName ref="#MDeuve">Mathilde Deuve</persName></respStmt>
+            <respStmt><resp>Transcription</resp><persName ref="#lelia">Lélia Picabia</persName><persName ref="#GBMireille">Mireille Grais-Bruguière</persName><persName ref="#MFGarreau">MFGarreau</persName></respStmt>
+            <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+         </editionStmt>
+         <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0069</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="will_AD78_0069_tes">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives départementales des Yvelines</institution>
+                  <collection>Archives notariales</collection>
+                  <idno>3E4 363, minute du 14 novembre 1914 (dépôt du testament de Paul Charles
+                     Soucin)</idno>
+                  <msName>Testament de Paul Charles Soucin (2 août 1914)</msName>
+               </msIdentifier>
+               <msContents>
+                  <summary><p><date type="willDate" when="1914-08-02">2 août 1914</date>. <placeName type="willPlace" ref="#pl-541">Issy-Les-Moulineaux</placeName>.</p><p><term type="willType">testament
+                           olographe</term> de <persName ref="#pers-357"><forename>Paul</forename> <forename>Charles</forename> <surname>Soucin</surname></persName>, mort pour la
+                        France le <date when="1914-10-24">24 octobre 1914</date> à <placeName ref="#pl-543">Berck sur Mer (Pas-de-Calais)</placeName>.</p></summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>Papier réglé timbré (testament). Enveloppe commerciale (enveloppe). </support>
+                        <extent>1 page et 1 enveloppe. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                              <height>25</height>
+                              <width>17</width>
+                           </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                              <height>11</height>
+                              <width>16</width>
+                           </dimensions>.</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <p>Testament : encre. Enveloppe : encre.</p>
+                  </handDesc>
+               </physDesc>
+               <history>
+                  <provenance><orgName>étude notariale de Bougival</orgName></provenance>
+               </history>
+            </msDesc>
+            <msDesc xml:id="will_AD78_0069_min">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives départementales des Yvelines</institution>
+                  <collection>Archives notariales</collection>
+                  <idno>3E4 363, minute du 14 novembre 1914 (dépôt du testament de Paul Charles
+                     Soucin)</idno>
+                  <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                     minute</msName>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation><date type="willDate" when="1914-08-02">2 août 1914</date></creation>
+         <langUsage><language ident="fr">français</language></langUsage>
+         <abstract><p>2 août 1914. Issy-Les-Moulineaux.</p><p>testament
+                           olographe de Paul Charles Soucin, mort pour la
+                        France le 24 octobre 1914 à Berck sur Mer (Pas-de-Calais).</p></abstract>
+         <textClass>
+            <keywords>
+               <term type="subject">Grande Guerre</term>
+               <term type="subject">Poilu</term>
+               <term type="subject">testament</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when-iso="2019-07-01/2020-05-26" who="#lelia #GBMireille #MFGarreau">transcription</change>
+         <change when-iso="2019-07-01/2019-11-06" who="#PCharbonnier">validation</change>
+         <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements et
+            contrôle de qualité finaux</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+      <surface type="will-envelope-recto" n="01">
+         <graphic url="testament_AD78_0069___JPEG___FRAD78_Poilus_t-0069_01.jpg" xml:id="FRAD78_Poilus_t-0069_01"/>
+      </surface>
+      <surface type="will-page" n="02">
+         <graphic url="testament_AD78_0069___JPEG___FRAD78_Poilus_t-0069_02.jpg" xml:id="FRAD78_Poilus_t-0069_02"/>
+      </surface>
+   </facsimile>
+   <text xml:id="will_AD78_0069">
+      <body>
+         <div type="envelope">
+            <pb facs="#FRAD78_Poilus_t-0069_01"/>
+            <p rend="centered"><choice><sic>Tres precieux</sic><corr>Très précieux.</corr></choice>
+               <lb/><hi rend="underlined"><choice><sic>a Conserver</sic><corr>À
+                     conserver.</corr></choice></hi></p>
+         </div>
+         <div type="will">
+            <pb facs="#FRAD78_Poilus_t-0069_02"/>
+            <dateline><placeName type="willPlace" ref="#pl-541"><choice><sic>Issy les
+                        Moulineaux</sic><corr>Issy-Les-Moulineaux,</corr></choice></placeName>
+               <lb/><date type="willDate" when="1914-08-02">le deux
+                        <choice><sic>Aout</sic><corr>août</corr></choice> mil neuf cent
+                  quatorze</date><choice><sic/><corr>.</corr></choice></dateline>
+            <metamark function="separating" rend="horizontal-wavy-line"/>
+            <space dim="vertical" unit="lines" quantity="2"/>
+            <p>Je <choice><sic>légue</sic><corr>lègue</corr></choice>
+               <subst><del>d</del><add>t</add></subst>oute ma fortune <lb/>à ma
+                     <choice><sic>F</sic><corr>f</corr></choice>emme Marguerite, <lb/>sans aucune
+               restriction. <lb/>Cette fortune se composant
+                     <lb/>de<choice><sic/><corr> :</corr></choice></p>
+            <list>
+               <item>1<hi rend="superscript-double-underlined">o</hi>
+                  <choice><sic>un</sic><corr>Un</corr></choice> fonds de
+                        commerce<choice><sic/><corr>,</corr></choice>
+                  <lb/><choice><sic>materiel</sic><corr>matériel</corr></choice> et marchandises,
+                  sis 36 rue <lb/>Ernest Renan, <choice><sic>a</sic><corr>à</corr></choice>
+                  <placeName><choice><sic>Issy les
+                        Moulineaux</sic><corr>Issy-Les-Moulineaux</corr></choice></placeName><choice><sic/><corr>.</corr></choice></item>
+               <item>2<hi rend="superscript-underlined">o</hi>
+                  <choice><sic>de</sic><corr>De</corr></choice> billets de
+                        <choice><sic>fond</sic><corr>fonds</corr></choice> de commerce
+                        <lb/><choice><sic>dûs</sic><corr>dus</corr></choice> par
+                              <persName><choice><abbr>M<hi rend="superscript-underlined">rs</hi></abbr><expan>Messieurs</expan></choice>
+                           P<subst><del>é</del><add>l</add></subst>é</persName> de
+                     <placeName>Rueil</placeName>, et <lb/><persName>Aurouet</persName> de
+                     <placeName>Bougival</placeName>, et je donne
+                        <lb/><choice><sic>a</sic><corr>à</corr></choice> ma
+                        <choice><sic>F</sic><corr>f</corr></choice>emme <hi rend="underlined">tout
+                     pouvoir</hi> pour <lb/>recouvrer ces
+                     créances<choice><sic/><corr>.</corr></choice></item>
+               <item>3<hi rend="superscript-underlined">o</hi> Deux bons <orgName>Brazils
+                           Railways<choice><sic/><corr>,</corr></choice></orgName>
+                  <lb/><choice><sic>U</sic><corr>u</corr></choice>ne
+                           <orgName><choice><sic>v</sic><corr>V</corr></choice>ille de
+                     Paris</orgName>, <choice><sic>1</sic><corr/></choice>
+                  <choice><sic>c</sic><corr>C</corr></choice>ommunal <lb/>1912, en
+                        <choice><sic>dépot a</sic><corr>dépôt à</corr></choice> la
+                              <orgName><choice><abbr>S<hi rend="superscript-underlined">te</hi></abbr><expan>Société</expan></choice> <choice><abbr>G<hi rend="superscript-double-underlined">le</hi></abbr><expan>Générale</expan></choice></orgName><choice><sic/><corr>.</corr></choice></item>
+            </list>
+            <p><add place="marginLeft"><choice><sic>Eviter</sic><corr>Éviter</corr></choice> les complications
+                        et <lb/>les <choice><sic>procedures couteuses</sic><corr>procédures
+                              coûteuses.</corr></choice>
+                        <lb/><seg type="marginalAdditionSignature"><persName ref="#pers-357">P 
+                                 Soucin</persName></seg></add></p>
+            <p><add>Fait en double <choice><sic>expedition</sic><corr>expédition</corr></choice>
+                  <lb/>au cas <choice><sic>ou</sic><corr>où</corr></choice> un se
+                        perdrait<choice><sic/><corr>.</corr></choice>
+               <lb/><seg type="marginalAdditionSignature"><persName ref="#pers-357">PS</persName></seg></add></p>
+            <p>Je dois à mon <choice><sic>Frere</sic><corr>frère</corr></choice>
+               <persName>Jacques Soucin</persName>
+               <lb/>trois mille cinq <choice><sic>cent</sic><corr>cents</corr></choice> francs
+                     environ<choice><sic/><corr>.</corr></choice>
+               <lb/>Je dois <choice><sic>a</sic><corr>à</corr></choice> la
+                           <orgName><choice><abbr>S<hi rend="superscript-underlined">te</hi> G<hi rend="superscript-double-underlined">le</hi></abbr><expan>Société
+                        Générale</expan></choice></orgName>, 250 <choice><abbr><hi rend="superscript-underlined">f</hi></abbr><expan>francs</expan></choice>
+               environ, <lb/>et <del>très peu</del> aux
+               <choice><sic>F</sic><corr>f</corr></choice>ournisseurs, <del>mille <lb/>ou</del>
+               quinze cent <del>au plus</del>
+                     environ<choice><sic/><corr>.</corr></choice> <app><lem><add place="marginLeft" type="testatorComment"><choice><sic>raye</sic><corr>rayé</corr></choice> six mots nuls
+                     <lb/><seg type="signature"><persName ref="#pers-357">PS</persName></seg></add></lem><note resp="#PCharbonnier">Mention "raye six mots nuls" ajoutée en marge et signée.</note></app></p>
+            <p>Ma <choice><sic>Femme</sic><corr>femme</corr></choice> devra aider ma
+                     <choice><sic>Mère</sic><corr>mère</corr></choice>, <lb/>mon
+                     <choice><sic>Pere</sic><corr>père</corr></choice>, mon
+                     <choice><sic>Frere</sic><corr>frère</corr></choice> et mes
+               <choice><sic>Soeurs</sic><corr>soeurs</corr></choice>, en cas de
+                     <lb/><choice><sic>necessité</sic><corr>nécessité</corr></choice> et de
+               malheur.</p>
+            <dateline>Fait de ma main, à <placeName type="willPlace" ref="#pl-541">Issy</placeName>
+               <date type="willDate" when="1914-08-02">le 2
+                     <choice><sic>aout</sic><corr>août</corr></choice> 1914</date>,
+                     <lb/><choice><sic>a</sic><corr>à</corr></choice> tête reposée et en toute
+                     <choice><sic>liberte</sic><corr>liberté</corr></choice> d’esprit.</dateline>
+            <signed rend="right"><persName ref="#pers-357"> P
+               <surname>Soucin</surname></persName></signed>
+         </div>
+      </body>
+   </text>
+</TEI>

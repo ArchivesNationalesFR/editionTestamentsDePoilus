@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0068">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Paul Louis Léon Lesage (2 août 1914)] : édition électronique</title><author><persName ref="#pers-125">Paul Louis Léon Lesage
+                    (1881-1918)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+                        Département de la Conservation. Atelier photographique</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#AM">Aurélie Massie</persName><persName ref="#MLocatelli">Mélisa Locatelli</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#lelia">Lélia Picabia</persName><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#LBIsabelle">LBIsabelle</persName><persName ref="#PGambette">Philippe Gambette</persName><persName ref="#LHUGONNIER">LHUGONNIER</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName><persName ref="#PLPallec">PLPallec</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AN_0068</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0068_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1622, minute du 4 mars 1919 (dépôt du testament de Paul
+                            Louis Léon Lesage)</idno>
+                        <msName>Testament de Paul Louis Léon Lesage (2 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-02">2 août 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-125"><forename>Paul</forename> <forename>Louis</forename> <forename>Léon</forename> <surname>Lesage</surname></persName>, mort
+                                pour la France le <date when="1918-10-12">12 octobre 1918</date> au
+                                    <placeName ref="#pl-217">combat du Bois d’Haumont
+                                    (Meuse)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). Enveloppe orangée
+                                    (enveloppe). </support>
+                                <extent>1 page et 1 enveloppe. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                                        <height>13,7</height>
+                                        <width>20,3</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Enveloppe : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010247">étude
+                                notariale 120 (CRPCEN : 75100)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0068_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1622, minute du 4 mars 1919 (dépôt du testament de Paul
+                            Louis Léon Lesage)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-02">2 août 1914</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>2 août 1914.
+                                    Paris.</p><p>testament
+                                    olographe de Paul Louis Léon Lesage, mort
+                                pour la France le 12 octobre 1918 au
+                                    combat du Bois d’Haumont
+                                    (Meuse).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-04-05" who="#lelia #MFGarreau #LBIsabelle #PGambette #LHUGONNIER">transcription</change>
+            <change when-iso="2018-01-24/2018-04-05" who="#PCharbonnier #PLPallec ">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0068___JPEG___FRAN_Poilus_t-0068_01.jpg" xml:id="FRAN_Poilus_t-0068_01"/>
+        </surface>
+        <surface type="will-envelope-recto" n="02">
+            <graphic url="testament_AN_0068___JPEG___FRAN_Poilus_t-0068_02.jpg" xml:id="FRAN_Poilus_t-0068_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0068">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0068_01"/>
+                <dateline rend="centered"><placeName type="willPlace" ref="#pl-2">Paris</placeName>
+                    <date type="willDate" when="1914-08-02">ce 2
+                                <choice><sic>Août</sic><corr>août</corr></choice>
+                    1914</date></dateline>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <p rend="left">Je soussigné <persName ref="#pers-125">Paul <lb/>Louis Léon<surname>
+                            Lesage</surname></persName><choice><sic> Né</sic><corr>, né</corr></choice>
+                    à <placeName type="willAuthorBirthPlace" ref="#pl-2">Paris</placeName> <lb/><date when="1881-11-05" type="willAuthorBirthDate">le 5
+                                <choice><sic>Novembre</sic><corr>novembre</corr></choice>
+                        1881</date> 14<hi rend="superscript">ème</hi> <choice><abbr>arrond<hi rend="superscript">t</hi></abbr><expan>arrondissement</expan></choice>, <lb/>vu la
+                    mobilisation du <date type="militaryEventDate" when="1914-08-02">2
+                                <choice><sic>Août</sic><corr>août</corr></choice> <lb/>1914</date>,
+                    par <choice><sic>laqu’elle</sic><corr>laquelle</corr></choice> je suis
+                    <lb/>appelé sous les armes. <lb/>En cas de
+                            <choice><sic>descés</sic><corr>décès</corr></choice>, je <lb/>lègue à
+                        <persName>Madame Veuve <surname>Lesage</surname></persName> <lb/>ma
+                            <choice><sic>belle mère</sic><corr>belle-mère</corr></choice>, tout ce
+                    qui <lb/>peut me revenir, soit meubles, <lb/>linge, argent,
+                            <choice><sic>titre</sic><corr>titres</corr></choice> et
+                            valeurs<choice><sic/><corr>.</corr></choice></p>
+                <p>En cas de <choice><sic>descés</sic><corr>décès</corr></choice> de cette <lb/>dernière, prière <supplied reason="deleted">de</supplied> remettre à <lb/>son fils
+                        <persName>Louis Paul Edmond <lb/><surname>Fournier</surname></persName><choice><sic/><corr>,</corr></choice> né à
+                        <placeName type="otherPlace" ref="#pl-2">Paris</placeName> <date type="otherDate" when="1902-05-31">le <lb/>31
+                            <choice><sic>Mai</sic><corr>mai</corr></choice> 1902</date><choice><sic/><corr>,</corr></choice> 14<hi rend="superscript">ème</hi>
+                        arrondissement<choice><sic/><corr>.</corr></choice></p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <dateline rend="centered"><placeName type="willPlace" ref="#pl-2">Paris</placeName>
+                    <date when="1914-08-02" type="willDate">ce 2
+                                <choice><sic>Août</sic><corr>août</corr></choice>
+                    1914</date><choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="right"><persName ref="#pers-125">Paul
+                        <surname>Lesage</surname></persName></signed>
+                <postscript><p>144
+                            <choice><sic>Rue</sic><corr>rue</corr></choice> de Tolbiac 13<hi rend="superscript">e</hi> <choice><abbr>arrond<hi rend="superscript">t</hi></abbr><expan>arrondissement</expan></choice></p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Vu avec témoins</p>
+                    <signed rend="left"><persName><surname><unclear>Braucet</unclear></surname></persName> <lb/>82 avenue
+                        d’Italie</signed>
+                    <signed rend="right"><persName><surname>Haltel</surname></persName> <lb/>88 avenue
+                        d’Italie</signed></postscript>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0068_02"/>
+                <p rend="centered"><choice><sic>à</sic><corr>À</corr></choice>
+                            <choice><sic>Décacheter</sic><corr>décacheter</corr></choice>, <lb/><choice><sic>Après</sic><corr>après</corr></choice> <choice><sic>descès</sic><corr>décès</corr></choice> <lb/>
+                    de <persName ref="#pers-125"><choice><abbr>M<hi rend="superscript">r</hi></abbr><expan>Monsieur</expan></choice> Paul Louis Léon
+                            <surname>Lesage</surname></persName><choice><sic/><corr>.</corr></choice></p>
+                <p rend="centered"><address>
+                        <addrLine>144 <choice><sic>Rue</sic><corr>rue</corr></choice> de
+                            Tolbiac</addrLine> <addrLine>13<hi rend="superscript">ème</hi> <choice><abbr>arrond<hi rend="superscript">t</hi></abbr><expan>arrondissement</expan></choice> <placeName type="willAuthorResidence" ref="#pl-2">Paris</placeName> <choice><sic><surplus>13<hi rend="superscript">eme</hi></surplus></sic><corr/></choice></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

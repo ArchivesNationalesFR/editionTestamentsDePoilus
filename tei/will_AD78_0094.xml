@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0094">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Henri Albert Rivet (2 août 1914)] : édition électronique</title><author><persName ref="#pers-382">Henri Albert Rivet (1887-1916)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#DL">Dominique Lemaitre</persName><persName ref="#MDeuve">Mathilde Deuve</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#SL.">EG</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0094</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0094_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E24 599, minute du 29 juillet 1916 (dépôt du testament de Henri
+                            Albert Rivet)</idno>
+                        <msName>Testament de Henri Albert Rivet (2 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-02">2 août 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-583">Marly-le-Roi</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-382"><forename>Henri</forename> <forename>Albert</forename> <surname>Rivet</surname></persName>, mort
+                                pour la France le <date when="1916-06-08">08 juin 1916</date> à
+                                    <placeName ref="#pl-18">devant Verdun</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). Enveloppe grise timbrée
+                                    munie de 3 cachets de cire rouges (enveloppe). </support>
+                                <extent>1 page et 1 enveloppe. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>25</height>
+                                        <width>16</width>
+                                    </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                                        <height>9</height>
+                                        <width>14,5</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Enveloppe : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de Marly-le-Roi</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0094_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E24 599, minute du 29 juillet 1916 (dépôt du testament de Henri
+                            Albert Rivet)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-02">2 août 1914</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>2 août 1914.
+                                    Marly-le-Roi.</p><p>testament
+                                    olographe de Henri Albert Rivet, mort
+                                pour la France le 08 juin 1916 à
+                                    devant Verdun.</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-07-01/2020-05-26" who="#MFGarreau #lelia #SL.">transcription</change>
+            <change when-iso="2019-07-01/2019-11-06" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0094___JPEG___FRAD78_Poilus_t-0094_01.jpg" xml:id="FRAD78_Poilus_t-0094_01"/>
+        </surface>
+        <surface type="will-envelope-recto" n="02">
+            <graphic url="testament_AD78_0094___JPEG___FRAD78_Poilus_t-0094_02.jpg" xml:id="FRAD78_Poilus_t-0094_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0094">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0094_01"/>
+                <p>Je soussigné <persName ref="#pers-382">Henri Albert
+                        <lb/><surname>Rivet</surname></persName><choice><sic/><corr>,</corr></choice> restaurateur demeurant à
+                        <lb/><placeName type="willAuthorResidence" ref="#pl-583"><choice><sic>Marly
+                            le roi</sic><corr>Marly-le-Roi</corr></choice></placeName><choice><sic/><corr>,</corr></choice>
+                    <choice><sic>fait</sic><corr>fais</corr></choice> comme suit mon
+                            <lb/>testament<choice><sic/><corr>.</corr></choice></p>
+                <p>Je donne et lègue par preciput <lb/>et
+                        <choice><sic>Hors</sic><corr>hors</corr></choice> part à <persName>Madame
+                        Marie Augustine <lb/>Plateau</persName><choice><sic/><corr>,</corr></choice>
+                    ma mère<choice><sic/><corr>,</corr></choice> épouse de <persName>Monsieur
+                        <lb/>Pierre Renée Rivet</persName> demeurant à <lb/><placeName type="otherPlace" ref="#pl-583"><choice><sic>Marly le
+                            roi</sic><corr>Marly-le-Roi</corr></choice></placeName><choice><sic/><corr>,</corr></choice> tout ce
+                            <choice><sic>que</sic><corr>dont</corr></choice> la loi me permet
+                    <lb/>de disposer dans ma succession<choice><sic/><corr>.</corr></choice></p>
+                <p>J’entends et veux que <persName><choice><abbr>M<hi rend="superscript-underlined">r</hi></abbr><expan>Monsieur</expan></choice> Pierre <lb/>Renée
+                        Rivet</persName> mon père <choice><sic>sus
+                        nommé</sic><corr>susnommé</corr></choice> <lb/>ne
+                            <choice><sic>receuille</sic><corr>recueille</corr></choice> dans ma
+                    succession <lb/>que sa réserve légale accordée par <lb/>la loi et que ma mère
+                            <choice><sic>receuille</sic><corr>recueille</corr></choice> le <lb/>surplus<choice><sic/><corr>.</corr></choice></p>
+                <p>J’entends également que le <choice><sic>leg</sic><corr>legs</corr></choice> <lb/>que je viens de faire à ma
+                    mère <lb/>lui reste propre et ne tombe pas dans <lb/>sa
+                    <choice><sic>communautée</sic><corr>communauté</corr></choice>
+                            légale<choice><sic/><corr>.</corr></choice></p>
+                <dateline>Fait à <placeName type="willPlace" ref="#pl-583"><choice><sic>Marly le
+                    roi</sic><corr>Marly-le-Roi</corr></choice></placeName> <date type="willDate" when="1914-08-02">le <lb/>deux
+                        <choice><sic>Août</sic><corr>août</corr></choice> mil neuf cent
+                        quatorze</date><choice><sic/><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <signed rend="centered"><persName ref="#pers-382"><surname>Rivet</surname></persName></signed>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAD78_Poilus_t-0094_02"/>
+                <p rend="centered">Ceci est mon testament<choice><sic/><corr>.</corr></choice></p>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <signed rend="centered"><persName ref="#pers-382"><surname>Rivet</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

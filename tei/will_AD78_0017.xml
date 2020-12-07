@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD78_0017">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title><title type="main">[Testament de Gaston Maingre (3 février 1915)] : édition électronique</title><author><persName ref="#pers-17">Gaston Maingre (1883-1917)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt><resp>Numérisation</resp><orgName ref="#AD78">Archives départementales des Yvelines</orgName></respStmt>
+                <respStmt><resp>Identification et description du testament</resp><persName ref="#NGiraud">Nicole Giraud</persName><persName ref="#SBlanchard">Sophie Blanchard</persName><persName ref="#MDeuve">Mathilde Deuve</persName><persName ref="#FAuriau">Françoise Auriau</persName></respStmt>
+                <respStmt><resp>Transcription</resp><persName ref="#SL.">EG</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#StephaneAuje">StephaneAuje</persName></respStmt>
+                <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+                <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+            </editionStmt>
+            <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD78_0017</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AD78_0017_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E9 274, minute du 24 mars 1919 (dépôt du testament de Gaston
+                            Maingre)</idno>
+                        <msName>Testament de Gaston Maingre (3 février 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1915-02-03">3 février 1915</date>.
+                                    <placeName type="willPlace" ref="#pl-34">Falaise</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-17"><forename>Gaston</forename> <surname>Maingre</surname></persName>, mort
+                                pour la France le <date when="1917-04-16">16 avril 1917</date> à
+                                    <placeName ref="#pl-33">Chevreux
+                            (Aisne)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier quadrillé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>21</height>
+                                        <width>13</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName>étude notariale de Crespières</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AD78_0017_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives départementales des Yvelines</institution>
+                        <collection>Archives notariales</collection>
+                        <idno>3E9 274, minute du 24 mars 1919 (dépôt du testament de Gaston
+                            Maingre)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-02-03">3 février 1915</date></creation>
+            <langUsage><language ident="fr">français</language></langUsage>
+            <abstract><p>3 février 1915.
+                                    Falaise.</p><p>testament
+                                    olographe de Gaston Maingre, mort
+                                pour la France le 16 avril 1917 à
+                                    Chevreux
+                            (Aisne).</p></abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-03-27" who="#SL. #lelia #StephaneAuje">transcription</change>
+            <change when-iso="2018-01-24/2018-03-26" who="#PCharbonnier ">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AD78_0017___JPEG___FRAD78_Poilus_t-0017_01.jpg" xml:id="FRAD78_Poilus_t-0017_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AD78_0017">
+        <body>
+            <div type="will">
+                <pb facs="#FRAD78_Poilus_t-0017_01"/>
+                <p>Je soussigné <persName ref="#pers-17"><surname>Maingre</surname> Gaston</persName><choice><sic/><corr>,</corr></choice> <lb/>caporal réserviste au <orgName ref="#o-17">205<hi rend="superscript-double-underlined">ème</hi> <lb/><choice><sic>Régiment
+                                Infanterie</sic><corr>régiment
+                        d’infanterie</corr></choice></orgName> à <placeName type="otherPlace" ref="#pl-34">Falaise</placeName>, <lb/>sain de corps et d’esprit,
+                    déclare <lb/> donner à <choice><sic>sa</sic><corr>ma</corr></choice> femme, née <lb/><persName><surname>Rousseau</surname>
+                        Madeleine</persName>, toutes
+                            <choice><sic>ses</sic><corr>mes</corr></choice> <lb/><choice><sic>proprietés</sic><corr>propriétés</corr></choice> en
+                        usu<del>r</del>fruit, jusqu’à <lb/>son décès, à la condition, <lb/>qu’elle
+                    ne se remarie pas et <lb/>qu’elle ne vive avec aucun <lb/>homme, et qu’elle
+                    élève ses <lb/>enfants en bonne voie.</p>
+                <dateline>Fait à <placeName type="willPlace" ref="#pl-34">Falaise</placeName>, 
+                        <date type="willDate" when="1915-02-03">le 3
+                                <choice><sic>Fevrier</sic><corr>février</corr></choice> <lb/>1915</date>. <lb/><choice><sic/><corr>(</corr></choice><add>le
+                        trois <choice><sic>Fevrier</sic><corr>février</corr></choice> mil neuf cent
+                                    quinze</add><choice><sic/><corr>)</corr></choice></dateline>
+                <signed rend="centered"><persName ref="#pers-17">G.
+                        <surname>Maingre</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

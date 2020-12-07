@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AD95_0034">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la
+          Grande Guerre</title><title type="main">[Testament de Eugène Alphonse Soyer (11 août 1914)] : édition électronique</title><author><persName ref="#pers-428">Eugène Alphonse Soyer (1883-1914)</persName></author><editor ref="#CNougaret">Christine Nougaret</editor><editor ref="#EdChamps">Emmanuelle de Champs</editor><editor ref="#FClavaud">Florence Clavaud</editor><editor ref="#PCharbonnier">Pauline Charbonnier</editor></titleStmt>
+      <editionStmt>
+        <edition>Première édition électronique, fondée sur un travail de transcription
+          collaborative</edition>
+        <respStmt><resp>Numérisation</resp><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></respStmt>
+        <respStmt><resp>Identification et description du testament</resp><persName ref="#MLocatelli">Mélisa Locatelli</persName><persName ref="#CR">Christian Rodriguez</persName><persName ref="#SD">Sophie Delinge</persName><persName ref="#TO">Thomas Olivier</persName><persName ref="#SDechavanne">Sylvie Dechavanne</persName></respStmt>
+        <respStmt><resp>Transcription</resp><persName ref="#MFGarreau">MFGarreau</persName><persName ref="#lelia">Lélia Picabia</persName><persName ref="#SL.">EG</persName><persName ref="#GBMireille">Mireille Grais-Bruguière</persName></respStmt>
+        <respStmt><resp>Validation</resp><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+        <respStmt><resp>Corrections hors plate-forme et contrôle de qualité final</resp><persName ref="#FClavaud">Florence Clavaud</persName><persName ref="#PCharbonnier">Pauline Charbonnier</persName></respStmt>
+      </editionStmt>
+      <publicationStmt><publisher><orgName ref="#AN">Archives nationales</orgName></publisher><publisher><orgName>Université de Cergy-Pontoise</orgName></publisher><publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher><publisher><orgName>École nationale des chartes</orgName></publisher><publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher><date when="2020-12">décembre 2020</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence></availability><idno>TestamentsDePoilus_will_AD95_0034</idno><!--ultérieurement ajouter idno fourni par Nakala--></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="will_AD95_0034_tes">
+          <msIdentifier>
+            <country>France</country>
+            <institution>Archives départementales du Val-d’Oise</institution>
+            <collection>Archives notariales</collection>
+            <idno>2E30 429, minute du 11 janvier 1921 (dépôt du testament de Eugène Alphonse
+              Soyer)</idno>
+            <msName>Testament de Eugène Alphonse Soyer (11 août 1914)</msName>
+          </msIdentifier>
+          <msContents>
+            <summary><p><date type="willDate" when="1914-08-11">11 août 1914</date>. <placeName type="willPlace" ref="#pl-672">Vallangoujard</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-428"><forename source="#will_AD95_0034_tes #MDH #AS">Eugène</forename> <forename source="#MDH #AS">Alphonse</forename> <surname>Soyer</surname></persName>, mort pour la France le
+                  <date when="1914-09-16" source="#will_AD95_0034_min #MDH #AS">16 7bre 1914 [NOT] |
+                  16 septembre 1914 [MDH] [AS]</date> à <placeName ref="#pl-521">Servon Saint Thomas
+                    (Marne)</placeName>.</p></summary>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>Papier ivoire timbré réglé (testament). </support>
+                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                    <height>17,8</height>
+                    <width>24,9</width>
+                  </dimensions>.</extent>
+              </supportDesc>
+            </objectDesc>
+            <handDesc>
+              <p>Testament : encre.</p>
+            </handDesc>
+          </physDesc>
+          <history>
+            <provenance><orgName>Jean Angel Allard Nesles-La-Vallée</orgName></provenance>
+          </history>
+        </msDesc>
+        <msDesc xml:id="will_AD95_0034_min">
+          <msIdentifier>
+            <country>France</country>
+            <institution>Archives départementales du Val-d’Oise</institution>
+            <collection>Archives notariales</collection>
+            <idno>2E30 429, minute du 11 janvier 1921 (dépôt du testament de Eugène Alphonse
+              Soyer)</idno>
+            <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+              minute</msName>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation><date type="willDate" when="1914-08-11">11 août 1914</date></creation>
+      <langUsage><language ident="fr">français</language></langUsage>
+      <abstract><p>11 août 1914. Vallangoujard.</p><p>testament olographe de Eugène Alphonse Soyer, mort pour la France le
+                  16 7bre 1914 [NOT] |
+                  16 septembre 1914 [MDH] [AS] à Servon Saint Thomas
+                    (Marne).</p></abstract>
+      <textClass>
+        <keywords>
+          <term type="subject">Grande Guerre</term>
+          <term type="subject">Poilu</term>
+          <term type="subject">testament</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when-iso="2019-10-09/2020-03-26" who="#MFGarreau #lelia #SL. #GBMireille">transcription</change>
+      <change when-iso="2019-10-09/2019-10-23" who="#PCharbonnier">validation</change>
+      <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements et
+        contrôle de qualité finaux</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+    <surface type="will-page" n="01">
+      <graphic url="testament_AD95_0034___JPEG___FRAD95_Poilus_t-0034_01.jpg" xml:id="FRAD95_Poilus_t-0034_01"/>
+    </surface>
+  </facsimile>
+  <text xml:id="will_AD95_0034">
+    <body>
+      <div type="will">
+        <pb facs="#FRAD95_Poilus_t-0034_01"/>
+        <dateline><placeName type="willPlace" ref="#pl-672">Vallangoujard</placeName>
+          <date type="willDate" when="1914-08-11">onze
+              <choice><sic>aout</sic><corr>août</corr></choice> mil neuf cent
+                quatorze<choice><sic/><corr>.</corr></choice></date></dateline>
+        <space dim="vertical" unit="lines" quantity="1"/>
+        <p>Je <choice><sic>soussigne</sic><corr>soussigné</corr></choice>
+          <persName ref="#pers-428"><surname>Soyer</surname>
+              Eugène</persName><choice><sic/><corr>,</corr></choice>
+          <choice><sic>mecanicien</sic><corr>mécanicien</corr></choice> <choice><sic>a</sic><corr>à</corr></choice>
+          <placeName type="willAuthorResidence" ref="#pl-672"><choice><sic>Vallan-<lb/>goujard</sic><corr>Vallan<lb break="no"/>goujard</corr></choice></placeName><choice><sic/><corr>,</corr></choice> né
+              <choice><sic>a</sic><corr>à</corr></choice>
+          <placeName type="willAuthorBirthPlace" ref="#pl-672">Vallangoujard</placeName>
+          <date type="willAuthorBirthDate" when="1883-08-21">le vingt et un
+                <choice><sic>aout</sic><corr>août</corr></choice>
+            <lb/>mil huit cent quatre<choice><sic> vingts
+              trois</sic><corr>-vingt-trois</corr></choice></date>. <choice><sic>ala</sic><corr>À
+              la</corr></choice> veille <lb/>de partir pour
+              <choice><sic>defendre</sic><corr>défendre</corr></choice> mon pays et supposant
+          <lb/>que le hasard de la guerre <choice><sic>pourait</sic><corr>pourrait</corr></choice>
+          me retrancher <lb/>du nombre des <choice><sic>Vivants</sic><corr>vivants</corr></choice>,
+          par devant les <choice><sic>temoin</sic><corr>témoins</corr></choice>
+          <lb/><choice><sic>soussigné</sic><corr>soussignés</corr></choice> dont
+              d<choice><sic> </sic><corr>’</corr></choice>une part <persName>Monsieur Raynal
+            <lb/>Joseph</persName> <choice><sic>Conseiller</sic><corr>conseiller</corr></choice> municipal
+              <choice><sic>a</sic><corr>à</corr></choice>
+          <placeName type="otherPlace" ref="#pl-672">Vallangoujard</placeName> et <lb/>d’autre part
+            <persName>Monsieur Moine Auguste</persName> garde
+                <choice><sic>cham-<lb/>petre</sic><corr>cham<lb break="no"/>pêtre</corr></choice>  <choice><sic>a</sic><corr>à</corr></choice> <placeName type="otherPlace" ref="#pl-672">Vallangoujard</placeName>, souhaite que comme suit
+              <lb/><choice><sic>soit executes mes Volonte</sic><corr>soient exécutées mes
+              volontés</corr></choice> : je donne tout ce <lb/>que je possède
+              <choice><sic>a</sic><corr>à</corr></choice> ma femme née <persName>Hubain
+            Marie</persName>
+          <lb/><choice><sic>a</sic><corr>à</corr></choice>
+          <placeName>Hondainville</placeName> <choice><sic>. oise . a</sic><corr>(Oise),
+            à</corr></choice> charge par elle de <lb/>remettre tout mon outillage
+              <choice><sic>a</sic><corr>à</corr></choice> mon frère <persName>Soyer
+            <lb/>Louis</persName><choice><sic/><corr>,</corr></choice> actuellement sous les
+              drapeaux<choice><sic> au</sic><corr>. Au</corr></choice> cas
+              <lb/><choice><sic>ou</sic><corr>où</corr></choice> mon frère lui aussi serait
+              <choice><sic>Victime</sic><corr>victime</corr></choice> de la <lb/>guerre tout doit
+          revenir <choice><sic>a</sic><corr>à</corr></choice> ma femme<choice><sic/><corr>
+            :</corr></choice> en ce <lb/>cas je <choice><sic>l</sic><corr>l’</corr></choice>institue
+          ma <choice><sic>legataire</sic><corr>légataire</corr></choice>
+              universelle<choice><sic/><corr>.</corr></choice></p>
+        <dateline>Fait <choice><sic>a</sic><corr>à</corr></choice>
+          <placeName type="willPlace" ref="#pl-672">Vallangoujard</placeName>
+          <date type="willDate" when="1914-08-11">ce onze
+              <choice><sic>aout</sic><corr>août</corr></choice> mil neuf cent
+              <lb/>quatorze</date><choice><sic/><corr>.</corr></choice> <space dim="horizontal" unit="chars" quantity="3"/><choice><sic>avec</sic><corr>Avec</corr></choice> moi ont signé<choice><sic/><corr>
+              :</corr></choice></dateline>
+        <space dim="vertical" unit="lines" quantity="1"/>
+        <signed rend="left"><persName ref="#pers-428"><surname>Soyer</surname>
+          Eugène</persName></signed>
+        <signed rend="left"><persName>J Raynal</persName></signed>
+        <signed rend="left"><persName>A. Moine</persName></signed>
+      </div>
+    </body>
+  </text>
+</TEI>
