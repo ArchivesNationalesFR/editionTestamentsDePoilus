@@ -54,6 +54,7 @@
           <persName xml:id="MD">Marc Durand</persName>
 
           <persName xml:id="MLocatelli">Mélisa Locatelli</persName>
+          <persName xml:id="SL">Sébastien Lagarde</persName>
 
           <persName xml:id="WG">Wilfried Gourdon</persName>
         </respStmt>
@@ -238,6 +239,7 @@
           <persName xml:id="JCRenard">JCRenard</persName>
           <persName xml:id="JFRIDLI">JFRIDLI</persName>
           <persName xml:id="Jideuxhemme">Jideuxhemme</persName>
+          <persName xml:id="JMGoux">JMGoux</persName>
           <persName xml:id="joanielacas">joanielacas</persName>
           <persName xml:id="jpetit">jpetit</persName>
           <persName xml:id="lagrange">lagrange</persName>
@@ -287,6 +289,7 @@
           <persName xml:id="VdLavenne">VdLavenne</persName>
 
           <persName xml:id="Virginie">Virginie</persName>
+          <persName xml:id="v.sassettiaguilera">v.sassettiaguilera</persName>
           <persName xml:id="yannlb">yannlb</persName>
         </respStmt>
         <respStmt>
@@ -319,7 +322,7 @@
         <publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher>
         <publisher><orgName>École nationale des chartes</orgName></publisher>
         <publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher>
-        <date when="2020-10"/>
+        <date when="2020-12"/>
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence>
         </availability>
@@ -440,7 +443,9 @@
           présentation, et résolution des abréviations correction des fautes de syntaxe), qui permet
           une lecture plus fluide. Pour cette dernière, nous avons suivi les règles d’édition de
           l’École des Chartes (<bibl><author>Nougaret (Christine)</author>, <author>Parinet
-              (Élisabeth)</author>, <respStmt><persName>Clavaud (Florence)</persName> <resp>(collab.)</resp>
+              (Élisabeth)</author>, <respStmt>
+              <persName>Clavaud (Florence)</persName>
+              <resp>(collab.)</resp>
             </respStmt>,<title level="a">L’édition critique des textes contemporains, XIXe-XXIe
               siècle</title>. Paris : École nationale des chartes, 2015.</bibl>.</p>
 
@@ -694,11 +699,38 @@
   <xi:include href="will_AN_0088.xml" parse="xml"/>
   <xi:include href="will_AN_0089.xml" parse="xml"/>
   <xi:include href="will_AN_0090.xml" parse="xml"/>
+  <xi:include href="will_AN_0091.xml" parse="xml"/>
+  <xi:include href="will_AN_0092.xml" parse="xml"/>
+  <xi:include href="will_AN_0093.xml" parse="xml"/>
   <xi:include href="will_AN_0094.xml" parse="xml"/>
+  <xi:include href="will_AN_0095.xml" parse="xml"/>
+  <xi:include href="will_AN_0096.xml" parse="xml"/>
+  <xi:include href="will_AN_0097.xml" parse="xml"/>
+  <xi:include href="will_AN_0098.xml" parse="xml"/>
+  <xi:include href="will_AN_0099.xml" parse="xml"/>
+  <xi:include href="will_AN_0100.xml" parse="xml"/>
+  <xi:include href="will_AN_0101.xml" parse="xml"/>
+  <xi:include href="will_AN_0102.xml" parse="xml"/>
   <xi:include href="will_AN_0103.xml" parse="xml"/>
+  <xi:include href="will_AN_0104.xml" parse="xml"/>
+  <xi:include href="will_AN_0105.xml" parse="xml"/>
+  <xi:include href="will_AN_0106.xml" parse="xml"/>
+  <xi:include href="will_AN_0107.xml" parse="xml"/>
   <xi:include href="will_AN_0108.xml" parse="xml"/>
+  <xi:include href="will_AN_0109.xml" parse="xml"/>
+  <xi:include href="will_AN_0110.xml" parse="xml"/>
   <xi:include href="will_AN_0111.xml" parse="xml"/>
+  <xi:include href="will_AN_0112.xml" parse="xml"/>
+  <xi:include href="will_AN_0113.xml" parse="xml"/>
+  <xi:include href="will_AN_0114.xml" parse="xml"/>
+  <xi:include href="will_AN_0116.xml" parse="xml"/>
+  <xi:include href="will_AN_0117.xml" parse="xml"/>
+  <xi:include href="will_AN_0118.xml" parse="xml"/>
+  <xi:include href="will_AN_0119.xml" parse="xml"/>
   <xi:include href="will_AN_0120.xml" parse="xml"/>
+  <xi:include href="will_AN_0121.xml" parse="xml"/>
+  <xi:include href="will_AN_0122.xml" parse="xml"/>
+  <xi:include href="will_AN_0123.xml" parse="xml"/>
   <xi:include href="will_AN_0125.xml" parse="xml"/>
   <xi:include href="will_AN_0152.xml" parse="xml"/>
   <xi:include href="will_AN_0154.xml" parse="xml"/>
