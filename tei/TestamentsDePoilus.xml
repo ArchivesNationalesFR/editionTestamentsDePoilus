@@ -39,119 +39,71 @@
         <respStmt>
           <resp>Identification et description des testaments aux Archives nationales (personnel du
             Minutier central des notaires de Paris)</resp>
-
           <persName xml:id="AM">Aurélie Massie (stagiaire de l’Ecole nationale des
             chartes)</persName>
-
           <persName xml:id="BDavy">Benjamin Davy</persName>
-
-
           <persName xml:id="LC">Laure Cadars</persName>
-
           <persName xml:id="LVieillon">Lucie Vieillon (vacataire de recherche ; actuellement chef de
             projet numérique à la Bibliothèque interuniversitaire de la Sorbonne)</persName>
-
           <persName xml:id="MD">Marc Durand</persName>
-
           <persName xml:id="MLocatelli">Mélisa Locatelli</persName>
           <persName xml:id="SL">Sébastien Lagarde</persName>
-
           <persName xml:id="WG">Wilfried Gourdon</persName>
         </respStmt>
         <respStmt>
           <resp>Identification et description des testaments aux Archives nationales (bénévoles ou
             chercheurs)</resp>
-
-
-
           <persName xml:id="DChristiane">Christiane Demeulenaere-Douyère (conservateur général du
             patrimoine honoraire)</persName>
-
           <persName ref="#CNougaret">Christine Nougaret (professeur émérite à l’École nationale des
             chartes, membre du Centre Jean-Mabillon)</persName>
-
           <persName xml:id="PH">Philippe Henwood (conservateur général du patrimoine
             honoraire)</persName>
           <persName xml:id="RCM">Rosine Cleyet-Michaud (conservateur général du patrimoine
             honoraire)</persName>
-
         </respStmt>
         <respStmt>
           <resp>Identification et description des testaments aux Archives départementales des
             Yvelines (personnel du service)</resp>
-
-
-
-
-
           <persName xml:id="MDeuve">Mathilde Deuve (responsable de la cellule de développement des
             publics)</persName>
-
-
           <persName xml:id="SBlanchard">Sophie Blanchard (responsable des actions pédagogiques et
             éducatives à la cellule de développement des publics)</persName>
         </respStmt>
         <respStmt>
           <resp>Identification et description des testaments aux Archives départementales des
             Yvelines (bénévoles)</resp>
-
-
           <persName xml:id="CChauvelier">Catherine Chauvelier</persName>
-
-
           <persName xml:id="CSouchon">Catherine Souchon</persName>
-
           <persName xml:id="CF">Chantal Furgaut</persName>
-
           <persName xml:id="DA">Danièle Allezard</persName>
-
           <persName xml:id="DMD">Denis Michel-Dansac</persName>
-
           <persName xml:id="DL">Dominique Lemaitre</persName>
-
-
           <persName xml:id="FAuriau">Françoise Auriau</persName>
-
           <persName xml:id="FP">Françoise Pinchard</persName>
-
-
           <persName xml:id="JG">Jacqueline Gallois</persName>
           <persName xml:id="MAD">Marie-Anne Dor</persName>
           <persName xml:id="MLL">Marie-Louise Léon</persName>
           <persName xml:id="MOD">Marie-Odile DUHEM</persName>
-
           <persName xml:id="MTS">Marie-Thérèse Solignat</persName>
-
-
           <persName xml:id="MR">Michel Renard</persName>
-
-
           <persName xml:id="NGiraud">Nicole Giraud</persName>
-
           <persName xml:id="RG">Regine Guillot</persName>
-
-
           <persName xml:id="TR">Thierry Rihouey</persName>
-
-
           <persName xml:id="VLemee">Valérie Lemée</persName>
         </respStmt>
         <respStmt>
           <resp>Identification et description des testaments aux Archives départementales du
             Val-d’Oise (personnel du service)</resp>
-
           <persName xml:id="SD">Sophie Delinge</persName>
           <persName xml:id="SDechavanne">Sylvie Dechavanne (chef du service des Publics)</persName>
           <persName xml:id="TO">Thomas Olivier</persName>
-
         </respStmt>
         <respStmt>
           <resp>Identification et description des testaments aux Archives départementales du
             Val-d’Oise (étudiants ou chercheurs)</resp>
-
           <persName xml:id="AP">Anais Pontoparia</persName>
           <persName xml:id="AMangeot">Antoine Mangeot</persName>
-
           <persName xml:id="CSalmon">Chloé Salmon</persName>
           <persName xml:id="CR">Christian Rodriguez</persName>
           <persName xml:id="ELL">Emilie Laffitte-Louisou</persName>
@@ -161,10 +113,8 @@
           <persName xml:id="KSifakis">Konstantinos Sifakis</persName>
           <persName xml:id="LLecoutre">Lena Lecoutre</persName>
           <persName xml:id="ML">Maeva Leblond</persName>
-
           <persName xml:id="MLeuthereau">Maxime Leuthereau</persName>
           <persName xml:id="PCB">Paul Cazin-Bernier</persName>
-
           <persName xml:id="SDoman">Sarah Doman</persName>
           <persName xml:id="SB">Sherine Berzig</persName>
           <persName xml:id="TP">Tiffanie Pitot</persName>
@@ -173,12 +123,6 @@
         </respStmt>
         <respStmt>
           <resp>Transcription bénévole et collaborative des testaments</resp>
-
-
-
-
-
-
           <persName xml:id="ACourtin">ACourtin</persName>
           <persName xml:id="Adèle">Adèle</persName>
           <persName xml:id="Alcofrybas">Alcofrybas</persName>
@@ -187,7 +131,6 @@
           <persName xml:id="alp">alp</persName>
           <persName xml:id="Amarti">Amarti</persName>
           <persName xml:id="Annie">Annie</persName>
-
           <persName xml:id="ASJPeronneau">ASJPeronneau</persName>
           <persName xml:id="BAlexis">BAlexis</persName>
           <persName xml:id="barner66">barner66</persName>
@@ -220,7 +163,6 @@
           <persName xml:id="Eugénie">Eugénie</persName>
           <persName xml:id="F.Mace">F.Mace</persName>
           <persName xml:id="fcys14">fcys14</persName>
-
           <persName xml:id="FMARIECLAIRE">FMARIECLAIRE</persName>
           <persName xml:id="G.Abitbol">G.Abitbol</persName>
           <persName xml:id="Gaelle">Gaelle</persName>
@@ -235,7 +177,6 @@
           <persName xml:id="HGz">HGz</persName>
           <persName xml:id="Ingrid">Ingrid</persName>
           <persName xml:id="JBB">JBB</persName>
-
           <persName xml:id="JCRenard">JCRenard</persName>
           <persName xml:id="JFRIDLI">JFRIDLI</persName>
           <persName xml:id="Jideuxhemme">Jideuxhemme</persName>
@@ -257,7 +198,6 @@
           <persName xml:id="MarionJo">MarionJo</persName>
           <persName xml:id="Marisele">Marisele</persName>
           <persName xml:id="maud_a">maud_a</persName>
-
           <persName xml:id="mcv">mcv</persName>
           <persName xml:id="melcef">melcef</persName>
           <persName xml:id="MFGarreau">MFGarreau</persName>
@@ -287,7 +227,6 @@
           <persName xml:id="Valérie">Valérie</persName>
           <persName xml:id="Valkim">Valkim</persName>
           <persName xml:id="VdLavenne">VdLavenne</persName>
-
           <persName xml:id="Virginie">Virginie</persName>
           <persName xml:id="v.sassettiaguilera">v.sassettiaguilera</persName>
           <persName xml:id="yannlb">yannlb</persName>
@@ -300,7 +239,6 @@
           <resp>Validation des travaux collaboratifs de transcription et d’encodage</resp>
           <persName ref="#CNougaret">Christine Nougaret</persName>
           <persName ref="#EdChamps">Emmanuelle de Champs</persName>
-
           <persName ref="#SDechavanne">Sylvie Dechavanne</persName>
           <persName xml:id="YvelinesDoc">YvelinesDoc</persName>
           <persName xml:id="PLPallec">PLPallec</persName>
@@ -327,7 +265,6 @@
           <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence>
         </availability>
         <idno>TestamentsDePoilus</idno>
-
       </publicationStmt>
       <sourceDesc>
         <msDesc xml:id="NOT_AN">
@@ -351,7 +288,6 @@
             <collection>Archives notariales</collection>
           </msIdentifier>
         </msDesc>
-
         <msDesc xml:id="EC">
           <msIdentifier>
             <country>France</country>
@@ -448,7 +384,6 @@
               <resp>(collab.)</resp>
             </respStmt>,<title level="a">L’édition critique des textes contemporains, XIXe-XXIe
               siècle</title>. Paris : École nationale des chartes, 2015.</bibl>.</p>
-
         <normalization>
           <p>L’édition propose à la fois une transcription fidèle du texte et de sa graphie
             d’origine, et une forme normalisée de cette graphie (emploi des majuscules, corrections
@@ -473,7 +408,6 @@
           <ref target="https://github.com/TranscribeToTEI">https://github.com/TranscribeToTEI</ref>
         </application>
       </appInfo>
-
     </encodingDesc>
   </teiHeader>
   <xi:include href="personnes.xml" parse="xml"/>
