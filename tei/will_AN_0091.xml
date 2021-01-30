@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0091">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title>
+                <title type="main">[Testament de Jean Besse (29 juillet 1915)] : édition électronique</title>
+                <author>
+                    <persName ref="#pers-147">Jean Besse (1887-1918)</persName>
+                </author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique. Département de la Conservation. Atelier photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#AM">Aurélie Massie</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#JMGoux">JMGoux</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0091</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0091_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1662, minute du 9 avril 1920 (dépôt du testament de Jean Besse)</idno>
+                        <msName>Testament de Jean Besse (29 juillet 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1915-07-29">29 juillet 1915</date>. <placeName type="willPlace">en campagne</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-147"><forename>Jean</forename> <surname>Besse</surname></persName>, mort pour la France le <date when="1918-05-30">30 mai 1918</date> à <placeName ref="#pl-222">La Neuvillette, devant Reims (Marne)</placeName>.</p>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à lettre réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>20</height>
+                                        <width>15,5</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance>
+                            <orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010247">étude notariale 120 (CRPCEN : 75100)</orgName>
+                        </provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0091_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1662, minute du 9 avril 1920 (dépôt du testament de Jean Besse)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date type="willDate" when="1915-07-29">29 juillet 1915</date>
+            </creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>29 juillet 1915. en campagne.</p>
+                <p>testament olographe de Jean Besse, mort pour la France le 30 mai 1918 à La Neuvillette, devant Reims (Marne).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-04-06" who="#SL. #lelia #JMGoux">transcription</change>
+            <change when-iso="2018-01-24/2018-04-05" who="#PCharbonnier ">validation</change>
+            <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0091___JPEG___FRAN_Poilus_t-0091_01.jpg" xml:id="FRAN_Poilus_t-0091_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0091">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0091_01"/>
+                <head>Ceci est mon testament</head>
+                <space quantity="1" unit="lines" dim="vertical"/>
+                <p> <choice><sic>je</sic><corr>Je</corr></choice> soussigné <persName ref="#pers-147"><surname>Besse</surname> Jean</persName><choice><sic/><corr>,</corr></choice> cultivateur <lb/>demeurant et domicilié à <placeName type="willAuthorResidence" ref="#pl-257"><choice><sic>cronzat</sic><corr>Cronzat,</corr></choice> commune <lb/>de <choice><sic>Saint julien</sic><corr>Saint-Julien</corr></choice>, canton de Bort (<choice><sic>Correze</sic><corr>Corrèze</corr></choice>)</placeName><choice><sic/><corr>,</corr></choice> <lb/>en ce moment sur le <choice><sic>fron des Armées</sic><corr>front des Armées</corr></choice> <lb/><choice><sic>francaises</sic><corr>françaises</corr></choice>, sain de corps et d’esprit, <lb/><choice><sic>declare</sic><corr>déclare</corr></choice> faire, par ces <choice><sic>presentes</sic><corr>présentes,</corr></choice> donation <lb/>à ma femme <persName><choice><sic>Leonie</sic><corr>Léonie</corr></choice> Besse (<choice><sic>anterieurement</sic><corr>antérieurement</corr></choice> <lb/><choice><sic>Leonie</sic><corr>Léonie</corr></choice> Bordes</persName>) demeurant <choice><sic>au dit</sic><corr>audit</corr></choice> lieu <lb/>de <choice><sic>cronzat</sic><corr>Cronzat</corr></choice>, de tous les biens meubles <lb/>et immeubles que je <choice><sic>possede</sic><corr>possède</corr></choice> actuellement<choice><sic/><corr>,</corr></choice> <lb/><choice><sic>ainssi</sic><corr>ainsi</corr></choice> que tous les biens que je pourrais <lb/>avoir. <choice><sic>je</sic><corr>Je</corr></choice> lègue à ma femme toutes <lb/>les valeurs mobilières que nous avons <lb/>acquises <choice><sic>enssemble</sic><corr>ensemble</corr></choice> sans aucune restriction<choice><sic/><corr>.</corr></choice> <lb/><choice><sic>je revoque</sic><corr>Je révoque</corr></choice> tout testament <choice><sic>anterieur</sic><corr>antérieur</corr></choice>.</p>
+                <dateline><choice><sic>fait</sic><corr>Fait</corr></choice> en campagne le <date type="willDate" when="1915-07-29"><choice><sic>vingt neuf</sic><corr>vingt-neuf</corr></choice> <lb/>juillet mil <choice><sic>neuf-cent</sic><corr>neuf cent</corr></choice> quinze.</date></dateline>
+                <space quantity="1" unit="lines" dim="vertical"/>
+                <signed rend="right"><persName ref="#pers-147"><surname>Besse</surname> Jean</persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

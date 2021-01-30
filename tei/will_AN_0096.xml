@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0096">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title>
+                <title type="main">[Testament de Albert Grouet (3 août 1914)] : édition électronique</title>
+                <author><persName ref="#pers-152">Albert Grouet (1884-1914)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique. Département de la Conservation. Atelier photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#AM">Aurélie Massie</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#LBIsabelle">LBIsabelle</persName>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#SCayeux">SCayeux</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0096</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0096_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1677, minute du 8 septembre 1920 (dépôt du testament de Albert Grouet)</idno>
+                        <msName>Testament de Albert Grouet (3 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1914-08-03">3 août 1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-152"><forename>Albert</forename> <surname>Grouet</surname></persName>, mort pour la France le <date when="1914-10-08">8 octobre 1914</date> aux <placeName ref="#pl-265">environs de Beuvraignes (Somme)</placeName>.</p>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>2 pages. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010247">étude notariale 120 (CRPCEN : 75100)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0096_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1677, minute du 8 septembre 1920 (dépôt du testament de Albert Grouet)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-03">3 août 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>3 août 1914. Paris.</p>
+                <p>testament olographe de Albert Grouet, mort pour la France le 8 octobre 1914 aux environs de Beuvraignes (Somme).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-07-11" who="#SL. #LBIsabelle #MFGarreau #SCayeux">transcription</change>
+            <change when-iso="2018-01-24/2018-04-11" who="#PCharbonnier ">validation</change>
+            <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0096___JPEG___FRAN_Poilus_t-0096_01.jpg" xml:id="FRAN_Poilus_t-0096_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0096___JPEG___FRAN_Poilus_t-0096_02.jpg" xml:id="FRAN_Poilus_t-0096_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0096">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0096_01"/>
+                <p>Ceci est mon testament fait sain d’esprit <lb/>et de corps le <date type="willDate" when="1914-08-03">3 <choice><sic>Août</sic><corr>août</corr></choice> 1914</date> et <choice><sic>deposé</sic><corr>déposé</corr></choice> chez <lb/><persName><choice><sic>Maitre</sic><corr>maître</corr></choice> Brécheux</persName><choice><sic/><corr>,</corr></choice> notaire <choice><sic>a</sic><corr>à</corr></choice> <placeName type="otherPlace" ref="#pl-2">Paris</placeName> avenue <lb/>d’Italie<choice><sic/><corr>.</corr></choice></p>
+                <p><choice><sic>mes</sic><corr>Mes</corr></choice> dernières <choice><sic>volontees</sic><corr>volontés</corr></choice> sont et je <choice><sic>nommes</sic><corr>nomme</corr></choice> comme <lb/>mes <choice><sic>heritiers Ma Mère</sic><corr>héritiers ma mère</corr></choice> <persName>Rosalie Aimé della Benoit<choice><sic/><corr>,</corr></choice> <lb/><choice><abbr>V<hi rend="superscript">ve</hi></abbr><expan>veuve</expan></choice> Grouet</persName>, mes <supplied>frères</supplied> <persName><hi rend="underlined">Auguste</hi> et Georges<surname> Grouet</surname></persName><choice><sic/><corr>,</corr></choice> <lb/>mes sœurs <persName><hi rend="underlined"><choice><sic>Gabrielles</sic><corr>Gabrielle</corr></choice></hi></persName>, <persName><hi rend="underlined">Juliette</hi></persName> et <persName>Rollande <surname>Grouet</surname></persName><choice><sic/><corr>.</corr></choice> <lb/><choice><sic>ma</sic><corr>Ma</corr></choice> fortune personnelle <choice><sic>ce</sic><corr>se</corr></choice> <subst><del>q</del><add>c</add></subst>ompose de ce qui suit <choice><sic/><corr>:</corr></choice></p>
+                <list>
+                    <item><choice><abbr>1<hi rend="superscript-underlined">t</hi></abbr><expan>premièrement</expan></choice> la somme de (575) francs cinq cent <choice><sic>soixante <lb/>quinze</sic><corr>soixante-<lb break="no"/>quinze,</corr></choice> plus les <choice><sic>interèts</sic><corr>intérêts</corr></choice> provenant du solde <lb/>de la maison <choice><sic>vendu a</sic><corr>vendue à</corr></choice>
+                        <persName><choice><abbr>M<hi rend="superscript-underlined">elle</hi></abbr><expan>Mademoiselle</expan></choice> Desfossés</persName> et en <lb/><choice><sic>depot</sic><corr>dépôt</corr></choice> chez <persName><choice><sic>Maitre Brecheux</sic><corr>maître Brécheux</corr></choice></persName>, notaire <choice><sic>a</sic><corr>à</corr></choice>
+                        <placeName type="otherPlace" ref="#pl-2">Paris</placeName><choice><sic/><corr> ;</corr></choice></item>
+                    <item><choice><abbr>2<hi rend="superscript-underlined">è</hi></abbr><expan>deuxièmement</expan></choice> la somme de <choice><sic>Mille</sic><corr>mille</corr></choice> vingt francs en <lb/><choice><sic>dépot a</sic><corr>dépôt à</corr></choice> la <orgName><choice><sic>caisse d’Epargne de la poste</sic><corr>Caisse d’épargne de la Poste</corr></choice></orgName><choice><sic/><corr> ;</corr></choice></item>
+                    <item>3<hi rend="superscript-underlined">o</hi> une <choice><sic>boite a</sic><corr>boîte à</corr></choice> paquetage se trouvant dans <lb/>le grenier de la maison passage <choice><sic>Trubert <lb/>Bellier</sic><corr>Trubert-<lb break="no"/>Bellier,</corr></choice> 14 et contenant un billet de mille <lb/>francs dans un portefeuille marron et divers <lb/>objets<choice><sic/><corr> ; </corr></choice></item>
+                    <item>4<hi rend="superscript-underlined">o</hi> une maison et un terrain <choice><sic>situé a</sic><corr> situés à</corr></choice>
+                        <placeName type="otherPlace" ref="#pl-150"><choice><sic>Bicetre</sic><corr>Bicêtre</corr></choice></placeName><choice><sic/><corr>,</corr></choice>
+                        <lb/>rue <choice><sic>Delescluzes</sic><corr>Delescluze ;</corr></choice></item>
+                    <item>5<hi rend="superscript-underlined">o</hi> un droit au bail d’une maison et d’un <lb/>terrain <choice><sic>située<corr>situés</corr></sic></choice> passage <choice><sic>Trubert Bellier</sic><corr>Trubert-Bellier,</corr></choice> 14<choice><sic/><corr>,</corr></choice>
+                        <lb/><placeName type="otherPlace" ref="#pl-2">Paris XIII</placeName><choice><sic>.</sic><corr> ; </corr></choice></item>
+                    <item>6<hi rend="superscript-underlined">o</hi> une <choice><sic>boite</sic><corr>boîte</corr></choice> se trouvant dans ma chambre <lb/><placeName type="willAuthorResidence" ref="#pl-2">passage <choice><sic>Trubert Bellier</sic><corr>Trubert-Bellier,</corr></choice> 14<choice><sic/><corr>,</corr></choice> Paris</placeName> et contenant <lb/>mes titres de <choice><sic>propriétées</sic><corr>propriété</corr></choice>, mes bijoux se <lb/>composant d’une montre en or, <choice><sic>chaine</sic><corr>chaîne</corr></choice> de <lb/>montre en argent, <choice><sic>divers montre</sic><corr>diverses montres</corr></choice> en acier noir <pb facs="#FRAN_Poilus_t-0096_02"/>et divers <choice><sic>debris</sic><corr>débris</corr></choice> d’or provenant d’une bague <lb/>cassée et un dragon en or pesant 4 grammes.</item>
+                </list>
+                <p>Je veux que mon exécuteur testamentaire <lb/>soit <persName>Auguste Grouet</persName><choice><sic/><corr>,</corr></choice> mon frère<choice><sic/><corr>,</corr></choice> <choice><sic>a</sic><corr>à</corr></choice> <lb/>son défaut ma <choice><sic>Mère</sic><corr>mère</corr></choice> ou <choice><sic>a</sic><corr>à</corr></choice> son défaut <lb/>un de mes <choice><sic>héritiés sus ennoncés</sic><corr>héritiers sus-énoncés</corr></choice>.</p>
+                <p>Je veux que sur les sommes <choice><sic>sus enoncées</sic><corr>sus-énoncées,</corr></choice> <lb/>la somme de cinquante francs soit retirée <lb/>pour la prolongation de la concession <lb/>de mon <choice><sic>Père</sic><corr>père</corr></choice> au cimetière de <placeName type="otherPlace" ref="#pl-127">Gentilly</placeName>.</p>
+                <p>2° les maisons et terrains sont la propriété <lb/><choice><sic>de tout mes heritiers a</sic><corr>de tous mes héritiers, à</corr></choice> charge pour eux <lb/><choice><sic>d’aquités</sic><corr>d’acquitter</corr></choice> les termes de loyers et <lb/>contributions ainsi que <choice><sic>d’aquites</sic><corr>d’acquitter</corr></choice> le solde <lb/><choice><sic>du a</sic><corr>dû à</corr></choice> <persName>Monsieur Moeuf</persName> sur les sommes <lb/><choice><sic>sus enoncées</sic><corr>sus-énoncées</corr></choice>, ces maisons seront <lb/>la propriété de tous les <choice><sic>héritiés ennoncés <lb/>moyennant qu’il ne soit jamais vendu <lb/>et se transmette</sic><corr>héritiers énoncés <lb/>moyennant qu’elles ne soient jamais vendues <lb/>et se transmettent</corr></choice> à leurs descendants.</p>
+                <p><choice><sic>Tant qu’a</sic><corr>Quant à</corr></choice> la maison du <placeName>passage <choice><sic>Trubert <lb/>Bellier</sic><corr>Trubert-<lb break="no"/>Bellier,</corr></choice></placeName> les revenus en seront <choice><sic>versées a ma <lb/>Mère</sic><corr>versés à <lb/>ma mère</corr></choice> toute sa vie<choice><sic>, mes</sic><corr>. Mes</corr></choice> bijoux ainsi que <lb/>ma <choice><sic>boite a</sic><corr>boîte à</corr></choice> paquetage moins le billet de <choice><sic><lb/>Mille</sic><corr>mille</corr></choice> francs<choice><sic><surplus>,</surplus></sic><corr/></choice> <choice><sic>reviendrons a</sic><corr>reviendront à</corr></choice> mon frère <persName>Auguste <lb/><surname>Grouet</surname></persName> ou <choice><sic>a son defaut a</sic><corr>à défaut à</corr></choice> mon frère <lb/><persName>Georges <surname>Grouet</surname></persName>.</p>
+                <p rend="left">La somme de huit <choice><sic>cent</sic><corr>cents</corr></choice><app><lem><metamark function="other" rend="cross"/><add type="testatorComment" place="marginLeft"><metamark function="other" rend="cross"/> Je dis huit <choice><sic>cent</sic><corr>cents</corr></choice> francs <lb/><seg type="signature"><persName ref="#pers-152"><surname>Grouet</surname></persName></seg></add></lem><note resp="#jmorvan">Mention "Je dis huit cent francs" ajoutée en marge et signée "Grouet".</note></app> <supplied reason="deleted">francs</supplied><del>soixante francs</del> se <lb/>trouvant dans un coffre <choice><sic>suitée</sic><corr>situé</corr></choice> sur une armoire <lb/>dans la <add place="above">chambre</add> <choice><sic>a</sic><corr>de</corr></choice> ma mère sera <choice><sic>distribué</sic><corr>distribuée</corr></choice> entre tous <lb/>mes <choice><sic>héritiés quant</sic><corr>héritiers quand</corr></choice> tous les frais et <choice><sic>paiement</sic><corr>paiements</corr></choice> seront faits<choice><sic/><corr>.</corr></choice></p>
+                <dateline rend="left">Fait <supplied reason="deleted">en</supplied> double <choice><sic>a</sic><corr>à</corr></choice>
+                    <placeName type="willPlace" ref="#pl-2">Paris</placeName> le <date type="willDate" when="1914-08-03">3 <choice><sic>Aout</sic><corr>août</corr></choice> 1914</date><choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="left"><persName ref="#pers-152"><surname>Grouet</surname></persName></signed>
+                <postscript>
+                    <p><add place="marginLeft"><choice><abbr>n.B.</abbr><expan>Nota bene.</expan></choice> Je veux que <lb/>la somme de deux <lb/><choice><sic>cent</sic><corr>cents</corr></choice> francs soit <lb/>remise <choice><sic>a</sic><corr>à</corr></choice> mon amie <lb/><persName>Madame Vixège</persName><choice><sic/><corr>,</corr></choice> <lb/>140 rue de la <lb/>Glacière<choice><sic/><corr>,</corr></choice> <placeName type="otherPlace" ref="#pl-2">Paris XIII</placeName><choice><sic/><corr>.</corr></choice></add></p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0106">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title>
+        <title type="main">[Testament de Pierre Joseph Estella (12 janvier 1915)] : édition électronique</title>
+        <author><persName ref="#pers-161">Pierre Joseph Estella (1879-1916)</persName></author>
+        <editor ref="#CNougaret">Christine Nougaret</editor>
+        <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+        <editor ref="#FClavaud">Florence Clavaud</editor>
+        <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+        <respStmt>
+          <resp>Numérisation</resp>
+          <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique. Département de la Conservation. Atelier photographique</orgName>
+        </respStmt>
+        <respStmt>
+          <resp>Identification et description du testament</resp>
+          <persName ref="#AM">Aurélie Massie</persName>
+          <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Transcription</resp>
+          <persName ref="#SL.">EG</persName>
+          <persName ref="#JCRenard">JCRenard</persName>
+          <persName ref="#lelia">Lélia Picabia</persName>
+          <persName ref="#MIna">MIna</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Validation</resp>
+          <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+          <persName ref="#FClavaud">Florence Clavaud</persName>
+          <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+          <persName ref="#jmorvan">Josselin Morvan</persName>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+        <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+        <publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher>
+        <publisher><orgName>École nationale des chartes</orgName></publisher>
+        <publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher>
+        <date when="2021">2021</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence>
+        </availability>
+        <idno>TestamentsDePoilus_will_AN_0106</idno>
+        <!--ultérieurement ajouter idno fourni par Nakala-->
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="will_AN_0106_tes">
+          <msIdentifier>
+            <country>France</country>
+            <institution>Archives nationales</institution>
+            <collection>Minutier central des notaires de Paris</collection>
+            <idno>MC/ET/CXX/1710, minute du 13 août 1921 (dépôt du testament de Pierre Joseph Estella)</idno>
+            <msName>Testament de Pierre Joseph Estella (12 janvier 1915)</msName>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p><date type="willDate" when="1915-01-12">12 janvier 1915</date>. <placeName type="willPlace" ref="#pl-276">Bonzée</placeName>.</p>
+              <p><term type="willType">testament olographe</term> de <persName ref="#pers-161"><forename>Pierre</forename> <forename>Joseph</forename> <surname>Estella</surname></persName>, mort pour la France le <date when="1916-09-06">6 septembre 1916</date> dans l’<placeName ref="#pl-275">ambulance 5/55, Salvange (Meuse), secteur 158</placeName>.</p>
+            </summary>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>Papier à lettre (testament). </support>
+                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                    <height>15,5</height>
+                    <width>11,1</width>
+                  </dimensions>.</extent>
+              </supportDesc>
+            </objectDesc>
+            <handDesc>
+              <p>Testament : encre.</p>
+            </handDesc>
+          </physDesc>
+          <history>
+            <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010247">étude notariale 120 (CRPCEN : 75100)</orgName></provenance>
+          </history>
+        </msDesc>
+        <msDesc xml:id="will_AN_0106_min">
+          <msIdentifier>
+            <country>France</country>
+            <institution>Archives nationales</institution>
+            <collection>Minutier central des notaires de Paris</collection>
+            <idno>MC/ET/CXX/1710, minute du 13 août 1921 (dépôt du testament de Pierre Joseph Estella)</idno>
+            <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation><date type="willDate" when="1915-01-12">12 janvier 1915</date></creation>
+      <langUsage>
+        <language ident="fr">français</language>
+      </langUsage>
+      <abstract>
+        <p>12 janvier 1915. Bonzée.</p>
+        <p>testament olographe de Pierre Joseph Estella, mort pour la France le 6 septembre 1916 dans l’ambulance 5/55, Salvange (Meuse), secteur 158.</p>
+      </abstract>
+      <textClass>
+        <keywords>
+          <term type="subject">Grande Guerre</term>
+          <term type="subject">Poilu</term>
+          <term type="subject">testament</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when-iso="2018-01-24/2018-04-16" who="#SL. #JCRenard #lelia #MIna">transcription</change>
+      <change when-iso="2018-01-24/2018-04-11" who="#PCharbonnier ">validation</change>
+      <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+    <surface type="will-page" n="01">
+      <graphic url="testament_AN_0106___JPEG___FRAN_Poilus_t-0106_01.jpg" xml:id="FRAN_Poilus_t-0106_01"/>
+    </surface>
+  </facsimile>
+  <text xml:id="will_AN_0106">
+    <body>
+      <div type="will">
+        <pb facs="#FRAN_Poilus_t-0106_01"/>
+        <dateline rend="right"><placeName type="willPlace" ref="#pl-276">Bonzée</placeName>
+          <date type="willDate" when="1915-01-12">le 12 janvier 1915</date></dateline>
+        <space quantity="4" unit="lines" dim="vertical"/>
+        <p>Je soussigné <persName ref="#pers-161">Pierre Joseph <surname>Estella</surname></persName>, <lb/>demeurant à <placeName type="willAuthorResidence" ref="#pl-2">Paris</placeName>, rue Godefroy, <lb/><choice><abbr>n<hi rend="superscript-underlined">o</hi></abbr><expan>numéro</expan></choice> 1, institue pour ma légataire <lb/>universelle <persName>Marguerite <surname>Muller</surname></persName> <lb/>ma femme.</p>
+        <p>Je révoque tout testament <lb/>antérieur<choice><sic/><corr>.</corr></choice></p>
+        <dateline>Fait sur le front des <choice><sic>armées</sic><corr>Armées</corr></choice>
+          <lb/>le <date type="willDate" when="1915-01-12">douze janvier mil neuf cent <lb/>quinze<choice><sic/><corr>.</corr></choice></date></dateline>
+        <signed rend="right">Signature <lb/><persName ref="#pers-161">P. <surname>Estella</surname></persName></signed>
+      </div>
+    </body>
+  </text>
+</TEI>

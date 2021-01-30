@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0101">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title>
+                <title type="main">[Testament de Albert Julien Margottin (9 août 1914)] : édition électronique</title>
+                <author><persName ref="#pers-157">Albert Julien Margottin (1879-1915)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique. Département de la Conservation. Atelier photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#AM">Aurélie Massie</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#Chloelsa">Chloé Hamadache</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0101</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0101_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1687, minute du 17 décembre 1920 (dépôt du testament de Albert Julien Margottin)</idno>
+                        <msName>Testament de Albert Julien Margottin (9 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1914-08-09">9 août 1914</date>. <placeName type="willPlace" ref="#pl-234">Vitry-sur-Seine</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-157"><forename>Albert</forename> <forename>Julien</forename> <surname>Margottin</surname></persName>, mort pour la France le <date when="1915-09-29">29 septembre 1915</date> à <placeName ref="#pl-140">Souain (Marne)</placeName>.</p>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier quadrillé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>27</height>
+                                        <width>21</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010247">étude notariale 120 (CRPCEN : 75100)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0101_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1687, minute du 17 décembre 1920 (dépôt du testament de Albert Julien Margottin)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-09">9 août 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>9 août 1914. Vitry-sur-Seine.</p>
+                <p>testament olographe de Albert Julien Margottin, mort pour la France le 29 septembre 1915 à Souain (Marne).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-04-06" who="#SL. #MFGarreau #Chloelsa">transcription</change>
+            <change when-iso="2018-01-24/2018-04-05" who="#PCharbonnier ">validation</change>
+            <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0101___JPEG___FRAN_Poilus_t-0101_01.jpg" xml:id="FRAN_Poilus_t-0101_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0101">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0101_01"/>
+                <head rend="centered">Ceci est mon testament</head>
+                <p>Je soussigné <persName ref="#pers-157">Albert Julien René Margottin</persName>, horticulteur <lb/>demeurant à <placeName type="willAuthorResidence" ref="#pl-234"><choice><abbr>Vitry s/ Seine</abbr><expan>Vitry-sur-Seine</expan></choice></placeName><choice><sic/><corr>,</corr></choice> 123 <choice><sic>Boulevard</sic><corr>boulevard</corr></choice> Lamouroux, sain <lb/>de corps et d’esprit, donne et lègue à mon épouse, <lb/><persName>Marguerite Margottin née Marthe Marguerite Joséphine Roux</persName><choice><sic/><corr>,</corr></choice> <lb/>demeurant à <placeName type="otherPlace" ref="#pl-234"><choice><abbr>Vitry s/ Seine</abbr><expan>Vitry-sur-Seine</expan></choice></placeName><choice><sic/><corr>,</corr></choice> 123 <choice><sic>Boulevard</sic><corr>boulevard</corr></choice> Lamouroux, <lb/>tout ce que nous avons gagné <choice><sic>ensembles</sic><corr>ensemble</corr></choice>, tous les biens <lb/>meubles et immeubles qui composeront ma succession sans <lb/>aucune exception ni réserve, et je l’institue mon légataire <lb/>universel. Pour ce qui concerne ma dot de dix <choice><sic>milles</sic><corr>mille</corr></choice> <lb/>francs qui pourrait être réclamée par ma famille, je <lb/><choice><sic>declare</sic><corr>déclare</corr></choice> que j’ai employé à mon gré l’argent de cette dot <lb/>pour acheter des actions et des obligations qu’il m’est <lb/>impossible de détailler par catégories et que <choice><sic>les dites</sic><corr>lesdites</corr></choice> actions <lb/>et obligations seront dépréciées ou totalement perdues par <lb/>suite de la guerre <choice><sic>Européenne</sic><corr>européenne</corr></choice>. En conséquence, je désire <lb/>que mon épouse ne soit inquiétée en aucune façon <lb/>au sujet de ma dot<choice><sic/><corr>,</corr></choice> d’autant plus qu’elle aurait mieux <lb/>aimé que je ne la touche pas le jour que mon père me <lb/>l’a donnée pour s’affranchir de la rente de 4% qu’il me servait.</p>
+                <p>Si à l’encontre de ma dernière volonté certaines objections <lb/>sont émises avec l’aide de la loi, ou bien si mon épouse peut <lb/>ou veut rendre quand même quelque chose, il serait juste de <lb/>ne lui réclamer que la moitié de ma dot<choice><sic/><corr>,</corr></choice> soit cinq mille francs<choice><sic/><corr>,</corr></choice> <lb/>et encore accorder un délai illimité pour attendre que les <lb/>actions ou obligations soient vendues à peu près au prix de <lb/>leur valeur. Toute autre disposition à cause de ma mort, <lb/>que j’ai <choice><sic>pû</sic><corr>pu</corr></choice> faire antérieurement est et demeure révoquée<choice><sic/><corr>.</corr></choice></p>
+                <dateline rend="centered">Fait en double, écrit et daté entièrement de ma main à <lb/><placeName type="willPlace" ref="#pl-234"><choice><abbr>Vitry s/ Seine</abbr><expan>Vitry-sur-Seine</expan></choice></placeName> le <date type="willDate" when="1914-08-09">neuf <choice><sic>Août Mille</sic><corr>août mille</corr></choice> neuf cent <lb/>quatorze</date><choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="centered"><persName ref="#pers-157">A <surname>Margottin</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

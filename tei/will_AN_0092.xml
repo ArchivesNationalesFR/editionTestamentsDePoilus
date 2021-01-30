@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0092">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title>
+                <title type="main">[Testament de Herman Alcide David-Passod ou David-Passot (27 décembre 1915)] : édition électronique</title>
+                <author><persName ref="#pers-148">Herman Alcide David-Passod ou David-Passot (1888-1918)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique. Département de la Conservation. Atelier photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#AM">Aurélie Massie</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#Genea78">Genea78</persName>
+                    <persName ref="#BeaLct">BeaLct</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0092</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0092_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1664, minute du 27 avril 1920 (dépôt du testament de Herman Alcide David-Passod ou David-Passot)</idno>
+                        <msName>Testament de Herman Alcide David-Passod ou David-Passot (27 décembre 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1915-12-27">27 décembre 1915</date>. <placeName type="willPlace" ref="#pl-175">Ivry-sur-Seine</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-148"><forename>Herman</forename> <forename>Alcide</forename> <surname>David-Passod</surname></persName>, mort pour la France le <date when="1918-08-27">27 août 1918</date> au <placeName ref="#pl-259">plateau de Nouvron, Hors (Aisne)</placeName>.</p>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010247">étude notariale 120 (CRPCEN : 75100)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0092_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1664, minute du 27 avril 1920 (dépôt du testament de Herman Alcide David-Passod ou David-Passot)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-12-27">27 décembre 1915</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>27 décembre 1915. Ivry-sur-Seine.</p>
+                <p>testament olographe de Herman Alcide David-Passod, mort pour la France le 27 août 1918 au plateau de Nouvron, Hors (Aisne).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-07-11" who="#SL. #MFGarreau #lelia #Genea78 #BeaLct">transcription</change>
+            <change when-iso="2018-01-24/2018-05-15" who="#PCharbonnier ">validation</change>
+            <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0092___JPEG___FRAN_Poilus_t-0092_01.jpg" xml:id="FRAN_Poilus_t-0092_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0092">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0092_01"/>
+                <dateline rend="centered"><placeName type="willPlace" ref="#pl-175">Ivry</placeName>
+                    <choice><sic>Le</sic><corr>le</corr></choice>
+                    <date type="willDate" when="1915-12-27">27 <choice><sic>Décembre</sic><corr>décembre</corr></choice> 1915</date></dateline>
+                <space dim="vertical" unit="lines" quantity="4"/>
+                <p> <choice><sic>Vu</sic><corr>Vues</corr></choice> les circonstances de la guerre<choice><sic/><corr>,</corr></choice> <lb/>ne<choice><sic><surplus>,</surplus></sic><corr/></choice> sachant pas <choice><sic>se</sic><corr>ce</corr></choice> qu’il peut <lb/>arriver<choice><sic/><corr>,</corr></choice> en cas de <choice><sic>dècès</sic><corr>décès</corr></choice> je donne <lb/>à ma femme <choice><sic>ne</sic><corr>née</corr></choice><persName> Louise Hurlè <lb/>femme David Passod</persName> tout <lb/><choice><sic>se</sic><corr>ce</corr></choice> que nous <choice><sic>possedons</sic><corr>possédons,</corr></choice> <choice><sic>Valeurs</sic><corr>valeurs,</corr></choice> <lb/>ménage<choice><sic/><corr>,</corr></choice> argent<choice><sic/><corr>.</corr></choice> <choice><sic>fait</sic><corr>Fait</corr></choice> par moi<choice><sic/><corr>.</corr></choice></p>
+                <space quantity="2" unit="lines" dim="vertical"/>
+                <signed rend="centered"><persName ref="#pers-148"><surname>David - Passod</surname>
+                        <lb/><space quantity="1" unit="lines" dim="vertical"/>Herman - Alcide</persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

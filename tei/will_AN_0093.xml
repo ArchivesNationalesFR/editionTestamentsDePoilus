@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0093">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title>
+                <title type="main">[Testament de Bazile Barruel (8 août 1914)] : édition électronique</title>
+                <author><persName ref="#pers-149">Bazile Barruel (1884-1915)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique. Département de la Conservation. Atelier photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#AM">Aurélie Massie</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#ASJPeronneau">ASJPeronneau</persName>
+                    <persName ref="#mjalouneix">mjalouneix</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0093</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0093_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1666, minute du 17 mai 1920 (dépôt du testament de Bazile Barruel)</idno>
+                        <msName>Testament de Bazile Barruel (8 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1914-08-08">8 août 1914</date>. <placeName type="willPlace" ref="#pl-261">Cahors</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-149"><forename>Bazile</forename> <surname>Barruel</surname></persName>, mort pour la France le <date when="1915-02-11">11 février 1915</date> aux <placeName ref="#pl-140">Hurlus (Marne)</placeName>.</p>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier brun (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>19,5</height>
+                                        <width>14,7</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010247">étude notariale 120 (CRPCEN : 75100)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0093_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1666, minute du 17 mai 1920 (dépôt du testament de Bazile Barruel)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-08">8 août 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>8 août 1914. Cahors.</p>
+                <p>testament olographe de Bazile Barruel, mort pour la France le 11 février 1915 aux Hurlus (Marne).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-10-15" who="#MFGarreau #SL. #ASJPeronneau #mjalouneix">transcription</change>
+            <change when-iso="2018-01-24/2018-10-10" who="#PCharbonnier #FClavaud ">validation</change>
+            <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0093___JPEG___FRAN_Poilus_t-0093_01.jpg" xml:id="FRAN_Poilus_t-0093_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0093">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0093_01"/>
+                <head rend="centered">Ceci est mon testament seul et unique</head>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Je<choice><sic><surplus>,</surplus></sic><corr/></choice> soussigné, lègue à ma femme <lb/>tout ce que je possède et tout ce <lb/>qui m’est dû par <orgName>la "Société <choice><sic>Générale</sic><corr>générale</corr></choice>"<choice><sic/><corr>,</corr></choice> <lb/>C<supplied unit="chars" reason="hidden" quantity="1">a</supplied>isse de <choice><sic>Prévoyance</sic><corr>prévoyance</corr></choice></orgName> et solde de mon <lb/>c<supplied unit="chars" reason="hidden" quantity="1">o</supplied>mpte de <choice><sic>cheque</sic><corr>chèques</corr></choice> n<hi rend="superscript-underlined">o</hi> 65243. <choice><sic>A</sic><corr>À</corr></choice> <lb/>charge pour elle de payer 440 francs <lb/><choice><sic>a</sic><corr>à</corr></choice> ma <choice><sic>Cousine</sic><corr>cousine</corr></choice> <persName>Mademoiselle Rosalie <lb/><supplied unit="chars" reason="hidden" quantity="1">C</supplied>alaman</persName>, au Bourg, par <placeName type="otherPlace"><choice><sic>la <lb/>Capelle Marival</sic><corr>Lacapelle-<lb break="no"/>Marival</corr></choice></placeName> (Lot), <add place="inline">cette somme <lb/>de quatre cent quarante francs <choice><sic>reprèsente</sic><corr>représente</corr></choice> une dette que <lb/>j’ai contractée envers <choice><sic>la dite</sic><corr>ladite</corr></choice> <persName><choice><abbr>D<hi rend="superscript">lle</hi></abbr><expan>Demoiselle</expan></choice> Calaman</persName>.</add></p>
+                <dateline>Fait à <placeName type="willPlace" ref="#pl-261">Cahors</placeName>, le <date when="1914-08-08" type="willDate">huit <choice><sic>aout</sic><corr>août</corr></choice> 1914<choice><sic/><corr>.</corr></choice></date></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="centered"><persName ref="#pers-149"><surname>Barruel</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

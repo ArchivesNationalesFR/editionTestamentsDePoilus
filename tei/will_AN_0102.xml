@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0102">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title>
+                <title type="main">[Testament de Etienne Louis Alexandre Duplaix (3 août 1914)] : édition électronique</title>
+                <author><persName ref="#pers-158">Etienne Louis Alexandre Duplaix (1887-1914)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique. Département de la Conservation. Atelier photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#AM">Aurélie Massie</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#Amarti">Amarti</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0102</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0102_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1687, minute du 18 décembre 1920 (dépôt du testament de Etienne Louis Alexandre Duplaix)</idno>
+                        <msName>Testament de Etienne Louis Alexandre Duplaix (3 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1914-08-03">3 août 1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-158"><forename>Etienne</forename> <forename>Louis</forename> <forename>Alexandre</forename> <surname>Duplaix</surname></persName>, mort pour la France le <date when="1914-12-19">19 décembre 1914</date> à l’<placeName ref="#pl-271">hôpital auxiliaire n°113 à Neuilly sur Seine (Seine)</placeName>.</p>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010247">étude notariale 120 (CRPCEN : 75100)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0102_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1687, minute du 18 décembre 1920 (dépôt du testament de Etienne Louis Alexandre Duplaix)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-03">3 août 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>3 août 1914. Paris.</p>
+                <p>testament olographe de Etienne Louis Alexandre Duplaix, mort pour la France le 19 décembre 1914 à l’hôpital auxiliaire n°113 à Neuilly sur Seine (Seine).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-04-10" who="#SL. #lelia #Amarti">transcription</change>
+            <change when-iso="2018-01-24/2018-04-09" who="#PCharbonnier ">validation</change>
+            <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0102___JPEG___FRAN_Poilus_t-0102_01.jpg" xml:id="FRAN_Poilus_t-0102_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0102">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0102_01"/>
+                <head rend="right"><choice><sic>Téstamant</sic><corr>Testament</corr></choice></head>
+                <space quantity="2" unit="lines" dim="vertical"/>
+                <dateline rend="centered"><placeName type="willPlace" ref="#pl-2">Paris</placeName> le <date type="willDate" when="1914-08-03">3 <choice><sic>Aout</sic><corr>août</corr></choice> 1914</date><choice><sic/><corr>,</corr></choice>
+                    <lb/><choice><abbr>2<hi rend="superscript-underlined">e</hi></abbr><expan>deuxième</expan></choice>
+                    <choice><sic>Jour de la Mobilisation</sic><corr>jour de la mobilisation</corr></choice>, <lb/>3 heures du soir</dateline>
+                <space quantity="1" unit="lines" dim="vertical"/>
+                <p rend="left">Moi <choice><sic>nommée</sic><corr>nommé</corr></choice> <persName ref="#pers-158"><surname>Duplaix</surname> Louis Etienne <lb/><choice><sic>Aléxandre</sic><corr>Alexandre</corr></choice></persName><choice><sic>. Employée</sic><corr>, employé</corr></choice> de chemin de <lb/>fer, je déclare <choice><sic>tous donnée</sic><corr>tout donner</corr></choice> à ma <lb/>femme née <persName><choice><sic>Eleonore</sic><corr>Éléonore</corr></choice> <surname>Brière</surname></persName><choice><sic/><corr>,</corr></choice> <lb/>comprenant argent <supplied reason="deleted">et</supplied> livret de caisse <lb/><choice><sic>dépargne le</sic><corr>d’épargne. Le</corr></choice> livret porte le numéro <lb/><choice><sic><surplus>n<hi rend="superscript-underlined">o</hi></surplus></sic><corr/></choice> 97,485 de la succursale de <placeName type="otherPlace">Bourges</placeName><choice><sic/><corr>.</corr></choice> <lb/><choice><sic>somme deposé</sic><corr>Somme déposée</corr></choice> du livret 400 <choice><sic>Francs</sic><corr>francs,</corr></choice> <lb/><choice><abbr>1<hi rend="superscript-underlined">e</hi></abbr><expan>premier</expan></choice> <choice><sic>Versement</sic><corr>versement</corr></choice> fait le <date type="otherDate" when="1907-09-20">20 <choice><sic>Septembre</sic><corr>septembre</corr></choice> 1907</date><choice><sic/><corr>,</corr></choice> <lb/>et ainsi que <supplied reason="deleted">le</supplied> mobilier <choice><sic>tous</sic><corr>tout</corr></choice><del><unclear>f</unclear></del> <lb/>compris<choice><sic/><corr>.</corr></choice></p>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <signed rend="right"><persName ref="#pers-158"><surname>Duplaix</surname> Etienne</persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

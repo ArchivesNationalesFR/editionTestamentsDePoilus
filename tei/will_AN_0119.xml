@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0119">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title>
+                <title type="main">[Testament de Georges Emile Auguste Tonnot (2 août 1914)] : édition électronique</title>
+                <author><persName ref="#pers-181">Georges Emile Auguste Tonnot (1874-1914)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique. Département de la Conservation. Atelier photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#MDeuve">Mathilde Deuve</persName>
+                    <persName ref="#AM">Aurélie Massie</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#Lamotte">Isabelle Lamotte</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0119</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0119_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XLVIII/1735, minute du 8 novembre 1915 (dépôt du testament de Georges Emile Auguste Tonnot)</idno>
+                        <msName>Testament de Georges Emile Auguste Tonnot (2 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1914-08-02">2 août 1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-181"><forename>Georges</forename> <forename>Emile</forename> <forename>Auguste</forename> <surname>Tonnot</surname></persName>, mort pour la France le <date when="1914-08-28" source="#will_AN_0119_min">28 août 1914 [NOT]</date> ou le <date when="1914-10-13" source="#MDH">13 octobre 1914 [MDH]</date> au <placeName ref="#pl-301">combat de Guise (Aisne)</placeName>.</p>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à lettre (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>17,3</height>
+                                        <width>10,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010175">étude notariale 048 (CRPCEN : 75047)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0119_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XLVIII/1735, minute du 8 novembre 1915 (dépôt du testament de Georges Emile Auguste Tonnot)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-02">2 août 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>2 août 1914. Paris.</p>
+                <p>testament olographe de Georges Emile Auguste Tonnot, mort pour la France le 28 août 1914 [NOT] ou le 13 octobre 1914 [MDH] au combat de Guise (Aisne).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-04-20/2018-08-28" who="#Lamotte">transcription</change>
+            <change when-iso="2018-04-20/2018-04-25" who="#PCharbonnier #FClavaud">validation</change>
+            <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0119___JPEG___FRAN_Poilus_t-0119_01.jpg" xml:id="FRAN_Poilus_t-0119_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0119">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0119_01"/>
+                <dateline rend="left"><placeName type="willPlace" ref="#pl-2">Paris</placeName>, le <date type="willDate" when="1914-08-02">2 <choice><sic>Août</sic><corr>août</corr></choice> 1914</date></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <head>Ceci est mon testament</head>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>J’institue pour ma seule héritière, Mademoiselle <lb/><persName>Valentine Tonnot</persName>, ma sœur, 7 rue Décrès à Paris<choice><sic/><corr>,</corr></choice> <lb/><choice><sic>a</sic><corr>à</corr></choice> charge par elle :</p>
+                <list>
+                    <item>1<hi rend="superscript-double-underlined">o</hi> de laisser choisir et emporter par ma cousine <lb/><persName>Madame Gaynor</persName>, 37 avenue <choice><sic>Victor Hugo</sic><corr>Victor-Hugo</corr></choice>, Paris, <lb/>toutes les choses ou objets, quels que soient leur <lb/>nombre et leur valeur<choice><sic/><corr>,</corr></choice> que cette personne désirera <lb/>conserver en souvenir de moi.</item>
+                    <item>2<hi rend="superscript-underlined">o</hi> de remettre, soit de la main à la main, soit <lb/>par voie de testament à mon neveu <persName>Frédéric <lb/>Tonnot</persName> à <placeName>Mostaganem</placeName>, s’il en est digne, tous <lb/>les objets : armes, livres<choice><sic/><corr>,</corr></choice>
+                        <choice><sic>etc</sic><corr>etc.</corr></choice> qui me viennent de <lb/>mon père ou qui m’ont appartenu en propre.</item>
+                    <item>3<hi rend="superscript-underlined">o</hi> de remettre un <choice><sic>objets</sic><corr>objet</corr></choice>, en souvenir de moi, aux <lb/>personnes que je lui ai indiquées.</item>
+                    <item>4<hi rend="superscript-underlined">o</hi> de brûler honnêtement, sans les lire, toutes les <lb/>lettres trouvées dans mon appartement, ainsi que <lb/>tous les papiers n’ayant pas un caractère d’affaires.</item>
+                </list>
+                <p>Je signe, sain de corps et d’esprit, <seg type="willAuthorStateOfMind">en souhaitant <lb/>la victoire pour notre chère Patrie</seg>.</p>
+                <signed rend="right"><persName ref="#pers-181"><surname>Tonnot</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

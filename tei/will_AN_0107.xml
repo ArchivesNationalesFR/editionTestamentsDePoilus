@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0107">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title>
+                <title type="main">[Testament de Jules Terrié (2 août 1914)] : édition électronique</title>
+                <author><persName ref="#pers-162">Jules Terrié (1876-1914)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique. Département de la Conservation. Atelier photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#AM">Aurélie Massie</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#LBIsabelle">LBIsabelle</persName>
+                    <persName ref="#MarionJo">MarionJo</persName>
+                    <persName ref="#PPocard">PPocard</persName>
+                    <persName ref="#Maniet">Maniet</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0107</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0107_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1717, minute du 3 novembre 1921 (dépôt du testament de Jules Terrié)</idno>
+                        <msName>Testament de Jules Terrié (2 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1914-08-02">2 août 1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-162"><forename>Jules</forename> <surname>Terrié</surname></persName>, mort pour la France le <date when="1914-08-26">26 août 1914</date> au <placeName ref="#pl-278">combat de Ramillies (Nord)</placeName>.</p>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>2 pages. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010247">étude notariale 120 (CRPCEN : 75100)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0107_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1717, minute du 3 novembre 1921 (dépôt du testament de Jules Terrié)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-02">2 août 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>2 août 1914. Paris.</p>
+                <p>testament olographe de Jules Terrié, mort pour la France le 26 août 1914 au combat de Ramillies (Nord).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2018-03-13" who="#lelia #SL. #MFGarreau #LBIsabelle #MarionJo #PPocard #Maniet">transcription</change>
+            <change when-iso="2018-01-24/2018-03-13" who="#PCharbonnier ">validation</change>
+            <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0107___JPEG___FRAN_Poilus_t-0107_01.jpg" xml:id="FRAN_Poilus_t-0107_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0107___JPEG___FRAN_Poilus_t-0107_02.jpg" xml:id="FRAN_Poilus_t-0107_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0107">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0107_01"/>
+                <head>Testament</head>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>En cas de mort, le <choice><sic>soussigne</sic><corr>soussigné</corr></choice> <lb/><persName ref="#pers-162"><surname>Terrié</surname> Jules</persName><choice><sic/><corr>,</corr></choice> <choice><sic>employe</sic><corr>employé</corr></choice> à la <orgName><choice><sic>Préfecture</sic><corr>préfecture</corr></choice> <lb/>de la Seine</orgName> (mairie du 13<hi rend="superscript">e</hi> arrondissement <lb/>de <placeName type="willAuthorResidence" ref="#pl-2">Paris</placeName>), demeurant 3 rue de Mirbel <lb/>à <placeName type="willAuthorResidence" ref="#pl-2">Paris</placeName>, 5<hi rend="superscript">e</hi> <choice><abbr>A<hi rend="superscript">t</hi></abbr><expan>arrondissement</expan></choice>, déclare faire "<choice><sic>legataire</sic><corr>légataire</corr></choice> <lb/><choice><sic>universel</sic><corr>universelle</corr></choice>" sa femme <persName><choice><abbr>M<hi rend="superscript">me</hi></abbr><expan>Madame</expan></choice> Terrié <lb/>née Tramont Jeanne Marie</persName><choice><sic/><corr>,</corr></choice> domiciliée <lb/>avec son mari à <placeName>Paris</placeName> 3 rue de Mirbel<choice><sic/><corr>.</corr></choice></p>
+                <p>Tous ses biens meubles, titres <lb/>au porteur, <choice><sic>arrerages</sic><corr>arrérages</corr></choice> de pension, argent<choice><sic/><corr>,</corr></choice> <lb/>mobilier<choice><sic/><corr>,</corr></choice> etc. lui seront attribués.</p>
+                <p>En ce qui concerne un petit bien <lb/>lui provenant de l’héritage de ses <lb/>parents et situé à <placeName>Mandou</placeName> par <lb/><placeName ref="#pl-277">Gourdon, Lot</placeName>, il en fait <choice><sic>donnation</sic><corr>donation</corr></choice> <lb/>à son frère <persName><choice><sic>auguste</sic><corr>Auguste</corr></choice> dit <choice><sic>albin</sic><corr>Albin</corr></choice> <lb/><surname><choice><sic>Terrie</sic><corr>Terrié</corr></choice></surname></persName><choice><sic/><corr>,</corr></choice> domicilié audit <placeName>Mandou</placeName>.</p>
+                <p>Toutefois sur <choice><sic>ce dit</sic><corr>cedit</corr></choice> bien, il <lb/>devra verser à Madame <persName><choice><sic>Terrie</sic><corr>Terrié</corr></choice> née <lb/>Tramont</persName> sus-indiquée la somme de <lb/>cinq cents francs dans les 3 ans qui <lb/><choice><sic>suivron</sic><corr>suivront</corr></choice> le <choice><sic>decès</sic><corr>décès</corr></choice> du <app><lem><add place="above" type="testatorComment">+</add> <add place="marginLeft" type="testatorComment">+ <lb/>soussigné <lb/><unclear><seg type="signature">JT</seg></unclear></add></lem><note resp="#jmorvan">Mention "soussigné" ajoutée en marge et signée "JT".</note></app>sou<subst><del>g</del><add>s</add></subst>signé.</p>
+                <p>En cas de <choice><sic>Transport</sic><corr>transport</corr></choice> de son corps <lb/>au domicile de sa femme, il demande <lb/>que ses obsèques aient lieu civilement <lb/>sans le concours du clergé. Il <choice><sic>desire</sic><corr>désire</corr></choice> <lb/><hi rend="underlined">absolument</hi> que ses <choice><sic>dernieres</sic><corr>dernières</corr></choice> volontés <lb/>soient accomplies. Sa vie durant <pb facs="#FRAN_Poilus_t-0107_02"/>il a combattu pour la pensée libre<choice><sic/><corr>,</corr></choice> <lb/>pour la recherche de la <choice><sic>verité</sic><corr>vérité</corr></choice> et <lb/>l’amour de l’humanité. Au moment <lb/>de sa disparition, les mêmes idées <lb/><choice><sic>génereuses</sic><corr>généreuses</corr></choice> et nobles qui devraient <lb/>être celles de la <choice><sic>democratie</sic><corr>démocratie</corr></choice> tout <choice><sic>entiere</sic><corr>entière</corr></choice> <lb/>restent son dernier désir de réalisation.</p>
+                <p><orgName>La <choice><sic>Loge l’Encyclopedique</sic><corr>loge l’Encyclopédique</corr></choice></orgName> <choice><sic>a</sic><corr>à</corr></choice> laquelle il appartient<choice><sic><surplus> :</surplus></sic><corr/></choice> sera <choice><sic>avisee</sic><corr>avisée.</corr></choice></p>
+                <p><choice><sic>A</sic><corr>À</corr></choice> tous parents et amis, mais en <lb/>particulier à sa femme qui a été sa <lb/>vie, il adresse toute son affection et <lb/>son réconfort<choice><sic/><corr>.</corr></choice></p>
+                <signed rend="centered"><persName ref="#pers-162">J <surname>Terrié</surname></persName></signed>
+                <space quantity="1" unit="lines" dim="vertical"/>
+                <dateline rend="centered">Fait à <placeName type="willPlace" ref="#pl-2">Paris</placeName> le <date type="willDate" when="1914-08-02">deux <lb/>août <choice><sic>Mil</sic><corr>mil</corr></choice> neuf cent quatorze</date><choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="centered"><persName ref="#pers-162">J <surname>Terrié</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

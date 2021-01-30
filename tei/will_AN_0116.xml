@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0116">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title>
+                <title type="main">[Testament de André Franck (6 août 1914)] : édition électronique</title>
+                <author><persName ref="#pers-178">André Franck (1883-1915)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique. Département de la Conservation. Atelier photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#AM">Aurélie Massie</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#FMARIECLAIRE">FMARIECLAIRE</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0116</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0116_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XLVIII/1734, minute du 16 octobre 1915 (dépôt du testament de André Franck)</idno>
+                        <msName>Testament de André Franck (6 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1914-08-06">6 août 1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-178"><forename>André</forename> <surname>Franck</surname></persName>, mort pour la France le <date when="1915-08-07">7 août 1915</date> à <placeName ref="#pl-296">Sitil Bahr (Turquie)</placeName>.</p>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à en-tête commercial (testament). </support>
+                                <extent>2 pages. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>27</height>
+                                        <width>21</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre verte.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010175">étude notariale 048 (CRPCEN : 75047)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0116_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XLVIII/1734, minute du 16 octobre 1915 (dépôt du testament de André Franck)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-06">6 août 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>6 août 1914. Paris.</p>
+                <p>testament olographe de André Franck, mort pour la France le 7 août 1915 à Sitil Bahr (Turquie).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-04-20/2019-02-12" who="#SL. #MFGarreau #FMARIECLAIRE">transcription</change>
+            <change when-iso="2018-04-20/2018-08-28" who="#FClavaud #PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0116___JPEG___FRAN_Poilus_t-0116_01.jpg" xml:id="FRAN_Poilus_t-0116_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0116___JPEG___FRAN_Poilus_t-0116_02.jpg" xml:id="FRAN_Poilus_t-0116_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0116">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0116_01"/>
+                <dateline rend="right"><placeName type="willPlace" ref="#pl-2">Paris</placeName>, le <date when="1914-08-06" type="willDate">6 <choice><sic>aout</sic><corr>août</corr></choice> 1914</date></dateline>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <head rend="centered">Voici mes dernières volontés. <lb/>Testament annulant tous les précédents<choice><sic/><corr>.</corr></choice></head>
+                <p>Je possède :</p>
+                <list>
+                    <item>1<hi rend="superscript-underlined">o</hi> 50.000 <supplied reason="deleted">francs</supplied> à la <orgName>Caisse <choice><sic>Générale de Reports</sic><corr>générale de reports</corr></choice></orgName>
+                        <lb/>à <placeName type="otherPlace">Bruxelles</placeName> en compte de <choice><sic>Reports</sic><corr>reports.</corr></choice></item>
+                    <item>2<hi rend="superscript-underlined">o</hi> 433.333 <choice><abbr><hi rend="superscript-underlined">F</hi></abbr><expan>francs</expan></choice> dans la part de la Maison Franck, <lb/>Kadelbourg, 20 rue Laffitte, <placeName type="otherPlace" ref="#pl-2">Paris</placeName>.</item>
+                    <item>3<hi rend="superscript-underlined">o</hi> 140.000 <supplied reason="deleted">francs</supplied> environ en compte courant, à mon crédit <lb/>dans la même maison.</item>
+                    <item>4<hi rend="superscript-underlined">o</hi> Divers titres sous mon dossier dans la même <lb/>maison, représentant un montant total de environ <lb/>90.000 <supplied reason="deleted">francs</supplied> =</item>
+                </list>
+                <p>= les 4 postes formant total de 715.000 <supplied reason="deleted">francs</supplied> environ <lb/>(sept cent quinze <choice><sic>Mille</sic><corr>mille</corr></choice> francs)<choice><sic/><corr>.</corr></choice></p>
+                <p>Je dois personnellement<choice><sic/><corr> :</corr></choice></p>
+                <list>
+                    <item>1<hi rend="superscript-underlined">o</hi> 150.000 <choice><abbr><hi rend="superscript-underlined">F</hi></abbr><expan>francs</expan></choice> (cent cinquante <choice><sic>Mille</sic><corr>mille</corr></choice>
+                        <choice><abbr>frs</abbr><expan>francs</expan></choice>) au <persName><choice><abbr>D<hi rend="superscript-underlined">r</hi></abbr><expan>docteur</expan></choice> Weill</persName><choice><sic/><corr>,</corr></choice> 24<hi rend="superscript-underlined">bis</hi>
+                        <choice><abbr>av.</abbr><expan>avenue du</expan></choice> Trocadéro<choice><sic/><corr>,</corr></choice>
+                        <lb/><add place="below"><placeName type="otherPlace" ref="#pl-2">Paris</placeName></add></item>
+                    <item>2<hi rend="superscript-underlined">o</hi> 25.000 (<choice><sic>vingt cinq Mille</sic><corr>vingt-cinq mille</corr></choice>
+                        <choice><abbr>frs</abbr><expan>francs</expan></choice>) à <persName><choice><abbr>M<hi rend="superscript-underlined">r</hi></abbr><expan>Monsieur</expan></choice> Pierre Marcel Lévi</persName><choice><sic/><corr>,</corr></choice> 51 <choice><abbr>r.</abbr><expan>rue</expan></choice>
+                        <unclear reason="quite-illegible">Sheffer</unclear></item>
+                    <item>3<hi rend="superscript-underlined">o</hi> 25.000 (<choice><sic>vingt-cinq Mille</sic><corr>vingt-cinq mille</corr></choice>
+                        <choice><abbr>frs</abbr><expan>francs</expan></choice>) à <persName><choice><abbr>M<hi rend="superscript-underlined">r</hi></abbr><expan>Monsieur</expan></choice> E<choice><sic/><corr>.</corr></choice> Dispeker</persName><choice><sic/><corr>,</corr></choice> 86 <choice><abbr>r</abbr><expan>rue du</expan></choice> Rocher</item>
+                    <item>4<hi rend="superscript-underlined">o</hi> 50.000 (cinquante <choice><sic>Mille</sic><corr>mille</corr></choice>
+                        <choice><abbr>frs</abbr><expan>francs</expan></choice>) à <persName><choice><abbr>M<hi rend="superscript">r</hi></abbr><expan>Monsieur</expan></choice> Romain Costes</persName><choice><sic/><corr>,</corr></choice> 4 <choice><abbr>Pl.</abbr><expan>place du</expan></choice> Trocadéro<choice><sic/><corr>.</corr></choice></item>
+                </list>
+                <p><choice><sic>soit</sic><corr>Soit</corr></choice> un total de <choice><sic>frs 250.000</sic><corr>250.000 francs</corr></choice> (deux cent cinquante <choice><sic>Mille</sic><corr>mille</corr></choice> <choice><abbr>frs</abbr><expan>francs</expan></choice>)<choice><sic/><corr>.</corr></choice></p>
+                <pb facs="#FRAN_Poilus_t-0116_02"/>
+                <p>Je possède donc, par solde, 465000 <lb/>(<choice><sic>Quatre cent soixante cinq Mille</sic><corr>quatre cent soixante-cinq mille</corr></choice> <choice><abbr>frs</abbr><expan>francs</expan></choice>), <lb/>que je désire voir attribuer de la façon <lb/>suivante en espèces<choice><sic/><corr> :</corr></choice></p>
+                <list>
+                    <item>1<hi rend="superscript-underlined">o</hi> 25000 (<choice><sic>vingt cinq Mille</sic><corr>vingt-cinq mille</corr></choice>
+                        <choice><abbr>frs</abbr><expan>francs</expan></choice>) à <persName><choice><abbr>M<hi rend="superscript-double-underlined">me</hi></abbr><expan>Madame</expan></choice> Jane Ginja</persName>, 12 <choice><abbr>r</abbr><expan>rue</expan></choice> du Rocher<choice><sic/><corr>,</corr></choice>
+                        <add place="below"><placeName type="otherPlace" ref="#pl-2">Paris</placeName></add></item>
+                    <item>2<hi rend="superscript-underlined">o</hi> 25000 (<choice><sic>vingt cinq Mille</sic><corr>vingt-cinq mille</corr></choice>
+                        <choice><abbr>frs</abbr><expan>francs</expan></choice>) à <persName><choice><abbr>M<hi rend="superscript-underlined">lle</hi></abbr><expan>Mademoiselle</expan></choice> Fanny May</persName><choice><sic/><corr>,</corr></choice> 19 rue Fourcroy<choice><sic/><corr>,</corr></choice>
+                        <add place="below"><placeName type="otherPlace" ref="#pl-2">Paris</placeName></add></item>
+                    <item>3<hi rend="superscript-underlined">o</hi> 50.000 (cinquante <choice><sic>Mille</sic><corr>mille</corr></choice>
+                        <choice><abbr>frs</abbr><expan>francs</expan></choice>) à <persName><choice><abbr>M<hi rend="superscript-underlined">r</hi></abbr><expan>Monsieur</expan></choice> Joseph Lévy</persName><choice><sic/><corr>,</corr></choice> 3 <choice><sic>Place fil</sic><corr>place au Fil</corr></choice><choice><sic/><corr>,</corr></choice>
+                        <add place="below"><placeName type="otherPlace" ref="#pl-83"><choice><sic>amiens</sic><corr>Amiens</corr></choice></placeName></add></item>
+                    <item>4<hi rend="superscript-underlined">o</hi> 165.000 (cent <choice><sic>soixante cinq Mille</sic><corr>soixante-cinq mille</corr></choice>
+                        <supplied reason="deleted">francs</supplied>) à <persName><choice><abbr>M<hi rend="superscript-underlined">me</hi></abbr><expan>Madame</expan></choice> Eugène Franck</persName><choice><sic/><corr>,</corr></choice>
+                        <lb/>98 <choice><abbr>Bd</abbr><expan>boulevard des</expan></choice> Batignolles<choice><sic/><corr>,</corr></choice>
+                        <add place="below"><placeName type="otherPlace" ref="#pl-2">Paris</placeName></add></item>
+                    <item>5<hi rend="superscript-underlined">o</hi> 200.000 (deux cent <choice><sic>Mille</sic><corr>mille</corr></choice>
+                        <choice><abbr>frs</abbr><expan>francs</expan></choice>) à <persName><choice><abbr>M<hi rend="superscript-underlined">me</hi></abbr><expan>Madame</expan></choice> Odette Franck</persName><choice><sic/><corr>,</corr></choice>
+                        <lb/>20 <choice><abbr>r</abbr><expan>rue</expan></choice>
+                        <choice><sic>Alphonse de Neuville</sic><corr>Alphonse-de-Neuville</corr></choice><choice><sic/><corr>,</corr></choice>
+                        <lb/><placeName type="otherPlace" ref="#pl-2">Paris</placeName></item>
+                </list>
+                <p>Total 465.000 <choice><sic/><corr>(</corr></choice>quatre cent <choice><sic>soixante cinq Mille</sic><corr>soixante-cinq mille)</corr></choice> francs<choice><sic/><corr>.</corr></choice></p>
+                <dateline><choice><sic>fait</sic><corr>Fait</corr></choice> à <placeName type="willPlace" ref="#pl-2">Paris</placeName>, en double, sain de corps <lb/>et d’esprit, le <date when="1914-08-06">six <choice><sic>aout</sic><corr>août</corr></choice> 1914</date><choice><sic/><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="1  "/>
+                <signed rend="centered"><persName ref="#pers-178">André <surname>Franck</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>
