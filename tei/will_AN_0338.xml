@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/TeiModel_for_FirstWorldWarWills_v2_transcription.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0338">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Théophile Jean Marie Bono (2 août 1914)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-480">Théophile Jean Marie Bono
+                    (1881-1914)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#RCM">Rosine Cleyet-Michaud</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#Chloelsa">Chloé Hamadache</persName>
+                    <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#CNougaret">Christine Nougaret</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0338</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0338_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXVII/1238, minute du 6 novembre 1917 (dépôt du testament de
+                            Théophile Jean Marie Bono)</idno>
+                        <msName>Testament de Théophile Jean Marie Bono (2 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-02">2 août 1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-480"><forename>Théophile</forename> <forename>Jean</forename> <forename>Marie</forename> <surname>Bono</surname></persName>, mort pour la France le <date when="1914-08-25">25 août 1914</date> à <placeName ref="#pl-732">Hoéville près de Champenoux (Meurthe et Moselle)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). Enveloppe 5 cachets
+                                    (enveloppe). </support>
+                                <extent>2 pages et 1 enveloppe. Dimensions du testament :
+                                        <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>. Dimensions de l’enveloppe : <dimensions
+                                        type="willEnvelope" unit="cm">
+                                        <height>11,4</height>
+                                        <width>14,7</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Enveloppe : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010154"
+                                >étude notariale 27 (CRPCEN : 75111)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0338_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXVII/1238, minute du 6 novembre 1917 (dépôt du testament de
+                            Théophile Jean Marie Bono)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-02">2 août 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>2 août 1914. Paris.</p>
+                <p>testament olographe de Théophile Jean Marie Bono, mort pour la France le 25 août
+                    1914 à Hoéville près de Champenoux (Meurthe et Moselle).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2020-03-04/2020-04-07" who="#lelia #MFGarreau #Chloelsa #GBMireille"
+                >transcription</change>
+            <change when-iso="2020-03-04/2020-04-02" who="#PCharbonnier #CNougaret"
+                >validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0338___JPEG___FRAN_Poilus_t-0338_01.jpg"
+                xml:id="FRAN_Poilus_t-0338_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0338___JPEG___FRAN_Poilus_t-0338_02ab.jpg"
+                xml:id="FRAN_Poilus_t-0338_02ab"/>
+        </surface>
+        <surface type="will-envelope-recto" n="03">
+            <graphic url="testament_AN_0338___JPEG___FRAN_Poilus_t-0338_03ab.jpg"
+                xml:id="FRAN_Poilus_t-0338_03ab"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0338">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0338_01"/>
+                <p>Je<del>e</del> soussigné <lb/><space dim="horizontal" unit="chars" quantity="10"
+                        /><persName ref="#pers-480">Théophile Jean Marie
+                            <lb/><surname>Bono</surname></persName> <lb/><choice><sic>demeurent</sic><corr>demeurant</corr></choice>
+                    actuellement <choice><sic>a</sic><corr>à</corr></choice> <lb/><placeName
+                        type="willAuthorResidence" ref="#pl-2">Paris</placeName> rue Poinsot
+                            <choice><abbr>N°</abbr><expan>numéro</expan></choice>
+                            4<choice><sic/><corr>.</corr></choice></p>
+                <p>J<choice><sic> </sic><corr>’</corr></choice>institue pour ma légataire
+                    <lb/>universelle ma femme <lb/>née Emilie
+                    <choice><sic>Eugenie</sic><corr>Eugénie</corr></choice>&#xa0;<choice><sic>louise</sic><corr>Louise</corr></choice> <lb/>Hébert pour la
+                            <choice><sic>totalite</sic><corr>totalité</corr></choice> de <lb/>mes
+                    biens meubles et immeubles <lb/>se composant comme suit<choice><sic/><corr>
+                            :</corr></choice></p>
+                <list>
+                    <item>la <choice><sic>moitier</sic><corr>moitié</corr></choice> d’une ferme <lb/>se
+                        <del>cop</del><add place="above" type="testatorComment">1</add> composant d’une
+                        <lb/><choice><sic>Maison</sic><corr>maison</corr></choice><choice><sic></sic><corr>,</corr></choice> terres et
+                        dépendances<choice><sic></sic><corr>,</corr></choice> <lb/><choice><sic>située</sic><corr>situées</corr></choice>&#xa0;<choice><sic>aux</sic><corr>au</corr></choice> <del>vilange</del><add
+                            place="above" type="testatorComment">2</add><placeName>village <lb/>des Touches commune de
+                                <lb/>Bréhan-Loudéac<choice><sic></sic><corr>,</corr></choice> département <lb/>du
+                                <choice><sic>morbihan</sic><corr>Morbihan</corr></choice></placeName></item>
+                    <item>2<hi rend="superscript-double-underlined">e</hi> un <del>terrin</del><add
+                        place="above" type="testatorComment">3</add> terrain situé
+                                <lb/><choice><sic>a</sic><corr>à</corr></choice> <placeName>Clamart
+                                    (<choice><sic>seine</sic><corr>Seine</corr></choice><choice><sic>,</sic><corr/></choice>)</placeName> <choice><sic>d</sic><corr>d’</corr></choice>une
+                        <lb/>contenance de quatre cents
+                            <lb/><choice><sic>metres</sic><corr>mètres</corr></choice></item>
+                    <item>3<hi rend="superscript-double-underlined">e</hi> un livret de
+                            <orgName>caisse <lb/>d’épargne</orgName> N<hi
+                            rend="superscript-underlined">o</hi> 75-1.804.999 <lb/>contenant la
+                        <del>de</del> somme de <lb/><del>12</del> cent <choice><sic>vingt Huit</sic><corr>vingt-huit</corr></choice> francs
+                                <lb/><choice><sic>ainci</sic><corr>ainsi</corr></choice> que tous
+                        biens qui existeront <lb/>lors de mon
+                            <choice><sic>déces</sic><corr>décès</corr></choice>.</item>
+                </list>
+                <p><space dim="horizontal" unit="chars" quantity="10"/>Ceci est l’expression <pb
+                        facs="#FRAN_Poilus_t-0338_02ab"/>de mes
+                    <choice><sic>dernieres volonter</sic><corr>dernières volontés</corr></choice>.</p>
+                <p>Je <choice><sic>revoque</sic><corr>révoque</corr></choice> tout testament
+                            <lb/><del><unclear>ate</unclear></del> <app><lem><add place="above" type="testatorComment">4</add> <add place="marginLeft" type="testatorComment">quatre mots <lb/>rayés nuls %<lb/><seg type="signature"
+                                ><persName ref="#pers-480"
+                                    >TB</persName></seg></add></lem><note resp="#PCharbonnier">Le testateur numérote ses rayures et précise "quatre mots rayés nuls" en marge à la fin du texte.</note></app>
+                    <choice><sic>anterieur a</sic><corr>antérieur à</corr></choice>
+                            celui-ci, et entend
+                            <lb/><choice><sic>quil</sic><corr>qu’il</corr></choice> soit exécuté
+                    dans toute sa <lb/>forme, sans
+                    cont<subst><del>a</del><add>e</add></subst>station d’aucune <lb/>part.</p>
+                <dateline><choice><sic>fait a</sic><corr>Fait à</corr></choice> <placeName type="willPlace"
+                    ref="#pl-2"><choice><sic>paris</sic><corr>Paris</corr></choice></placeName>,
+                    sain <lb/>de corps et d’esprit, <date type="willDate" when="1914-08-02">le deux
+                        août <lb/>mil neuf cent
+                        quatorze</date><choice><sic></sic><corr>.</corr></choice></dateline><signed rend="centered"><persName ref="#pers-480">Th
+                        <surname>Bono</surname></persName></signed>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0338_03ab"/>
+                <p rend="centered"><choice><sic>A ouvrire</sic><corr>À ouvrir</corr></choice> <lb/>après
+                    mon décès<choice><sic/><corr>.</corr></choice></p>
+            </div>
+        </body>
+    </text>
+</TEI>

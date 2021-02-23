@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0349">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Léon Georges Anquetin (2 août 1914)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-491">Léon Georges Anquetin
+                    (1886-1915)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#DChristiane">Christiane Demeulenaere-Douyère</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0349</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0349_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXVII/1262, minute du 10 juillet 1920 (dépôt du testament de
+                            Léon Georges Anquetin)</idno>
+                        <msName>Testament de Léon Georges Anquetin (2 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-02">2 août 1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-491"><forename>Léon</forename> <forename>Georges</forename> <surname>Anquetin</surname></persName>, mort pour la France le <date when="1915-04-10">10 avril 1915</date> aux <placeName ref="#pl-151">Eparges (Meuse)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). Enveloppe (enveloppe). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions
+                                        type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>. Dimensions de l’enveloppe : <dimensions
+                                        type="willEnvelope" unit="cm">
+                                        <height>9,1</height>
+                                        <width>13</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Enveloppe : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010154"
+                                >étude notariale 27 (CRPCEN : 75111)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0349_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXVII/1262, minute du 10 juillet 1920 (dépôt du testament de
+                            Léon Georges Anquetin)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-02">2 août 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>2 août 1914. Paris.</p>
+                <p>testament olographe de Léon Georges Anquetin, mort pour la France le 10 avril
+                    1915 aux Eparges (Meuse).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2020-03-04/2020-04-06" who="#lelia">transcription</change>
+            <change when-iso="2020-03-04/2020-03-09" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0349___JPEG___FRAN_Poilus_t-0349_01.jpg"
+                xml:id="FRAN_Poilus_t-0349_01"/>
+        </surface>
+        <surface type="will-envelope-verso" n="02">
+            <graphic url="testament_AN_0349___JPEG___FRAN_Poilus_t-0349_03.jpg"
+                xml:id="FRAN_Poilus_t-0349_03"/>
+        </surface>
+        <surface type="will-envelope-recto" n="01">
+            <graphic url="testament_AN_0349___JPEG___FRAN_Poilus_t-0349_02.jpg"
+                xml:id="FRAN_Poilus_t-0349_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0349">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0349_01"/>
+                <head>Ceci est mon testament</head>
+                <p>Je soussigné <persName ref="#pers-491"><surname>Anquetin</surname>
+                        Léon</persName>, demeurant <lb/>à <placeName type="willAuthorResidence"
+                        ref="#pl-2">Paris</placeName>, 41
+                        <choice><sic>Rue</sic><corr>rue</corr></choice>
+                            Labruyère<choice><sic/><corr>.</corr></choice> <lb/>Déclare par la
+                    présente léguer à <persName>Made<lb break="no"/>moiselle Taskin</persName>, demeurant à <placeName type="otherPlace"
+                        ref="#pl-2">Paris</placeName>, 5 rue <lb/>Albert de Lapparent : </p>
+                <list>
+                    <item>1<hi rend="superscript"
+                                >e</hi>/ Trente
+                        <choice><sic>Obligations</sic><corr>obligations</corr></choice> Port de
+                        Rosario 5%</item>
+                    <item>2<hi rend="superscript"
+                                >è</hi>/ Quinze
+                        <choice><sic>Obligations</sic><corr>obligations</corr></choice>
+                                <choice><sic>Metropolitain</sic><corr>Métropolitain</corr></choice> 4%</item>
+                </list>
+                <p>à prendre sur les titres, provenant de mon <lb/>héritage maternel, et déposés au
+                        <orgName>Crédit Lyonnais</orgName> <lb/>dans un
+                            coffre<choice><sic> </sic><corr>-</corr></choice>fort <choice><abbr>n<hi
+                                rend="superscript-underlined"
+                        >o</hi></abbr><expan>numéro</expan></choice> 1356-28.</p>
+                <p rend="centered">Que ma volonté soit faite <choice><sic/><corr>!</corr></choice></p>
+                <space dim="horizontal" unit="chars" quantity="15"/>
+                <dateline>Fait à <placeName type="willPlace" ref="#pl-2">Paris</placeName>, en
+                    pleine connaissance <lb/>de cause, <date type="willDate" when="1914-08-02"
+                        >le deux <choice><sic>Aout</sic><corr>août</corr></choice> mil neuf cent
+                        quatorze</date> <lb/>avant de partir à la
+                        guerre<choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="centered"><persName ref="#pers-491">Léon
+                        <surname>Anquetin</surname></persName></signed></div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0349_03"/>
+                <p rend="centered"><persName><choice><sic>Maitre</sic><corr>Maître</corr></choice>
+                    Demanche</persName> <lb/><hi rend="underlined">Notaire à <placeName
+                        type="otherPlace" ref="#pl-2">Paris</placeName></hi><choice><sic></sic><corr>.</corr></choice></p>
+                <pb facs="#FRAN_Poilus_t-0349_02"/>
+                <p rend="centered"><choice><sic>A</sic><corr>À</corr></choice> remettre en cas de
+                    mort <lb/>à <persName><choice><abbr>M<hi rend="superscript-underlined"
+                                >e</hi></abbr><expan>Maître</expan></choice>
+                            Demanche</persName><choice><sic/><corr>,</corr></choice> notaire à
+                    <placeName type="otherPlace" ref="#pl-2">Paris</placeName><choice><sic></sic><corr>.</corr></choice></p>
+                <signed rend="right"><persName ref="#pers-491">L.
+                        <surname>Anquetin</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

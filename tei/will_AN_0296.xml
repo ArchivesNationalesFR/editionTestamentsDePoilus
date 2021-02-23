@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0296">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Jean Julien Benjamin Rouxel (20/08/1914)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-348">Jean Julien Benjamin Rouxel
+                    (1890-1918)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#DChristiane">Christiane Demeulenaere-Douyère</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0296</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0296_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVI/1446, minute du 23/10/1919 (dépôt du testament de Jean
+                            Julien Benjamin Rouxel)</idno>
+                        <msName>Testament de Jean Julien Benjamin Rouxel (20/08/1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-20">20/08/1914</date>. <placeName type="willPlace" ref="#pl-353">Aulnay-sous-Bois</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-348"><forename>Jean</forename> <forename>Julien</forename> <forename>Benjamin</forename> <surname>Rouxel</surname></persName>, mort pour la France le <date when="1918-08-21">21/08/1918</date> à <placeName ref="#pl-330">Révigny (Meuse)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à lettre (testament). </support>
+                                <extent>2 pages et 1 enveloppe. Dimensions du testament :
+                                        <dimensions type="willPage" unit="cm">
+                                        <height>30,5</height>
+                                        <width>20,3</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010183"
+                                >étude notariale 56 (CRPCEN : 75040)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0296_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVI/1446, minute du 23/10/1919 (dépôt du testament de Jean
+                            Julien Benjamin Rouxel)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-20">20/08/1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>20/08/1914. Aulnay-sous-Bois.</p>
+                <p>testament olographe de Jean Julien Benjamin Rouxel, mort pour la France le
+                    21/08/1918 à Révigny (Meuse).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-02-12/2019-12-12" who="#lelia #MFGarreau">transcription</change>
+            <change when-iso="2019-02-12/2019-11-07" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0296___JPEG___FRAN_Poilus_t-0296_01ab.jpg"
+                xml:id="FRAN_Poilus_t-0296_01ab"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0296___JPEG___FRAN_Poilus_t-0296_02.jpg"
+                xml:id="FRAN_Poilus_t-0296_02"/>
+        </surface>
+        <surface type="will-envelope-recto" n="03">
+            <graphic url="testament_AN_0296___JPEG___FRAN_Poilus_t-0296_03.jpg"
+                xml:id="FRAN_Poilus_t-0296_03"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0296">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0296_01ab"/>
+                <dateline rend="centered">Testament fait à <placeName type="willPlace" ref="#pl-353"
+                                ><choice><sic>Aulnay sous
+                            Bois</sic><corr>Aulnay-sous-Bois</corr></choice></placeName> <lb/>
+                        <date type="willDate" when="1914-08-20">le vingt
+                                <choice><sic>aout</sic><corr>août</corr></choice> mil neuf cent
+                        <lb/>quatorze.</date></dateline>
+                <metamark function="emphasis" rend="horizontal-line"/>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p><hi rend="underlined">Biens présents</hi></p>
+                <list>
+                    <item>1<hi rend="superscript-underlined">o</hi> La somme me revenant de
+                                <choice><sic>là</sic><corr>la</corr></choice> succession de <lb/>mon
+                        père appartient <hi rend="underlined">en totalité</hi> à ma mère
+                            <persName>Armanda <lb/>Rouxel</persName>,
+                                <choice><sic>deduction</sic><corr>déduction</corr></choice> faite
+                        des frais payés par mon oncle <lb/><persName>Benjamin Rémy</persName> qui
+                        devront lui être remboursés <choice><sic>inté-<lb/>gralement</sic><corr>inté<lb break="no"/>gralement</corr></choice> et de la part
+                        légale qui revient à mon <lb/>frère <persName>Pierre Rouxel</persName>. <choice><sic>A</sic><corr>À</corr></choice>
+                        défaut de ma mère cette <lb/>somme reviendrait à ma
+                                <choice><sic>Tante</sic><corr>tante</corr></choice> <persName>Florence
+                            Kerné</persName> dans <lb/>les mêmes conditions. Ces deux personnes
+                        disparaissant <lb/>et après les mêmes déductions, la somme se répartirait
+                        <lb/>comme suit : 30%
+                        à mon frère, 30% <add type="testatorComment"><hi
+                            rend="superscript">(1)</hi></add><add place="marginLeft" type="testatorComment">(1) je dis
+                                    30%</add>
+                        à
+                                <persName>Mademoiselle <lb/>Fernande
+                            Boué</persName> habitant chez ses parents 8 rue de <lb/>l’Assomption
+                            <placeName type="otherPlace" ref="#pl-2">Paris</placeName> ou 62 rue de
+                        Ruffec- <placeName type="otherPlace">Le Blanc <lb/>(Indre)</placeName> et
+                                40% à mon
+                        oncle <persName>Benjamin Rémy</persName>. <lb/>Mon frère disparaissant, sa
+                        part légale reviendrait <lb/>à
+                                <persName>Mademoiselle Boué</persName>.
+                        <lb/>Si ma mère, ma tante <persName>Kerné</persName>, mon frère ont disparu
+                        <lb/>mon oncle Benjamin déduira la somme que je lui <lb/>dois actuellement
+                        et le reste se répartira par moitié <lb/>entre lui et
+                                <persName>Mademoiselle Boué</persName>.
+                        <lb/>Si l’une de ces deux parties
+                        <choice><sic>disparait</sic><corr>disparaît</corr></choice> la moitié <choice><sic>dispo-<lb/>nible</sic><corr>dispo<lb
+                                break="no"/>nible</corr></choice> reviendra à ma
+                                        <choice><sic>grand’mère</sic><corr>grand-mère</corr></choice> et ma tante 
+                            <lb/><persName>Adèle Rémy</persName> pour moitié ou entièrement selon le
+                        cas.</item>
+                    <item>2<hi rend="superscript-double-underlined">o</hi> Les <del>cinq</del><add
+                            place="above">dix <seg type="marginalAdditionSignature"><persName ref="#pers-348"
+                                    >Rouxel</persName></seg></add> actions du moulin de
+                                <choice><sic>Maletroit</sic><corr>Malestroit</corr></choice> sont
+                        <lb/>à mon frère ainsi que les objets m’appartenant sauf <lb/>ma montre en
+                        or qui sera remise à
+                                    <persName>Mademoiselle <lb/>Fernande
+                                        Boué</persName>. En cas de mort de mon frère <choice><sic>excep-<lb/>tion</sic><corr>excep<lb break="no"/>tion</corr></choice>
+                        faite de ma montre, le partage sera fait <lb/>selon la loi.</item>
+                </list>
+                <p><hi rend="underlined">Biens à venir</hi> <lb/><space dim="horizontal" unit="chars"
+                        quantity="5"/>Tous ces biens reviendront à mon frère sauf <lb/>un quart qui
+                    devra appartenir à
+                                <persName>Mademoiselle <lb/>Boué
+                    </persName>et l’usufruit de un demi à ma
+                        <choice><sic>mere</sic><corr>mère</corr></choice> <lb/>ou ma tante survivantes.
+                    Mon frère dispa-<pb facs="#FRAN_Poilus_t-0296_02"/>raissant sa
+                    part reviendrait à mes parents <lb/>les plus proches sauf l’usufruit de un quart
+                    <lb/>à servir à
+                                <persName>Mademoiselle Boué</persName>.
+                    Cette
+                            <choice><sic>derniere</sic><corr>dernière</corr></choice> <lb/>disparue<choice><sic/><corr>,</corr></choice>
+                    sa part reviendrait à mon frère.</p>
+                <p><space dim="horizontal" unit="chars" quantity="5"/>Tous mes parents <metamark
+                        function="other" rend="other"/><add place="above">ici nommés <seg
+                            type="marginalAdditionSignature"><persName ref="#pers-348"
+                                ><surname>Rouxel</surname></persName></seg></add> disparus, <hi
+                        rend="underlined">toute</hi> ma fortune <lb/>revient à
+                                <persName>Mademoiselle Boué</persName>.</p>
+                <p>Dans tous les cas, mon désir
+                    est que cette jeune <lb/>fille soit accueillie les bras ouverts dans ma
+                    <lb/>famille et qu’on la considère comme ma <lb/>fiancée et ma femme. Je
+                            <choice><sic>desire</sic><corr>désire</corr></choice> que plus <lb/>tard
+                    mes parents lui reconnaissent une certaine <lb/>somme.</p>
+                <p>Ce testament
+                            <subst><del>n’est</del><add place="above">ne sera</add></subst> valable
+                    que un mois <lb/>après la signature du traité de paix et si on n’a <lb/>pas de
+                    mes nouvelles depuis au moins quinze <lb/>jours. Cette clause n’est pas valable
+                            <choice><sic>aucas</sic><corr>au cas</corr></choice> où le décès <lb/>
+                    serait <choice><sic>constate</sic><corr>constaté</corr></choice>
+                    authentiquement.</p>
+                <p rend="centered">Derniers baisers à tous. Vive la <lb/>France.</p>
+                <signed rend="right"><persName ref="#pers-348"
+                    ><surname>Rouxel</surname></persName></signed>
+                <dateline>Fait à <placeName type="willPlace" ref="#pl-353">Aulnay</placeName> 
+                        <date type="willDate" when="1914-08-20">le 20
+                                <choice><sic>aout</sic><corr>août</corr></choice> 1914</date> en
+                    quadruple <lb/>exemplaire dont l’un a été remis : <lb/><space dim="horizontal"
+                        unit="chars" quantity="5"/>à
+                                <persName>Madame Rouxel</persName> ma mère, <lb/><space dim="horizontal" unit="chars"
+                        quantity="5"/> à
+                            <persName>Monsieur Remy</persName> mon oncle, <lb/><space dim="horizontal" unit="chars"
+                        quantity="5"/> à
+                                <persName>Mademoiselle Boué</persName> ma fiancée<choice><sic>- </sic><corr>,</corr></choice> <lb/>l’autre est avec moi.</dateline>
+                <signed rend="right"><persName ref="#pers-348"
+                    ><surname>Rouxel</surname></persName></signed>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0296_03"/>
+                <p rend="right"><persName>Madame Rouxel</persName> ou <persName>Kerné</persName> <lb/><address>
+                        <addrLine>35 rue <choice><sic>Francois</sic><corr>François</corr></choice>
+                            Bonvin <lb/><placeName type="otherPlace" ref="#pl-2">Paris</placeName>
+                                (15<hi rend="superscript-underlined">e</hi>)</addrLine>
+                    </address></p>
+                <metamark function="separating" rend="horizontal-line"/>
+                <p>Cette enveloppe ne devra <choice><sic>etre</sic><corr>être</corr></choice>
+                    ouverte <lb/>qu’après décès <hi rend="underlined">authentiquement</hi> constaté
+                    du <lb/>soussigné<choice><sic/><corr>.</corr></choice></p>
+                <dateline rend="centered"><placeName type="willPlace" ref="#pl-353"
+                        >Aulnay</placeName><choice><sic>.</sic><corr>,</corr></choice> <date type="willDate" when="1914-08-24">le 24
+                                <choice><sic>aout</sic><corr>août</corr></choice>
+                    1914</date><choice><sic></sic><corr>.</corr></choice></dateline>
+                <signed rend="centered"><persName ref="#pers-348"
+                        ><surname>Rouxel</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

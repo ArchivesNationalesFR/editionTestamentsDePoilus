@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0182">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Jean Marie Maurice Hillemacher (02/08/1914)] :
+                    édition électronique</title>
+                <author><persName ref="#pers-244">Jean Marie Maurice Hillemacher
+                        (1889-1914)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#CNougaret">Christine Nougaret</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0182</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0182_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XVIII/1935, minute du 06/08/1919 (dépôt du testament de Jean
+                            Marie Maurice Hillemacher)</idno>
+                        <msName>Testament de Jean Marie Maurice Hillemacher (02/08/1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-02">02/08/1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-244"><forename>Jean</forename> <forename>Marie</forename> <forename>Maurice</forename> <surname>Hillemacher</surname></persName>, mort pour la France le <date when="1914-09-06">06/09/1914</date> à <placeName ref="#pl-393">Blesme près Vitry-le-François (Marne)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à lettre réglé (testament). </support>
+                                <extent>3 pages. Dimensions du testament : <dimensions
+                                        type="willPage" unit="cm">
+                                        <height>17,8</height>
+                                        <width>11,5</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010145"
+                                >étude notariale 18 (CRPCEN : 75026)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0182_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XVIII/1935, minute du 06/08/1919 (dépôt du testament de Jean
+                            Marie Maurice Hillemacher)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-02">02/08/1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>02/08/1914. Paris.</p>
+                <p>testament olographe de Jean Marie Maurice Hillemacher, mort pour la France le
+                    06/09/1914 à Blesme près Vitry-le-François (Marne).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-07-19/2018-11-09" who="#MFGarreau #SL. #lelia"
+                >transcription</change>
+            <change when-iso="2018-07-19/2018-10-23" who="#PCharbonnier #FClavaud"
+                >validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0182___JPEG___FRAN_Poilus_t-0182_01.jpg"
+                xml:id="FRAN_Poilus_t-0182_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0182___JPEG___FRAN_Poilus_t-0182_02.jpg"
+                xml:id="FRAN_Poilus_t-0182_02"/>
+        </surface>
+        <surface type="will-page" n="03">
+            <graphic url="testament_AN_0182___JPEG___FRAN_Poilus_t-0182_03.jpg"
+                xml:id="FRAN_Poilus_t-0182_03"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0182">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0182_01"/>
+                <dateline rend="right"><date type="willDate" when="1914-08-02">2 août
+                    1914</date>.</dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Je désire - après mon décès - que <lb/>l’on distribue autour de moi quelques
+                    <lb/>souvenirs à ceux qui m’ont connu et <lb/>aimé<choice><sic>
+                            -</sic><corr>.</corr></choice> La part de fortune qui <lb/>me revient
+                    ira directement à mes <lb/>héritiers naturels, ma
+                            <choice><sic>Mère</sic><corr>mère</corr></choice> et après <lb/>elle ma
+                    soeur ou à son défaut ses <lb/>enfants.</p>
+                <p>Je lègue mon grand chevalet mécanique <lb/>à mon ami <persName>Sollier</persName>
+                    - ce chevalet a appartenu <lb/>à <persName>Roty</persName>.</p>
+                <list>
+                    <item>ma montre en or à mon neveu Claude</item>
+                    <item>ma <choice><sic>chaine</sic><corr>chaîne</corr></choice> en or à mon neveu
+                        Antoine</item>
+                    <item>mon buffet de <choice><sic>chène</sic><corr>chêne</corr></choice> à ma
+                        nièce <choice><sic>Francoise</sic><corr>Françoise</corr></choice></item>
+                    <item>ma médaille "Pro Patria" de <persName>Roty</persName> à mon ami
+                            <persName>André Delavesne</persName>.</item>
+                    <pb facs="#FRAN_Poilus_t-0182_02"/>
+                    <item>à l’<persName>abbé
+                            Guiard</persName><choice><sic>-</sic><corr> :</corr></choice> un dessin
+                        de moi <lb/>qu’il voudra bien choisir
+                        <choice><sic>-</sic><corr/></choice></item>
+                    <item>à mon ami
+                            <persName>Berthon</persName><choice><sic>-</sic><corr> :</corr></choice>
+                        mon livre des <lb/>Récits
+                                <choice><sic>merovingiens</sic><corr>mérovingiens</corr></choice>
+                        illustré par <persName>J-P
+                            Laurens</persName><choice><sic/><corr>.</corr></choice></item>
+                    <item><choice><sic>que</sic><corr>Que</corr></choice> ma mère partage avec ma
+                        soeur <lb/>toutes mes oeuvres (si j’ose m’exprimer <lb/>ainsi...) et <add
+                            place="above">en</add> distribue autour d’elle et <lb/>comme elle le
+                        jugera bon <choice><sic>-</sic><corr></corr></choice>
+                                (<persName><unclear>Guindeler</unclear></persName>,
+                                <lb/><persName><unclear>Coutori</unclear></persName><choice><sic> -
+                                </sic><corr>,
+                            </corr></choice><persName><unclear>Suffit</unclear></persName><choice><sic>
+                                - </sic><corr>,
+                                </corr></choice><persName>Bessaud</persName><choice><sic> -
+                                </sic><corr>,
+                                </corr></choice><persName>Pierné</persName><choice><sic> -
+                                </sic><corr>,
+                            </corr></choice><persName><unclear>Viziey</unclear></persName><choice><sic>
+                                - </sic><corr>, </corr></choice><lb/>Abbat<choice><sic>
+                            -)</sic><corr>,</corr></choice> <persName><unclear>Marie
+                            Antoine</unclear></persName><choice><sic> - </sic><corr>,
+                            </corr></choice><persName><unclear>Paley</unclear></persName><choice><sic></sic><corr>)</corr></choice>.</item>
+                    <item>à <persName>ma <choice><sic>grand mère</sic><corr>grand-mère</corr></choice>
+                            Monbro</persName> deux de mes <lb/>meilleures études<choice><sic>
+                                -</sic><corr/></choice></item>
+                    <item>à ma tante Marie <choice><sic>-</sic><corr> :</corr></choice> mon
+                        porte-plume et <lb/><choice><sic>coupe papier</sic><corr>coupe-papier</corr></choice>
+                                d’argent<choice><sic> -</sic><corr>.</corr></choice></item>
+                    <item>à ma cousine Jacqueline <choice><sic>-</sic><corr> :</corr></choice> mon
+                        coffret <lb/>algérien<choice><sic> -</sic><corr>.</corr></choice></item>
+                    <item>à <persName>Giraldon</persName>, mes deux sous-verres de croquis <lb/>du
+                        régiment<choice><sic> -</sic><corr>.</corr></choice></item>
+                </list>
+                <pb facs="#FRAN_Poilus_t-0182_03"/>
+                <p>Ceci est écrit en <choice><sic>hàte</sic><corr>hâte</corr></choice>, la veille de
+                    <lb/>mon départ pour la guerre<choice><sic> -</sic><corr>.</corr></choice></p>
+                <p>Je demande <add place="above">pardon</add> à ceux que je ne cite
+                            <lb/>pas<choice><sic> -</sic><corr>,</corr></choice> mais j’écris ceci à
+                    la hâte.</p>
+                <p><choice><sic>ma</sic><corr>Ma</corr></choice> bicyclette au fils de la <persName>mère Richard</persName>.</p>
+                <p>Que ma mère donne ma toile du <lb/>Concours de Rome - La
+                            <choice><sic>passion</sic><corr>Passion</corr></choice> de la
+                    <lb/>Vierge - à quelque église où elle sera <lb/>bien exposée - en bon jour - la
+                    lumière <lb/>venant de la gauche<choice><sic> -</sic><corr>.</corr></choice></p>
+                <metamark function="separating" rend="horizontal-line"/>
+                <p>Tout ce <supplied unit="chars" reason="hidden" quantity="1" resp="#SL."
+                        >q</supplied>ui me restera d’argent sur ma <lb/>petite bourse
+                            personnelle<choice><sic> -</sic><corr/></choice> (Laurens, prix <lb/>de
+                    l’Institut etc.) aux pauvres<choice><sic> -</sic><corr>.</corr></choice></p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <dateline><space dim="horizontal" unit="chars" quantity="15"
+                            /><choice><sic>fait</sic><corr>Fait</corr></choice> à <placeName
+                        type="willPlace" ref="#pl-2">Paris</placeName>, 7 rue
+                            Garancière <lb/><choice><abbr>11 h soir</abbr><expan>11 heures du
+                            soir</expan></choice><choice><sic> -</sic><corr>,</corr></choice> <date type="willDate" when="1914-08-02">2 août
+                    1914</date>.</dateline>
+                <signed rend="centered"><persName ref="#pers-244">Jean
+                            <surname>Hillemacher</surname></persName>. </signed>
+            </div>
+        </body>
+    </text>
+</TEI>

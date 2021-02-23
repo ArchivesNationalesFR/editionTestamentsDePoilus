@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0203">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la
+          Grande Guerre</title>
+        <title type="main">[Testament de André Maurice Tixier (3 août 1914)] : édition
+          électronique</title>
+        <author><persName ref="#pers-265">André Maurice Tixier (1885-1914)</persName></author>
+        <editor ref="#CNougaret">Christine Nougaret</editor>
+        <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+        <editor ref="#FClavaud">Florence Clavaud</editor>
+        <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Première édition électronique, fondée sur un travail de transcription
+          collaborative</edition>
+        <respStmt>
+          <resp>Numérisation</resp>
+          <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+            Département de la Conservation. Atelier photographique</orgName>
+        </respStmt>
+        <respStmt>
+          <resp>Identification et description du testament</resp>
+          <persName ref="#CNougaret">Christine Nougaret</persName>
+          <persName ref="#LVieillon">Lucie Vieillon</persName>
+          <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Transcription</resp>
+          <persName ref="#MFGarreau">MFGarreau</persName>
+          <persName ref="#SL.">EG</persName>
+          <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+          <persName ref="#lelia">Lélia Picabia</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Validation</resp>
+          <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+          <persName ref="#FClavaud">Florence Clavaud</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+          <persName ref="#FClavaud">Florence Clavaud</persName>
+          <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+        <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+        <publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher>
+        <publisher><orgName>École nationale des chartes</orgName></publisher>
+        <publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher>
+        <date when="2021">2021</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence>
+        </availability>
+        <idno>TestamentsDePoilus_will_AN_0203</idno>
+        <!--ultérieurement ajouter idno fourni par Nakala-->
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="will_AN_0203_tes">
+          <msIdentifier>
+            <country>France</country>
+            <institution>Archives nationales</institution>
+            <collection>Minutier central des notaires de Paris</collection>
+            <idno>MC/ET/XLII/1439, minute du 23 novembre 1914 (dépôt du testament de André Maurice
+              Tixier)</idno>
+            <msName>Testament de André Maurice Tixier (3 août 1914)</msName>
+          </msIdentifier>
+          <msContents>
+            <summary><p><date type="willDate" when="1914-08-03">3 août 1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-265"><forename>André</forename> <forename>Maurice</forename> <surname>Tixier</surname></persName>, mort pour la France le <date when="1914-10-31">31 octobre 1914</date> <placeName source="#will_AN_0203_min" ref="#pl-160">sur le champ de bataille de Confrécourt,
+              commune de Fontenoy (Aisne) [NOT]</placeName> ou sur la rive droite de l’Aisne,
+            Berny-Rivière (Aisne) [MDH].</p></summary>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>Papier à lettre (testament). </support>
+                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                    <height>16,9</height>
+                    <width>12,3</width>
+                  </dimensions>.</extent>
+              </supportDesc>
+            </objectDesc>
+            <handDesc>
+              <p>Testament : encre.</p>
+            </handDesc>
+          </physDesc>
+          <history>
+            <provenance><orgName
+                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010169"
+                >étude notariale 042 (CRPCEN : 75067)</orgName></provenance>
+          </history>
+        </msDesc>
+        <msDesc xml:id="will_AN_0203_min">
+          <msIdentifier>
+            <country>France</country>
+            <institution>Archives nationales</institution>
+            <collection>Minutier central des notaires de Paris</collection>
+            <idno>MC/ET/XLII/1439, minute du 23 novembre 1914 (dépôt du testament de André Maurice
+              Tixier)</idno>
+            <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+              minute</msName>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation><date type="willDate" when="1914-08-03">3 août 1914</date></creation>
+      <langUsage>
+        <language ident="fr">français</language>
+      </langUsage>
+      <abstract>
+        <p>3 août 1914. Paris.</p>
+        <p>testament olographe de André Maurice Tixier, mort pour la France le 31 octobre 1914 sur
+          le champ de bataille de Confrécourt, commune de Fontenoy (Aisne) [NOT] ou sur la rive
+          droite de l’Aisne, Berny-Rivière (Aisne) [MDH].</p>
+      </abstract>
+      <textClass>
+        <keywords>
+          <term type="subject">Grande Guerre</term>
+          <term type="subject">Poilu</term>
+          <term type="subject">testament</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when-iso="2018-09-10/2019-12-10" who="#MFGarreau #SL. #GBMireille #lelia"
+        >transcription</change>
+      <change when-iso="2018-09-10/2018-10-15" who="#PCharbonnier #FClavaud">validation</change>
+      <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements et
+        contrôle de qualité finaux</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+    <surface type="will-page" n="01">
+      <graphic url="testament_AN_0203___JPEG___FRAN_Poilus_t-0203_01.jpg"
+        xml:id="FRAN_Poilus_t-0203_01"/>
+    </surface>
+  </facsimile>
+  <text xml:id="will_AN_0203">
+    <body>
+      <div type="will">
+        <pb facs="#FRAN_Poilus_t-0203_01"/>
+        <dateline><placeName type="willPlace" ref="#pl-2">Paris</placeName> le <del><unclear
+            reason="cancelled">a</unclear></del> <date type="willDate" when="1914-08-03">3
+              <choice><sic>Août</sic><corr>août</corr></choice> 1914</date></dateline>
+        <space dim="vertical" unit="lines" quantity="2"/>
+        <p>Je donne si je <supplied reason="deleted" unit="words" quantity="1">meurs</supplied> sur
+          le <lb/><choice><sic>chemp-de-bataille</sic><corr>champ de
+              bataille</corr></choice> <lb/><choice><sic>a</sic><corr>à</corr></choice> ma cousine
+              <choice><sic>Né</sic><corr>née</corr></choice> <lb/><persName><choice><sic>Leontine</sic><corr>Léontine</corr></choice>
+            Ringuet, femme <lb/>Charles Petit
+              </persName> <choice><sic>demerant</sic><corr>demeurant</corr></choice> <lb/>129 rue de
+          Sèvres <lb/>tout ce que <supplied unit="words" reason="deleted" quantity="1"
+                  >je</supplied> <choice><sic>po<subst><del>c</del><add>s</add></subst>ède</sic><corr>possède.</corr></choice></p>
+        <signed rend="centered"><persName ref="#pers-265">André
+          <surname>Tixier</surname></persName></signed>
+      </div>
+    </body>
+  </text>
+</TEI>

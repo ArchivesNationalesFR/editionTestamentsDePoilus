@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0198">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de André Jean Alexandre Piégu (05/08/1914)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-259">André Jean Alexandre Piégu
+                    (1883-1918)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#CNougaret">Christine Nougaret</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0198</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0198_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXXI/1568, minute du 07/10/1918 (dépôt du testament de André
+                            Jean Alexandre Piégu)</idno>
+                        <msName>Testament de André Jean Alexandre Piégu (05/08/1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-05">05/08/1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-259"><forename>André</forename> <forename>Jean</forename> <forename>Alexandre</forename> <surname>Piégu</surname></persName>, mort pour la France le <date when="1918-04-18">18/04/1918</date> à <placeName ref="#pl-414">Rouvrel (Somme)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). Enveloppe cachetée
+                                    (enveloppe). </support>
+                                <extent>2 pages et 1 enveloppe. Dimensions du testament :
+                                        <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>. Dimensions de l’enveloppe : <dimensions
+                                        type="willEnvelope" unit="cm">
+                                        <height>14,6</height>
+                                        <width>11,5</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Enveloppe : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010158"
+                                >étude notariale 31 (CRPCEN : 75078)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0198_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXXI/1568, minute du 07/10/1918 (dépôt du testament de André
+                            Jean Alexandre Piégu)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-05">05/08/1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>05/08/1914. Paris.</p>
+                <p>testament olographe de André Jean Alexandre Piégu, mort pour la France le
+                    18/04/1918 à Rouvrel (Somme).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-07-19/2019-02-07" who="#SL. #MFGarreau #lelia"
+                >transcription</change>
+            <change when-iso="2018-07-19/2018-10-05" who="#PCharbonnier #FClavaud"
+                >validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0198___JPEG___FRAN_Poilus_t-0198_01.jpg"
+                xml:id="FRAN_Poilus_t-0198_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0198___JPEG___FRAN_Poilus_t-0198_02.jpg"
+                xml:id="FRAN_Poilus_t-0198_02"/>
+        </surface>
+        <surface type="will-envelope-recto" n="03">
+            <graphic url="testament_AN_0198___JPEG___FRAN_Poilus_t-0198_03.jpg"
+                xml:id="FRAN_Poilus_t-0198_03"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0198">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0198_01"/>
+                <head rend="centered">Ceci est mon testament :</head>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <dateline rend="right"><placeName type="willPlace" ref="#pl-2">Paris</placeName>
+                    <date type="willDate" when="1914-08-05">le 5 août 1914</date></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Je veux que ma fortune aille à mes
+                            <lb/><choice><sic>heritiers</sic><corr>héritiers</corr></choice> dans
+                    l’ordre et le rang où ils y seront <lb/>appelés par la loi.</p>
+                <p>Je lègue <choice><sic>a</sic><corr>à</corr></choice> titre particulier à
+                        <persName>Mademoiselle <lb/> Joséphine Sagot (dite Line Delbreux)</persName>
+                    demeurant à <placeName type="otherPlace" ref="#pl-2">Paris</placeName>
+                    <lb/>rue Marbeau n<hi rend="superscript-underlined">o</hi> 15 une rente annuelle
+                    et <lb/>viagère, incessible et insaisissable, à titre de <lb/>pension
+                    alimentaire, de six mille francs (6.000
+                            <choice><abbr>fr</abbr><expan>francs</expan></choice>) <lb/>qui sera
+                    payable mensuellement et d’avance en
+                            <lb/>l’<choice><sic>etude</sic><corr>étude</corr></choice> de
+                        <persName>Maître Vingtain</persName>, notaire. Elle
+                            <choice><sic>commen-<lb/>cera</sic><corr>commen<lb break="no"
+                            />cera</corr></choice> à courir du jour de mon décès. Ce legs est
+                    <lb/>fait net de tous droits de mutation et frais
+                            quelconques<choice><sic/><corr>.</corr></choice></p>
+                <p>J’indique ici par ordre que ma fortune <lb/>se compose</p>
+                <list>
+                    <item><add place="above">1<hi rend="superscript-double-underlined">o</hi>
+                        </add> de <choice><sic>differentes</sic><corr>différentes</corr></choice>
+                        valeurs mobilières qui <lb/>sont
+                                <choice><sic>deposées</sic><corr>déposées</corr></choice> à la
+                            <orgName>Banque
+                                    <choice><sic>Internationale</sic><corr>internationale</corr></choice>
+                            du <choice><sic>Commerce</sic><corr>commerce</corr></choice><lb/> à
+                                        <choice><abbr>S<hi rend="superscript-double-underlined"
+                                        >t</hi></abbr><expan>Saint</expan></choice><choice><sic> </sic><corr>-</corr></choice>Petersbourg</orgName>, 26 rue Laffitte à <placeName type="otherPlace"
+                            ref="#pl-2">Paris</placeName>.<list>
+                            <item>616 actions <orgName>Petit Parisien</orgName></item>
+                            <item>90 <choice><sic>Parts</sic><corr>parts</corr></choice> de
+                                    <orgName>Société d’assainissement et d’engrais</orgName></item>
+                            <item>70 actions <app><lem><supplied quantity="5" unit="words"
+                                            reason="deleted">de Société d’assainissement et
+                                            d’engrais</supplied></lem><note resp="#PCharbonnier"
+                                        >L’expression restituée est marquée dans le manuscrit par
+                                        "id", abréviation de idem.</note></app></item>
+                            <item>30 obligations <supplied quantity="5" unit="words"
+                                    reason="deleted">de Société d’assainissement et
+                                    d’engrais</supplied></item>
+                            <item>150
+                                        <choice><sic>Actions</sic><corr>actions</corr></choice>&#xa0;<choice><abbr>privil.</abbr><expan>privilège</expan></choice>
+                                <orgName>Imprimerie de Vaugirard</orgName></item>
+                            <item>200 actions <orgName>Spiess</orgName></item>
+                            <item>500 <choice><sic>Actions</sic><corr>actions</corr></choice>
+                                <orgName>Juga Tin.</orgName></item>
+                            <item>100 actions <orgName>Petroles Oklahoma</orgName></item>
+                            <item>500 actions <orgName>Rand Mines</orgName></item>
+                            <item>15 actions <orgName>Colombia</orgName></item>
+                        </list></item>
+                    <pb facs="#FRAN_Poilus_t-0198_02"/>
+                    <item><list>
+                            <item><choice><sic>1. Obligation</sic><corr>1 obligation</corr></choice> communale 1912 <choice><abbr>n/lib</abbr><expan>non
+                                        libérable</expan></choice>.</item>
+                            <item>100 actions <orgName>Montecatini</orgName>.</item>
+                        </list></item>
+                    <item><space dim="horizontal" unit="chars" quantity="10"/>2<hi
+                            rend="superscript-double-underlined">o</hi> de
+                                <choice><sic>differentes</sic><corr>différentes</corr></choice>
+                        valeurs mobilières <choice><sic>deposées</sic><corr>déposées</corr></choice>
+                        au <lb/><orgName><choice><sic>Credit Lyonnais</sic><corr>Crédit
+                                    lyonnais</corr></choice></orgName> agence HF sous le
+                                    <choice><abbr>C<hi rend="superscript-double-underlined"
+                                >t</hi></abbr><expan>compte</expan></choice>&#xa0;<choice><abbr>n<hi
+                                    rend="superscript-double-underlined"
+                                >o</hi></abbr><expan>numéro</expan></choice> 8.950.<list>
+                            <item>30 actions <orgName>Radio
+                                            <choice><sic>Electricité</sic><corr>Électricité</corr></choice></orgName></item>
+                            <item>125 actions <orgName>Del Rio Mining</orgName></item>
+                            <item>25 actions <orgName><choice><abbr>S<hi
+                                                rend="superscript-double-underlined"
+                                            >te</hi></abbr><expan>Société</expan></choice>&#xa0;<choice><sic>Minière</sic><corr>minière</corr></choice>
+                                    et
+                                        <choice><sic>Metallurgique</sic><corr>métallurgique</corr></choice>
+                                    du Quercy.</orgName></item>
+                            <item>10 parts fondateur <supplied quantity="6" unit="words"
+                                    reason="deleted"><orgName>Société minière et métallurgique du
+                                        Quercy.</orgName></supplied></item>
+                            <item>5 actions
+                                            <orgName><choice><sic>produits</sic><corr>Produits</corr></choice>
+                                    pharmaceutiques Logeais</orgName></item>
+                            <item>30 actions <orgName>Marques
+                                            <choice><sic>Industrielles</sic><corr>industrielles</corr></choice>
+                                    et
+                                        <choice><sic>Commerciales</sic><corr>commerciales</corr></choice></orgName></item>
+                            <item>20 actions <supplied quantity="4" unit="words" reason="deleted"
+                                        ><orgName>Marques industrielles et
+                                    commerciales</orgName></supplied> en
+                                        <choice><sic>depot</sic><corr>dépôt</corr></choice>&#xa0;<choice><abbr>ds</abbr><expan>dans</expan></choice>
+                                les caisses de la
+                                    <choice><sic>Societe</sic><corr>Société</corr></choice></item>
+                        </list></item>
+                    <item><space dim="horizontal" unit="chars" quantity="10"/>3<hi
+                            rend="superscript-double-underlined">o</hi> des créances<list>
+                            <item>7500 francs dus par la succession <persName>Marg<unclear
+                                        reason="hidden">i</unclear>s Alfred</persName>.</item>
+                            <item>2500 francs dus par
+                                            <persName><choice><abbr>Mr</abbr><expan>Monsieur</expan></choice>
+                                    Pierre Sportal<unclear reason="hidden">i</unclear></persName>. </item>
+                            <item>50 actions de la <orgName>société Assainissement et
+                                    engrais</orgName>
+                                <choice><sic>deposées</sic><corr>déposées</corr></choice>&#xa0;<choice><abbr>ds</abbr><expan>dans</expan></choice>
+                                les caisses <lb/>de la société pour le compte de gestion de
+                                                <persName><choice><abbr>M<hi
+                                                rend="superscript-double-underlined"
+                                            >r</hi></abbr><expan>Monsieur</expan></choice>
+                                    Pujol</persName>.</item>
+                        </list></item>
+                    <item><space dim="horizontal" unit="chars" quantity="10"/>4<hi
+                            rend="superscript-underlined">o</hi>
+                                <choice><sic>D'interéts</sic><corr>d'intérêts</corr></choice> divers
+                        dans les affaires <choice><sic>ci après -</sic><corr>ci-après
+                            :</corr></choice>
+                        <lb/><orgName>Compagnie du Telium</orgName> - <orgName>Le Syrdil</orgName> -
+                            <orgName>La France
+                                <choice><sic>Inconnue</sic><corr>inconnue</corr></choice></orgName>.
+                        <lb/> Société en formation pour exploiter une usine de dessication <lb/>de
+                        poissons à <placeName type="otherPlace"><choice><sic>Boulogne sur
+                                    mer</sic><corr>Boulogne-sur-mer</corr></choice></placeName>.</item>
+                    <item><space dim="horizontal" unit="chars" quantity="10"/>5<hi
+                            rend="superscript-underlined">o</hi>
+                        <lb/><choice><sic>Une creance</sic><corr>une créance</corr></choice> de 15.000
+                                <choice><abbr>fr</abbr><expan>francs</expan></choice> sur
+                            <persName>Monsieur Roux</persName>
+                        <choice><sic>representée</sic><corr>représentée</corr></choice>
+                        <lb/>par trois traites de 5000
+                            <choice><abbr>fr</abbr><expan>francs</expan></choice> chacune
+                                <choice><sic>a echeance</sic><corr>à échéance</corr></choice> fin
+                                <choice><sic>Septembre</sic><corr>septembre</corr></choice> 1914.
+                    </item>
+                </list>
+                <p>Le <choice><sic>Tout - Sans deduction</sic><corr>tout sans
+                        déduction</corr></choice> des dettes dues à la <orgName>Banque
+                            <lb/><choice><sic>Internationale</sic><corr>internationale</corr></choice></orgName>,
+                    à la <orgName><choice><abbr>Cie</abbr><expan>Compagnie</expan></choice> du
+                        Telium</orgName> et à
+                                <persName><choice><abbr>MM.</abbr><expan>Messieurs</expan></choice>
+                        Abraham</persName> et <choice><abbr>C<hi
+                                rend="superscript-double-underlined"
+                            >ie</hi></abbr><expan>compagnie</expan></choice>.</p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <dateline rend="centered"><placeName type="willPlace" ref="#pl-2">Paris</placeName>
+                    <date type="willDate" when="1914-08-05">le 5 août 1914.</date></dateline>
+                <signed rend="centered"><persName ref="#pers-259">A
+                        <surname>Piégu</surname></persName></signed>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0198_03"/>
+                <p rend="left">Ceci est mon <lb/>testament.</p>
+                <signed rend="centered"><persName ref="#pers-259">A
+                        <surname>Piégu</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0339">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Prudent Gabriel Quéreux (15 février 1915)] :
+                    édition électronique</title>
+                <author><persName ref="#pers-481">Prudent Gabriel Quéreux
+                    (1887-1916)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#DChristiane">Christiane Demeulenaere-Douyère</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#CNougaret">Christine Nougaret</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0339</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0339_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXVII/1239, minute du 12 janvier 1918 (dépôt du testament de
+                            Prudent Gabriel Quéreux)</idno>
+                        <msName>Testament de Prudent Gabriel Quéreux (15 février 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1915-02-15">15 février 1915</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-481"><forename>Prudent</forename> <forename>Gabriel</forename> <surname>Quéreux</surname></persName>, mort pour la France le <date when="1916-07-02">2 juillet 1916</date> à <placeName ref="#pl-734">Becquincourt Dompierre (Somme)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions
+                                        type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010154"
+                                >étude notariale 27 (CRPCEN : 75111)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0339_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXVII/1239, minute du 12 janvier 1918 (dépôt du testament de
+                            Prudent Gabriel Quéreux)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-02-15">15 février 1915</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>15 février 1915. Paris.</p>
+                <p>testament olographe de Prudent Gabriel Quéreux, mort pour la France le 2 juillet
+                    1916 à Becquincourt Dompierre (Somme).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2020-03-04/2020-04-28" who="#lelia">transcription</change>
+            <change when-iso="2020-03-04/2020-03-31" who="#PCharbonnier #CNougaret"
+                >validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0339___JPEG___FRAN_Poilus_t-0339_01.jpg"
+                xml:id="FRAN_Poilus_t-0339_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0339">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0339_01"/>
+                <head>Ceci est mon testament </head>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <p>J’institue pour légat<lb break="no"/>aire universelle
+                                <persName>Madame
+                        <lb/><choice><sic>Eugenie</sic><corr>Eugénie</corr></choice> Marie
+                    Querreux</persName><choice><sic/><corr>,</corr></choice> <lb/>habitant rue
+                    Poinsot <lb/><choice><abbr>N<hi rend="superscript-double-underlined"
+                            >o</hi></abbr><expan>numéro</expan></choice> 4 <placeName
+                        type="otherPlace" ref="#pl-2"
+                        >Paris</placeName><choice><sic/><corr>,</corr></choice> de tout ce <lb/>que
+                    je <choice><sic>posséderais</sic><corr>possèderai</corr></choice> <lb/><choice><sic>a</sic><corr>à</corr></choice> ma
+                    mort, biens <lb/>présents et <choice><sic>a</sic><corr>à</corr></choice>
+                            venir<choice><sic/><corr>.</corr></choice></p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Ceci est
+                            l’<choice><sic>exp<subst><del>e</del><add>r</add></subst>éssion</sic><corr>expression</corr></choice> <lb/>de
+                    mes dernières <lb/>volontés<choice><sic/><corr>.</corr></choice> Je révoque
+                    <lb/>tout testament <lb/><choice><sic>Antérieur</sic><corr>antérieur</corr></choice> au
+                            présent<choice><sic/><corr>.</corr></choice></p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <dateline><choice><sic>fait</sic><corr>Fait</corr></choice> en double
+                            <choice><sic>a</sic><corr>à</corr></choice> <space dim="vertical"
+                        unit="lines" quantity="1"/><del>a</del> <placeName type="willPlace"
+                        ref="#pl-2">Paris</placeName> <date type="willDate" when="1915-02-15"
+                        >le quinze <lb/>février mille neuf cent
+                            <lb/>quinze</date><choice><sic/><corr>.</corr></choice> <lb/>
+                    <space dim="vertical" unit="lines" quantity="1"/><lb/>
+                <persName ref="#pers-481">Monsieur Prudent Gabriel
+                    <lb/><surname>Quéreux</surname></persName> chez Monsieu<subst><del>s</del><add>r</add></subst> <lb/><choice><sic>chaumette</sic><corr>Chaumette</corr></choice>
+                            <choice><sic>a</sic><corr>à</corr></choice> <placeName type="otherPlace"
+                                ><choice><sic>Toussu le
+                                    Noble</sic><corr>Toussus-le-Noble</corr></choice></placeName><choice><sic/><corr>,</corr></choice> <lb/><choice><sic>Canton</sic><corr>canton</corr></choice>
+                    de P<subst><del>à</del><add>a</add></subst>laiseau (<choice><sic>seine
+                                    et oise</sic><corr>Seine-et-Oise</corr></choice>)<choice><sic></sic><corr>.</corr></choice></dateline>
+                <signed rend="right"><persName ref="#pers-481"
+                            >P<subst><del>u</del><add>r</add></subst>udent
+                            <surname>Quéreux</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

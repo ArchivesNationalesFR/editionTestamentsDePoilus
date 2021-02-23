@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0234">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Jacques Félix (ou Félice) Louis Blanc (24 décembre
+                    1916)] : édition électronique</title>
+                <author><persName ref="#pers-292">Jacques Félix (ou Félice) Louis Blanc
+                        (1891-1918)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#CNougaret">Christine Nougaret</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#ALFUSTEC">Annie Le Fustec</persName>
+                    <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+                    <persName ref="#Annie">Annie</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0234</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0234_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXVII/1749, minute du 12 décembre 1919 (dépôt du testament de
+                            Jacques Félix (ou Félice) Louis Blanc)</idno>
+                        <msName>Testament de Jacques Félix (ou Félice) Louis Blanc (24 décembre
+                            1916)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1916-12-24">24 décembre 1916</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-292"><forename>Jacques</forename> <forename>Félix</forename> <forename>Louis</forename> <surname>Blanc</surname></persName>, mort pour la France le <date when="1918-05-14">14 mai 1918</date> à l’<placeName ref="#pl-459">hôpital militaire de Gand (Belgique)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>2 pages et 1 enveloppe. Dimensions du testament :
+                                        <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre bleue.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010244"
+                                >étude notariale 117 (CRPCEN : 75035)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0234_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXVII/1749, minute du 12 décembre 1919 (dépôt du testament de
+                            Jacques Félix (ou Félice) Louis Blanc)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1916-12-24">24 décembre 1916</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>24 décembre 1916. Paris.</p>
+                <p>testament olographe de Jacques Félix Louis Blanc, mort pour la France le 14 mai
+                    1918 à l’hôpital militaire de Gand (Belgique).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-09-10/2019-04-23"
+                who="#MFGarreau #SL. #ALFUSTEC #GBMireille #Annie">transcription</change>
+            <change when-iso="2018-09-10/2018-10-08" who="#PCharbonnier #FClavaud"
+                >validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0234___JPEG___FRAN_Poilus_t-0234_01.jpg"
+                xml:id="FRAN_Poilus_t-0234_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0234___JPEG___FRAN_Poilus_t-0234_02.jpg"
+                xml:id="FRAN_Poilus_t-0234_02"/>
+        </surface>
+        <surface type="will-envelope-recto" n="03">
+            <graphic url="testament_AN_0234___JPEG___FRAN_Poilus_t-0234_03ab.jpg"
+                xml:id="FRAN_Poilus_t-0234_03ab"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0234">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0234_01"/>
+                <head rend="centered">Ceci est mon testament.</head>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Je révoque toutes dispositions antérieures.</p>
+                <p>Je donne et lègue ma propriété <lb/><placeName type="otherPlace"
+                        >d’Houlgate</placeName><choice><sic/><corr>,</corr></choice> y compris les
+                    terrains <lb/>que je <choice><sic>posséde</sic><corr>possède</corr></choice>
+                    dans ce pays<choice><sic/><corr>,</corr></choice> <lb/>à
+                                <persName>Madame
+                        Hébert</persName> ma tante <lb/><choice><sic>Avenue</sic><corr>avenue
+                            de</corr></choice> Friedland
+                            <choice><abbr>no</abbr><expan>numéro</expan></choice>
+                            41<choice><sic/><corr>, </corr></choice>à charge <lb/>par elle
+                    d’acquitter ce qui reste <lb/>dû sur le prêt du
+                                <orgName><choice><sic>crédit</sic><corr>Crédit</corr></choice>
+                        foncier</orgName> <lb/>grevant ces immeubles.</p>
+                <p>Je donne et <choice><sic>légue</sic><corr>lègue</corr></choice> aux personnes
+                    <lb/>qui seraient mes héritières d’après <lb/>la loi dans la ligne paternelle,
+                    <lb/>la somme de <choice><sic>vingt cinq</sic><corr>vingt-cinq</corr></choice>
+                    mille francs <lb/>à laquelle j’estime ce que j’ai <lb/>recueilli dans la
+                    succession de mon <lb/>père<choice><sic/><corr>,</corr></choice> pour se
+                    partager cette somme <lb/>entre elles dans les proportions <lb/>que leur
+                    auraient données leurs <lb/>qualités héréditaires en tenant compte <lb/>des
+                    règles de la représentation.</p>
+                <p>Je donne et <choice><sic>légue</sic><corr>lègue</corr></choice> à mon filleul
+                    <lb/>et cousin <persName>André Féasse</persName> tout le <lb/>contenu de mon
+                            <choice><sic>coffre fort</sic><corr>coffre-fort</corr></choice> à la
+                        <lb/><orgName>Société générale <choice><sic>Agence</sic><corr>agence</corr></choice> A. <unclear
+                            reason="quite-illegible">T</unclear>. </orgName>en quoi<pb
+                        facs="#FRAN_Poilus_t-0234_02"/> que ce contenu puisse consister.</p>
+                <p>Je lègue le surplus de ma succession <lb/>à ma tante
+                                <persName>Madame
+                        Féasse née <lb/>Herment</persName><choice><sic/><corr>,</corr></choice> 3
+                            <choice><sic>Avenue</sic><corr>avenue</corr></choice> Bugeaud, ou à
+                    <lb/>son défaut, à son fils
+                            <persName>André</persName> <choice><sic>déja</sic><corr>déjà</corr></choice> <lb/>nommé.</p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <dateline rend="centered">Fait à <placeName type="willPlace" ref="#pl-2"
+                    >Paris</placeName> <date type="willDate" when="1916-12-24">le <lb/>24
+                        décembre 1916</date><choice><sic></sic><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="centered"><persName ref="#pers-292"
+                        >J<surname>Blanc</surname></persName></signed><space dim="vertical" unit="lines"
+                        quantity="1"/><postscript rend="centered"><p>134 rue de la Pompe</p></postscript>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0234_03ab"/>
+                <p rend="right">Ceci est mon testament.</p>
+                <signed rend="left"><persName ref="#pers-292"
+                    >J<surname>Blanc.</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

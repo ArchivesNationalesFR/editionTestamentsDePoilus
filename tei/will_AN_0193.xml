@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0193">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Anne Fort Louis Fernand comte de Saporta
+                    (01/08/1914)] : édition électronique</title>
+                <author><persName ref="#pers-254">Anne Fort Louis Fernand comte de Saporta
+                        (1880-1915)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#CNougaret">Christine Nougaret</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0193</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0193_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXXI/1553, minute du 02/09/1915 (dépôt du testament de Anne Fort
+                            Louis Fernand comte de Saporta)</idno>
+                        <msName>Testament de Anne Fort Louis Fernand comte de Saporta
+                            (01/08/1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-01">01/08/1914</date>. <placeName type="willPlace" ref="#pl-409">Montdardier</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-254"><forename>Anne</forename> <forename>Fort</forename> <forename>Louis</forename> <forename>Fernand</forename> <surname>Saporta</surname></persName>, mort pour la France le <date when="1915-07-13">13/07/1915</date> au <placeName ref="#pl-368" source="#MDH #will_AN_0193_min">combat de la Haute-Chevauchée (Meuse)
+              [MDH] | La Pierre Croisée cote 285 [NOT]</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à en-tête (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions
+                                        type="willPage" unit="cm">
+                                        <height>16,6</height>
+                                        <width>13,6</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010158"
+                                >étude notariale 31 (CRPCEN : 75078)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0193_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXXI/1553, minute du 02/09/1915 (dépôt du testament de Anne Fort
+                            Louis Fernand comte de Saporta)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-01">01/08/1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>01/08/1914. Montdardier.</p>
+                <p>testament olographe de Anne Fort Louis Fernand Saporta, mort pour la France le
+                    13/07/1915 au combat de la Haute-Chevauchée (Meuse) [MDH] | La Pierre Croisée
+                    cote 285 [NOT].</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-07-19/2018-11-09" who="#MFGarreau #lelia">transcription</change>
+            <change when-iso="2018-07-19/2018-10-02" who="#PCharbonnier #FClavaud"
+                >validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0193___JPEG___FRAN_Poilus_t-0193_01.jpg"
+                xml:id="FRAN_Poilus_t-0193_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0193">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0193_01"/>
+                <head rend="centered"><hi rend="underlined">Testament</hi></head>
+                <p>Si je meurs je lègue à ma <lb/>femm<subst><del>m</del><add>e</add></subst> (née <persName>Anne Marie de
+                        Kersaint</persName>) <lb/>tout ce que la loi me permet <lb/>de lui léguer :
+                    sur ma fortune tant <lb/>au point de vue du capital que <lb/>des
+                    jouissances.</p>
+                <p>Je suis sûr qu’elle en fera
+                    le <lb/>meilleur usage à l’égard de l’avenir <lb/>de nos deux petites
+                    filles.</p>
+                <dateline><choice><sic>fait</sic><corr>Fait</corr></choice> à <placeName
+                        type="willPlace" ref="#pl-409">Montdardier</placeName> <lb/><space
+                        dim="horizontal" unit="chars" quantity="9"/><date type="willDate"
+                        when="1914-08-01">premier août 1914</date><choice><sic></sic><corr>.</corr></choice></dateline>
+                <signed rend="centered"><persName ref="#pers-254">A
+                    <surname>Saporta</surname></persName></signed> <postscript rend="centered"><p>Comte Fernand de Saporta</p></postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0254">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Lucien Emmanuel Edouard Richard (30 juillet
+                    1914)] : édition électronique</title>
+                <author><persName ref="#pers-312">Lucien Emmanuel Edouard Richard
+                        (1873-1916)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#AM">Aurélie Massie</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0254</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0254_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXIII/1702, minute du 21 octobre 1921 (dépôt du testament de
+                            Lucien Emmanuel Edouard Richard)</idno>
+                        <msName>Testament de Lucien Emmanuel Edouard Richard (30 juillet
+                            1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-07-30">30 juillet 1914</date>. <placeName type="willPlace" ref="#pl-423">inconnu</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-312"><forename>Lucien</forename> <forename>Emmanuel</forename> <forename>Edouard</forename> <surname>Richard</surname></persName>, mort pour la France le <date when="1916-02-22">22 février 1916</date> à <placeName ref="#pl-217">Haumont (Meuse)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>2 pages et 1 enveloppe. Dimensions du testament :
+                                        <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010150"
+                                >étude notariale 023 (CRPCEN : 75027)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0254_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXIII/1702, minute du 21 octobre 1921 (dépôt du testament de
+                            Lucien Emmanuel Edouard Richard)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-07-30">30 juillet 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>30 juillet 1914. inconnu.</p>
+                <p>testament olographe de Lucien Emmanuel Edouard Richard, mort pour la France le 22
+                    février 1916 à Haumont (Meuse).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-09-10/2020-06-15" who="#MFGarreau #SL. #lelia #GBMireille"
+                >transcription</change>
+            <change when-iso="2018-09-10/2019-10-28" who="#PCharbonnier #FClavaud"
+                >validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0254___JPEG___FRAN_Poilus_t-0254_01.jpg"
+                xml:id="FRAN_Poilus_t-0254_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0254___JPEG___FRAN_Poilus_t-0254_02.jpg"
+                xml:id="FRAN_Poilus_t-0254_02"/>
+        </surface>
+        <surface type="will-envelope-recto" n="03">
+            <graphic url="testament_AN_0254___JPEG___FRAN_Poilus_t-0254_03.jpg"
+                xml:id="FRAN_Poilus_t-0254_03"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0254">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0254_01"/>
+                <dateline rend="centered"><date type="willDate" when="1914-07-30">Le 30
+                    <choice><sic>Juillet</sic><corr>juillet</corr></choice>
+                            1914</date><choice><sic/><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="4"/>
+                <head rend="centered">Ceci est mon
+                    testament<choice><sic/><corr>.</corr></choice></head>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Je lègue tout ce qui m’appartient à <lb/>l’enfant qui doit
+                            <choice><sic>naitre</sic><corr>naître</corr></choice> de <persName>Rachel
+                        <lb/>Ducombs</persName>, ma maîtresse, vivant avec <lb/>moi depuis le <date
+                        type="otherDate" when="1913-05-18">18
+                            <choice><sic>Mai</sic><corr>mai</corr></choice> 1913</date><choice><sic>
+                            -</sic><corr>.</corr></choice></p>
+                <p>Je reconnais par anticipation cet enfant.</p>
+                <p>Cette fortune se compose<choice><sic/><corr> :</corr></choice></p>
+                <list>
+                    <item>1<hi rend="superscript-underlined">o</hi> De la
+                                <choice><sic>nu</sic><corr>nue</corr></choice>-propriété d’une somme
+                        de <lb/>cinquante mille francs donnée par <lb/>ma
+                                grand<choice><sic>’</sic><corr>-</corr></choice>mère
+                                        <persName><choice><abbr>M<hi rend="superscript-underlined"
+                                        >e</hi></abbr><expan>Madame</expan></choice>
+                            Hangk</persName>.</item>
+                    <item>2<hi rend="superscript-underlined">o</hi> De la
+                                <choice><sic>nu</sic><corr>nue</corr></choice>-propriété d’une somme
+                        <lb/>de cinquante mille francs donnée par <lb/>ma mère
+                                        <persName><choice><abbr>M<hi rend="superscript"
+                                    >e</hi></abbr><expan>Madame</expan></choice>
+                            Desroziers</persName> <lb/>(Je ne puis croire que
+                                        <persName><choice><abbr>M<hi rend="superscript"
+                                    >e</hi></abbr><expan>Madame</expan></choice>
+                                            Desroziers</persName> <choice><sic>main-<lb/>tiendra</sic><corr>main<lb break="no"/>tiendra</corr></choice> la mesure prohibitive
+                        de sa <lb/>donation)<choice><sic/><corr>.</corr></choice></item>
+                    <item>3<hi rend="superscript">o</hi> D’une somme d’environ 18 000
+                                <choice><abbr>f</abbr><expan>francs</expan></choice> <lb/>placée dans
+                        un coffre-fort au
+                        <orgName><choice><sic>comptoir</sic><corr>Comptoir</corr></choice>
+                            <lb/>d’escompte</orgName>.</item>
+                    <item>4<hi rend="superscript">o</hi> De mon mobilier que j’estime à
+                        <lb/>environ 10000
+                        <choice><abbr>f</abbr><expan>francs</expan></choice>.</item>
+                </list>
+                <p>Je désire — si la loi n’interdit pas <lb/>semblable condition — que l’enfant
+                    <lb/>ne puisse réaliser le capital de sa <pb facs="#FRAN_Poilus_t-0254_02"
+                    />fortune avant l’âge de 25 (vingt-cinq) <lb/>ans — Qu’il n’en reçoive jusque-là
+                    que <lb/>la rente<choice><sic> —</sic><corr>.</corr></choice></p>
+                <p>Je demande à mon ami <persName>Adolphe <lb/>Burthe d’Annelet</persName> habitant
+                    21 rue <choice><sic>d Aumale</sic><corr>d’Aumale</corr></choice> <lb/>de vouloir
+                    bien être le tuteur de mon <lb/>enfant.</p>
+                <p>En cas de décès de l’enfant je lègue <lb/>ma fortune par tiers à mes deux neveux
+                    <lb/>et à ma nièce à charge de verser à <lb/><persName>Rachel
+                            Ducombs</persName><choice><sic/><corr> : </corr></choice></p>
+                <list>
+                    <item>3000 <choice><abbr>f.</abbr><expan>francs</expan></choice> <choice><sic><surplus>trois mille
+                        francs</surplus></sic><corr></corr></choice> la première <lb/>année qui suivra le
+                                décès<choice><sic>.</sic><corr>,</corr></choice></item>
+                    <item>deux mille francs la deuxième
+                        année<choice><sic/><corr>,</corr></choice></item>
+                    <item>deux mille fancs la troisième
+                        année<choice><sic/><corr>.</corr></choice></item>
+                </list>
+                <p>Il est bien entendu que j’excepte le <lb/>cas où l’enfant aurait une descendance
+                    <lb/>directe<choice><sic> —</sic><corr>,</corr></choice> cas auquel cette
+                    descendance <lb/>hériterait de tout<choice><sic> —</sic><corr>.</corr></choice></p>
+                <p>Je lègue en outre dans les deux éventualités<choice><sic/><corr>
+                        ;</corr></choice></p>
+                <list>
+                    <item>1<hi rend="superscript-underlined">o</hi> 500
+                                <choice><abbr>f.</abbr><expan>francs</expan></choice> à mon notaire
+                                        <persName><choice><abbr>M<hi rend="superscript"
+                                    >.</hi></abbr><expan>maître</expan></choice>
+                        Legay</persName> <lb/>que j’institue mon exécuteur
+                                testamentaire<choice><sic/><corr>.</corr></choice></item>
+                    <item>2<hi rend="superscript-underlined">o</hi> 500
+                                <choice><abbr>f.</abbr><expan>francs</expan></choice> à ma concierge
+                                        <persName><choice><abbr>M<hi rend="superscript"
+                                    >.</hi></abbr><expan>Madame</expan></choice>
+                            Baschmidt</persName> <lb/>habitant 11
+                            <choice><sic>Rue</sic><corr>rue</corr></choice> des Abbesses.</item>
+                    <item>3<hi rend="superscript-underlined">o</hi> 300
+                                <choice><abbr>f.</abbr><expan>francs</expan></choice> à ma femme de
+                                        ménage<persName> <lb/><choice><abbr>M<hi rend="superscript"
+                                        >.</hi></abbr><expan>Madame</expan></choice>
+                            Philomène</persName> habitant
+                                        <choice><sic>Passage</sic><corr>passage</corr></choice>
+                                de <choice><sic>l Elysée</sic><corr>l’Elysée</corr></choice> <lb/>des
+                                Beaux Arts.</item>
+                </list>
+                <p rend="centered">Fait sain de corps et d’esprit.</p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="centered"><persName ref="#pers-312">Lucien
+                        <surname>Richard</surname></persName></signed>
+                <postscript rend="left">
+                    <p>(habitant à <placeName type="willAuthorResidence" ref="#pl-2"
+                            >Paris</placeName> <choice><sic>11. Rue</sic><corr>11 rue</corr></choice>
+                        des Abbesses)</p>
+                </postscript>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0254_03"/>
+                <p rend="centered"><hi rend="double-underlined">Pour remettre à M<hi
+                            rend="superscript">r</hi> Legay -
+                            notaire</hi><choice><sic/><corr>.</corr></choice></p>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <p rend="centered">Testament de <persName ref="#pers-312">Lucien
+                            <surname>Richard</surname></persName><choice><sic/><corr>,</corr></choice> <lb/>habitant <address>
+                        <addrLine>11 <choice><sic>Rue</sic><corr>rue</corr></choice> des
+                            Abbesses</addrLine>
+                        <addrLine rend="right"><space dim="horizontal" unit="chars" quantity="18"/>à
+                                <placeName type="willAuthorResidence" ref="#pl-2"
+                                    >Paris</placeName><choice><sic/><corr>.</corr></choice></addrLine>
+                    </address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

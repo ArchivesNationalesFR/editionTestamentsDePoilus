@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0300">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Eugène Marie Pierre Plauzoles (30/11/1914)] :
+                    édition électronique</title>
+                <author><persName ref="#pers-352">Eugène Marie Pierre Plauzoles
+                        (1884-1914)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#DChristiane">Christiane Demeulenaere-Douyère</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+                    <persName ref="#ASJPeronneau">ASJPeronneau</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0300</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0300_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVI/1462, minute du 12/07/1920 (dépôt du testament de Eugène
+                            Marie Pierre Plauzoles)</idno>
+                        <msName>Testament de Eugène Marie Pierre Plauzoles (30/11/1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-11-30">30/11/1914</date>. <placeName type="willPlace" ref="#pl-534">Creil</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-352"><forename>Eugène</forename> <forename>Marie</forename> <forename>Pierre</forename> <surname>Plauzoles</surname></persName>, mort pour la France le <date when="1914-12-14" source="#MDH">14 décembre 1914
+              [MDH]</date> ou le <date when="1914-12-17" source="#will_AN_0300_min">17 décembre 1914
+              [NOT]</date> à <placeName ref="#pl-533">La Boisselle (Somme)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions
+                                        type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010183"
+                                >étude notariale 56 (CRPCEN : 75040)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0300_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVI/1462, minute du 12/07/1920 (dépôt du testament de Eugène
+                            Marie Pierre Plauzoles)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-11-30">30/11/1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>30/11/1914. Creil.</p>
+                <p>testament olographe de Eugène Marie Pierre Plauzoles, mort pour la France le 14
+                    décembre 1914 [MDH] ou le 17 décembre 1914 [NOT] à La Boisselle (Somme).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-02-12/2020-06-10"
+                who="#lelia #MFGarreau #GBMireille #ASJPeronneau">transcription</change>
+            <change when-iso="2019-02-12/2019-03-14" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0300___JPEG___FRAN_Poilus_t-0300_01.jpg"
+                xml:id="FRAN_Poilus_t-0300_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0300">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0300_01"/>
+                <head>1<hi rend="superscript">o</hi> Codicille à mon testament
+                            <choice><sic>deposé</sic><corr>déposé</corr></choice> devant
+                                    <lb/><persName><choice><abbr>M<hi rend="superscript-underlined"
+                                    >e</hi></abbr><expan>Maître</expan></choice>
+                        Heiligenstein</persName><choice><sic/><corr>,</corr></choice> notaire à
+                        <placeName type="otherPlace">Montfort l’Amaury (<choice><abbr>S
+                                        &amp;
+                                O</abbr><expan>Seine-et-Oise</expan></choice>) <lb/>(rue
+                        Normande)</placeName><choice><sic/><corr>.</corr></choice></head>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <p>Je soussigné <persName ref="#pers-352">P. <surname>Plauzoles</surname></persName>
+                    ajoute à mon <lb/>testament ce qui suit : </p>
+                <p>Mon fils <persName>Joseph Plauzoles</persName> en outre de la <lb/>rente annuelle
+                    de (6000 <choice><abbr><hi rend="superscript-underlined"
+                            >f</hi></abbr><expan>francs</expan></choice>)<choice><sic/><corr>,</corr></choice>&#xa0;<choice><sic>Six</sic><corr>six</corr></choice>
+                    mille francs <lb/>qu’il doit faire à sa mère <persName><choice><abbr>M<hi
+                                    rend="superscript-underlined"
+                                >me</hi></abbr><expan>Madame</expan></choice> Pierre Plauzoles
+                        <lb/>née Marie Louise Faguer</persName> devra tenir à sa disposition
+                    <lb/>une somme de (50000 <choice><abbr><hi rend="superscript"
+                            >f</hi></abbr><expan>francs</expan></choice>) cinquante mille
+                            francs<choice><sic/><corr>.</corr></choice> <lb/>Je lègue à ma femme
+                                <persName>Madame P.
+                        Plauzoles</persName> <lb/>la totalité de mes
+                            meubles<choice><sic/><corr>,</corr></choice>
+                            argenterie<choice><sic/><corr>,</corr></choice> objets d’art
+                            <lb/><choice><abbr>&amp;</abbr><expan>et</expan></choice> bijoux que
+                    j’ai eu en héritage des <persName>Plauzoles</persName> <lb/>ou que j’aurais pu
+                    acquérir depuis.</p>
+                <p>En cas de décès de mon fils avant sa majorité <lb/>je fais don à ma femme de (400
+                                000 <choice><abbr><hi rend="superscript-underlined"
+                            >f</hi></abbr><expan>francs</expan></choice>) quatre <lb/>cent mille
+                    francs ; le reste de ma fortune <lb/>devra revenir à ma mère. Après la mort de
+                    <lb/>ma femme ou celle de ma mère le tout <lb/>devra être partagé entre les
+                    <choice><sic>heritiers</sic><corr>héritiers</corr></choice> des familles
+                    <lb/>d’Orfeuille <choice><abbr>&amp;</abbr><expan>et</expan></choice> Gauthier
+                            <choice><abbr>&amp;</abbr><expan>et</expan></choice>
+                            Plauzoles<choice><sic/><corr>,</corr></choice> mes plus <lb/>proches
+                    parents du <choice><sic>coté</sic><corr>côté</corr></choice> de mon père. De
+                    <lb/>même pour les meubles<choice><sic/><corr>,</corr></choice>
+                            argenterie<choice><sic/><corr>,</corr></choice> bijoux
+                            <choice><abbr>&amp;</abbr><expan>et</expan></choice> <lb/>objets
+                    d’art.</p>
+                <p>Fait en toute connaissance de cause, de ma libre <lb/>volonté
+                            <choice><abbr>&amp;</abbr><expan>et</expan></choice> sans
+                            contrainte<choice><sic/><corr>.</corr></choice></p>
+                <dateline><placeName type="codicilPlace" ref="#pl-534">Creil</placeName><choice><sic>-</sic><corr>,</corr></choice>
+                            <date type="codicilDate"
+                        when="1914-11-30"><choice><sic>Le</sic><corr>le</corr></choice> 30 novembre 1914</date><choice><sic></sic><corr>.</corr></choice></dateline>
+                <signed rend="right"><persName ref="#pers-352">P
+                        <surname>Plauzoles</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

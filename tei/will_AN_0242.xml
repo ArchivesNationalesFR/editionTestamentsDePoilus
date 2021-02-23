@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0242">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Célestin Jean Joseph Dusserm (12 août 1914)] :
+                    édition électronique</title>
+                <author><persName ref="#pers-300">Célestin Jean Joseph Dusserm
+                        (1883-1915)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#WG">Wilfried Gourdon</persName>
+                    <persName ref="#AM">Aurélie Massie</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0242</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0242_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXIII/1635, minute du 3 août 1916 (dépôt du testament de
+                            Célestin Jean Joseph Dusserm)</idno>
+                        <msName>Testament de Célestin Jean Joseph Dusserm (12 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-12">12 août 1914</date>. <placeName type="willPlace" ref="#pl-315">Bordeaux</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-300"><forename>Célestin</forename> <forename>Jean</forename> <forename>Joseph</forename> <surname>Dusserm</surname></persName>, mort pour la France le <date when="1915-01-13" source="#MDH">13 janvier 1915
+              [MDH]</date> ou le <date when="1915-01-15" source="#will_AN_0242_min">15 janvier 1915
+              [NOT]</date> à <placeName ref="#pl-468">Ménil (Vosges)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier quadrillé (testament). </support>
+                                <extent>1 page et 1 enveloppe. Dimensions du testament : <dimensions
+                                        type="willPage" unit="cm">
+                                        <height>21,1</height>
+                                        <width>13,5</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : crayon.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010150"
+                                >étude notariale 023 (CRPCEN : 75027)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0242_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXIII/1635, minute du 3 août 1916 (dépôt du testament de
+                            Célestin Jean Joseph Dusserm)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-12">12 août 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>12 août 1914. Bordeaux.</p>
+                <p>testament olographe de Célestin Jean Joseph Dusserm, mort pour la France le 13
+                    janvier 1915 [MDH] ou le 15 janvier 1915 [NOT] à Ménil (Vosges).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-09-10/2019-02-08" who="#MFGarreau #SL. #GBMireille #lelia"
+                >transcription</change>
+            <change when-iso="2018-09-10/2018-09-21" who="#PCharbonnier #FClavaud"
+                >validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0242___JPEG___FRAN_Poilus_t-0242_01.jpg"
+                xml:id="FRAN_Poilus_t-0242_01"/>
+        </surface>
+        <surface type="will-envelope-recto" n="02">
+            <graphic url="testament_AN_0242___JPEG___FRAN_Poilus_t-0242_02ab.jpg"
+                xml:id="FRAN_Poilus_t-0242_02ab"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0242">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0242_01"/>
+                <dateline rend="right"><placeName type="willPlace" ref="#pl-315"
+                        >Bordeaux</placeName> <date type="willDate" when="1914-08-12">12
+                            <choice><sic>Août</sic><corr>août</corr></choice>
+                                <choice><abbr>14</abbr><expan>1914</expan></choice></date></dateline>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <head rend="centered"><choice><sic>Dernieres Volontees</sic><corr>Dernières
+                            volontés</corr></choice></head>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <p>Je <choice><sic>soussigne</sic><corr>soussigné</corr></choice> <persName
+                        ref="#pers-300">Jean
+                            <surname>Dusserm</surname></persName> <lb/><choice><sic>reconnait</sic><corr>reconnais</corr></choice>
+                    que tout ce que <lb/>je possède appartient
+                        <choice><sic>a</sic><corr>à</corr></choice> ma <lb/>femme <persName>Jeanne
+                        Dusserm</persName> <lb/><choice><sic><surplus>mon épouse</surplus></sic><corr></corr></choice> ; en quoi je
+                            <lb/><choice><sic>fait</sic><corr>fais</corr></choice> cette lettre
+                            <choice><sic>en</sic><corr>au</corr></choice> cas
+                            <lb/><choice><sic>ou</sic><corr>où</corr></choice> je
+                            <choice><sic>viendrait a desparaitre</sic><corr>viendrais à
+                            disparaître</corr></choice> <lb/>et je ne
+                            <choice><sic>connaît</sic><corr>connais</corr></choice> pas le <lb/>droit de lui demander des <lb/>comptes
+                            <choice><sic>vis-a-vis</sic><corr>vis-à-vis</corr></choice> de ma
+                    <lb/>famille en <choice><sic>quoi-sa-soit :</sic><corr>quoi que ce
+                        soit.</corr></choice></p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <dateline rend="right">Fait <choice><sic>a</sic><corr>à</corr></choice> <placeName
+                        type="willPlace" ref="#pl-315">Bordeaux</placeName> <date type="willDate"
+                            when="1914-08-12">le 12 <choice><sic>Août</sic><corr>août</corr></choice>
+                        <lb/>1914</date><choice><sic></sic><corr>.</corr></choice></dateline>
+                <signed rend="centered"><persName ref="#pers-300">Jean
+                        <surname>Dusserm</surname></persName></signed>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0242_02ab"/>
+                <p><persName>Madame Dusserm
+                        Jeanne</persName><choice><sic></sic><corr>,</corr></choice> <lb/><choice><sic>a</sic><corr>à</corr></choice> ouvrir
+                            <choice><sic>apres</sic><corr>après</corr></choice>&#xa0;<choice><sic>Dècès</sic><corr>décès</corr></choice>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

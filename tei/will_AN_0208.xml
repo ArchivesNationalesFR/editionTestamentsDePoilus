@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0208">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Jean Emile Etienne Trubert (2 décembre 1915)] :
+                    édition électronique</title>
+                <author><persName ref="#pers-270">Jean Emile Etienne Trubert
+                    (1889-1918)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#CNougaret">Christine Nougaret</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#Lamotte">Isabelle Lamotte</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#CNougaret">Christine Nougaret</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0208</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0208_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XLII/1452, minute du 19 mars 1918 (dépôt du testament de Jean
+                            Emile Etienne Trubert)</idno>
+                        <msName>Testament de Jean Emile Etienne Trubert (2 décembre 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1915-12-02">2 décembre 1915</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-270"><forename>Jean</forename> <forename>Emile</forename> <forename>Etienne</forename> <surname>Trubert</surname></persName>, mort pour la France le <date when="1918-03-14">14 mars 1918</date> à l’<placeName ref="#pl-432">hôpital de Bligny, commune de Briis sous Forges (Seine et
+              Oise)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>2 pages. Dimensions du testament : <dimensions
+                                        type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010169"
+                                >étude notariale 042 (CRPCEN : 75067)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0208_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XLII/1452, minute du 19 mars 1918 (dépôt du testament de Jean
+                            Emile Etienne Trubert)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-12-02">2 décembre 1915</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>2 décembre 1915. Paris.</p>
+                <p>testament olographe de Jean Emile Etienne Trubert, mort pour la France le 14 mars
+                    1918 à l’hôpital de Bligny, commune de Briis sous Forges (Seine et Oise).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-09-10/2019-12-10" who="#MFGarreau #SL. #Lamotte"
+                >transcription</change>
+            <change when-iso="2018-09-10/2018-10-17" who="#PCharbonnier #CNougaret #FClavaud"
+                >validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0208___JPEG___FRAN_Poilus_t-0208_01.jpg"
+                xml:id="FRAN_Poilus_t-0208_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0208___JPEG___FRAN_Poilus_t-0208_02.jpg"
+                xml:id="FRAN_Poilus_t-0208_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0208">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0208_01"/>
+                <head rend="centered">Ceci est mon testament</head>
+                <metamark function="separating" rend="horizontal-line"/>
+                <p>Que tous ceux que j’ai aimés ou qui <lb/>m’ont aimé trouvent ici l’expression de
+                    <lb/>toute mon affection. Si je tombe dans <lb/>cette guerre <choice><sic>qu
+                            ils</sic><corr>qu’ils</corr></choice> prient pour moi mais <lb/>ne <add
+                        place="above">me</add> pleurent pas car c’est bien volontiers <lb/>que j’ai
+                    fait le sacrifice de ma vie à ma <lb/>Patrie. Je serais heureux s’ils ne gardent
+                    <lb/>pas un trop mauvais souvenir de moi<choice><sic/><corr>,</corr></choice>
+                    <lb/>mon coeur n’est pas si mauvais que <lb/>mon caractère.</p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>I Je <choice><sic>desire</sic><corr>désire</corr></choice> que ma
+                            <choice><sic>mere</sic><corr>mère</corr></choice>, mon
+                            <choice><sic>frere</sic><corr>frère</corr></choice> et mes <lb/>soeurs
+                    se partagent à leur idée mes <choice><sic>meu-<lb/>bles</sic><corr>meu<lb
+                                break="no"/>bles</corr></choice>, bijoux, livres,
+                            bibelots<choice><sic> je</sic><corr>. Je</corr></choice> leur
+                            <choice><sic>deman-<lb/>de</sic><corr>deman<lb break="no"
+                        />de</corr></choice> simplement de laisser des souvenirs <lb/>aux
+                            <choice><abbr>3</abbr><expan>trois</expan></choice> enfants
+                        <persName>Kervéguen</persName><choice><sic/><corr>,</corr></choice> à
+                        <persName>Jacques de
+                        Corneillan</persName><choice><sic/><corr>,</corr></choice>
+                    <lb/>à mes deux beaux<choice><sic> </sic><corr>-</corr></choice>frères et à mes
+                    amis en <lb/><choice><sic>commencant</sic><corr>commençant</corr></choice> par
+                        <persName>Pierre et Dolly du Breuil</persName>, <persName>Ernest
+                        <lb/>Levé</persName>, <persName>Pierre
+                            Caron</persName><choice><sic>.</sic><corr>,</corr></choice>
+                    <persName>A<choice><sic/><corr>.</corr></choice> Girod de l’Ain</persName>,
+                                <persName>A<choice><sic/><corr>.</corr></choice> de
+                        Dampierre</persName>
+                    <lb/><persName>D. Hussenot Dessenonges</persName>, <persName>Broissia</persName>
+                    etc. <lb/>Je laisse à mon frère le portrait de mon <lb/>père par
+                        <persName>Morot</persName>.</p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>II Je désire que mon frère et mes soeurs <add place="above"
+                                    ><persName>Marguerite <lb/>Alice
+                            <lb/>Madeleine</persName></add>
+                    <lb/>se partagent également toute ma fortune <lb/>après
+                            <choice><sic>prelèvement</sic><corr>prélèvement</corr></choice> d’une
+                    somme de<pb facs="#FRAN_Poilus_t-0208_02"/> cent mille (100000) francs qui sera
+                    <lb/>ainsi <choice><sic>repartie</sic><corr>répartie</corr></choice> :</p>
+                <list>
+                    <item>1) 5000 <choice><abbr>frs</abbr><expan>francs</expan></choice>
+                        <add place="above">chacun</add> aux
+                                <choice><abbr>3</abbr><expan>trois</expan></choice> enfants
+                            <persName>Kerveguen</persName> et à <persName><add place="above"
+                                >Jacques</add> de <lb/><unclear>Corneillan</unclear></persName> pour
+                        leur faire un cadeau <lb/>en souvenir de moi à leur
+                                mariage<choice><sic/><corr>.</corr></choice>
+                        <lb/>Ces <choice><abbr>4</abbr><expan>quatre</expan></choice> sommes de 5000
+                                <choice><abbr>frs</abbr><expan>francs</expan></choice> soit 20000
+                                <choice><abbr>frs</abbr><expan>francs</expan></choice> seront
+                                <lb/><choice><sic>deposées</sic><corr>déposées</corr></choice> chez
+                                        <persName><choice><abbr>M<hi rend="superscript-underlined"
+                                        >e</hi></abbr><expan>Maître</expan></choice>
+                            Sabouret</persName> qui devra en <lb/>capitaliser les
+                                <choice><sic>interets</sic><corr>intérêts</corr></choice>&#xa0;<choice><sic>jusqu
+                                au</sic><corr>jusqu’au</corr></choice> jour
+                                dit<choice><sic/><corr>.</corr></choice></item>
+                    <item>2) <list>
+                            <item>1 000 <choice><abbr>frs</abbr><expan>francs</expan></choice> à la
+                                famille <persName>Catusse</persName></item>
+                            <item>1 000 <choice><abbr>frs</abbr><expan>francs</expan></choice> à
+                                    <persName>Annie Marschall</persName></item>
+                            <item>500 <choice><abbr>frs</abbr><expan>francs</expan></choice> à la
+                                famille <persName>Rouet</persName></item>
+                            <item>2.500 <choice><abbr>frs</abbr><expan>francs</expan></choice> aux
+                                pauvres de <placeName type="otherPlace">Castels</placeName> et
+                                    <placeName type="otherPlace"
+                                        >Valence</placeName><choice><sic/><corr>,</corr></choice>
+                                <lb/><space dim="horizontal" unit="chars" quantity="6"/>soit
+                                ensemble 5.000
+                                    <choice><abbr>frs</abbr><expan>francs</expan></choice><choice><sic/><corr>.</corr></choice></item>
+                        </list></item>
+                    <item>3) 75.000 <choice><sic/><corr>francs</corr></choice> que mes
+                                <choice><sic>heritiers</sic><corr>héritiers</corr></choice>
+                        emploieront de <lb/>leur mieux pour soulager les éprouvés <lb/>de la guerre
+                        - Mutilés - Veuves - Orphelins <lb/>ou des familles nombreuses dans la
+                                <lb/><choice><sic>necessité</sic><corr>nécessité</corr></choice>. Je
+                        souhaite <choice><sic>q’ils</sic><corr>qu’ils</corr></choice> puissent
+                                <choice><sic>eux </sic><corr>eux-</corr></choice><lb break="no"
+                        />mêmes distribuer ces sommes (revenus ou <lb/>capitaux) aux
+                                <choice><sic>interessés</sic><corr>intéressés</corr></choice> dont
+                        ils voudront <lb/>bien s’occuper.
+                            <choice><sic>sinon</sic><corr>Sinon</corr></choice> je leur demande de
+                                <lb/><choice><sic>vercer</sic><corr>verser</corr></choice> ces
+                        sommes aux oeuvres de
+                            <choice><sic>quelleque</sic><corr>quelque</corr></choice>
+                        <lb/>nature que ce soit qui leur conviendront.</item>
+                </list>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Si je puis être enterré à <placeName type="otherPlace">Castels</placeName> j’en
+                    serais <lb/>heureux.</p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <dateline rend="right"><placeName type="willPlace" ref="#pl-2">Paris</placeName>
+                    <date type="willDate" when="1915-12-02">le 2
+                                <choice><sic>Décembre</sic><corr>décembre</corr></choice>
+                        1915</date><choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="right"><persName ref="#pers-270"
+                        >J<surname>Trubert</surname></persName></signed>
+                <postscript rend="left">
+                    <p>Ce testament ne sera <lb/>valable
+                            <choice><sic>q</sic><corr>qu’</corr></choice>autant que <lb/>je ne serai
+                        pas marié.</p>
+                    <signed><persName ref="#pers-270"
+                        >J<surname>Trubert</surname></persName></signed>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

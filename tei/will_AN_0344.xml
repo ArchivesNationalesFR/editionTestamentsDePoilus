@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0344">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Henri Louis Marie Bonnaud (18 décembre 1914)] :
+                    édition électronique</title>
+                <author><persName ref="#pers-486">Henri Louis Marie Bonnaud
+                    (1890-1915)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#DChristiane">Christiane Demeulenaere-Douyère</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#LBIsabelle">LBIsabelle</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0344</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0344_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXVII/1251, minute du 10 septembre 1919 (dépôt du testament de
+                            Henri Louis Marie Bonnaud)</idno>
+                        <msName>Testament de Henri Louis Marie Bonnaud (18 décembre 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-12-18">18 décembre 1914</date>. <placeName type="willPlace" ref="#pl-242">Quimper</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-486"><forename>Henri</forename> <forename>Louis</forename> <forename>Marie</forename> <surname>Bonnaud</surname></persName>, mort pour la France le <date when="1915-01-13">13 janvier 1915</date> à <placeName ref="#pl-533">La Boisselle (Somme)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier quadrillé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions
+                                        type="willPage" unit="cm">
+                                        <height>27,2</height>
+                                        <width>21</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010154"
+                                >étude notariale 27 (CRPCEN : 75111)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0344_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXVII/1251, minute du 10 septembre 1919 (dépôt du testament de
+                            Henri Louis Marie Bonnaud)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-12-18">18 décembre 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>18 décembre 1914. Quimper.</p>
+                <p>testament olographe de Henri Louis Marie Bonnaud, mort pour la France le 13
+                    janvier 1915 à La Boisselle (Somme).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2020-03-04/2020-04-06" who="#lelia #LBIsabelle">transcription</change>
+            <change when-iso="2020-03-04/2020-03-07" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0344___JPEG___FRAN_Poilus_t-0344_01.jpg"
+                xml:id="FRAN_Poilus_t-0344_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0344">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0344_01"/>
+                <dateline><placeName type="willPlace" ref="#pl-242">Quimper</placeName> <date
+                        type="willDate" when="1914-12-18">le 18
+                                <choice><sic>Decembre</sic><corr>décembre</corr></choice>
+                        1914</date></dateline>
+                <space dim="vertical" unit="lines" quantity="5"/>
+                <p>Je soussigné, donne après ma mort, <lb/>tous les biens que je possède, à
+                    <persName>Mademoiselle <lb/>Alix Jacquey</persName>, domiciliée 81 <choice><sic>Avenue</sic><corr>avenue</corr></choice> de Neuilly,
+                            <lb/>Neuilly<choice><sic> </sic><corr>-</corr></choice>sur<choice><sic> </sic><corr>-</corr></choice>Seine,
+                    pour en jouir comme elle <lb/>l’entendra.</p>
+                <dateline rend="centered">Fait à <placeName type="willPlace" ref="#pl-242"
+                        >Quimper</placeName>, sain d’esprit et de corps <lb/> <date
+                        type="willDate" when="1914-12-18">ce 18
+                            <choice><sic>Décembre</sic><corr>décembre</corr></choice>
+                    1914</date><choice><sic></sic><corr>.</corr></choice></dateline>
+                <postscript><p>Dans le cas
+                                    <choice><sic>ou</sic><corr>où</corr></choice> <persName><choice><abbr>M<hi
+                                    rend="superscript-underlined"
+                                >lle</hi></abbr><expan>Mdemoiselle</expan></choice> Jacquey
+                        Alix</persName> n’accepterait pas, je <lb/>donne tous mes biens à la
+                    Croix-Rouge française sans conditions.</p></postscript>
+                <signed rend="centered"><persName ref="#pers-486"
+                            >Bonnaud</persName></signed> <postscript><p><choice><abbr>s/officier</abbr><expan>Sous-officier</expan></choice>
+                    réserviste - <placeName>Quimper</placeName><choice><sic></sic><corr>,</corr></choice> <lb/><orgName ref="#o-382"
+                                    >118<hi rend="superscript-underlined">e</hi>
+                                    <choice><abbr>Reg<hi rend="superscript">t</hi> d’Infanterie</abbr><expan>régiment
+                    d’infanterie</expan></choice></orgName><choice><sic></sic><corr>.</corr></choice></p></postscript>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <postscript>
+                    <p><unclear><hi rend="underlined">Primalia</hi></unclear></p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

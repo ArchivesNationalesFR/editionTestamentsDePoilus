@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0297">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de André Leclercq (03/08/1914)] : édition
+                    électronique</title>
+                <author>
+                    <persName ref="#pers-349">André Leclercq (1879-1914)</persName>
+                </author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#DChristiane">Christiane Demeulenaere-Douyère</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#SL.">EG</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName ref="#AN">Archives nationales</orgName>
+                </publisher>
+                <publisher>
+                    <orgName>Université de Cergy-Pontoise</orgName>
+                </publisher>
+                <publisher>
+                    <orgName ref="#AD78">Archives départementales des Yvelines</orgName>
+                </publisher>
+                <publisher>
+                    <orgName>École nationale des chartes</orgName>
+                </publisher>
+                <publisher>
+                    <orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName>
+                </publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0297</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0297_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVI/1449, minute du 26/12/1919 (dépôt du testament de André
+                            Leclercq)</idno>
+                        <msName>Testament de André Leclercq (03/08/1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1914-08-03">03/08/1914</date>. <placeName type="willPlace" ref="#pl-423">inconnu</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-349"><forename>André</forename> <surname>Leclercq</surname></persName>, mort pour la France le <date when="1914-09-22">22/09/1914</date> dans l’<placeName ref="#pl-528">ambulance de Guignicourt (Aisne)</placeName>.</p>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à en-tête (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions
+                                        type="willPage" unit="cm"
+                                            ><height>21,3</height><width>13,7</width></dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance>
+                            <orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010183"
+                                >étude notariale 56 (CRPCEN : 75040)</orgName>
+                        </provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0297_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVI/1449, minute du 26/12/1919 (dépôt du testament de André
+                            Leclercq)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date type="willDate" when="1914-08-03">03/08/1914</date>
+            </creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>03/08/1914. inconnu.</p>
+                <p>testament olographe de André Leclercq, mort pour la France le 22/09/1914 dans
+                    l’ambulance de Guignicourt (Aisne).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-02-12/2020-06-15" who="#MFGarreau #lelia #SL."
+                >transcription</change>
+            <change when-iso="2019-02-12/2019-03-14" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0297___JPEG___FRAN_Poilus_t-0297_01.jpg"
+                xml:id="FRAN_Poilus_t-0297_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0297">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0297_01"/>
+                <dateline rend="right">
+                    <subst><del>Paris</del><add place="above"><placeName type="willPlace"
+                                        >Malo</placeName></add></subst>, <date type="willDate"
+                                when="1914-08-03">le trois
+                                    <choice><sic>Aout</sic><corr>août</corr></choice>
+                                    1914</date><choice><sic/><corr>.</corr></choice>
+                </dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <head rend="right">Ceci est mon testament : </head>
+                <p><date type="willDate" when="1914-08-03">Le trois <choice><sic>Aout Mil Neuf Cent
+                                <lb/>Quatorze</sic><corr>août
+                            mille-neuf-cent-quatorze</corr></choice></date>, au moment de rejoindre
+                    <lb/>l’armée, je déclare instituer <lb/>ma femme <persName>Marie Leclercq, née
+                        <lb/>Chevalier</persName><choice><sic></sic><corr>,</corr></choice> ma légataire universelle <lb/>et
+                            <persName>M<unclear>onsieur</unclear> Constant Lemaire</persName> père,
+                    <lb/>architecte à <placeName type="otherPlace" ref="#pl-2">Paris</placeName>, 16
+                            <choice><sic>Rue</sic><corr>rue</corr></choice> de la
+                    <lb/><choice><sic>fidélité</sic><corr>Fidélité</corr></choice>, mon exécuteur
+                    testamentaire.</p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="centered">
+                    <persName ref="#pers-349">A <surname>Leclercq</surname></persName>
+                </signed>
+            </div>
+        </body>
+    </text>
+</TEI>

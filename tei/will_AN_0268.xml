@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0268">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Albert Marie Charles René (e) Pilard
+                    (03/08/1914)] : édition électronique</title>
+                <author><persName ref="#pers-325">Albert Marie Charles René(e) Pilard
+                        (1878-1916)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#DChristiane">Christiane Demeulenaere-Douyère</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+                    <persName ref="#Lamotte">Isabelle Lamotte</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0268</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0268_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVI/1399, minute du 1er mai 1916 (dépôt du testament de Albert
+                            Marie Charles René(e) Pilard)</idno>
+                        <msName>Testament de Albert Marie Charles René(e) Pilard
+                            (03/08/1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-03">03/08/1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-325"><forename>Albert</forename> <forename>Marie</forename> <forename>Charles</forename> <forename>Renée</forename> <surname>Pilard</surname></persName>, mort pour la France le <date when="1916-03-19">19/03/1916</date> à <placeName ref="#pl-499">Dieue sur Meuse (Meuse)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à lettre réglé (testament). </support>
+                                <extent>2 pages. Dimensions du testament : <dimensions
+                                        type="willPage" unit="cm">
+                                        <height>30,4</height>
+                                        <width>19,6</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010183"
+                                >étude notariale 56 (CRPCEN : 75040)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0268_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVI/1399, minute du 1er mai 1916 (dépôt du testament de Albert
+                            Marie Charles René(e) Pilard)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-03">03/08/1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>03/08/1914. Paris.</p>
+                <p>testament olographe de Albert Marie Charles Renée Pilard, mort pour la France le
+                    19/03/1916 à Dieue sur Meuse (Meuse).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-02-12/2020-06-10" who="#MFGarreau #lelia #GBMireille #Lamotte"
+                >transcription</change>
+            <change when-iso="2019-02-12/2020-05-31" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0268___JPEG___FRAN_Poilus_t-0268_01.jpg"
+                xml:id="FRAN_Poilus_t-0268_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0268___JPEG___FRAN_Poilus_t-0268_02.jpg"
+                xml:id="FRAN_Poilus_t-0268_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0268">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0268_01"/>
+                <head rend="centered">Ceci est mon testament.</head>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <p>Ma fortune comprend : </p>
+                <list>
+                    <item>1) Des titres au porteur qui sont dans le
+                                <choice><sic>coffe</sic><corr>coffre</corr></choice> 20/17 <lb/>de
+                        la <orgName>Société Générale</orgName> 134 rue
+                                <choice><sic>Reaumur</sic><corr>Réaumur</corr></choice> : le
+                        <lb/>chiffre est : 3-2-1.</item>
+                    <item>2) Des titres nominatifs en dépôt à la dite
+                                banque<choice><sic>,</sic><corr>.</corr></choice></item>
+                    <item>3) Mon cautionnement (5000 <choice><abbr><hi rend="superscript"
+                                >f</hi></abbr><expan>francs</expan></choice>) de mandataire,
+                        <lb/>déposé à l’<choice><sic>Hôtel.de.Ville</sic><corr>Hôtel de
+                                ville.</corr></choice></item>
+                </list>
+                <p>Je dois à mon <choice><sic>beau frère</sic><corr>beau-frère</corr></choice>, le
+                        <persName>comte du Verdier</persName> <lb/>demeurant, à <placeName
+                        type="otherPlace">Stenay</placeName>, la somme de trente <lb/>mille francs,
+                    plus mille francs qu’il m’a
+                        <lb/><choice><sic>prêtée</sic><corr>prêtés</corr></choice> : ces sommes
+                    seront remboursées <lb/>immédiatement.</p>
+                <p>Ma charge sera vendue au moment le plus <lb/>favorable et le montant reviendra à
+                    <lb/>mes parents.</p>
+                <p>Je laisse à mon amie la plus chère, <lb/><persName>Alex Mansion, épouse
+                        Chanat</persName>, la somme de <lb/>vingt mille francs, nette de tous frais
+                    et droits <choice><sic/><corr>.</corr></choice> <lb/>Elle n’a cessé de m’entourer
+                    des soins les plus <lb/>tendres et les plus désintéressés : je veux l’en
+                    <lb/>remercier et assurer la tranquillité matérielle <lb/>de sa vie.</p>
+                <p>Je <choice><sic>luis</sic><corr>lui</corr></choice> laisse le mobilier de la
+                    salle à <lb/>manger et de la chambre à coucher, et tout <lb/>ce qui, dans
+                    l’appartement, lui appartient <lb/>ou lui convient. Elle ne quittera mon
+                    appartement <lb/><hi rend="underlined">où elle habite</hi>, que lorsqu’elle le
+                    pourra.</p>
+                <p>Le reste de ma fortune ira à mes parents <lb/>et je désire qu’après leur mort,
+                    ils laissent <pb facs="#FRAN_Poilus_t-0268_02"/>la somme de dix mille francs à
+                    chacun <lb/>de mes cousins <persName>Chapsal</persName> en souvenir de <lb/>moi.</p>
+                <p>Mes souvenirs personnels seront distribués <lb/>à mes amis.</p>
+                <p>Je fais ce testament au moment de <lb/>mon départ pour la guerre, en toute
+                    <lb/>connaissance de cause et étant en <lb/>parfaite santé.</p>
+                <p><persName><choice><abbr>M<hi rend="superscript-underlined"
+                                >e</hi></abbr><expan>Maître</expan></choice> de Ridder</persName>,
+                    notaire 4 rue Perrault, <lb/>en assurera
+                        l’exécution<choice><sic/><corr>.</corr></choice></p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <dateline rend="centered">Fait à <placeName type="willPlace" ref="#pl-2"
+                        >Paris</placeName> <date type="willDate" when="1914-08-03">le trois
+                                <choice><sic>Aout</sic><corr>août</corr></choice> 1914</date>.</dateline>
+                <signed rend="centered"><persName ref="#pers-325">René
+                        <surname>Pilard</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0190">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Louis Paul Truchot (02/08/1914)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-252">Louis Paul Truchot (1872-1914)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#CNougaret">Christine Nougaret</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0190</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0190_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXXI/1551, minute du 15/03/1915 (dépôt du testament de Louis
+                            Paul Truchot)</idno>
+                        <msName>Testament de Louis Paul Truchot (02/08/1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-02">02/08/1914</date>. <placeName type="willPlace" ref="#pl-405">Villeneuve-le-Roi</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-252"><forename>Louis</forename> <forename>Paul</forename> <surname>Truchot</surname></persName>, mort pour la France le <date when="1914-08-26">26/08/1914</date> à <placeName ref="#pl-406">Roville (Meurthe et Moselle)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à petits carreaux (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions
+                                        type="willPage" unit="cm">
+                                        <height>39,8</height>
+                                        <width>25,7</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010158"
+                                >étude notariale 31 (CRPCEN : 75078)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0190_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXXI/1551, minute du 15/03/1915 (dépôt du testament de Louis
+                            Paul Truchot)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-02">02/08/1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>02/08/1914. Villeneuve-le-Roi.</p>
+                <p>testament olographe de Louis Paul Truchot, mort pour la France le 26/08/1914 à
+                    Roville (Meurthe et Moselle).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-07-19/2018-11-20" who="#SL. #MFGarreau">transcription</change>
+            <change when-iso="2018-07-19/2018-10-02" who="#PCharbonnier #FClavaud"
+                >validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0190___JPEG___FRAN_Poilus_t-0190_01.jpg"
+                xml:id="FRAN_Poilus_t-0190_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0190">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0190_01"/>
+                <head rend="centered"><hi rend="underlined">Testament</hi></head>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>En cas de <choice><sic>decés</sic><corr>décès</corr></choice>, je laisse tout
+                    à <lb/>ma femme <persName>Jeanne Truchot née
+                        <surname>Monciny</surname></persName> <lb/>avec charge
+                            d<del>e</del>’<choice><sic>elever</sic><corr>élever</corr></choice> mes
+                    deux fils jusqu’<choice><sic>a</sic><corr>à</corr></choice> <lb/>ce qu’ils
+                    puissent travailler<choice><sic/><corr>.</corr></choice></p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>J’estime qu’après la vente de la maison et <lb/>la liquidation du compte du
+                        <orgName>Comptoir
+                            d’<choice><sic>Escompte</sic><corr>escompte</corr></choice></orgName> <lb/>y
+                    compris l’apport de <persName>madame Truchot</persName> <lb/>la situation
+                            s’<choice><sic>equilibrera</sic><corr>équilibrera</corr></choice> par un
+                    actif de <lb/>10000 francs en
+                            <choice><sic>numeraire</sic><corr>numéraire.</corr></choice></p>
+                <metamark rend="horizontal-line" function="separating"/>
+                <p>Si elle peut garder <persName><choice><abbr>M<hi rend="superscript">.</hi></abbr><expan>Monsieur</expan></choice> Allouis</persName>
+                    qui jouit d’une <lb/>rente de <del>de</del> 760 <choice><abbr><hi
+                                rend="superscript"><supplied reason="illegible" unit="chars"
+                                    quantity="1"
+                        >f</supplied></hi></abbr><expan>francs</expan></choice> par an, j’en serais
+                            <choice><sic>tres</sic><corr>très</corr></choice> heureux <lb/>sinon le
+                    remettre à son <choice><sic>petit
+                        fils</sic><corr>petit-fils</corr></choice> <persName>Louis
+                    Schmutz</persName>.</p>
+                <metamark rend="horizontal-line" function="separating"/>
+                <p>Si mes fils ont besoin de mobilier pour se mettre <lb/>chez eux comme <hi
+                        rend="underlined">jeune homme</hi> ma femme voudra <lb/>bien leur donner,
+                    mais qu’ils vivent le plus longtemps <lb/>possible avec leur
+                            <choice><sic>deuxieme</sic><corr>deuxième</corr></choice>
+                            maman<choice><sic/><corr>.</corr></choice></p>
+                <p>Si à leur majorité, <persName><choice><abbr>M<hi rend="superscript-underlined"
+                                    >me</hi></abbr><expan>Madame</expan></choice> Truchot</persName>
+                    peut donner <lb/>1000 <choice><abbr><hi rend="superscript"><supplied
+                                    reason="illegible" unit="chars" quantity="1"
+                            >f</supplied></hi></abbr><expan>francs</expan></choice> <add
+                        place="above">à chacun de</add> mes deux enfants j’en
+                            <choice><sic>serai</sic><corr>serais</corr></choice>
+                            heureux<choice><sic/><corr> ; </corr></choice> <lb/>je ne puis voir
+                    actuellement ma situation financière<choice><sic/><corr>,</corr></choice> <lb/>
+                    c’est pour cela que je la prie de faire cela que si <lb/>je <add place="above"
+                        >lui</add> laisse 10000 <choice><abbr><hi rend="superscript"><supplied
+                                    unit="chars" reason="illegible" quantity="1"
+                            >f</supplied></hi></abbr><expan>francs</expan></choice> au
+                            moins<choice><sic/><corr>.</corr></choice></p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <dateline>Fait à <placeName type="willPlace" ref="#pl-405"><choice><sic>Villeneuve
+                                le roi</sic><corr>Villeneuve-le-Roi</corr></choice></placeName> sain
+                    de corps et d’esprit <lb/><date type="willDate" when="1914-08-02">le 2
+                                <choice><sic>Août</sic><corr>août</corr></choice>
+                            1914</date><choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="right"><persName ref="#pers-252"
+                    ><surname>Truchot</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/TeiModel_for_FirstWorldWarWills_v2_transcription.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0324">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Jean Luglien Pierre Casimir Labordère (19 septembre
+                    1916)] : édition électronique</title>
+                <author><persName ref="#pers-467">Jean Luglien Pierre Casimir Labordère
+                        (1873-1917)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#LC">Laure Cadars</persName>
+                    <persName ref="#AM">Aurélie Massie</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+                    <persName ref="#ASJPeronneau">ASJPeronneau</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#CNougaret">Christine Nougaret</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0324</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0324_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXXIV/1651, minute du 19 juillet 1917 (dépôt du testament de
+                            Jean Luglien Pierre Casimir Labordère)</idno>
+                        <msName>Testament de Jean Luglien Pierre Casimir Labordère (19 septembre
+                            1916)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1916-09-19">19 septembre 1916</date>. <placeName type="willPlace">Aux Armées</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-467"><forename>Jean</forename> <forename>Lucien</forename> <forename>Pierre</forename> <forename>Casimir</forename> <surname>Labordère</surname></persName>, mort pour la France le <date when="1917-04-18">18 avril 1917</date> à <placeName ref="#pl-715">Vaux Varennes (Marne)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à lettre bleuté (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions
+                                        type="willPage" unit="cm">
+                                        <height>20</height>
+                                        <width>15,5</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010161"
+                                >étude notariale 34 (CRPCEN : 75018)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0324_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXXIV/1651, minute du 19 juillet 1917 (dépôt du testament de
+                            Jean Luglien Pierre Casimir Labordère)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1916-09-19">19 septembre 1916</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>19 septembre 1916. Aux Armées.</p>
+                <p>testament olographe de Jean Lucien Pierre Casimir Labordère, mort pour la France
+                    le 18 avril 1917 à Vaux Varennes (Marne).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2020-03-26/2020-04-10" who="#lelia #GBMireille #ASJPeronneau"
+                >transcription</change>
+            <change when-iso="2020-03-26/2020-03-31" who="#PCharbonnier #CNougaret"
+                >validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0324___JPEG___FRAN_Poilus_t-0324_01.jpg"
+                xml:id="FRAN_Poilus_t-0324_01"/>
+        </surface>
+        <surface type="will-envelope-recto" n="02">
+            <graphic url="testament_AN_0324___JPEG___FRAN_Poilus_t-0324_02.jpg"
+                xml:id="FRAN_Poilus_t-0324_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0324">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0324_01"/>
+                <p>Je soussigné <persName ref="#pers-467"
+                                ><surname>Labordère</surname> <lb/>Jean<choice><sic>.</sic><corr>,</corr></choice>
+                                Luglien<choice><sic>-</sic><corr>,</corr></choice> Pierre
+                                <choice><sic>-</sic><corr>,</corr></choice> Casimir</persName>,
+                    ingénieur <lb/>en chef des <orgName>Ponts et chaussées</orgName>, actuellement
+                    <lb/>chef de bataillon du <orgName>Génie</orgName>, lègue à titre
+                    <lb/>d’usufruit la quotité disponible de <lb/>ma succession à
+                            <persName>Madame Isabelle
+                        <lb/>Marchegay, épouse Labordère</persName>, <lb/>ma femme.</p>
+                <p>Que ce soit un faible témoignage <lb/>d’amour profond, qui veut faire pour elle
+                    <lb/>tout ce qui ne peut nuir<add place="inline">e</add> à notre petite
+                        <persName>Anne</persName> <lb/>que je connais malheureusement si peu. <lb/>Je
+                    donne aussi mon <choice><sic>Tendre</sic><corr>tendre</corr></choice> souvenir <lb/>à
+                    mes parents, à mon frère, à tous ceux que
+                        j’aime<choice><sic/><corr>.</corr></choice></p>
+                <dateline><placeName>Aux armées</placeName>, <date type="willDate" when="1916-09-16"
+                                ><choice><sic>Le</sic><corr>le</corr></choice> 19 septembre
+                                1916<choice><sic/><corr>.</corr></choice></date></dateline>
+                <signed rend="centered"><persName ref="#pers-467"> Pierre
+                            <surname>Labordère</surname></persName></signed>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0324_02"/>
+                <p rend="centered">Testament de <choice><abbr>m<hi rend="superscript-underlined"
+                                >r</hi></abbr><expan>Monsieur</expan></choice> <persName
+                        ref="#pers-467">Pierre <surname>Labordère</surname></persName></p>
+            </div>
+        </body>
+    </text>
+</TEI>

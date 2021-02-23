@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0317">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Gustave Arsène Purson (2 août 1914)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-460">Gustave Arsène Purson
+                    (1882-1914)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#LC">Laure Cadars</persName>
+                    <persName ref="#AM">Aurélie Massie</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#CNougaret">Christine Nougaret</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0317</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0317_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXXIV/1640, minute du 11 novembre 1914 (dépôt du testament de
+                            Gustave Arsène Purson)</idno>
+                        <msName>Testament de Gustave Arsène Purson (2 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-02">2 août 1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-460"><forename>Gustave</forename> <forename>Arsène</forename> <surname>Purson</surname></persName>, mort pour la France le <date when="1914-09-20" source="#will_AN_0317_min">20
+              septembre 1914 [NOT]</date> ou le <date when="1914-09-17" source="#EC">17 septembre
+              1914 [EC]</date> à <placeName ref="#pl-217">Haumont (Meuse)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à lettre (testament). </support>
+                                <extent>4 pages. Dimensions du testament : <dimensions
+                                        type="willPage" unit="cm">
+                                        <height>17,6</height>
+                                        <width>11,3</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre mauve.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010161"
+                                >étude notariale 34 (CRPCEN : 75018)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0317_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXXIV/1640, minute du 11 novembre 1914 (dépôt du testament de
+                            Gustave Arsène Purson)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-02">2 août 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>2 août 1914. Paris.</p>
+                <p>testament olographe de Gustave Arsène Purson, mort pour la France le 20 septembre
+                    1914 [NOT] ou le 17 septembre 1914 [EC] à Haumont (Meuse).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2020-03-28/2020-04-28" who="#MFGarreau #lelia #GBMireille"
+                >transcription</change>
+            <change when-iso="2020-03-28/2020-04-03" who="#PCharbonnier #CNougaret"
+                >validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0317___JPEG___FRAN_Poilus_t-0317_01.jpg"
+                xml:id="FRAN_Poilus_t-0317_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0317___JPEG___FRAN_Poilus_t-0317_02.jpg"
+                xml:id="FRAN_Poilus_t-0317_02"/>
+        </surface>
+        <surface type="will-page" n="03">
+            <graphic url="testament_AN_0317___JPEG___FRAN_Poilus_t-0317_03.jpg"
+                xml:id="FRAN_Poilus_t-0317_03"/>
+        </surface>
+        <surface type="will-page" n="04">
+            <graphic url="testament_AN_0317___JPEG___FRAN_Poilus_t-0317_04.jpg"
+                xml:id="FRAN_Poilus_t-0317_04"/>
+        </surface>
+        <surface type="will-envelope-recto" n="05">
+            <graphic url="testament_AN_0317___JPEG___FRAN_Poilus_t-0317_05_ab.jpg"
+                xml:id="FRAN_Poilus_t-0317_05_ab"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0317">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0317_01"/>
+                <dateline rend="centered"><placeName type="willPlace" ref="#pl-2">Paris</placeName>
+                    <date type="willDate" when="1914-08-02">le 2
+                        <choice><sic>Août</sic><corr>août</corr></choice> 1914</date></dateline>
+                <space dim="vertical" unit="lines" quantity="4"/>
+                <p><choice><sic>A</sic><corr>À</corr></choice> la veille de partir <lb/>à la guerre
+                    j’<choice><sic>ecris</sic><corr>écris</corr></choice>
+                            ci<choice><sic> </sic><corr>-</corr></choice>dessous <lb/>mes
+                            <choice><sic>dernieres volontées</sic><corr>dernières
+                        volontés</corr></choice> <lb/>au cas
+                        <choice><sic>ou</sic><corr>où</corr></choice> je <choice><sic>trouverai</sic><corr>trouverais</corr></choice> la <lb/>mort sur
+                    le champ de <lb/>bataille ou autre part<choice><sic/><corr>.</corr></choice></p>
+                <list>
+                    <item>1<hi rend="superscript-underlined">er</hi> Je
+                                <choice><sic>legue</sic><corr>lègue</corr></choice> tout ce
+                        qu<choice><sic> </sic><corr>’</corr></choice>il <lb/>y a chez nous
+                                <choice><sic>a</sic><corr>à</corr></choice> ma <lb/>femme
+                                <choice><sic>nee</sic><corr>née</corr></choice> Madeleine
+                                <lb/>Moellic<choice><sic/><corr>.</corr></choice></item>
+                    <item>2<hi rend="superscript">e</hi> Mais je
+                                <choice><sic>desire</sic><corr>désire</corr></choice> lorsque
+                    <pb facs="#FRAN_Poilus_t-0317_02"/>
+                    ma fille contractera <lb/>mariage<choice><sic/><corr>,</corr></choice>
+                        qu’elle lui <lb/>donne le
+                                se<subst><del>r</del><add>c</add></subst>r<choice><sic>e</sic><corr>é</corr></choice>taire
+                        et <lb/>la <choice><sic>bibliotheque</sic><corr>bibliothèque</corr></choice>.
+                                <choice><sic>si</sic><corr>Si</corr></choice>
+                                <subst><del>l</del><add>m</add></subst>a femme <lb/>se trouvait par
+                        suite de <lb/><choice><sic>misere</sic><corr>misère</corr></choice><choice><sic/><corr>,</corr></choice>
+                        obligée de se
+                                <del>defaire</del> <lb/><choice><sic>demettre</sic><corr>démettre</corr></choice>
+                        de la <choice><sic>bibliotheque</sic><corr>bibliothèque</corr></choice> <lb/>qu’elle
+                        fasse son possible <lb/>pour garder le
+                        <choice><sic>secretaire</sic><corr>secrétaire</corr></choice> <lb/>qui est un
+                        meuble de <lb/>famille venant de mon
+                                <lb/><choice><sic>pere</sic><corr>père</corr></choice>.
+                        <del>l</del> <choice><sic>lequel</sic><corr>Lequel</corr></choice>
+                                meuble<choice><sic/><corr>,</corr></choice> <lb/>je serais heureux
+                        qu’il <lb/>soit <choice><sic>donne</sic><corr>donné</corr></choice>
+                        <choice><sic>apres</sic><corr>après</corr></choice> moi et <lb/>ma fille
+                            <add place="inline"><unclear>au</unclear></add> aux enfants de <lb/>ma
+                        fille si elle en a<choice><sic/><corr>.</corr></choice></item>
+                    <item>2<hi rend="superscript-double-underlined">o</hi> <hi rend="superscript"
+                            >bis</hi> Je tiendrais essentiellement
+                                <lb/><choice><sic>a</sic><corr>à</corr></choice> ce que ma femme
+                                <choice><sic>eleve</sic><corr>élève</corr></choice> <lb/>ma
+                                fille<choice><sic>.</sic><corr>,</corr></choice> ainsi qu’il est dit
+                        <lb/>dans le paragraphe suivant<choice><sic/><corr>.</corr></choice></item>
+                    <pb facs="#FRAN_Poilus_t-0317_03"/>
+                    <item>3<hi rend="superscript-double-underlined">e</hi> S’il est possible
+                                <choice><sic>a</sic><corr>à</corr></choice> <lb/>ma femme, si en un
+                        mot <lb/>ses moyens <choice><sic>pecuniaires</sic><corr>pécuniaires</corr></choice> le
+                        <lb/>lui permettent<choice><sic/><corr>,</corr></choice> je
+                                <choice><sic>serais</sic><corr>serai</corr></choice> <lb/>heureux
+                        (connaissant l’affec<lb break="no"/>tion<del>)</del> qu’elle
+                            <del>porte</del> porte <lb/><choice><sic>a</sic><corr>à</corr></choice>
+                        ma fille) qu’elle <lb/>l’élève et qu’elle en fasse <lb/>une brave et
+                        <choice><sic>honnete</sic><corr>honnête</corr></choice> <lb/>femme.</item>
+                    <item>4<hi rend="superscript-underlined">e</hi> Ma femme
+                        <choice><sic>etant</sic><corr>étant</corr></choice> encore <lb/>jeune,
+                        je <del>n</del> trouve tout <lb/>naturel
+                            <choice><sic>a</sic><corr>à</corr></choice> ce qu’elle <lb/>se remarie
+                        <choice><sic>apres</sic><corr>après</corr></choice> ma <lb/>mort, si
+                        mort il y a.</item>
+                    <item>5<hi rend="superscript-underlined">e</hi> Le paragraphe 4<hi
+                            rend="superscript-underlined">e</hi> ne change <lb/>en rien le
+                        paragraphe 3<hi rend="superscript-double-underlined">e</hi>
+                    <pb facs="#FRAN_Poilus_t-0317_04"/>
+                    <choice><sic>a</sic><corr>à</corr></choice> condition que ma femme
+                        <lb/><choice><sic>epouse</sic><corr>épouse</corr></choice> un homme bon
+                        et <choice><sic>honnete</sic><corr>honnête</corr></choice>, <lb/> enfin ce que
+                                l<choice><sic> </sic><corr>’</corr></choice>on appelle un <lb/>brave
+                                    <subst><del><hi rend="underlined">supce</hi></del><add
+                                place="above">homme</add></subst> susceptible de <lb/>rendre ma
+                        fille heureuse<choice><sic/><corr>.</corr></choice></item>
+                    <item>6<hi rend="superscript">e</hi> Si dans
+                            <subst><del>sa</del><add>la</add></subst> nouvelle union <lb/><del>ma
+                            fille n ou ne pouvait</del> <lb/>de ma
+                            femme<choice><sic/><corr>,</corr></choice> ma <lb/>fille ne pouvait être
+                        heureuse, <lb/>je laisserai <choice><sic>a</sic><corr>à</corr></choice> ma
+                                <choice><sic>mere</sic><corr>mère</corr></choice> <lb/>la charge
+                        d<subst><del>e</del><add>’</add></subst><choice><sic>elever</sic><corr>élever</corr></choice>
+                        ma fille.</item>
+                </list>
+                <p>Tout ceci n’aura de validité <lb/>qu’en cas de ma mort.</p>
+                <p>Fait <choice><sic>a</sic><corr>à</corr></choice> <placeName type="willPlace"
+                        ref="#pl-2">Paris</placeName> en pleine <lb/>connaissance de cause
+                            <lb/><choice><sic>a</sic><corr>à</corr></choice> la veille de partir
+                    pour <lb/>la guerre.</p>
+                <signed rend="centered"><persName ref="#pers-460">A
+                        <surname>Purson</surname></persName></signed> <postscript><p>3
+                    <choice><sic>Rue</sic><corr>rue</corr></choice> de Penthièvre</p></postscript></div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0317_05_ab"/>
+                <dateline><placeName type="willPlace" ref="#pl-2">Paris</placeName> <date
+                        type="willDate" when="1914-08-02">le 2 août 1914</date></dateline>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <p>N’ouvrir cette lettre <lb/>qu’au cas
+                        <choice><sic>ou</sic><corr>où</corr></choice> je 
+                    <choice><sic>mourrai</sic><corr>mourrais</corr></choice> <lb/><supplied>sur</supplied> le
+                    champ de bataille <lb/>ou autre part<choice><sic/><corr>.</corr></choice></p>
+                <signed rend="centered"><persName ref="#pers-460">A
+                        <surname>Purson</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

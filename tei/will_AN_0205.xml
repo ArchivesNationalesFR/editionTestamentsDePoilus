@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0205">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la
+          Grande Guerre</title>
+        <title type="main">[Testament de Paul Louis Victor Jean Borel (2 août 1914)] : édition
+          électronique</title>
+        <author><persName ref="#pers-267">Paul Louis Victor Jean Borel
+          (1884-1914)</persName></author>
+        <editor ref="#CNougaret">Christine Nougaret</editor>
+        <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+        <editor ref="#FClavaud">Florence Clavaud</editor>
+        <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Première édition électronique, fondée sur un travail de transcription
+          collaborative</edition>
+        <respStmt>
+          <resp>Numérisation</resp>
+          <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+            Département de la Conservation. Atelier photographique</orgName>
+        </respStmt>
+        <respStmt>
+          <resp>Identification et description du testament</resp>
+          <persName ref="#CNougaret">Christine Nougaret</persName>
+          <persName ref="#LVieillon">Lucie Vieillon</persName>
+          <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Transcription</resp>
+          <persName ref="#SL.">EG</persName>
+          <persName ref="#MFGarreau">MFGarreau</persName>
+          <persName ref="#lelia">Lélia Picabia</persName>
+          <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Validation</resp>
+          <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+          <persName ref="#FClavaud">Florence Clavaud</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+          <persName ref="#FClavaud">Florence Clavaud</persName>
+          <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+        <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+        <publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher>
+        <publisher><orgName>École nationale des chartes</orgName></publisher>
+        <publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher>
+        <date when="2021">2021</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence>
+        </availability>
+        <idno>TestamentsDePoilus_will_AN_0205</idno>
+        <!--ultérieurement ajouter idno fourni par Nakala-->
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="will_AN_0205_tes">
+          <msIdentifier>
+            <country>France</country>
+            <institution>Archives nationales</institution>
+            <collection>Minutier central des notaires de Paris</collection>
+            <idno>MC/ET/XLII/1440, minute du 8 mars 1915 (dépôt du testament de Paul Louis Victor
+              Jean Borel)</idno>
+            <msName>Testament de Paul Louis Victor Jean Borel (2 août 1914)</msName>
+          </msIdentifier>
+          <msContents>
+            <summary><p><date type="willDate" when="1914-08-02">2 août 1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-267"><forename>Paul</forename> <forename>Louis</forename> <forename>Victor</forename> <forename>Jean</forename> <surname>Borel</surname></persName>, mort pour la France le <date when="1914-09-20">20 septembre 1914</date> au Plateau
+            de Nouvron (Aisne) [MDH] | <placeName ref="#pl-428" source="#will_AN_0205_min">combat de
+              Vic sur Aisne [NOT]</placeName>.</p></summary>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>Papier à lettre (codicille). </support>
+                <extent>1 page et 1 enveloppe. Dimensions du codicille : <dimensions
+                    type="willCodicil" unit="cm">
+                    <height>27</height>
+                    <width>21</width>
+                  </dimensions>.</extent>
+              </supportDesc>
+            </objectDesc>
+            <handDesc>
+              <p> Codicille : encre.</p>
+            </handDesc>
+          </physDesc>
+          <history>
+            <provenance><orgName
+                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010169"
+                >étude notariale 042 (CRPCEN : 75067)</orgName></provenance>
+          </history>
+        </msDesc>
+        <msDesc xml:id="will_AN_0205_min">
+          <msIdentifier>
+            <country>France</country>
+            <institution>Archives nationales</institution>
+            <collection>Minutier central des notaires de Paris</collection>
+            <idno>MC/ET/XLII/1440, minute du 8 mars 1915 (dépôt du testament de Paul Louis Victor
+              Jean Borel)</idno>
+            <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+              minute</msName>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation><date type="willDate" when="1914-08-02">2 août 1914</date></creation>
+      <langUsage>
+        <language ident="fr">français</language>
+      </langUsage>
+      <abstract>
+        <p>2 août 1914. Paris.</p>
+        <p>testament olographe de Paul Louis Victor Jean Borel, mort pour la France le 20 septembre
+          1914 au Plateau de Nouvron (Aisne) [MDH] | combat de Vic sur Aisne [NOT].</p>
+      </abstract>
+      <textClass>
+        <keywords>
+          <term type="subject">Grande Guerre</term>
+          <term type="subject">Poilu</term>
+          <term type="subject">testament</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when-iso="2018-09-10/2019-04-23" who="#SL. #MFGarreau #lelia #GBMireille"
+        >transcription</change>
+      <change when-iso="2018-09-10/2018-10-03" who="#PCharbonnier #FClavaud">validation</change>
+      <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements et
+        contrôle de qualité finaux</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+    <surface type="codicil-page" n="01">
+      <graphic url="testament_AN_0205___JPEG___FRAN_Poilus_t-0205_01.jpg"
+        xml:id="FRAN_Poilus_t-0205_01"/>
+    </surface>
+    <surface type="will-envelope-recto" n="02">
+      <graphic url="testament_AN_0205___JPEG___FRAN_Poilus_t-0205_02.jpg"
+        xml:id="FRAN_Poilus_t-0205_02"/>
+    </surface>
+  </facsimile>
+  <text xml:id="will_AN_0205">
+    <body>
+      <div type="codicil">
+        <pb facs="#FRAN_Poilus_t-0205_01"/>
+        <head rend="centered">Codicille.</head>
+        <metamark function="separating" rend="horizontal-line"/>
+        <p>Je lègue à mon frère Marc, non pas
+          <lb/>la pleine propriété, mais l’usufruit d’un <lb/>capital de vingt-cinq mille francs à
+          prélever <lb/>sur la quotité disponible de ma succession. <lb/>Les valeurs composant ce
+          capital ne <lb/>pourront être aliénées que sous condition <lb/>de remploi, d’accord entre
+          mes frères <lb/>survivants.</p>
+        <p>Mes chevaux devant être prochainement
+          <lb/>vendus, la clause par laquelle ils sont légués <lb/>devient sans objet.</p>
+        <dateline rend="right"><placeName type="codicilPlace" ref="#pl-2">Paris</placeName>, 
+            <date type="codicilDate" when="1914-08-02">le 2 août 1914</date><choice><sic></sic><corr>.</corr></choice></dateline>
+        <signed rend="right"><persName ref="#pers-267">Jean
+          <surname>Borel</surname></persName></signed>
+      </div>
+      <div type="envelope">
+        <pb facs="#FRAN_Poilus_t-0205_02"/>
+        <p rend="centered">Testament</p>
+        <metamark function="emphasis" rend="horizontal-line"/>
+        <space dim="vertical" unit="lines" quantity="3"/>
+        <signed rend="right"><persName ref="#pers-267"
+          >Jean <surname>Borel</surname></persName></signed>
+      </div>
+    </body>
+  </text>
+</TEI>

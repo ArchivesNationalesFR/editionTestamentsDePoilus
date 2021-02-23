@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/TeiModel_for_FirstWorldWarWills_v2_transcription.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0260">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Joseph Georges Hennet (12/08/1914)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-317">Joseph Georges Hennet
+                    (1883-1915)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#DChristiane">Christiane Demeulenaere-Douyère</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#ASJPeronneau">ASJPeronneau</persName>
+                    <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0260</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0260_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVI/1386, minute du 08/03/1915 (dépôt du testament de Joseph
+                            Georges Hennet)</idno>
+                        <msName>Testament de Joseph Georges Hennet (12/08/1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-12">12/08/1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-317"><forename>Joseph</forename> <forename>Georges</forename> <surname>Hennet</surname></persName>, mort pour la France le <date when="1915-01-12">12/01/1915</date> à <placeName ref="#pl-144">Crouy (Aisne)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (codicille). </support>
+                                <extent>1 page et 1 enveloppe. Dimensions du codicille : <dimensions
+                                        type="willCodicil" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p> Codicille : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010183"
+                                >étude notariale 56 (CRPCEN : 75040)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0260_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVI/1386, minute du 08/03/1915 (dépôt du testament de Joseph
+                            Georges Hennet)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-12">12/08/1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>12/08/1914. Paris.</p>
+                <p>testament olographe de Joseph Georges Hennet, mort pour la France le 12/01/1915 à
+                    Crouy (Aisne).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-02-12/2020-06-15"
+                who="#MFGarreau #ASJPeronneau #GBMireille #lelia">transcription</change>
+            <change when-iso="2019-02-12/2020-06-12" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="codicil-page" n="01">
+            <graphic url="testament_AN_0260___JPEG___FRAN_Poilus_t-0260_01.jpg"
+                xml:id="FRAN_Poilus_t-0260_01"/>
+        </surface>
+        <surface type="will-envelope-recto" n="02">
+            <graphic url="testament_AN_0260___JPEG___FRAN_Poilus_t-0260_02.jpg"
+                xml:id="FRAN_Poilus_t-0260_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0260">
+        <body>
+            <div type="codicil">
+                <pb facs="#FRAN_Poilus_t-0260_01"/>
+                <metamark function="emphasis" rend="cross"/>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Au <choice><sic>nom</sic><corr>Nom</corr></choice> du Père, du Fils
+                            <lb/>et du Saint<choice><sic> </sic><corr>-</corr></choice>Esprit. Ainsi
+                                    soit-il<choice><sic/><corr>.</corr></choice></p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Ceci est mon testament <lb/>fait à <placeName type="willPlace" ref="#pl-2">Paris</placeName>
+                    <date type="willDate" when="1914-06-10">le 10
+                        <choice><sic>Juin</sic><corr>juin</corr></choice>
+                            1914</date><choice><sic/><corr>.</corr></choice></p>
+                <p>Je lègue la nue<choice><sic> </sic><corr>-</corr></choice><lb/>propriété de tout ce que
+                    je <lb/>possède à ma <choice><sic>Femme</sic><corr>femme</corr></choice>
+                        <lb/><persName>Mathilde-Eugénie-Rose, née <lb/>Pestel</persName> et
+                    l’usufruit à ma <lb/><choice><sic>Mère</sic><corr>mère</corr></choice>,
+                    <persName>Madame Victoire
+                        <lb/>Hennet née Cuny</persName>.</p>
+                <dateline>Fait à <placeName type="willPlace" ref="#pl-2">Paris</placeName> et
+                    <choice><sic>entière-<lb/>ment</sic><corr>entière<lb break="no"/>ment</corr></choice> écrit de ma
+                        main<choice><sic/><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="centered"><persName ref="#pers-317"
+                        >G<surname>Hennet</surname></persName></signed><space dim="vertical"
+                        unit="lines" quantity="2"/><postscript><p><address rend="centered">
+                            <addrLine>19 <choice><sic>Avenue</sic><corr>avenue</corr></choice>
+                            d’Allemagne<choice><sic/><corr>.</corr></choice></addrLine>
+                    </address></p></postscript>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <postscript>
+                    <p>Je prie ma <choice><sic>Femme</sic><corr>femme</corr></choice> de <lb/>remettre à
+                        ma <choice><sic>Mère</sic><corr>mère</corr></choice> une <lb/>somme de
+                            deu<damage agent="stain">x m</damage>ille cinq <lb/>cents
+                                francs<choice><sic/><corr>,</corr></choice> francs de tous
+                                droits<choice><sic/><corr>.</corr></choice></p>
+                </postscript>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="centered"><persName ref="#pers-317"
+                        >G<surname>Hennet</surname></persName></signed>
+                <dateline rend="centered"><date type="codicilDate" when="1914-08-12">12
+                                <choice><sic>aout</sic><corr>août</corr></choice> 1914<choice><sic/><corr>.</corr></choice></date></dateline>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0260_02"/>
+                <p rend="centered">Mon testament<choice><sic/><corr>.</corr></choice></p>
+                <signed rend="centered"><persName ref="#pers-317"
+                        >G<surname>Hennet</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

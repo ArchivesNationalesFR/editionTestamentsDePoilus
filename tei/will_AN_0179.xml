@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0179">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Louis Fernand Martineau (15/07/1917)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-241">Louis Fernand Martineau
+                    (1886-1917)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#CNougaret">Christine Nougaret</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0179</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0179_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XVIII/1927, minute du 21/01/1919 (dépôt du testament de Louis
+                            Fernand Martineau)</idno>
+                        <msName>Testament de Louis Fernand Martineau (15/07/1917)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1917-07-15">15/07/1917</date>. <placeName type="willPlace" ref="#pl-1">Saint-Denis</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-241"><forename>Louis</forename> <forename>Fernand</forename> <surname>Martineau</surname></persName>, mort pour la France le <date when="1917-10-23">23/10/1917</date> aux <placeName ref="#pl-284">Gobinaux, chemin des Dames, commune d’Allemant,
+            (Aisne)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions
+                                        type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010145"
+                                >étude notariale 18 (CRPCEN : 75026)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0179_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XVIII/1927, minute du 21/01/1919 (dépôt du testament de Louis
+                            Fernand Martineau)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1917-07-15">15/07/1917</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>15/07/1917. Saint-Denis.</p>
+                <p>testament olographe de Louis Fernand Martineau, mort pour la France le 23/10/1917
+                    aux Gobinaux, chemin des Dames, commune d’Allemant, (Aisne).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-07-19/2019-01-14" who="#MFGarreau #SL. #lelia"
+                >transcription</change>
+            <change when-iso="2018-07-19/2018-10-15" who="#PCharbonnier #FClavaud"
+                >validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0179___JPEG___FRAN_Poilus_t-0179_01.jpg"
+                xml:id="FRAN_Poilus_t-0179_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0179">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0179_01"/>
+                <head>Ceci est mon testament</head>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>J’institue pour ma
+                    légataire <lb/>universelle
+                        <persName>Madame Louis Martineau
+                            née <lb/>Marguerite-Jeanne Madeleine, <app><lem><del>(ma femme)</del><add place="marginLeft" type="testatorComment">deux mots rayés nuls 
+                            <lb/><seg type="signature"><persName ref="#pers-241"
+                                >L Martineau</persName></seg></add></lem><note resp="#PCharbonnier">Mention "deux mots rayés nuls" rédigée en marge à gauche et signée "L Martineau".</note></app> <lb/>
+                        Figuierat</persName>, ma femme, voulant et entendant <lb/>qu’à mon décès
+                    elle recueille
+                    l’<choice><sic>integralité</sic><corr>intégralité</corr></choice> <lb/>de ma
+                            <choice><sic>sucession</sic><corr>succession</corr></choice> sans
+                    exception ni réserve<choice><sic/><corr>.</corr></choice></p>
+                <p>En cas d’existence d’héritiers <lb/><choice><sic>reservataires</sic><corr>réservataires</corr></choice>,
+                    ma femme aura la plus <lb/>large part dont la loi me permet de disposer <lb/>à
+                    son profit, la dispensant de faire <lb/>inventaire, de fournir caution et de
+                    faire <lb/>emploi.</p>
+                <p>Je désire en outre que ma
+                    caisse de <lb/>prévoyance à la <orgName>Société Générale</orgName>
+                    provenant <lb/>des retenues sur mes appointements soit <lb/>versée entièrement à
+                    mon épouse.</p>
+                <dateline rend="centered">Aux Armées <date type="willDate" when="1917-07-15">le 15
+                                <choice><sic>Juillet</sic><corr>juillet</corr></choice>
+                    1917</date><choice><sic></sic><corr>.</corr></choice></dateline>
+                <signed rend="centered"><persName ref="#pers-241"
+                        >L<surname>Martineau</surname></persName></signed>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <postscript>
+                    <p>En conséquence des événements je fais <lb/>ce testament en double
+                                <choice><sic>exemplaires</sic><corr>exemplaire</corr></choice> en
+                        cas <lb/>de perte<choice><sic/><corr>.</corr></choice></p>
+                    <signed rend="centered"><persName ref="#pers-241">LM</persName></signed>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

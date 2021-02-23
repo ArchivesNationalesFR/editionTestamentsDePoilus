@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0280">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Louis Gaston Trempé (08/10/1916)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-334">Louis Gaston Trempé
+                    (1882-1917)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#DChristiane">Christiane Demeulenaere-Douyère</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0280</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0280_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVI/1415, minute du 17/09/1917 (dépôt du testament de Louis
+                            Gaston Trempé)</idno>
+                        <msName>Testament de Louis Gaston Trempé (08/10/1916)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1916-10-08">08/10/1916</date>. <placeName type="willPlace" ref="#pl-509">Pléneuf-Val-André</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-334"><forename>Louis</forename> <forename>Gaston</forename> <surname>Trempé</surname></persName>, mort pour la France le <date when="1917-01-17">17/01/1917</date> à <placeName ref="#pl-18">Verdun (Meuse)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions
+                                        type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010183"
+                                >étude notariale 56 (CRPCEN : 75040)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0280_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVI/1415, minute du 17/09/1917 (dépôt du testament de Louis
+                            Gaston Trempé)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1916-10-08">08/10/1916</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>08/10/1916. Pléneuf-Val-André.</p>
+                <p>testament olographe de Louis Gaston Trempé, mort pour la France le 17/01/1917 à
+                    Verdun (Meuse).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-02-12/2019-12-10" who="#lelia #MFGarreau #GBMireille"
+                >transcription</change>
+            <change when-iso="2019-02-12/2019-02-21" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0280___JPEG___FRAN_Poilus_t-0280_01ab.jpg"
+                xml:id="FRAN_Poilus_t-0280_01ab"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0280">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0280_01ab"/>
+                <dateline rend="centered">Le <placeName type="willPlace" ref="#pl-509"
+                                >Val-André</placeName> <date type="willDate" when="1916-10-08">le 8
+                                octobre 1916</date> <lb/>(Je dis <date type="willDate"
+                        when="1916-10-08">huit octobre
+                                <choice><sic>mil-neuf-cent-seize</sic><corr>mil neuf cent
+                                seize</corr></choice></date>)<choice><sic></sic><corr>.</corr></choice></dateline>
+                <metamark function="separating" rend="other"/>
+                <metamark function="other" rend="horizontal-wavy-line"/>
+                <head>Ceci doit me servir de testament</head>
+                <metamark function="other" rend="horizontal-wavy-line"/>
+                <metamark function="separating" rend="other"/>
+                <p>1<hi rend="superscript-underlined">o</hi> Ma volonté est de laisser notre petit
+                    avoir à ma <lb/><choice><sic>Chère</sic><corr>chère</corr></choice> petite femme, née marthe Hélène Prompt.</p>
+                <metamark function="separating" rend="other"/>
+                <p>2<hi rend="superscript-underlined">o</hi> Mon frère Emile Trempé sera le
+                    subrojétuteur de notre <lb/>petite Geneviève.</p>
+                <metamark function="separating" rend="other"/>
+                <p>3<hi rend="superscript-underlined">o</hi> La petite pension que l’Etat fait au
+                    décès des <lb/>militaires sera entièrement attribuée à ma petite <lb/>
+                    Marthe.</p>
+                <dateline><space dim="horizontal" unit="chars" quantity="15"/>Fait au <placeName
+                        type="willPlace" ref="#pl-509">Val-André</placeName> à l’heure <lb/><choice><sic>ou</sic><corr>où</corr></choice> je
+                    repars rejoindre mon régiment, ma <lb/>permission étant expirée, <date
+                        type="willDate" when="1916-10-08">le huit octobre <choice><sic>mil-neuf-<lb
+                                    break="no"/>cent-seize</sic><corr>mille neuf cent
+                            seize</corr></choice></date><choice><sic>,</sic><corr>.</corr></choice></dateline>
+                <space dim="horizontal" unit="chars" quantity="15"/>
+                <signed>Le <choice><sic>Lieutenant</sic><corr>lieutenant</corr></choice>
+                    d’<choice><sic>Infanterie</sic><corr>infanterie</corr></choice> de <lb/>réserve
+                        <lb/><space dim="horizontal" unit="chars" quantity="15"/><persName
+                        ref="#pers-334">Louis <surname>Trempé</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

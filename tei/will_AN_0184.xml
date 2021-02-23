@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0184">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Georges Arthur Seyres (10/08/1914)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-246">Georges Arthur Seyres
+                    (1885-1914)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#CNougaret">Christine Nougaret</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#CTMercier">Camille Tolila Mercier</persName>
+                    <persName ref="#SL.">EG</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0184</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0184_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XVIII/1951, minute du 21/05/1920 (dépôt du testament de Georges
+                            Arthur Seyres)</idno>
+                        <msName>Testament de Georges Arthur Seyres (10/08/1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-10">10/08/1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-246"><forename>Georges</forename> <forename>Arthur</forename> <surname>Seyres</surname></persName>, mort pour la France le <date when="1914-11-10">10/11/1914</date> à <placeName ref="#pl-395">Warneton (Belgique)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à lettre (testament). Enveloppe (enveloppe). </support>
+                                <extent>3 pages. Dimensions du testament : <dimensions
+                                        type="willPage" unit="cm">
+                                        <height>18</height>
+                                        <width>13,9</width>
+                                    </dimensions>. Dimensions de l’enveloppe : <dimensions
+                                        type="willEnvelope" unit="cm">
+                                        <height>9,3</height>
+                                        <width>14,9</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre mauve. Enveloppe : encre mauve.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010145"
+                                >étude notariale 18 (CRPCEN : 75026)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0184_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XVIII/1951, minute du 21/05/1920 (dépôt du testament de Georges
+                            Arthur Seyres)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-10">10/08/1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>10/08/1914. Paris.</p>
+                <p>testament olographe de Georges Arthur Seyres, mort pour la France le 10/11/1914 à
+                    Warneton (Belgique).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-07-19/2018-08-17" who="#MFGarreau #CTMercier #SL."
+                >transcription</change>
+            <change when-iso="2018-07-19/2018-08-16" who="#PCharbonnier #FClavaud"
+                >validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0184___JPEG___FRAN_Poilus_t-0184_01.jpg"
+                xml:id="FRAN_Poilus_t-0184_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0184___JPEG___FRAN_Poilus_t-0184_02.jpg"
+                xml:id="FRAN_Poilus_t-0184_02"/>
+        </surface>
+        <surface type="will-page" n="03">
+            <graphic url="testament_AN_0184___JPEG___FRAN_Poilus_t-0184_03.jpg"
+                xml:id="FRAN_Poilus_t-0184_03"/>
+        </surface>
+        <surface type="will-envelope-recto" n="04">
+            <graphic url="testament_AN_0184___JPEG___FRAN_Poilus_t-0184_04_ab.jpg"
+                xml:id="FRAN_Poilus_t-0184_04_ab"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0184">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0184_01"/>
+                <dateline rend="right"><placeName type="willPlace" ref="#pl-2">Paris</placeName>,
+                        <date type="willDate" when="1914-08-10">10 Août 1914</date></dateline>
+                <space dim="vertical" unit="lines" quantity="3"/>
+                <p>Je lègue, en cas de mort, <lb/>à ma femme, <persName>Alice Seyrès, <lb/>née
+                        Gernigon</persName>, la totalité de mes <lb/>biens, titres, meubles et leur
+                    contenu, <lb/>et toutes choses m’appartenant.</p>
+                <p>Les titres sont déposés à <lb/>la <orgName>Société Générale</orgName>, agence <hi rend="underlined">H</hi> <lb/>21
+                            <choice><sic>Boulevard</sic><corr>boulevard</corr></choice> Voltaire à
+                        <placeName type="otherPlace" ref="#pl-2"
+                            >Paris<choice><sic/><corr>.</corr></choice></placeName> <lb/>Ils devront
+                    être délivrés en cas de <lb/>besoin et toute opération de bourse <lb/>quelle
+                    qu’elle soit pourra être faite <lb/>par <persName>Madame Seyrès</persName>, au
+                    vu de <lb/>ce papier et sans que défense puisse <pb facs="#FRAN_Poilus_t-0184_02"
+                    />lui en être faite par quiconque.</p>
+                <p>Je désire et souhaite que <lb/>ma volonté soit exécutée sans ob<lb break="no"/>jections aucune et que l’héritage <lb/>soit pour elle seule sans que <lb/><hi
+                        rend="underlined">personne</hi> puisse prétendre à une <lb/>redevance ou
+                    réclamation ; que cette <lb/>fortune dont les récépissés sont ici <lb/>ne lui
+                    profite qu’<hi rend="underlined">à elle seule</hi>.</p>
+                <p>Je lui adresse un dernier <lb/>adieu pour le cas où le sort me <lb/>serait
+                    défavorable <choice><abbr>&amp;</abbr><expan>et</expan></choice> que mon
+                        souve<lb break="no"/>nir lui soit garant de l’amour <lb/>que
+                            <choice><sic>j’aurai</sic><corr>j’aurais</corr></choice> eu pour elle.</p>
+                <p>Je souhaite que la vie lui <lb/>soit douce et exempte de malchance <pb
+                        facs="#FRAN_Poilus_t-0184_03"/>et dans cet espoir, je m’en <lb/>vais,
+                    heureux d’accomplir un <lb/>devoir sacré entre tous, laissant <lb/>derrière moi
+                    une compagne exempte <lb/>de tout reproche et d’une vaillance <lb/>sans bornes.</p>
+                <p>Au-dessus de tout je t’<choice><sic>em-<lb/>brasse</sic><corr>em<lb break="no"/>brasse</corr></choice>, femme chérie, et puisse<lb/>
+                    le hasard nous réunir un jour.</p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <dateline rend="centered">Fait à <placeName type="willPlace" ref="#pl-2"
+                        >Paris</placeName>, <lb/><space dim="vertical" unit="lines" quantity="1"/>
+                        <date type="willDate" when="1914-08-10">le 10
+                                <choice><sic>Août</sic><corr>août</corr></choice>
+                        1914<choice><sic></sic><corr>,</corr></choice> <lb/></date><space dim="vertical" unit="lines" quantity="1"/>23
+                            <choice><sic>Rue</sic><corr>rue</corr></choice> Meslay<choice><sic></sic><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="centered"><persName ref="#pers-246">G
+                        <surname>Seyrès</surname></persName></signed>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0184_04_ab"/>
+                <p rend="left"><choice><sic>a</sic><corr>À</corr></choice> ouvrir <lb/><hi
+                                rend="underlined">en cas de décès</hi><choice><sic></sic><corr>.</corr></choice></p>
+                <p><address><addrLine rend="centered">Madame <persName>Alice Seyrès</persName></addrLine><addrLine rend="centered">23
+                    <choice><sic>Rue</sic><corr>rue</corr></choice> Meslay</addrLine><addrLine rend="right">Paris</addrLine></address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

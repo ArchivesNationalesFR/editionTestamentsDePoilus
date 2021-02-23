@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0212">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de André Adolphe Louis Leemans (29 janvier 1915)] :
+                    édition électronique</title>
+                <author><persName ref="#pers-274">André Adolphe Louis Leemans
+                    (1885-1915)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#CNougaret">Christine Nougaret</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0212</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0212_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LXXVI/1275, minute du 19 octobre 1915 (dépôt du testament de
+                            André Adolphe Louis Leemans)</idno>
+                        <msName>Testament de André Adolphe Louis Leemans (29 janvier 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1915-01-29">29 janvier 1915</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-274"><forename>André</forename> <forename>Adolphe</forename> <forename>Louis</forename> <surname>Leemans</surname></persName>, mort pour la France le <date when="1915-09-25">25 septembre 1915</date> à
+              <placeName ref="#pl-37">Auberive (Marne)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à lettre (testament). </support>
+                                <extent>2 pages. Dimensions du testament : <dimensions
+                                        type="willPage" unit="cm">
+                                        <height>16,9</height>
+                                        <width>12,3</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre mauve.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010203"
+                                >étude notariale 076 (CRPCEN : 75005)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0212_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LXXVI/1275, minute du 19 octobre 1915 (dépôt du testament de
+                            André Adolphe Louis Leemans)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-01-29">29 janvier 1915</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>29 janvier 1915. Paris.</p>
+                <p>testament olographe de André Adolphe Louis Leemans, mort pour la France le 25
+                    septembre 1915 à Auberive (Marne).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-09-10/2020-06-15" who="#MFGarreau #SL. #lelia #GBMireille"
+                >transcription</change>
+            <change when-iso="2018-09-10/2018-10-22" who="#PCharbonnier #FClavaud"
+                >validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0212___JPEG___FRAN_Poilus_t-0212_01.jpg"
+                xml:id="FRAN_Poilus_t-0212_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0212___JPEG___FRAN_Poilus_t-0212_02.jpg"
+                xml:id="FRAN_Poilus_t-0212_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0212">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0212_01"/>
+                <dateline><placeName type="willPlace" ref="#pl-2">Paris</placeName>, <date
+                        type="willDate" when="1915-01-29">le <choice><sic>vingt neuf
+                                Janvier</sic><corr>vingt-neuf
+                                janvier</corr></choice> mil
+                        neuf cent quinze</date>.</dateline>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <head rend="centered">Ceci est mon testament : </head>
+                <p>Je désire que ma fortune revienne en pleine <choice><sic>proprié-<lb/>té</sic><corr>proprié<lb break="no"></lb>té</corr></choice> à mon père et à ma mère, chacun
+                    pour moitié, <lb/>et en cas de prédécès de l’un d’eux, en totalité au
+                    <lb/>survivant, à charge par eux d’acquitter, s’ils n’y <lb/>voient pas
+                    d’objection, les legs particuliers suivants, <lb/>francs et quittes de toutes
+                    charges : </p>
+                <list>
+                    <item>1<hi rend="superscript-underlined">o</hi> à ma soeur
+                            <persName>Madeleine</persName>, à son
+                                <choice><sic>defaut</sic><corr>défaut</corr></choice> à ses
+                        <lb/>enfants, une somme de trente mille francs.</item>
+                    <item>2<hi rend="superscript-underlined">o</hi> à
+                                Messieurs les
+                        directeurs de la <orgName>Réunion d’Eylau</orgName>, <lb/>une somme de mille
+                        francs, pour les oeuvres de <lb/>l’association.</item>
+                    <item>3<hi rend="superscript-underlined">o</hi> à
+                                Monsieur le
+                                <choice><sic>Curé</sic><corr>curé</corr></choice> de <placeName
+                            type="otherPlace">Suresnes (Seine)</placeName> une <lb/>somme de mille
+                        francs pour ses oeuvres.</item>
+                    <item>4<hi rend="superscript-underlined">o</hi> à
+                                Monsieur le
+                                <choice><sic>Curé</sic><corr>curé</corr></choice> de
+                                    <orgName><choice><sic>Notre Dame de la
+                                    <lb/>Croix</sic><corr>Notre-Dame-de-la-Croix</corr></choice> de
+                            Ménilmontant</orgName>, à <placeName type="otherPlace" ref="#pl-2"
+                            >Paris</placeName>, une somme</item>
+                    <pb facs="#FRAN_Poilus_t-0212_02"/>
+                    <item>de mille francs pour ses oeuvres.</item>
+                    <item>5<hi rend="superscript-underlined">o</hi> à
+                                    <persName>Monsieur et Madame Jouadé</persName>, <choice><sic>demeu-<lb
+                                />rant</sic><corr>demeu<lb break="no"/>rant</corr></choice> à <placeName
+                            type="otherPlace">Puteaux (Seine)</placeName> une somme de <lb/>cinq
+                        cents francs.</item>
+                </list>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <dateline rend="right">Fait à <placeName type="willPlace" ref="#pl-2"
+                        >Paris</placeName>, <date type="willDate" when="1915-01-29"
+                                >le <choice><sic>vingt neuf Janvier</sic><corr>vingt-neuf
+                                janvier</corr></choice> <lb/>mil
+                        neuf cent quinze</date>, en pleine <choice><sic>posses-<lb
+                        />sion</sic><corr>posses<lb break="no"
+                        />sion</corr></choice> de mes
+                            facultés<choice><sic/><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="right"><persName ref="#pers-274"
+                        >A<surname>Leemans</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

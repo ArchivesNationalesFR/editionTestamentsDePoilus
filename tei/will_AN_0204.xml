@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0204">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Armand Joseph (25 septembre 1914)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-266">Armand Joseph (1875-1914)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#CNougaret">Christine Nougaret</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#CNougaret">Christine Nougaret</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0204</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0204_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XLII/1440, minute du 28 janvier 1915 (dépôt du testament de
+                            Armand Joseph)</idno>
+                        <msName>Testament de Armand Joseph (25 septembre 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-09-25">25 septembre 1914</date>. <placeName type="willPlace" ref="#pl-425">Ménestreau en Villette</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-266"><forename>Armand</forename> <surname>Joseph</surname></persName>, mort pour la France le <date when="1914-11-08" source="#will_AN_0204_min">8
+              novembre 1914 [NOT]</date> ou le <date when="1914-11-09" source="#MDH">9 novembre 1914
+              [MDH]</date>, à <placeName ref="#pl-427" source="#will_AN_0204_min">Roclincourt
+              (Pas-de-Calais) [NOT]</placeName> ou à Écurie (Pas-de-Calais) [MDH].</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>1 page et 1 enveloppe. Dimensions du testament : <dimensions
+                                        type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010169"
+                                >étude notariale 042 (CRPCEN : 75067)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0204_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XLII/1440, minute du 28 janvier 1915 (dépôt du testament de
+                            Armand Joseph)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-09-25">25 septembre 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>25 septembre 1914. Ménestreau en Villette.</p>
+                <p>testament olographe de Armand Joseph, mort pour la France le 8 novembre 1914
+                    [NOT] ou le 9 novembre 1914 [MDH], à Roclincourt (Pas-de-Calais) [NOT] ou à
+                    Écurie (Pas-de-Calais) [MDH].</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-09-10/2019-12-06" who="#MFGarreau #lelia #SL. #GBMireille"
+                >transcription</change>
+            <change when-iso="2018-09-10/2018-09-21" who="#PCharbonnier #CNougaret #FClavaud"
+                >validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0204___JPEG___FRAN_Poilus_t-0204_01.jpg"
+                xml:id="FRAN_Poilus_t-0204_01"/>
+        </surface>
+        <surface type="will-envelope-recto" n="02">
+            <graphic url="testament_AN_0204___JPEG___FRAN_Poilus_t-0204_02.jpg"
+                xml:id="FRAN_Poilus_t-0204_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0204">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0204_01"/>
+                <dateline><date type="willDate" when="1914-09-25"><choice><sic>L’An Mille. Neuf Cent
+                                Quatorze. <lb/>Le Vingt Cinq Septembre</sic><corr>L’an mille neuf
+                                cent quatorze, le vingt-cinq
+                    septembre.</corr></choice></date></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Je <choice><sic>Soussigné</sic><corr>soussigné</corr></choice>
+                    <persName ref="#pers-266"><surname>Joseph</surname> Armand</persName>
+                    <lb/><choice><sic>Garde</sic><corr>garde</corr></choice> chef à <placeName
+                        type="willPlace" ref="#pl-425">Menestreau-en-Villette</placeName>
+                    <lb/><space dim="horizontal" unit="chars" quantity="20"/>Loiret.</p>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <p>Partant pour la
+                            <choice><sic>Guerre</sic><corr>guerre</corr></choice><choice><sic>.</sic><corr/></choice>
+                    et pouvant <lb/>être <choice><sic>tuér.</sic><corr>tué,</corr></choice>
+                    <lb/><space dim="horizontal" unit="chars" quantity="12"
+                            /><choice><sic>Je</sic><corr>je</corr></choice> donne <hi
+                        rend="underlined">à ma femme chérie</hi>
+                    <lb/>libre disposition à se
+                        <choice><sic>remarié</sic><corr>remarier</corr></choice> et tiens
+                            <lb/><choice><sic>a</sic><corr>à</corr></choice> ce que
+                            <choice><sic>tous</sic><corr>tout</corr></choice> ce que nous deux
+                    vivants, <lb/><choice><sic>ont</sic><corr>avons</corr></choice> pu
+                                <choice><sic>amasse<del>z</del></sic><corr>amasser</corr></choice>
+                    par notre labeur, lui <lb/>revienne après ma mort, sans que <lb/>quelques
+                    membres de notre famille ne <lb/>puissent rien
+                            <choice><sic>réclamé</sic><corr>réclamer</corr></choice> et étant le
+                    seul <lb/>héritier des miens <choice><sic>Je</sic><corr>je</corr></choice>
+                    tiendrais qu’après la mort <lb/>de mes
+                            <choice><sic>Parents.</sic><corr>parents</corr></choice> demeurant à
+                        <placeName type="otherPlace">Forges-les<choice><sic
+                            > </sic><corr>-</corr></choice>Bains</placeName>
+                    <lb/><choice><sic>qu elle</sic><corr>qu’elle</corr></choice> rentre dans
+                            <choice><sic>tous</sic><corr>tout</corr></choice> ce que moi vivant
+                            <lb/><choice><sic>aurait</sic><corr>aurais</corr></choice> pu hériter
+                            d’eux<choice><sic/><corr>.</corr></choice></p>
+                <signed rend="centered"><persName ref="#pers-266">A
+                        <surname>Joseph</surname></persName></signed>
+                <postscript>
+                    <p><space dim="horizontal" unit="chars" quantity="10"/><choice><sic>né</sic><corr>Né</corr></choice> <date type="willAuthorBirthDate" when="1875-10-15">le 15 octobre
+                            1875</date><choice><sic>.</sic><corr/></choice> à <placeName
+                            type="willAuthorBirthPlace" ref="#pl-426">Angervilliers</placeName>
+                        <lb/><space dim="horizontal" unit="chars" quantity="10"
+                                /><choice><abbr>S-et-Oise</abbr><expan>Seine-et-Oise</expan></choice><choice><sic></sic><corr>.</corr></choice></p>
+                    <p><space dim="horizontal" unit="chars" quantity="10"/>Femme
+                                née<choice><sic>.</sic><corr/></choice>
+                        <persName>Julie Gosset</persName><choice><sic></sic><corr>.</corr></choice></p>
+                    <p><choice><sic>et</sic><corr>Et</corr></choice> fais des voeux pour que notre
+                        enfant <lb/>qui doit venir au monde<choice><sic>.</sic><corr/></choice>
+                        d’ici quelques <lb/>mois <choice><sic>sois</sic><corr>soit</corr></choice>
+                        heureux toujours et qu’il
+                            <lb/>n’<choice><sic>est</sic><corr>ait</corr></choice> jamais occassion
+                                <choice><sic>a</sic><corr>de</corr></choice> voir une guerre
+                        <lb/>comme celle-ci ni d’autres<choice><sic>,.</sic><corr/></choice> de sa
+                                vie<choice><sic/><corr>.</corr></choice></p>
+                </postscript>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0204_02"/>
+                <dateline rend="right"><date type="willDate" when="1914-09-25"><hi rend="underlined"
+                            >25 <choice><sic>Septembre</sic><corr>septembre</corr></choice>
+                            1914</hi></date>. </dateline>
+                <space dim="vertical" unit="lines" quantity="4"/>
+                <p rend="centered"><choice><sic>A</sic><corr>À</corr></choice> ma
+                            <choice><sic>Femme</sic><corr>femme</corr></choice>
+                    <persName>Julie</persName>
+                    <lb/><space dim="vertical" unit="lines" quantity="1"/>pour sa
+                            <choice><sic>tranquilité a</sic><corr>tranquillité à</corr></choice>
+                    venir <lb/><space dim="vertical" unit="lines" quantity="1"/>et pour notre
+                            <subst><del>fils</del><add>enfant</add></subst> qui doit
+                            <lb/><choice><sic>bientot</sic><corr>bientôt</corr></choice>
+                            naître<choice><sic/><corr>.</corr></choice></p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0295">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de François Jacques Paquelin (04/08/1914)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-347">François Jacques Paquelin
+                    (1879-1914)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#DChristiane">Christiane Demeulenaere-Douyère</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0295</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0295_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVI/1443, minute du 10/09/1919 (dépôt du testament de François
+                            Jacques Paquelin)</idno>
+                        <msName>Testament de François Jacques Paquelin (04/08/1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-04">04/08/1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-347"><forename>François</forename> <forename>Jacques</forename> <surname>Paquelin</surname></persName>, mort pour la France le <date when="1914-11-16">16/11/1914</date> à l’<placeName ref="#pl-395">hôpital de Comines, Belgique</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier quadrillé (testament). </support>
+                                <extent>2 pages. Dimensions du testament : <dimensions
+                                        type="willPage" unit="cm">
+                                        <height>20,9</height>
+                                        <width>12,7</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010183"
+                                >étude notariale 56 (CRPCEN : 75040)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0295_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVI/1443, minute du 10/09/1919 (dépôt du testament de François
+                            Jacques Paquelin)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-04">04/08/1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>04/08/1914. Paris.</p>
+                <p>testament olographe de François Jacques Paquelin, mort pour la France le
+                    16/11/1914 à l’hôpital de Comines, Belgique.</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-02-12/2020-06-10" who="#MFGarreau #GBMireille #lelia"
+                >transcription</change>
+            <change when-iso="2019-02-12/2019-03-14" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0295___JPEG___FRAN_Poilus_t-0295_01.jpg"
+                xml:id="FRAN_Poilus_t-0295_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0295___JPEG___FRAN_Poilus_t-0295_02.jpg"
+                xml:id="FRAN_Poilus_t-0295_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0295">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0295_01"/>
+                <dateline rend="left"><placeName type="willPlace" ref="#pl-2">Paris</placeName> <date
+                        type="willDate" when="1914-08-04">4 Août 1914</date></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <head rend="centered">Testament<choice><sic>,</sic><corr>.</corr></choice></head>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Si je meurs pendant la campagne, je <lb/>tiens à ce que le dizième de part
+                    <lb/>qui m’a été attribué <orgName><choice><abbr>aux fermiers
+                                réunis</abbr><expan>à la Société de Laiterie des Fermiers
+                                Réunis</expan></choice></orgName> <lb/>reste la propriété de ma mère,
+                    au <lb/>moins selon les conditions stipulées dans <lb/>les statuts de la société
+                            <choice><abbr>&amp;</abbr><expan>et</expan></choice> de telle façon
+                    <lb/>que mon frère Louis puisse s’y créer une <lb/>situation si il en manifeste
+                    le désir ; tout <lb/>ce que je possède deviendra la propriété de <lb/>Maman qui
+                    selon son gré en fera la répartition <lb/>égale, comme valeur, à mes frères
+                            <choice><abbr>&amp;</abbr><expan>et</expan></choice> soeur.</p>
+                <p> <persName><choice><abbr>Mr</abbr><expan>Monsieur</expan></choice>
+                    Binder</persName> m’a <choice><sic>prété</sic><corr>prêté</corr></choice>&#xa0;<choice><sic>Dix</sic><corr>dix</corr></choice> mille francs <lb/>selon
+                    acte (copie<choice><sic>) ci jointe</sic><corr> ci-jointe)</corr></choice>,
+                            <choice><abbr>&amp;</abbr><expan>et</expan></choice> <persName><choice><abbr>Mr</abbr><expan>Monsieur</expan></choice>
+                                Dubois</persName> <lb/><choice><sic>Trois</sic><corr>trois</corr></choice> mille
+                            <choice><abbr>- d
+                                -</abbr><expan>idem</expan></choice><choice><sic>)</sic><corr>.</corr></choice>&#xa0;<choice><sic>s</sic><corr>S</corr></choice>’entendre
+                    avec eux <choice><abbr>pr</abbr><expan>pour</expan></choice> <lb/>le
+                    remboursement. <lb/>Assurance vie : assurance à terme
+                            fixe<choice><sic>-</sic><corr>.</corr></choice> <lb/><hi
+                        rend="underlined">Dix mille francs payables le 25 mars
+                                1929<choice><sic/><corr>.</corr></choice></hi> <lb/>J’ai emprunté
+                                800 <choice><abbr><hi rend="superscript"
+                            >f</hi></abbr><expan>francs</expan></choice> sur ma police, les
+                    <lb/>versements qui seront suspendus pendant <pb facs="#FRAN_Poilus_t-0295_02"/>
+                    la guerre s’élèvent à ce jour à <choice><sic>2.335.<hi rend="superscript"
+                            >f</hi>15</sic><corr>2 335,15 francs</corr></choice> desquels il y a à
+                    déduire les 800 <choice><abbr><hi rend="superscript"
+                            >f</hi></abbr><expan>francs</expan></choice> empruntés.</p>
+                <p>Remis à Maman ce jour <date
+                        when="1914-08-04" type="otherDate">4
+                    <choice><sic>Août</sic><corr>août</corr></choice> 1914<choice><sic/><corr>
+                                :</corr></choice></date></p>
+                <list>
+                    <item>1<hi rend="superscript-underlined">o</hi> Police (avenant) assurance
+                        vie</item>
+                    <item>2<hi rend="superscript-underlined">o</hi> Quittances loyer</item>
+                    <item>3<hi rend="superscript-underlined">o</hi> Titre sans valeur la Coopération</item>
+                    <item>4<hi rend="superscript-underlined">o</hi> (2)
+                                <supplied>titres</supplied> <app><lem>Mines de Riutort</lem><note
+                                resp="#lelia">Mines en Espagne</note></app> ?</item>
+                    <item>5<hi rend="superscript-underlined">o</hi> Titre <choice><abbr>fermiers
+                                réunis</abbr><expan>Société de Laiterie des Fermiers
+                            Réunis</expan></choice>&#xa0;<choice><sic>(25.700 <hi rend="superscript"
+                                    >f</hi>)</sic><corr>25 700 francs</corr></choice> <lb/>au <date
+                            when="1914-08-01" type="otherDate">1<hi rend="superscript-underlined"
+                                >er</hi> <choice><sic>Août</sic><corr>août</corr></choice> 1914</date>,
+                        je dois encore <orgName><choice><abbr>aux F.R</abbr><expan>à la Société de
+                                    Laiterie des Fermiers Réunis</expan></choice></orgName> <lb/>qui
+                        m’ont <choice><sic>prété</sic><corr>prêté</corr></choice> à
+                                6% :
+                                    <choice><sic>14.205<hi rend="superscript"
+                                >f</hi>.85</sic><corr>14 205,85 francs</corr></choice>, faire
+                        <lb/>proroger les délais de remboursement <lb/>en raison de la campagne,
+                        s’adresser pour <lb/>cela
+                                        <choice><sic>a</sic><corr>à</corr></choice> <persName><choice><abbr>M<hi
+                                        rend="superscript-double-underlined"
+                                    >r</hi></abbr><expan>Monsieur</expan></choice>
+                        Binder</persName>.</item>
+                    <item>6<hi rend="superscript-underlined">o</hi> Titres
+                        <choice><sic>crédit</sic><corr>Crédit</corr></choice> foncier</item>
+                    <item>7<hi rend="superscript-underlined">o</hi> Titre
+                        <choice><sic>séquanaise</sic><corr>Séquanaise</corr></choice></item>
+                    <item>8<hi rend="superscript">o</hi> 2
+                        <choice><sic>Extraits</sic><corr>extraits</corr></choice> de l’acte
+                        d’attribution de 1/10 de <unclear reason="quite-illegible"
+                        >part</unclear></item>
+                    <item>9<hi rend="superscript-underlined">o</hi> Jugement <choice><abbr><unclear
+                                    reason="quite-illegible"
+                        >&amp;</unclear></abbr><expan>et</expan></choice>&#xa0;<choice><sic>requète</sic><corr>requête</corr></choice>&#xa0;<choice><sic>Pasquelin</sic><corr>Paquelin</corr></choice>.</item>
+                </list>
+                <p>Ma dernière pensée sera pour tous <lb/>ceux que j’aime, qu’ils prient pour
+                            moi<choice><sic/><corr>.</corr></choice></p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <dateline rend="left"><placeName type="willPlace" ref="#pl-2">Paris</placeName> <date
+                        type="willDate" when="1914-08-04">4
+                    <choice><sic>Août</sic><corr>août</corr></choice> 1914</date><choice><sic></sic><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="left"><persName ref="#pers-347">J
+                        <surname>Paquelin</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

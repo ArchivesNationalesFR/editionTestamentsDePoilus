@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0342">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Henri Jules Demoulin (1er août 1914)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-484">Henri Jules Demoulin
+                    (1884-1915)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#DChristiane">Christiane Demeulenaere-Douyère</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+                    <persName ref="#LBIsabelle">LBIsabelle</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#CNougaret">Christine Nougaret</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0342</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0342_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXVII/1245, minute du 3 mars 1919 (dépôt du testament de Henri
+                            Jules Demoulin)</idno>
+                        <msName>Testament de Henri Jules Demoulin (1er août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-01">1er août 1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-484"><forename>Henri</forename> <forename>Jules</forename> <surname>Demoulin</surname></persName>, mort pour la France le <date when="1915-03-19">19 mars 1915</date> aux <placeName ref="#pl-151">Eparges (Meuse)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à en-tête commercial (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions
+                                        type="willPage" unit="cm">
+                                        <height>27</height>
+                                        <width>21,1</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010154"
+                                >étude notariale 27 (CRPCEN : 75111)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0342_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXVII/1245, minute du 3 mars 1919 (dépôt du testament de Henri
+                            Jules Demoulin)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-01">1er août 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>1er août 1914. Paris.</p>
+                <p>testament olographe de Henri Jules Demoulin, mort pour la France le 19 mars 1915
+                    aux Eparges (Meuse).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2020-03-04/2020-04-08" who="#lelia #GBMireille #LBIsabelle"
+                >transcription</change>
+            <change when-iso="2020-03-04/2020-04-01" who="#PCharbonnier #CNougaret"
+                >validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0342___JPEG___FRAN_Poilus_t-0342_01.jpg"
+                xml:id="FRAN_Poilus_t-0342_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0342">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0342_01"/>
+                <dateline rend="centered"><placeName type="willPlace" ref="#pl-2"
+                                >Paris</placeName>, <date type="willDate" when="1914-08-01"
+                                            >le <choice><abbr>1<hi rend="superscript-underlined"
+                                            >er</hi></abbr><expan>premier</expan></choice>&#xa0;<choice><sic>Aout</sic><corr>août</corr></choice>
+                                1914</date></dateline>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <p>Je <choice><sic>legue</sic><corr>lègue</corr></choice> tout ce que je
+                            <choice><sic>posséde</sic><corr>possède</corr></choice> <lb/>à l’heure
+                    actuelle soit : </p>
+                <list>
+                    <item><choice><abbr>1<hi rend="superscript-double-underlined"
+                                >o</hi></abbr><expan>Premièrement.</expan></choice> Les 3 bordereaux
+                        de valeurs au <orgName>Crédit Lyonnais</orgName><choice><sic/><corr>,</corr></choice> <lb/>ces
+                        valeurs <choice><sic>representent</sic><corr>représentent</corr></choice> une partie de
+                        la dot <lb/>de ma femme.</item>
+                    <item><choice><abbr>2<hi rend="superscript-double-underlined"
+                                >o</hi></abbr><expan>Deuxièmement.</expan></choice> Une somme de
+                        5.000 francs appartenant <lb/>à la dot de ma femme, en compte à la
+                            <lb/><orgName>maison Demoulin</orgName>
+                                <choice><sic>freres</sic><corr>frères</corr></choice>.</item>
+                    <item><choice><abbr>3<hi rend="superscript-underlined"
+                                >o</hi></abbr><expan>Troisièmement.</expan></choice> Une somme de
+                        15.000 francs m<choice><sic> </sic><corr>’</corr></choice>appartenant
+                        <lb/>en propre dans la <orgName>maison Demoulin</orgName> <choice><abbr
+                                type="superscription">f<hi rend="superscript-double-underlined"
+                                    >res</hi></abbr><expan>frères</expan></choice></item>
+                    <item><choice><abbr>4<hi rend="superscript-double-underlined"
+                                >o</hi></abbr><expan>Quatrièmement.</expan></choice> Tout ce que
+                        nous avons de reste, meubles <lb/>tableaux,
+                                bijoux<choice><sic/><corr>,</corr></choice> etc. - en revient tout
+                        <lb/>à ma femme adorée <persName>Jeanne
+                                Cosson</persName><choice><sic/><corr>.</corr></choice></item>
+                </list>
+                <p>J’<choice><sic>espere</sic><corr>espère</corr></choice> que si je viens à
+                    <choice><sic>disparaitre</sic><corr>disparaître</corr></choice>, mon
+                            <choice><sic>frere</sic><corr>frère</corr></choice> et dans <lb/>le cas
+                            <choice><sic>ou</sic><corr>où</corr></choice> ce dernier
+                    <choice><sic>disparaitrait</sic><corr>disparaîtrait</corr></choice>, mon
+                            <choice><sic>pere</sic><corr>père</corr></choice> continuerait la
+                        <lb/><orgName>maison Demoulin</orgName>
+                    <choice><sic>freres</sic><corr>frères</corr></choice>, en n’exigeant pas le
+                    remboursement <choice><sic>immediat</sic><corr>immédiat</corr></choice> <lb/>des
+                    sommes dues, et accepterait la continuation de l’état alors <lb/>existant,
+                    jusqu’au moment, où cette maison pourrait
+                    <choice><sic>etre</sic><corr>être</corr></choice> vendue <lb/>un bon prix.</p>
+                <p rend="centered">La <choice><sic>Dot</sic><corr>dot</corr></choice> de ma femme
+                    <choice><sic>etait</sic><corr>était</corr></choice> de 10.000 francs.</p>
+                <dateline rend="centered">Fait à <placeName type="willPlace" ref="#pl-2"
+                        >Paris</placeName> <date type="willDate" when="1914-08-01"
+                                >le <choice><sic>Premier Aout</sic><corr>premier août</corr></choice>
+                        1914</date><choice><sic></sic><corr>.</corr></choice></dateline>
+                <signed rend="centered"><persName ref="#pers-484"
+                        >J<surname>Demoulin</surname></persName></signed>
+                    <postscript rend="right"><p>43 <choice><abbr>B<hi
+                                rend="superscript-double-underlined"
+                            >evard</hi></abbr><expan>boulevard</expan></choice> Victor<choice><sic></sic><corr>.</corr></choice></p></postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

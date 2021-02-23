@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0304">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Mathurin Albert Le Priou (11/09/1914)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-356">Mathurin Albert Le Priou
+                    (1882-1915)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#RCM">Rosine Cleyet-Michaud</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0304</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0304_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVI/1482, minute du 15/06/1921 (dépôt du testament de Mathurin
+                            Albert Le Priou)</idno>
+                        <msName>Testament de Mathurin Albert Le Priou (11/09/1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-09-11">11/09/1914</date>. <placeName type="willPlace" ref="#pl-80">Le Havre</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-356"><forename>Mathurin</forename> <forename>Albert</forename> <surname>Le
+            Priou</surname></persName>, mort pour la France le <date when="1915-05-01">1er mai 1915</date> au <placeName ref="#pl-540">Lazaret de Paderborn (Westphalie – Allemagne)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions
+                                        type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre mauve.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010183"
+                                >étude notariale 56 (CRPCEN : 75040)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0304_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVI/1482, minute du 15/06/1921 (dépôt du testament de Mathurin
+                            Albert Le Priou)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-09-11">11/09/1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>11/09/1914. Le Havre.</p>
+                <p>testament olographe de Mathurin Albert Le Priou, mort pour la France le 1er mai
+                    1915 au Lazaret de Paderborn (Westphalie – Allemagne).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-02-12/2020-06-15" who="#MFGarreau">transcription</change>
+            <change when-iso="2019-02-12/2019-03-18" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0304___JPEG___FRAN_Poilus_t-0304_01.jpg"
+                xml:id="FRAN_Poilus_t-0304_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0304">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0304_01"/>
+                <dateline><placeName type="willPlace" ref="#pl-80"><choice><sic>Le
+                                Hâvre</sic><corr>Le Havre</corr></choice></placeName>, <date
+                        type="willDate" when="1914-09-11">le 11 septembre
+                            1914</date><choice><sic/><corr>.</corr></choice></dateline>
+                <metamark function="separating" rend="horizontal-line"/>
+                <head>Ceci est mon testament :</head>
+                <p>Je soussigné, <persName ref="#pers-356">Mathurin Albert <lb/><surname>Le
+                            Priou</surname></persName>, sain de corps et <lb/>d’esprit, actuellement
+                    mobilisé, <lb/>demeurant à <placeName type="willAuthorResidence" ref="#pl-2"
+                        >Paris</placeName>, 235 <supplied reason="deleted">rue
+                            du</supplied> <choice><sic>faubourg</sic><corr>Faubourg</corr></choice>
+                    <lb/>Saint-Honoré, VIII<hi rend="superscript">e</hi> <choice><abbr>arr<hi
+                                rend="superscript-double-underlined"
+                            >t</hi></abbr><expan>arrondissement</expan></choice>, <lb/><hi
+                        rend="underlined">donne</hi>, <hi rend="underlined">sans restriction</hi>, à
+                    ma <lb/>femme, née <persName>Héloïse Delamour</persName>, <lb/>la totalité des
+                    biens mobiliers <lb/>et immobiliers que je possède <lb/>ainsi que tous ceux qui
+                    <lb/>pourraient m’échoir <choice><sic>ulté-<lb/>rieurement</sic><corr>ulté<lb break="no"/>rieurement</corr></choice>. Elle conservera la
+                    <lb/>libre disposition de tout mon <lb/>avoir.</p>
+                <p>Fait au <placeName type="willPlace" ref="#pl-80"
+                                ><choice><sic>Hâvre</sic><corr>Havre</corr></choice></placeName> 
+                    <date type="willDate" when="1914-09-11">le onze <choice><sic>sep-<lb/>tembre</sic><corr>sep<lb break="no"/>tembre</corr></choice>
+                                <choice><sic>mil.
+                        </sic><corr>mil-</corr></choice>neuf-cent-quatorze</date><choice><sic/><corr>.</corr></choice></p>
+                <signed rend="centered"><persName ref="#pers-356"
+                        >A.<surname>Lepriou</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

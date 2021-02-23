@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0237">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Pierre Louis Bourote (3 août 1914)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-295">Pierre Louis Bourote
+                    (1881-1914)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#WG">Wilfried Gourdon</persName>
+                    <persName ref="#AM">Aurélie Massie</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#PROMBAUT">PROMBAUT</persName>
+                    <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0237</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0237_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXIII/1627, minute du 13 février 1915 (dépôt du testament de
+                            Pierre Louis Bourote)</idno>
+                        <msName>Testament de Pierre Louis Bourote (3 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-03">3 août 1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-295"><forename>Pierre</forename> <forename>Louis</forename> <surname>Bourote</surname></persName>, mort pour la France le <date when="1914-12-14">14 décembre 1914</date> à <placeName ref="#pl-335">Langemarck (Belgique)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>2 pages. Dimensions du testament : <dimensions
+                                        type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010150"
+                                >étude notariale 023 (CRPCEN : 75027)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0237_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXIII/1627, minute du 13 février 1915 (dépôt du testament de
+                            Pierre Louis Bourote)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-03">3 août 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>3 août 1914. Paris.</p>
+                <p>testament olographe de Pierre Louis Bourote, mort pour la France le 14 décembre
+                    1914 à Langemarck (Belgique).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-09-10/2019-02-08" who="#SL. #MFGarreau #PROMBAUT #GBMireille"
+                >transcription</change>
+            <change when-iso="2018-09-10/2018-10-07" who="#PCharbonnier #FClavaud"
+                >validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0237___JPEG___FRAN_Poilus_t-0237_01.jpg"
+                xml:id="FRAN_Poilus_t-0237_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0237___JPEG___FRAN_Poilus_t-0237_02.jpg"
+                xml:id="FRAN_Poilus_t-0237_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0237">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0237_01"/>
+                <head>Ceci est mon testament</head>
+                <p>Je soussigné <persName ref="#pers-295">Pierre
+                        <surname>Bourote</surname></persName>, <lb/>demeurant à <placeName
+                        type="willAuthorResidence" ref="#pl-2"
+                            >Paris</placeName> <choice><sic>Rue</sic><corr>rue</corr></choice>
+                    Brochant <lb/><choice><abbr>n<hi rend="superscript-underlined"
+                            >o</hi></abbr><expan>numéro</expan></choice> 43.</p>
+                <p>Désireux de donner à <persName>Madame
+                        <lb/>Adeline Jannot</persName> épouse divorcée de
+                                <lb/><persName>Monsieur
+                        Ménard</persName>, ma tendre et <lb/>dévouée compagne depuis plus
+                    de <lb/>huit ans, et demeurant chez <lb/>moi, un gage de ma gratitude <lb/>pour
+                    la profonde affection qu’elle <lb/>m’a toujours témoignée, déclare, <lb/>par le
+                    présent lui donner et <lb/>léguer à titres particuliers</p>
+                <list>
+                    <item>1<hi rend="superscript-underlined">o</hi> Tous effets, meubles ou autres
+                        <lb/>qui se trouveront chez moi, <lb/>43
+                                <choice><sic>Rue</sic><corr>rue</corr></choice> Brochant, à l’époque
+                        de <lb/>mon décès. Je la prie de remettre <lb/>à ma mère les photographies
+                        <lb/>de mon regretté père et de ma <lb/>bonne
+                                    <persName>grand<choice><sic>’</sic><corr>-</corr></choice>mère
+                            Bourote</persName>, si <lb/>celles-ci n’ont pu m’accompagner <lb/>en
+                        terre.</item>
+                    <item>2<hi rend="superscript-underlined">o</hi> La toute propriété de la
+                        <lb/>police d’assurance jointe et dont <lb/>détail suit :
+                        <choice><sic>Police</sic><corr>police</corr></choice>
+                        d’<choice><sic>Assurance</sic><corr>assurance</corr></choice> <lb/>capital
+                        différé <choice><abbr>n<hi rend="superscript-underlined"
+                                >o</hi></abbr><expan>numéro</expan></choice> 217.068 souscrite
+                        <lb/>par <persName>Madame Adeline
+                            Jannot</persName> <date type="otherDate">le <lb/>19
+                                    <choice><sic>Novembre</sic><corr>novembre</corr></choice> 1903</date>
+                        et lui assurant <lb/>une somme de vingt mille francs<choice><sic></sic><corr>,</corr></choice>
+                    <pb facs="#FRAN_Poilus_t-0237_02"/>
+                    <choice><sic>Police</sic><corr>police</corr></choice> réduite à la somme de
+                            <choice><sic>Cinq</sic><corr>cinq</corr></choice> mille <lb/>sept cent
+                        quatorze francs suivant <lb/>avenant en date du douze <choice><abbr>Nov<hi
+                                    rend="superscript"
+                            >bre</hi></abbr><expan>novembre</expan></choice> <lb/>mil
+                        neuf cent dix et rachetée <lb/>par moi <date type="otherDate">le quatorze
+                                    <choice><sic>Novembre</sic><corr>novembre</corr></choice> <lb/>mil
+                            neuf cent dix</date> suivant avenant.</item>
+                </list>
+                <dateline>Fait à <placeName
+                        type="willPlace" ref="#pl-2">Paris</placeName> <date type="willDate"
+                        when="1914-08-03">le <choice><sic>Trois Août</sic><corr>trois août</corr></choice> mil <lb/>neuf cent
+                                quatorze<choice><sic/><corr>.</corr></choice></date></dateline>
+                <signed rend="centered"><persName ref="#pers-295"
+                        ><surname>Bourote</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

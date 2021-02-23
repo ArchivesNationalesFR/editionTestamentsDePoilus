@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0258">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Pierre Etienne Henri Goujon (1er août 1914)] :
+                    édition électronique</title>
+                <author><persName ref="#pers-315">Pierre Etienne Henri Goujon
+                    (1875-1914)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#DChristiane">Christiane Demeulenaere-Douyère</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0258</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0258_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVI/1384, minute du 23/09/1914 (dépôt du testament de Pierre
+                            Etienne Henri Goujon)</idno>
+                        <msName>Testament de Pierre Etienne Henri Goujon (1er août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-01">1er août 1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-315"><forename>Pierre</forename> <forename>Etienne</forename> <forename>Henri</forename> <surname>Goujon</surname></persName>, mort pour la France le <date when="1914-08-25">25/08/1914</date> à <placeName ref="#pl-487">Méhoncourt (Meurthe et Moselle)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à en-tête de la Chambre des députés (testament). </support>
+                                <extent>2 pages et 1 enveloppe. Dimensions du testament :
+                                        <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>19,1</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010183"
+                                >étude notariale 56 (CRPCEN : 75040)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0258_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVI/1384, minute du 23/09/1914 (dépôt du testament de Pierre
+                            Etienne Henri Goujon)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-01">1er août 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>1er août 1914. Paris.</p>
+                <p>testament olographe de Pierre Etienne Henri Goujon, mort pour la France le
+                    25/08/1914 à Méhoncourt (Meurthe et Moselle).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-02-12/2020-06-17" who="#MFGarreau #lelia #SL. #GBMireille"
+                >transcription</change>
+            <change when-iso="2019-02-12/2020-06-15" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0258___JPEG___FRAN_Poilus_t-0258_01ab.jpg"
+                xml:id="FRAN_Poilus_t-0258_01ab"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0258___JPEG___FRAN_Poilus_t-0258_02ab.jpg"
+                xml:id="FRAN_Poilus_t-0258_02ab"/>
+        </surface>
+        <surface type="will-envelope-recto" n="03">
+            <graphic url="testament_AN_0258___JPEG___FRAN_Poilus_t-0258_03.jpg"
+                xml:id="FRAN_Poilus_t-0258_03"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0258">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0258_01ab"/>
+                <dateline rend="right"><placeName type="willPlace" ref="#pl-2"
+                                >Paris</placeName>, <date type="willDate" when="1914-08-01">le
+                                premier août
+                            1914</date><choice><sic/><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Je lègue ma fortune pour moitié à ma <lb/>chère femme et à mon cher frère
+                    Etienne. <lb/>Si mon frère meurt au cours de la guerre, <lb/>ma femme héritera
+                    de la totalité de ma <lb/>fortune. Elle sera libre de choisir le jour <lb/>où,
+                    en mon nom, elle dotera les oeuvres
+                                <choice><sic>hos-<lb/>pitalières</sic><corr>hos<lb break="no"
+                            />pitalières</corr></choice> de <placeName type="otherPlace"
+                        ref="#pl-211">Bourg</placeName>, et particulièrement <lb/>l’hôpital
+                    d’enfants dont la création <lb/>est projetée. Elle décidera également les
+                    <lb/>moyens de me rappeler au souvenir de <lb/>ma chère soeur et de mes neveux
+                    et nièce.</p>
+                <p>Mon voeu est qu’en souvenir <lb/>de mon père, ma femme lègue <add place="above"
+                            >1<hi rend="superscript-underlined">o</hi>/</add> au <orgName>musée
+                        <lb/>du Louvre</orgName>
+                    La Ravaudeuse de <persName>Ribot</persName>
+                    <lb/>et mes deux aquarelles de <persName>Barye</persName>, <choice><sic>/</sic><corr></corr></choice>2<hi
+                        rend="superscript-underlined">o</hi><choice><sic></sic><corr>/</corr></choice> en <pb facs="#FRAN_Poilus_t-0258_02ab"
+                    />mon nom, au <orgName>musée du Luxembourg</orgName>, <lb/>la femme vue de dos
+                    de <persName>Toulouse<choice><sic
+                        > </sic><corr>-</corr></choice>Lautrec</persName>
+                    <lb/>et la guinguette de <persName>Van Gogh</persName>.</p>
+                <metamark function="separating" rend="horizontal-line"/>
+                <p>Je lègue à mon cher ami <persName>Dorvile</persName> mes <lb/><space
+                        dim="horizontal" unit="chars" quantity="6"/>oeuvres de <persName>Constantin
+                        Guys</persName> et mes toiles.</p>
+                <metamark function="separating" rend="horizontal-line"/>
+                <p>Je lègue </p>
+                <list>
+                    <item>deux mille francs à <persName>Joseph Rique</persName>, mon <lb/><space
+                            dim="horizontal" unit="chars" quantity="12"/>valet de
+                                chambre<choice><sic/><corr>,</corr></choice></item>
+                    <item>mille francs à <persName>Victor Cuvilly</persName> mon <lb/><space
+                            dim="horizontal" unit="chars" quantity="18"
+                                />mécanicien<choice><sic/><corr>,</corr></choice></item>
+                    <item>cinq mille francs aux filles de mon <lb/><space dim="horizontal"
+                            unit="chars" quantity="20"/>ami
+                            André<choice><sic/><corr>,</corr></choice></item>
+                    <item>deux mille francs à <persName>Madame Léauté</persName>
+                        <lb/><space dim="horizontal" unit="chars" quantity="12"
+                                />10<choice><sic>.</sic><corr/></choice> place du Quinconce à
+                            <placeName type="otherPlace" ref="#pl-211"
+                                >Bourg</placeName><choice><sic/><corr>,</corr></choice></item>
+                </list>
+                <p>ces différents legs payables <date type="otherDate" when="1915-08-31">le 31
+                                <choice><sic>Août</sic><corr>août</corr></choice>
+                        <subst><del>1875</del><add place="below"
+                            >1915</add></subst></date><choice><sic/><corr>.</corr></choice>
+                    <lb/><add place="marginLeft" type="testatorComment">1 mot
+                                effacé<choice><sic/><corr>.</corr></choice>
+                        <lb/><choice><sic>je</sic><corr>Je</corr></choice>
+                                dis<choice><sic>.</sic><corr> : </corr></choice> 31 Août
+                                1915<choice><sic/><corr>.</corr></choice><seg type="signature"
+                                ><persName ref="#pers-315">Pierre Goujon</persName></seg></add></p>
+                <signed rend="centered"><persName ref="#pers-315">Pierre
+                        <surname>Goujon</surname></persName></signed>
+                <dateline rend="right"><date type="willDate" when="1914-08-01">1 août
+                                191<subst><del>5</del><add>4</add></subst></date><choice><sic/><corr>.</corr></choice></dateline>
+                <postscript>
+                    <p>Je lègue dix mille francs nets à la <orgName>commune de <lb/><placeName
+                                type="otherPlace">Neuville<choice><sic> sur
+                                    </sic><corr>-sur-</corr></choice>Ain</placeName></orgName>,
+                                <choice><sic>- </sic><corr/></choice>legs délivrable <date
+                            type="otherDate" when="1915-08-31">le 31
+                                    <lb/><choice><sic>Aout</sic><corr>août</corr></choice>
+                            <subst><del>1875</del><add>1915</add></subst></date>, <choice><sic>-
+                            </sic><corr/></choice>et comme les legs ci-dessus <lb/>net de toutes
+                        charges.</p>
+                    <signed rend="centered"><persName ref="#pers-315">Pierre
+                                <surname>Goujon</surname></persName></signed>
+                </postscript>
+                <dateline rend="right"><date type="willDate" when="1914-08-02">2 août
+                                191<subst><del>5</del><add>4</add></subst></date></dateline>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0258_03"/>
+                <p rend="centered">Ceci est mon testament<choice><sic/><corr>.</corr></choice></p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="centered"><persName ref="#pers-315">Pierre
+                        <surname>Goujon</surname></persName></signed>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <dateline rend="centered"><choice><sic>fait</sic><corr>Fait</corr></choice> à
+                        <placeName type="willPlace" ref="#pl-2">Paris</placeName>
+                    <date when="1914-08-01" type="willDate">le premier
+                                <choice><sic>Aout</sic><corr>août</corr></choice>
+                        <lb/>mil neuf cent
+                    quatorze</date><choice><sic/><corr>.</corr></choice></dateline>
+            </div>
+        </body>
+    </text>
+</TEI>

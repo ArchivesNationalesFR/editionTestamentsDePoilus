@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0197">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Victor Gaston Mulot (03/08/1914)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-258">Victor Gaston Mulot
+                    (1879-1916)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#CNougaret">Christine Nougaret</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0197</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0197_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXXI/1560, minute du 29/03/1917 (dépôt du testament de Victor
+                            Gaston Mulot)</idno>
+                        <msName>Testament de Victor Gaston Mulot (03/08/1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-03">03/08/1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-258"><forename>Victor</forename> <forename>Gaston</forename> <surname>Mulot</surname></persName>, mort pour la France le <date when="1916-11-21">21/11/1916</date> à <placeName ref="#pl-65">Cote 304</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions
+                                        type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010158"
+                                >étude notariale 31 (CRPCEN : 75078)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0197_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXXI/1560, minute du 29/03/1917 (dépôt du testament de Victor
+                            Gaston Mulot)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-03">03/08/1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>03/08/1914. Paris.</p>
+                <p>testament olographe de Victor Gaston Mulot, mort pour la France le 21/11/1916 à
+                    Cote 304.</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-07-19/2019-01-21" who="#SL. #MFGarreau #lelia"
+                >transcription</change>
+            <change when-iso="2018-07-19/2018-10-01" who="#PCharbonnier #FClavaud"
+                >validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0197___JPEG___FRAN_Poilus_t-0197_01_ab.jpg"
+                xml:id="FRAN_Poilus_t-0197_01_ab"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0197">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0197_01_ab"/>
+                <dateline rend="right"><placeName type="willPlace" ref="#pl-2"
+                        >Paris</placeName> <date type="willDate" when="1914-08-03"
+                                ><choice><sic>Lundi</sic><corr>lundi</corr></choice> 3
+                                <choice><sic>Août</sic><corr>août</corr></choice>
+                    1914</date></dateline>
+                <space dim="vertical" unit="lines" quantity="4"/>
+                <p><choice><sic>A</sic><corr>À</corr></choice> <persName><choice><sic>Maitre Vintain</sic><corr>Maître
+                            Vingtain</corr></choice></persName> notaire <lb/>26
+                            <choice><sic>Avenue</sic><corr>avenue</corr></choice> de la Grande
+                    Armée <lb/>à <placeName type="otherPlace" ref="#pl-2">Paris</placeName><choice><sic></sic><corr>.</corr></choice></p>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <p>Monsieur, <lb/><choice><sic>Ceci</sic><corr>ceci</corr></choice> est mon
+                    testament. Partant <lb/>pour la
+                        guerre<choice><sic>.</sic><corr>,</corr></choice>&#xa0;<choice><sic>En</sic><corr>en</corr></choice>
+                    cas de décès<choice><sic>.</sic><corr>,</corr></choice> <lb/><persName
+                        ref="#pers-258">Monsieur Gaston
+                        Victor <surname>Mulot</surname></persName> <lb/> né <date when="1879-06-20"
+                        type="willAuthorBirthDate">le 20 Juin
+                            1879</date> <choice><sic>a</sic><corr>à</corr></choice> <placeName
+                        type="willAuthorBirthPlace" ref="#pl-2">Paris</placeName> trois <lb/>rue
+                            Chabanais<choice><sic>.</sic><corr>,
+                            </corr></choice> <lb/><choice><sic>Etant</sic><corr>étant</corr></choice>
+                    sain de corps et
+                            d’esprit<choice><sic>.</sic><corr>,</corr></choice> <lb/><choice><sic>Donne</sic><corr>donne</corr></choice>
+                    ou fait <supplied resp="#PCharbonnier" reason="deleted">don</supplied> à <persName>Mademoiselle <lb/>Gabrielle Jeanne Lafalise</persName> <add place="below">née <date
+                            type="otherDate" when="1885-08-26">le 26
+                                    <choice><sic>Août</sic><corr>août</corr></choice>
+                        1885</date></add><add place="marginLeft" type="testatorComment">Née <date type="otherDate"
+                            when="1885-08-26">le 26
+                                <choice><sic>Août</sic><corr>août</corr></choice><supplied
+                                unit="chars" reason="hidden" quantity="3">1885</supplied></date><lb/><seg
+                            type="signature"><persName ref="#pers-258">G.M.</persName></seg></add>, sa <lb/>légataire
+                    universelle, des biens qu’il <lb/>possède au Plant <placeName type="otherPlace"
+                        ref="#pl-134">Champigny<choice><sic/><corr>,</corr></choice>
+                        Seine</placeName><choice><sic/><corr>,</corr></choice> <lb/> pavillons et
+                    terrain<choice><sic></sic><corr>,</corr></choice> 2 <choice><sic>Avenue</sic><corr>avenue</corr></choice>
+                            des <lb/><choice><sic>Tilleuils</sic><corr>Tilleuls</corr></choice> et
+                    mon fonds de blanchisseur<choice><sic/><corr>,</corr></choice> <lb/>
+                            meubles<choice><sic/><corr>,</corr></choice>
+                            bijoux<choice><sic/><corr>,</corr></choice>
+                            etc<choice><sic/><corr>.</corr></choice></p>
+                <dateline><space dim="horizontal" unit="chars" quantity="14"/>Fait en double à
+                        <placeName type="willPlace" ref="#pl-2">Paris</placeName> <date
+                            type="willDate" when="1914-08-03">le <lb/>3
+                            <choice><sic>Août</sic><corr>août</corr></choice> 1914</date><choice><sic></sic><corr>.</corr></choice></dateline>
+                <signed><space dim="horizontal" unit="chars" quantity="14"/>Je soussigné <persName
+                        ref="#pers-258">Gaston <lb/>Victor <surname>Mulot</surname></persName></signed>
+                    <postscript rend="right"><p>225 et 212
+                            <choice><sic>Rue</sic><corr>rue</corr></choice> Lafayette <lb/><space
+                        dim="horizontal" unit="chars" quantity="23"/><placeName type="willPlace"
+                        ref="#pl-2">Paris</placeName><choice><sic></sic><corr>.</corr></choice></p></postscript>
+                <dateline>Fait en double à <placeName type="willPlace" ref="#pl-2"
+                    >Paris</placeName> <lb/><date type="willDate" when="1914-08-03">le 3
+                                <choice><sic>Août</sic><corr>août</corr></choice>
+                    1914</date><choice><sic></sic><corr>.</corr></choice></dateline>
+                <signed rend="centered"><persName ref="#pers-258">G.
+                        <surname>Mulot</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

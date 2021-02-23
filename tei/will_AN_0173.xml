@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0173">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Antoine Marius Tarral (18/12/1914)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-235">Antoine Marius Tarral
+                    (1881-1916)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#CNougaret">Christine Nougaret</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0173</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0173_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XVIII/1901, minute du 24/11/1916 (dépôt du testament de Antoine
+                            Marius Tarral)</idno>
+                        <msName>Testament de Antoine Marius Tarral (18/12/1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-12-18">18/12/1914</date>. <placeName type="willPlace" ref="#pl-383">Villegailhenc</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-235"><forename>Antoine</forename> <forename>Marius</forename> <surname>Tarral</surname></persName>, mort pour la France le <date when="1916-09-07">07/09/1916</date> à <placeName ref="#pl-18">Verdun (Meuse)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier quadrillé (testament). Enveloppe (enveloppe). </support>
+                                <extent>2 pages. Dimensions du testament : <dimensions
+                                        type="willPage" unit="cm">
+                                        <height>27</height>
+                                        <width>21,4</width>
+                                    </dimensions>. Dimensions de l’enveloppe : <dimensions
+                                        type="willEnvelope" unit="cm">
+                                        <height>11,3</height>
+                                        <width>14,5</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Enveloppe : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010145"
+                                >étude notariale 18 (CRPCEN : 75026)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0173_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XVIII/1901, minute du 24/11/1916 (dépôt du testament de Antoine
+                            Marius Tarral)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-12-18">18/12/1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>18/12/1914. Villegailhenc.</p>
+                <p>testament olographe de Antoine Marius Tarral, mort pour la France le 07/09/1916 à
+                    Verdun (Meuse).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-07-19/2018-10-17" who="#SL. #MFGarreau #lelia"
+                >transcription</change>
+            <change when-iso="2018-07-19/2018-09-18" who="#PCharbonnier #FClavaud"
+                >validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0173___JPEG___FRAN_Poilus_t-0173_01.jpg"
+                xml:id="FRAN_Poilus_t-0173_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0173___JPEG___FRAN_Poilus_t-0173_02.jpg"
+                xml:id="FRAN_Poilus_t-0173_02"/>
+        </surface>
+        <surface type="will-envelope-recto" n="03">
+            <graphic url="testament_AN_0173___JPEG___FRAN_Poilus_t-0173_03_ab.jpg"
+                xml:id="FRAN_Poilus_t-0173_03_ab"/>
+        </surface>
+        <surface type="will-envelope-verso" n="04">
+            <graphic url="testament_AN_0173___JPEG___FRAN_Poilus_t-0173_04.jpg"
+                xml:id="FRAN_Poilus_t-0173_04"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0173">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0173_01"/>
+                <dateline rend="right"><placeName type="willPlace" ref="#pl-383"
+                        >Villegailhenc</placeName><date type="willDate" when="1914-12-18"
+                                ><choice><sic>Le</sic><corr>, le</corr></choice> 18
+                            <choice><sic>Décembre</sic><corr>décembre</corr></choice>
+                    1914</date></dateline>
+                <metamark function="separating" rend="horizontal-line"/>
+                <head rend="centered">Ceci est mon <choice><sic>Testament</sic><corr>testament</corr></choice></head>
+                <p>J’institue pour ma légataire universelle <persName>Lucie Rosalie
+                            <surname>Gaillard</surname></persName> <lb/>mon épouse<choice><sic> ;</sic><corr>,</corr></choice> demeurant avec moi en
+                    conséquence. Je lui lègue <lb/>l’universalité des biens meubles et immeubles qui
+                            compose<subst><del>nt</del><add>ront</add></subst> <lb/>ma succession au
+                    jour de mon décès<choice><sic></sic><corr>,</corr></choice> <choice><sic>reserve</sic><corr>réserve</corr></choice> pour
+                    en jouir <lb/>et disposer en pleine propriété à partir du jour de mon
+                            décès<choice><sic/><corr>.</corr></choice></p>
+                <p>En cas d’existence d’<choice><sic>Enfants</sic><corr>enfants</corr></choice> et
+                    pour ce cas
+                            seulement<choice><sic>.</sic><corr>,</corr></choice> <lb/><choice><sic>Je</sic><corr>je</corr></choice>
+                    lègue à mon épouse l’usufruit de tous les biens meubles <lb/>et immeubles qui
+                            <choice><sic>compeseront</sic><corr>composeront</corr></choice> ma
+                    succession au jour de mon <lb/>décès sans aucune exception ni réserve ; pour
+                    jouir de <lb/>l’usufruit à elle légué<choice><sic/><corr>,</corr></choice> mon
+                    épouse sera dispensée de fournir <lb/>caution et de faire emploi des valeurs
+                    mobilières et de faire état <lb/>des immeubles.</p>
+                <p>Encore pour le cas d’existence
+                        d’<choice><sic>Enfants</sic><corr>enfants</corr></choice> et pour le cas
+                    où <lb/>la réduction du legs en usufruit que je viens de faire à
+                            mon <lb/><choice><sic>Epouse</sic><corr>épouse</corr></choice> viendrait
+                    à être demandée par mes <choice><sic>Enfants</sic><corr>enfants</corr></choice>
+                    ou en leur <lb/>nom et pour ce cas seulement<choice><sic>. Je</sic><corr>,
+                            je</corr></choice> lègue à mon
+                            <choice><sic>Epouse</sic><corr>épouse</corr></choice> la plus <lb/>forte
+                    quotité disponible entre <choice><sic>Epoux</sic><corr>époux,</corr></choice>
+                    tant en pleine propriété <lb/>qu’en usufruit
+                            <choice><sic>que</sic><corr>dont</corr></choice> la loi me permet de
+                    disposer en faveur <lb/>de mon
+                        <choice><sic>Epouse</sic><corr>épouse</corr></choice> qui sera en outre
+                            dispensée<choice><sic/><corr>,</corr></choice> pour jouir de son <lb/>
+                            usufruit<choice><sic/><corr>,</corr></choice> de fournir caution et de
+                    faire emploi des valeurs <lb/>mobilières et de faire état pour les
+                    immeubles.</p>
+                <p>Encore pour le cas de demande de réduction du legs en <lb/>usufruit
+                            <choice><sic>ci
+                            dessus.</sic><corr>ci-dessus,</corr></choice>&#xa0;<choice><sic>J</sic><corr>j</corr></choice>’entends
+                    que mon <choice><sic>Epouse</sic><corr>épouse</corr></choice> ait le droit (et
+                    je <lb/>lui fais à cet effet tout legs
+                            <choice><sic>necessaires</sic><corr>nécessaire</corr></choice>) de faire
+                    porter ses droits en <lb/>pleine propriété et usufruit dans ma succession sur
+                    tels des biens <lb/>meubles et immeubles
+                        dépendant<choice><sic/><corr>,</corr></choice> soit de la communauté
+                    d’entre <lb/>nous<choice><sic/><corr>,</corr></choice> soit de ma succession
+                            qu<add place="above">'</add>il lui plaira
+                            <supplied reason="deleted">de</supplied> choisir d’après <pb
+                        facs="#FRAN_Poilus_t-0173_02"/>la prisée qui en aura été faite dans un
+                    inventaire ou d’après <lb/>expertise amiable ou judiciaire.</p>
+                <p>Je révoque mes testaments antérieurs.</p>
+                <dateline>Fait et écrit de ma main à <placeName type="willPlace" ref="#pl-383"
+                        >Villegailhenc</placeName> <date type="willDate" when="1914-12-18">le <choice><sic>dix
+                                huit</sic><corr>dix-huit</corr></choice> <lb/><choice><sic>Décembre</sic><corr>décembre</corr></choice>
+                        mil neuf cent quatorze</date><choice><sic></sic><corr>.</corr></choice></dateline>
+                <signed rend="centered"><persName ref="#pers-235">Marius
+                        <surname>Tarral</surname></persName></signed>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0173_03_ab"/>
+                <p rend="right"><choice><sic>A</sic><corr>À</corr></choice> <persName>Madame Marius
+                    <surname>Tarral</surname></persName> <lb/>34
+                    <choice><sic>Rue</sic><corr>rue</corr></choice> Bergère<choice><sic><surplus> 34</surplus></sic><corr></corr></choice> <placeName
+                        type="otherPlace" ref="#pl-2"><supplied reason="hidden">Paris</supplied></placeName><choice><sic></sic><corr>.</corr></choice></p>
+                <p rend="centered">Testament de <persName ref="#pers-235">Monsieur M.
+                            <surname>Tarral</surname></persName> <lb/>34
+                    <choice><sic>Rue</sic><corr>rue</corr></choice> Bergère<choice><sic><surplus> 34</surplus></sic><corr></corr></choice> - <placeName
+                        type="willAuthorResidence" ref="#pl-2">Paris</placeName><choice><sic></sic><corr>.</corr></choice></p>
+                <metamark function="separating" rend="horizontal-line"/>
+                <postscript rend="centered">
+                    <p><persName ref="#pers-235"><choice><abbr>M<hi rend="superscript-underlined"
+                                        >r</hi></abbr><expan>Monsieur</expan></choice> Marius
+                                <surname>Tarral</surname></persName> <lb/>Sergent 29<hi
+                            rend="superscript"><unclear reason="quite-illegible">e</unclear></hi>
+                            Compagnie <lb/><orgName ref="#o-167">146<hi rend="superscript-underlined"
+                                    ><choice><sic><unclear>me</unclear></sic><corr>e</corr></choice></hi> <choice><abbr>Rég<hi
+                                        rend="superscript-underlined"
+                                    >t</hi></abbr><expan>régiment</expan></choice>
+                                    d’<choice><sic>Infanterie</sic><corr>infanterie</corr></choice></orgName>. <lb/><placeName
+                            type="otherPlace"><hi rend="underlined">Carcassonne</hi></placeName><choice><sic></sic><corr>.</corr></choice></p>
+                </postscript>
+                <pb facs="#FRAN_Poilus_t-0173_04"/>
+                <signed rend="centered"><persName ref="#pers-235"
+                                >M.<surname>T.</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

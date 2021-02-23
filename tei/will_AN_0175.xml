@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0175">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Mieczyslaw Wladyslan Kohn (24/08/1914)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-237">Mieczyslaw Wladyslan Kohn
+                    (1889-1915)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#CNougaret">Christine Nougaret</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#SL.">EG</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0175</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0175_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XVIII/1904, minute du 24/02/1917 (dépôt du testament de
+                            Mieczyslaw Wladyslan Kohn)</idno>
+                        <msName>Testament de Mieczyslaw Wladyslan Kohn (24/08/1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-24">24/08/1914</date>. <placeName type="willPlace" ref="#pl-360">Clamart</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-237"><forename>Mieczyslaw</forename> <forename>Wladyslan</forename> <surname>Kohn</surname></persName>, mort pour la France le <date when="1915-02-20">20/02/1915</date> aux <placeName ref="#pl-385">tranchées de Frise (Somme)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions
+                                        type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010145"
+                                >étude notariale 18 (CRPCEN : 75026)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0175_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XVIII/1904, minute du 24/02/1917 (dépôt du testament de
+                            Mieczyslaw Wladyslan Kohn)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-24">24/08/1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>24/08/1914. Clamart.</p>
+                <p>testament olographe de Mieczyslaw Wladyslan Kohn, mort pour la France le
+                    20/02/1915 aux tranchées de Frise (Somme).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-07-19/2018-11-20" who="#SL.">transcription</change>
+            <change when-iso="2018-07-19/2018-10-03" who="#PCharbonnier #FClavaud"
+                >validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0175___JPEG___FRAN_Poilus_t-0175_01.jpg"
+                xml:id="FRAN_Poilus_t-0175_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0175">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0175_01"/>
+                <head rend="centered">Ceci est mon testament</head>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>J’institue pour ma légataire <lb/>universelle en toute propriété <lb/>ma femme née
+                        <persName>Charlotte Brun</persName> <lb/>avec qui je me suis marié à la
+                    <lb/>mairie <choice><sic>de</sic><corr>du</corr></choice> cinquième
+                    arrondissement <lb/>de <placeName type="otherPlace" ref="#pl-2"
+                        >Paris</placeName> <date type="otherDate" when="1911-08-19">le
+                            <choice><sic>dix neuf</sic><corr>dix-neuf</corr></choice> août 1911</date>.</p>
+                <p>En cas d’existence à mon
+                    <choice><sic>dècès</sic><corr>décès</corr></choice> <lb/>d’héritiers à réserve,
+                    le legs <lb/>universel ci-dessus sera
+                            <choice><sic>reduit</sic><corr>réduit</corr></choice> <lb/>à la plus
+                    forte quotité permise <lb/>par la loi, tant en pleine <choice><sic>pro-<lb/>priété</sic><corr>pro<lb break="no"/>priété</corr></choice>
+                    qu’en usufruit et avec <lb/>dispense de caution et d’emploi <lb/>pour
+                    l’usufruit.</p>
+                <p>Les dispositions <choice><sic>ci dessus</sic><corr>ci-dessus</corr></choice> seront
+                    <lb/>applicables aux biens que je <lb/>posséderai tant en France qu’à
+                            <lb/>l’<choice><sic>etranger</sic><corr>étranger</corr></choice>.</p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <dateline rend="centered"><placeName type="willPlace" ref="#pl-360">Clamart
+                        (Seine)</placeName>, 1, rue des Etangs <lb/><space dim="vertical"
+                        unit="lines" quantity="1"/><date type="willDate" when="1914-08-24">le
+                            <choice><sic>vingt quatre</sic><corr>vingt-quatre</corr></choice> août
+                    1914</date><choice><sic></sic><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="centered"><persName ref="#pers-237">Mieczyslaw
+                        <surname>Kohn</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

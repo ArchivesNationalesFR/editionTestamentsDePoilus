@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0200">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la
+          Grande Guerre</title>
+        <title type="main">[Testament de Raymond Jean Louis Tauzin (02/08/1914)] : édition
+          électronique</title>
+        <author><persName ref="#pers-261">Raymond Jean Louis Tauzin (1883-1915)</persName></author>
+        <editor ref="#CNougaret">Christine Nougaret</editor>
+        <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+        <editor ref="#FClavaud">Florence Clavaud</editor>
+        <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Première édition électronique, fondée sur un travail de transcription
+          collaborative</edition>
+        <respStmt>
+          <resp>Numérisation</resp>
+          <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique.
+            Département de la Conservation. Atelier photographique</orgName>
+        </respStmt>
+        <respStmt>
+          <resp>Identification et description du testament</resp>
+          <persName ref="#CNougaret">Christine Nougaret</persName>
+          <persName ref="#LVieillon">Lucie Vieillon</persName>
+          <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Transcription</resp>
+          <persName ref="#lelia">Lélia Picabia</persName>
+          <persName ref="#MFGarreau">MFGarreau</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Validation</resp>
+          <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+          <persName ref="#FClavaud">Florence Clavaud</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+          <persName ref="#FClavaud">Florence Clavaud</persName>
+          <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+        <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+        <publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher>
+        <publisher><orgName>École nationale des chartes</orgName></publisher>
+        <publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher>
+        <date when="2021">2021</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence>
+        </availability>
+        <idno>TestamentsDePoilus_will_AN_0200</idno>
+        <!--ultérieurement ajouter idno fourni par Nakala-->
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="will_AN_0200_tes">
+          <msIdentifier>
+            <country>France</country>
+            <institution>Archives nationales</institution>
+            <collection>Minutier central des notaires de Paris</collection>
+            <idno>MC/ET/XXXI/1569, minute du 14/01/1919 (dépôt du testament de Raymond Jean Louis
+              Tauzin)</idno>
+            <msName>Testament de Raymond Jean Louis Tauzin (02/08/1914)</msName>
+          </msIdentifier>
+          <msContents>
+            <summary><p><date type="willDate" when="1914-08-02">02/08/1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-261"><forename>Raymond</forename> <forename>Jean</forename> <forename>Louis</forename> <surname>Tauzin</surname></persName>, mort pour la France le <date when="1915-03-31" source="#MDH">31 mars 1915
+              [MDH]</date> ou le <date when="1915-03-31" source="#EC">31 mars 1915 [EC]</date> ou le
+              <date when="1918-03-31" source="#will_AN_0200_min">31 mars 1918 [NOT]</date> à
+            Hargicourt (Somme) [MDH] | <placeName ref="#pl-419" source="#will_AN_0200_min">Grivesnes
+              (Somme) [NOT]</placeName>.</p></summary>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>Papier à lettre (testament). </support>
+                <extent>2 pages. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                    <height>21</height>
+                    <width>13,4</width>
+                  </dimensions>.</extent>
+              </supportDesc>
+            </objectDesc>
+            <handDesc>
+              <p>Testament : encre.</p>
+            </handDesc>
+          </physDesc>
+          <history>
+            <provenance><orgName
+                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010158"
+                >étude notariale 31 (CRPCEN : 75078)</orgName></provenance>
+          </history>
+        </msDesc>
+        <msDesc xml:id="will_AN_0200_min">
+          <msIdentifier>
+            <country>France</country>
+            <institution>Archives nationales</institution>
+            <collection>Minutier central des notaires de Paris</collection>
+            <idno>MC/ET/XXXI/1569, minute du 14/01/1919 (dépôt du testament de Raymond Jean Louis
+              Tauzin)</idno>
+            <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+              minute</msName>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation><date type="willDate" when="1914-08-02">02/08/1914</date></creation>
+      <langUsage>
+        <language ident="fr">français</language>
+      </langUsage>
+      <abstract>
+        <p>02/08/1914. Paris.</p>
+        <p>testament olographe de Raymond Jean Louis Tauzin, mort pour la France le 31 mars 1915
+          [MDH] ou le 31 mars 1915 [EC] ou le 31 mars 1918 [NOT] à Hargicourt (Somme) [MDH] |
+          Grivesnes (Somme) [NOT].</p>
+      </abstract>
+      <textClass>
+        <keywords>
+          <term type="subject">Grande Guerre</term>
+          <term type="subject">Poilu</term>
+          <term type="subject">testament</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when-iso="2018-07-19/2018-08-22" who="#lelia #MFGarreau">transcription</change>
+      <change when-iso="2018-07-19/2018-08-21" who="#PCharbonnier #FClavaud">validation</change>
+      <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements et
+        contrôle de qualité finaux</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+    <surface type="will-page" n="01">
+      <graphic url="testament_AN_0200___JPEG___FRAN_Poilus_t-0200_01.jpg"
+        xml:id="FRAN_Poilus_t-0200_01"/>
+    </surface>
+    <surface type="will-page" n="02">
+      <graphic url="testament_AN_0200___JPEG___FRAN_Poilus_t-0200_02_ab.jpg"
+        xml:id="FRAN_Poilus_t-0200_02_ab"/>
+    </surface>
+  </facsimile>
+  <text xml:id="will_AN_0200">
+    <body>
+      <div type="will">
+        <pb facs="#FRAN_Poilus_t-0200_01"/>
+        <dateline><placeName type="willPlace" ref="#pl-2">Paris</placeName> <date type="willDate"
+            when="1914-08-02">le 2 Août 1914</date></dateline>
+        <space dim="vertical" unit="lines" quantity="1"/>
+        <p><choice><sic>A</sic><corr>À</corr></choice> la veille de partir, si Dieu le <lb/>veut, pour une campagne libératrice, <lb/>
+          j’annule toutes mes dispositions <lb/>précédentes et je lègue tous mes biens <lb/>meubles
+          et immeubles en pleine <choice><sic>pro-<lb/>priété</sic><corr>pro<lb break="no"/>priété</corr></choice> à ma mère.</p>
+        <p><choice><sic>A</sic><corr>À</corr></choice> son défaut ces mêmes biens <lb/>seront répartis comme suit :</p>
+        <list>
+          <item>deux huitièmes à <persName>Pierre <surname>Valeton</surname></persName> <lb/>mon
+            cousin ;</item>
+          <item>trois huitièmes à <persName>Martha <surname>Wademant</surname></persName> <lb/>ou à
+            ses enfants ;</item>
+          <item>un huitième et demi à <persName>Charles <lb/><surname>Wademant</surname></persName>,
+            mon cousin, ou à ses <lb/>enfants ;</item>
+          <item>un huitième et demi à <persName>Clara <lb/><surname>Wademant</surname></persName>
+            épouse de <persName>Arthur <surname>Marchal</surname></persName>,</item>
+          <pb facs="#FRAN_Poilus_t-0200_02_ab"/>
+          <item>ma cousine ou à ses enfants.</item>
+        </list>
+        <p><choice><sic>A</sic><corr>À</corr></choice> défaut de <app><lem><del>ces héritiers</del><add place="marginLeft" type="testatorComment">Deux mots nuls <lb/>rayés<lb/><seg type="signature"><persName
+          ref="#pers-261">Tauzin</persName></seg></add></lem><note resp="#PCharbonnier">Mention "Deux mots nuls rayés" ajoutés en marge à la fin du texte et signé "Tauzin".</note></app> l’un de <lb/>ces héritiers sa part serait
+          répartie <lb/>aux autres proportionnellement.</p>
+        <p>Mes bijoux seront distribués à <lb/>mes amis comme souvenir ; <damage unit="chars"
+            agent="other" quantity="1">notamment</damage> <lb/>à :</p>
+        <list>
+          <item><persName>Gilbert</persName> et <persName>Jean Pauthonier</persName></item>
+          <item><persName>Charles</persName> et <persName>Gaston Caulorbe</persName></item>
+          <item><persName>Paul Deramas</persName></item>
+          <item><persName>Louis Rocher</persName></item>
+          <item><persName>Marcel Despax</persName></item>
+          <item><persName>Nico Hymans</persName></item>
+        </list>
+        <p>Je demande à tous ceux-là de <lb/>recommander mon âme à Dieu <lb/>car je serai mort en
+          Chrétien et <lb/>j’ai eu ci-dessus l’unique souci <lb/>de faire oeuvre juste.</p>
+        <dateline>Fait à <placeName type="willPlace" ref="#pl-2">Paris</placeName> <date
+            type="willDate" when="1914-08-02"
+              >le <choice><sic>Dimanche</sic><corr>dimanche</corr></choice> 2
+                <choice><sic>Août</sic><corr>août</corr></choice> <lb/>1914</date><choice><sic></sic><corr>.</corr></choice></dateline>
+        <signed rend="centered"><persName ref="#pers-261">Raymond
+            <surname>Tauzin</surname></persName></signed>
+      </div>
+    </body>
+  </text>
+</TEI>

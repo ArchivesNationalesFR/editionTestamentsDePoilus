@@ -409,6 +409,9 @@
         </application>
       </appInfo>
     </encodingDesc>
+    <revisionDesc>
+      <change when-iso="2021-02-23" who="#FClavaud">ajouté 139 nouveaux éléments xi:include correspondant à autant de fichiers TEI de testaments ajoutés ce jour au corpus public.</change>
+    </revisionDesc>
   </teiHeader>
   <xi:include href="personnes.xml" parse="xml"/>
   <xi:include href="lieux.xml" parse="xml"/>
@@ -682,18 +685,157 @@
   <xi:include href="will_AN_0168.xml" parse="xml"/>
   <xi:include href="will_AN_0169.xml" parse="xml"/>
   <xi:include href="will_AN_0170.xml" parse="xml"/>
+  <xi:include href="will_AN_0173.xml" parse="xml"/>
+  <xi:include href="will_AN_0174.xml" parse="xml"/>
+  <xi:include href="will_AN_0175.xml" parse="xml"/>
+  <xi:include href="will_AN_0177.xml" parse="xml"/>
+  <xi:include href="will_AN_0178.xml" parse="xml"/>
+  <xi:include href="will_AN_0179.xml" parse="xml"/>
+  <xi:include href="will_AN_0180.xml" parse="xml"/>
+  <xi:include href="will_AN_0181.xml" parse="xml"/>
+  <xi:include href="will_AN_0182.xml" parse="xml"/>
+  <xi:include href="will_AN_0183.xml" parse="xml"/>
+  <xi:include href="will_AN_0184.xml" parse="xml"/>
+  <xi:include href="will_AN_0185.xml" parse="xml"/>
+  <xi:include href="will_AN_0186.xml" parse="xml"/>
+  <xi:include href="will_AN_0187.xml" parse="xml"/>
   <xi:include href="will_AN_0188.xml" parse="xml"/>
+  <xi:include href="will_AN_0190.xml" parse="xml"/>
+  <xi:include href="will_AN_0191.xml" parse="xml"/>
+  <xi:include href="will_AN_0192.xml" parse="xml"/>
+  <xi:include href="will_AN_0193.xml" parse="xml"/>
   <xi:include href="will_AN_0194.xml" parse="xml"/>
+  <xi:include href="will_AN_0195.xml" parse="xml"/>
+  <xi:include href="will_AN_0197.xml" parse="xml"/>
+  <xi:include href="will_AN_0198.xml" parse="xml"/>
+  <xi:include href="will_AN_0199.xml" parse="xml"/>
+  <xi:include href="will_AN_0200.xml" parse="xml"/>
+  <xi:include href="will_AN_0201.xml" parse="xml"/>
+  <xi:include href="will_AN_0203.xml" parse="xml"/>
+  <xi:include href="will_AN_0204.xml" parse="xml"/>
+  <xi:include href="will_AN_0205.xml" parse="xml"/>
+  <xi:include href="will_AN_0206.xml" parse="xml"/>
+  <xi:include href="will_AN_0207.xml" parse="xml"/>
+  <xi:include href="will_AN_0208.xml" parse="xml"/>
+  <xi:include href="will_AN_0209.xml" parse="xml"/>
+  <xi:include href="will_AN_0210.xml" parse="xml"/>
+  <xi:include href="will_AN_0211.xml" parse="xml"/>
+  <xi:include href="will_AN_0212.xml" parse="xml"/>
+  <xi:include href="will_AN_0213.xml" parse="xml"/>
+  <xi:include href="will_AN_0214.xml" parse="xml"/>
+  <xi:include href="will_AN_0215.xml" parse="xml"/>
+  <xi:include href="will_AN_0216.xml" parse="xml"/>
+  <xi:include href="will_AN_0217.xml" parse="xml"/>
+  <xi:include href="will_AN_0218.xml" parse="xml"/>
   <xi:include href="will_AN_0220.xml" parse="xml"/>
+  <xi:include href="will_AN_0222.xml" parse="xml"/>
+  <xi:include href="will_AN_0224.xml" parse="xml"/>
+  <xi:include href="will_AN_0225.xml" parse="xml"/>
+  <xi:include href="will_AN_0226.xml" parse="xml"/>
   <xi:include href="will_AN_0228.xml" parse="xml"/>
+  <xi:include href="will_AN_0232.xml" parse="xml"/>
+  <xi:include href="will_AN_0233.xml" parse="xml"/>
+  <xi:include href="will_AN_0234.xml" parse="xml"/>
+  <xi:include href="will_AN_0235.xml" parse="xml"/>
+  <xi:include href="will_AN_0236.xml" parse="xml"/>
+  <xi:include href="will_AN_0237.xml" parse="xml"/>
+  <xi:include href="will_AN_0238.xml" parse="xml"/>
+  <xi:include href="will_AN_0239.xml" parse="xml"/>
   <xi:include href="will_AN_0240.xml" parse="xml"/>
+  <xi:include href="will_AN_0241.xml" parse="xml"/>
+  <xi:include href="will_AN_0242.xml" parse="xml"/>
+  <xi:include href="will_AN_0243.xml" parse="xml"/>
+  <xi:include href="will_AN_0244.xml" parse="xml"/>
+  <xi:include href="will_AN_0245.xml" parse="xml"/>
+  <xi:include href="will_AN_0246.xml" parse="xml"/>
+  <xi:include href="will_AN_0247.xml" parse="xml"/>
+  <xi:include href="will_AN_0248.xml" parse="xml"/>
   <xi:include href="will_AN_0249.xml" parse="xml"/>
+  <xi:include href="will_AN_0250.xml" parse="xml"/>
+  <xi:include href="will_AN_0252.xml" parse="xml"/>
+  <xi:include href="will_AN_0253.xml" parse="xml"/>
+  <xi:include href="will_AN_0254.xml" parse="xml"/>
+  <xi:include href="will_AN_0256.xml" parse="xml"/>
+  <xi:include href="will_AN_0257.xml" parse="xml"/>
+  <xi:include href="will_AN_0258.xml" parse="xml"/>
+  <xi:include href="will_AN_0259.xml" parse="xml"/>
+  <xi:include href="will_AN_0260.xml" parse="xml"/>
+  <xi:include href="will_AN_0261.xml" parse="xml"/>
+  <xi:include href="will_AN_0262.xml" parse="xml"/>
+  <xi:include href="will_AN_0263.xml" parse="xml"/>
+  <xi:include href="will_AN_0265.xml" parse="xml"/>
+  <xi:include href="will_AN_0266.xml" parse="xml"/>
+  <xi:include href="will_AN_0267.xml" parse="xml"/>
+  <xi:include href="will_AN_0268.xml" parse="xml"/>
+  <xi:include href="will_AN_0269.xml" parse="xml"/>
+  <xi:include href="will_AN_0270.xml" parse="xml"/>
   <xi:include href="will_AN_0271.xml" parse="xml"/>
+  <xi:include href="will_AN_0273.xml" parse="xml"/>
+  <xi:include href="will_AN_0274.xml" parse="xml"/>
+  <xi:include href="will_AN_0275.xml" parse="xml"/>
+  <xi:include href="will_AN_0276.xml" parse="xml"/>
+  <xi:include href="will_AN_0277.xml" parse="xml"/>
+  <xi:include href="will_AN_0280.xml" parse="xml"/>
+  <xi:include href="will_AN_0281.xml" parse="xml"/>
+  <xi:include href="will_AN_0283.xml" parse="xml"/>
+  <xi:include href="will_AN_0284.xml" parse="xml"/>
+  <xi:include href="will_AN_0285.xml" parse="xml"/>
+  <xi:include href="will_AN_0286.xml" parse="xml"/>
+  <xi:include href="will_AN_0288.xml" parse="xml"/>
+  <xi:include href="will_AN_0291.xml" parse="xml"/>
+  <xi:include href="will_AN_0292.xml" parse="xml"/>
+  <xi:include href="will_AN_0293.xml" parse="xml"/>
+  <xi:include href="will_AN_0295.xml" parse="xml"/>
+  <xi:include href="will_AN_0296.xml" parse="xml"/>
+  <xi:include href="will_AN_0297.xml" parse="xml"/>
+  <xi:include href="will_AN_0298.xml" parse="xml"/>
+  <xi:include href="will_AN_0299.xml" parse="xml"/>
+  <xi:include href="will_AN_0300.xml" parse="xml"/>
+  <xi:include href="will_AN_0301.xml" parse="xml"/>
+  <xi:include href="will_AN_0302.xml" parse="xml"/>
+  <xi:include href="will_AN_0304.xml" parse="xml"/>
+  <xi:include href="will_AN_0305.xml" parse="xml"/>
+  <xi:include href="will_AN_0306.xml" parse="xml"/>
+  <xi:include href="will_AN_0308.xml" parse="xml"/>
+  <xi:include href="will_AN_0309.xml" parse="xml"/>
+  <xi:include href="will_AN_0310.xml" parse="xml"/>
+  <xi:include href="will_AN_0311.xml" parse="xml"/>
+  <xi:include href="will_AN_0312.xml" parse="xml"/>
+  <xi:include href="will_AN_0313.xml" parse="xml"/>
+  <xi:include href="will_AN_0314.xml" parse="xml"/>
+  <xi:include href="will_AN_0315.xml" parse="xml"/>
+  <xi:include href="will_AN_0317.xml" parse="xml"/>
   <xi:include href="will_AN_0318.xml" parse="xml"/>
+  <xi:include href="will_AN_0319.xml" parse="xml"/>
+  <xi:include href="will_AN_0320.xml" parse="xml"/>
+  <xi:include href="will_AN_0322.xml" parse="xml"/>
   <xi:include href="will_AN_0323.xml" parse="xml"/>
+  <xi:include href="will_AN_0324.xml" parse="xml"/>
   <xi:include href="will_AN_0325.xml" parse="xml"/>
+  <xi:include href="will_AN_0326.xml" parse="xml"/>
   <xi:include href="will_AN_0327.xml" parse="xml"/>
+  <xi:include href="will_AN_0328.xml" parse="xml"/>
+  <xi:include href="will_AN_0329.xml" parse="xml"/>
+  <xi:include href="will_AN_0330.xml" parse="xml"/>
+  <xi:include href="will_AN_0332.xml" parse="xml"/>
+  <xi:include href="will_AN_0333.xml" parse="xml"/>
+  <xi:include href="will_AN_0334.xml" parse="xml"/>
+  <xi:include href="will_AN_0335.xml" parse="xml"/>
+  <xi:include href="will_AN_0336.xml" parse="xml"/>
+  <xi:include href="will_AN_0337.xml" parse="xml"/>
+  <xi:include href="will_AN_0338.xml" parse="xml"/>
+  <xi:include href="will_AN_0339.xml" parse="xml"/>
+  <xi:include href="will_AN_0340.xml" parse="xml"/>
+  <xi:include href="will_AN_0341.xml" parse="xml"/>
+  <xi:include href="will_AN_0342.xml" parse="xml"/>
   <xi:include href="will_AN_0343.xml" parse="xml"/>
+  <xi:include href="will_AN_0344.xml" parse="xml"/>
+  <xi:include href="will_AN_0345.xml" parse="xml"/>
+  <xi:include href="will_AN_0346.xml" parse="xml"/>
+  <xi:include href="will_AN_0347.xml" parse="xml"/>
+  <xi:include href="will_AN_0348.xml" parse="xml"/>
+  <xi:include href="will_AN_0349.xml" parse="xml"/>
+  <xi:include href="will_AN_0350.xml" parse="xml"/>
   <xi:include href="will_AN_0359.xml" parse="xml"/>
   <xi:include href="will_AN_0369.xml" parse="xml"/>
   <xi:include href="will_AN_0370.xml" parse="xml"/>

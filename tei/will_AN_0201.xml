@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0201">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Georges Maurice Turpault (02/08/1914)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-262">Georges Maurice Turpault
+                    (1888-1914)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#CNougaret">Christine Nougaret</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0201</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0201_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXXI/1584, minute du 21/10/1920 (dépôt du testament de Georges
+                            Maurice Turpault)</idno>
+                        <msName>Testament de Georges Maurice Turpault (02/08/1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-02">02/08/1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-262"><forename>Georges</forename> <forename>Maurice</forename> <surname>Turpault</surname></persName>, mort pour la France le <date when="1914-08-30">30/08/1914</date> à <placeName ref="#pl-421">Bertoncourt (Ardennes)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier de facturation à en-tête commercial (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions
+                                        type="willPage" unit="cm">
+                                        <height>27,1</height>
+                                        <width>21,4</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010158"
+                                >étude notariale 31 (CRPCEN : 75078)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0201_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXXI/1584, minute du 21/10/1920 (dépôt du testament de Georges
+                            Maurice Turpault)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-02">02/08/1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>02/08/1914. Paris.</p>
+                <p>testament olographe de Georges Maurice Turpault, mort pour la France le
+                    30/08/1914 à Bertoncourt (Ardennes).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-07-19/2018-08-20" who="#SL. #MFGarreau">transcription</change>
+            <change when-iso="2018-07-19/2018-07-25" who="#PCharbonnier #FClavaud"
+                >validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0201___JPEG___FRAN_Poilus_t-0201_01.jpg"
+                xml:id="FRAN_Poilus_t-0201_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0201">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0201_01"/>
+                <dateline><placeName type="willPlace" ref="#pl-2">PARIS</placeName>,
+                            le <date type="willDate" when="1914-08-02"
+                        >deux <choice><sic>aout</sic><corr>août</corr></choice> mil neuf cent
+                        quatorze</date></dateline>
+                <p>Je soussigné <persName ref="#pers-262">Georges
+                        <surname>Turpault</surname></persName>.<metamark function="emphasis"
+                        rend="horizontal-line"/> <lb/>Ceci est mon testament écrit
+                            <choice><sic>entierement</sic><corr>entièrement</corr></choice> de ma
+                            main<choice><sic/><corr>, </corr></choice> <lb/>par
+                            <choice><sic>consequent</sic><corr>conséquent</corr></choice> daté et
+                    signé de ma main, <choice><sic>declare</sic><corr>déclare</corr></choice>
+                    laisser <choice><sic>a</sic><corr>à</corr></choice> <lb/>ma femme chérie le
+                    maximum de ce que la loi me permet <lb/>sur tout ce que je <choice><sic>possede
+                            -</sic><corr>possède.</corr></choice></p>
+                <list>
+                    <item>1<hi rend="superscript-double-underlined">o</hi> <choice><sic>deux</sic><corr>Deux</corr></choice> obligations
+                        foncières <choice><sic>deposees a</sic><corr>déposées à</corr></choice> mon
+                        nom <choice><sic>a</sic><corr>à</corr></choice> <orgName>la
+                                    <lb/><choice><sic>Societé Generale</sic><corr>Société
+                                    générale</corr></choice></orgName><choice><sic></sic><corr>.</corr></choice></item>
+                    <item>2<hi rend="superscript-double-underlined">o</hi> Une obligation
+                                <choice><sic>fonciere deposee</sic><corr>foncière
+                            déposée</corr></choice> au <orgName><choice><sic>Credit
+                                    Foncier</sic><corr>Crédit foncier</corr></choice> de
+                                <lb/>France</orgName><choice><sic></sic><corr>.</corr></choice></item>
+                    <item>3<hi rend="superscript-double-underlined">o</hi> Une somme d’environ onze
+                        cents francs <choice><sic>deposee</sic><corr>déposée</corr></choice> à
+                            <lb/><orgName>la Caisse <choice><sic>Nationale
+                                    d’Epargne</sic><corr>nationale
+                            d’épargne</corr></choice></orgName><choice><sic>
+                            =</sic><corr>.</corr></choice></item>
+                </list>
+                <p>Les deux obligations foncières
+                        <choice><sic>deposees</sic><corr>déposées</corr></choice> à <orgName>la
+                                <choice><sic>Sociéte Generale</sic><corr>Société
+                            générale</corr></choice></orgName> <lb/>sont alourdies d’un
+                            <choice><sic>pret</sic><corr>prêt</corr></choice> de sept cent cinquante
+                    francs <lb/>que mon <choice><sic>beau
+                        frère</sic><corr>beau-frère</corr></choice> <persName>Monsieur
+                        Badaire</persName> doit me rembourser.</p>
+                <p><persName>Mademoiselle Juliette Germaine Fareu</persName> <add place="below">ma
+                        femme</add> doit<choice><sic/><corr>, </corr></choice>et ceci est <lb/>ma
+                            <choice><sic>volonte</sic><corr>volonté</corr></choice>
+                            formelle<choice><sic></sic><corr>,</corr></choice> rentrer dans
+                            l’<choice><sic>integralite</sic><corr>intégralité</corr></choice> de ce
+                    <lb/>que je <choice><sic>possede -</sic><corr>possède.</corr></choice></p>
+                <dateline rend="right">Fait <choice><sic>a</sic><corr>à</corr></choice> <placeName
+                        type="willPlace" ref="#pl-2">Paris</placeName> <date type="willDate"
+                        when="1914-08-02">le deux <choice><sic>aout</sic><corr>août</corr></choice>
+                        mil neuf cent <lb/>quatorze</date><choice><sic></sic><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="centered"><persName ref="#pers-262">Georges
+                            <surname>Turpault</surname></persName></signed>
+                <postscript rend="left">
+                    <p>Je dis <persName>Germaine Fareu</persName> ma femme</p>
+                    <signed><persName ref="#pers-262">Georges
+                        <surname>Turpault</surname></persName></signed>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

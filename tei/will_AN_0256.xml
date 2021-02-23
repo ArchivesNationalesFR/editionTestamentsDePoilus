@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0256">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Joseph François Albert André (21 juillet 1916)] :
+                    édition électronique</title>
+                <author><persName ref="#pers-313">Joseph François Albert André
+                        (1886-1918)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#AM">Aurélie Massie</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#Lamotte">Isabelle Lamotte</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0256</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0256_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXIII/1703, minute du 24 novembre 1921 (dépôt du testament de
+                            Joseph François Albert André)</idno>
+                        <msName>Testament de Joseph François Albert André (21 juillet 1916)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1916-07-21">21 juillet 1916</date>. <placeName type="willPlace" ref="#pl-486">Villers-Carbonnel</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-313"><forename>Joseph</forename> <forename>François</forename> <forename>Albert</forename> <surname>André</surname></persName>, mort pour la France le <date when="1918-06-01">1er juin 1918</date> dans
+              l’<placeName ref="#pl-23">ambulance 15/22 de Louvois (Marne)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>2 pages. Dimensions du testament : <dimensions
+                                        type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010150"
+                                >étude notariale 023 (CRPCEN : 75027)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0256_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXIII/1703, minute du 24 novembre 1921 (dépôt du testament de
+                            Joseph François Albert André)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1916-07-21">21 juillet 1916</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>21 juillet 1916. Villers-Carbonnel.</p>
+                <p>testament olographe de Joseph François Albert André, mort pour la France le 1er
+                    juin 1918 dans l’ambulance 15/22 de Louvois (Marne).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-09-10/2019-04-23" who="#SL. #Lamotte">transcription</change>
+            <change when-iso="2018-09-10/2018-10-02" who="#PCharbonnier #FClavaud"
+                >validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0256___JPEG___FRAN_Poilus_t-0256_01.jpg"
+                xml:id="FRAN_Poilus_t-0256_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0256___JPEG___FRAN_Poilus_t-0256_02.jpg"
+                xml:id="FRAN_Poilus_t-0256_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0256">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0256_01"/>
+                <p>Aujourd’hui <date type="willDate" when="1916-07-21">vingt<choice><sic> et </sic><corr>-et-</corr></choice>un <lb/>juillet mil
+                        neuf cent <choice><sic>Seize</sic><corr>seize</corr></choice></date>,
+                            <lb/><choice><sic>etant</sic><corr>étant</corr></choice> au poste de
+                    commandement <lb/>du <choice><sic>deuxieme</sic><corr>deuxième</corr></choice>
+                    bataillon du <orgName ref="#o-27"
+                                ><choice><sic>vingt <lb/>troisieme</sic><corr>vingt-<lb break="no"/>troisième</corr></choice> <choice><sic>
+                                Regiment</sic><corr>régiment</corr></choice>
+                        d’<choice><sic>Infanterie</sic><corr>infanterie</corr></choice>
+                        <choice><sic>Coloniale</sic><corr>coloniale</corr></choice></orgName> <lb/>en compagnie du <persName><choice><sic>Capitaine</sic><corr>capitaine</corr></choice>
+                        Brou</persName>, <lb/>commandant le bataillon, à onze <lb/>heures du matin,
+                    je soussigné, <lb/><persName ref="#pers-313">Albert<choice><sic>
+                                françois</sic><corr>, François</corr></choice>, Joseph
+                            <surname>André</surname></persName>, <choice><sic>Sous-<lb
+                            />Lieutenant</sic><corr>sous-<lb break="no"/>lieutenant</corr></choice>
+                    au <orgName ref="#o-27">23 <hi rend="superscript-double-underlined"
+                                >e</hi><choice><abbr>Colonial</abbr><expan>régiment d’infanterie
+                                coloniale</expan></choice></orgName>,
+                            <choice><sic>etant</sic><corr>étant</corr></choice> <lb/>sain de corps et
+                    d’esprit, <choice><sic>declare</sic><corr>déclare</corr></choice> <lb/>transcrire
+                            <choice><sic>ci après</sic><corr>ci-après</corr></choice> mes
+                            <choice><sic>dernieres</sic><corr>dernières</corr></choice> volontés : </p>
+                <p> <choice><sic>je</sic><corr>Je</corr></choice> lègue en toute <choice><sic>proprieté</sic><corr>propriété</corr></choice>,
+                            <choice><sic>a</sic><corr>à</corr></choice> <lb/>ma mère,
+                                <persName>Madame André,
+                        née <lb/><surname>Berthet</surname></persName>, tout ce dont la loi <lb/>me
+                    permet de disposer, <choice><sic>simple-<lb
+                    />-ment</sic><corr>simple<lb break="no"/>ment</corr></choice>
+                        <choice><sic>a</sic><corr>à</corr></choice> titre d’indication, je
+                    <lb/>citerai : ma <choice><sic>proprieté</sic><corr>propriété</corr></choice>,
+                    "La Esperanza" <lb/>sise
+                        <choice><sic>a</sic><corr>à</corr></choice> <placeName>la Palézada, à
+                        Tiguabos<choice><sic></sic><corr>,</corr></choice> <lb/>Ile de Cuba, Antilles</placeName>, et une <lb/>somme de deux
+                    mille francs environ, <lb/>en
+                        <choice><sic>numeraire</sic><corr>numéraire</corr></choice>, entre les mains
+                    de <lb/>mon
+                            père<subst><del>,</del><add>.</add></subst> <choice><sic>je</sic><corr>Je</corr></choice>
+                    n’ignore pas que mon <lb/><choice><sic>pere</sic><corr>père</corr></choice>,
+                            <choice><sic>heritier reservataire</sic><corr>héritier
+                            réservataire</corr></choice>, a des droit
+                            <lb/><choice><sic>egaux</sic><corr>égaux</corr></choice> sur ma
+                    succession, mais je <lb/>lui serai reconnaissant de <lb/>bien vouloir y renoncer
+                            <choice><sic>a</sic><corr>en</corr></choice> faveur <pb
+                        facs="#FRAN_Poilus_t-0256_02"/>de ma
+                            <choice><sic>mere</sic><corr>mère</corr></choice>.</p>
+                <dateline>Fait aux <term type="other">tranchées</term> <lb/>devant <placeName
+                        type="willPlace" ref="#pl-486"
+                    >Villers<choice><sic> </sic><corr>-</corr></choice>Carbonnel</placeName> <date type="willDate" when="1916-07-21">le <lb/>21 juillet mil neuf cent
+                                <choice><sic>Seize</sic><corr>seize.</corr></choice></date></dateline>
+                <signed rend="right"><persName ref="#pers-313">A. F.
+                        <surname>André</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

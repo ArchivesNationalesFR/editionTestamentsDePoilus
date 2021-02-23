@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0236">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Emile Antoine Daumas (5 novembre 1915)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-294">Emile Antoine Daumas
+                    (1887-1917)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#CNougaret">Christine Nougaret</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#PROMBAUT">PROMBAUT</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0236</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0236_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXVII/1766, minute du 25 avril 1921 (dépôt du testament de Emile
+                            Antoine Daumas)</idno>
+                        <msName>Testament de Emile Antoine Daumas (5 novembre 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1915-11-05">5 novembre 1915</date>. <placeName type="willPlace" ref="#pl-134">Champigny-sur-Marne</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-294"><forename>Emile</forename> <forename>Antoine</forename> <surname>Daumas</surname></persName>, mort pour la France le <date when="1917-04-21">21 avril 1917</date> à <placeName ref="#pl-463">Hôpital militaire temporaire d’Arc-en-Barrois
+            (Haute-Marne)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à lettre réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions
+                                        type="willPage" unit="cm">
+                                        <height>27,3</height>
+                                        <width>21,2</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre rouge.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010244"
+                                >étude notariale 117 (CRPCEN : 75035)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0236_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXVII/1766, minute du 25 avril 1921 (dépôt du testament de Emile
+                            Antoine Daumas)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-11-05">5 novembre 1915</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>5 novembre 1915. Champigny-sur-Marne.</p>
+                <p>testament olographe de Emile Antoine Daumas, mort pour la France le 21 avril 1917
+                    à Hôpital militaire temporaire d’Arc-en-Barrois (Haute-Marne).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-09-10/2019-05-02" who="#SL. #MFGarreau #PROMBAUT"
+                >transcription</change>
+            <change when-iso="2018-09-10/2018-10-03" who="#PCharbonnier #FClavaud"
+                >validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0236___JPEG___FRAN_Poilus_t-0236_01.jpg"
+                xml:id="FRAN_Poilus_t-0236_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0236">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0236_01"/>
+                <dateline><placeName type="willPlace" ref="#pl-134">Champigny</placeName> <date
+                        type="willDate" when="1915-11-05">le 5
+                                <choice><sic>Novembre</sic><corr>novembre</corr></choice>
+                        1915</date></dateline>
+                <space dim="vertical" unit="lines" quantity="3"/>
+                <p>Je soussigné donne à ma femme <lb/><persName>Marthe Daumas</persName> tout ce que
+                    je possède <lb/>tant <choice><sic>an</sic><corr>en</corr></choice> mobilier
+                    qu’en tout ce qui <lb/>m’appartient y compris le terrain et tout <lb/>ce qui
+                    peut avoir une valeur
+                        <choice><sic>quelquonque</sic><corr>quelconque</corr></choice> <lb/>au cas
+                            <choice><sic>ou</sic><corr>où</corr></choice> il m’arriverait un malheur
+                            <choice><sic>a</sic><corr>à</corr></choice> <lb/>la guerre.</p>
+                <p>Je lui <choice><sic>reconnait</sic><corr>reconnais</corr></choice> également le
+                    droit <lb/>de vendre tout ou partie de ce qui <lb/>m’appartient pendant mon
+                    absence sans <lb/>autre
+                            <choice><sic>autaurisation</sic><corr>autorisation</corr></choice> que
+                    le présent écrit <lb/>qui me sert de testament.</p>
+                <dateline>Fait à <placeName type="willPlace" ref="#pl-134">Champigny</placeName> 
+                        <date type="willDate" when="1915-11-05">le 5 <choice><sic>Novembre
+                                <lb/>Mille</sic><corr>novembre <lb/>mille</corr></choice> neuf cent
+                        quinze</date> pendant ma <lb/>permission de six jours.</dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                    <postscript rend="centered"><p><persName ref="#pers-294">Emile
+                        <surname>Daumas</surname></persName> Caporal
+                    au <lb/><orgName ref="#o-241"><choice><abbr>100<hi
+                                    rend="superscript-double-underlined">e</hi> d’Inf<hi
+                                    rend="superscript-double-underlined">rie</hi> 7<hi
+                                    rend="superscript-double-underlined">e</hi> C<hi
+                                    rend="superscript-double-underlined"
+                                >ie</hi></abbr><expan>centième régiment d’infanterie septième
+                                compagnie</expan></choice> D..A.L.
+                                <choice><abbr>SP</abbr><expan>secteur postal</expan></choice>
+                        48</orgName><choice><sic></sic><corr>.</corr></choice></p></postscript>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="centered"><persName
+                    ref="#pers-294">E <surname>Daumas</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

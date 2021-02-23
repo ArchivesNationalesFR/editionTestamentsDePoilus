@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0199">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Jean Antonin Fernand Robinet (05/12/1914)] :
+                    édition électronique</title>
+                <author><persName ref="#pers-260">Jean Antonin Fernand Robinet
+                        (1890-1917)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#CNougaret">Christine Nougaret</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#majubama">majubama</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0199</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0199_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXXI/1568, minute du 02/12/1918 (dépôt du testament de Jean
+                            Antonin Fernand Robinet)</idno>
+                        <msName>Testament de Jean Antonin Fernand Robinet (05/12/1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-12-05">05/12/1914</date>. <placeName type="willPlace" ref="#pl-418">Herlin-le-Sec</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-260"><forename>Jean</forename> <forename>Antonin</forename> <forename>Fernand</forename> <surname>Robinet</surname></persName>, mort pour la France le <date when="1917-07-21" source="#will_AN_0199_min">21
+                            juillet 1917 [NOT]</date> ou le <date notBefore="1917-07-09" notAfter="1917-07-23" source="#MDH">9 ou 23 juillet 1917 [MDH]</date> à l’<placeName ref="#pl-417">école
+              d’aviation d’Odessa (Russie)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions
+                                        type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010158"
+                                >étude notariale 31 (CRPCEN : 75078)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0199_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXXI/1568, minute du 02/12/1918 (dépôt du testament de Jean
+                            Antonin Fernand Robinet)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-12-05">05/12/1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>05/12/1914. Herlin-le-Sec.</p>
+                <p>testament olographe de Jean Antonin Fernand Robinet, mort pour la France le 21
+                    juillet 1917 [NOT] ou le 9 ou 23 juillet 1917 [MDH] à l’école d’aviation d’Odessa
+                    (Russie).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-07-19/2018-08-17" who="#SL. #majubama">transcription</change>
+            <change when-iso="2018-07-19/2018-08-17" who="#PCharbonnier #FClavaud"
+                >validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0199___JPEG___FRAN_Poilus_t-0199_01.jpg"
+                xml:id="FRAN_Poilus_t-0199_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0199">
+        <body>
+            <div type="will"><pb facs="#FRAN_Poilus_t-0199_01"/><head><metamark function="emphasis"
+                        rend="horizontal-line"/>Ceci est mon testament <metamark function="emphasis"
+                        rend="horizontal-line"/></head><p>J’institue ma
+                        femme<choice><sic>.</sic><corr>,</corr></choice> <persName>Stéphanie
+                        <lb/>Bouché</persName><choice><sic>.</sic><corr>,</corr></choice> ma légataire
+                    universelle et <lb/>lui lègue en pleine propriété la <lb/>totalité de ce
+                            <choice><sic>que</sic><corr>dont</corr></choice> la loi me permet <lb/>de
+                    disposer. J’exprime même le <lb/>désir formel de lui voir attribuer <lb/><hi
+                        rend="underlined">sans aucune réserve</hi> la <hi rend="underlined"
+                        >totalité</hi> de <lb/>ma fortune mobilière et immobilière. <lb/>Ceci est ma
+                    volonté dernière. Je révoque <lb/>tout testament
+                            antérieur<choice><sic/><corr>.</corr></choice></p><dateline><placeName
+                        type="willPlace" ref="#pl-418">Herlin-le-Sec</placeName> <date
+                        type="willDate" when="1914-12-05">le cinq décembre
+                                <lb/><choice><sic>Mil</sic><corr>mil</corr></choice>-neuf-cent-quatorze</date>.</dateline>
+                    <signed rend="centered"><persName ref="#pers-260">Jean
+                            <surname>Robinet</surname></persName></signed></div>
+        </body>
+    </text>
+</TEI>

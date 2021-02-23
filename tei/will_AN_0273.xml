@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0273">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Paul François Alexandre Delamare (23/09/1914)] :
+                    édition électronique</title>
+                <author><persName ref="#pers-327">Paul François Alexandre Delamare
+                        (1882-1915)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#DChristiane">Christiane Demeulenaere-Douyère</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#LBIsabelle">LBIsabelle</persName>
+                    <persName ref="#emeline">emeline</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0273</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0273_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVI/1402, minute du 21/08/1916 (dépôt du testament de Paul
+                            François Alexandre Delamare)</idno>
+                        <msName>Testament de Paul François Alexandre Delamare (23/09/1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-09-23">23/09/1914</date>. <placeName type="willPlace" ref="#pl-423">inconnu</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-327"><forename>Paul</forename> <forename>François</forename> <forename>Alexandre</forename> <surname>Delamare</surname></persName>, mort pour la France le <date when="1915-03-01">1er mars 1915</date> à <placeName ref="#pl-500">« La Russe » au Nord-Est de Neuvilly (Meuse)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à lettre mauve (testament). </support>
+                                <extent>1 page et 1 enveloppe. Dimensions du testament : <dimensions
+                                        type="willPage" unit="cm">
+                                        <height>21,6</height>
+                                        <width>14,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre mauve.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010183"
+                                >étude notariale 56 (CRPCEN : 75040)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0273_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVI/1402, minute du 21/08/1916 (dépôt du testament de Paul
+                            François Alexandre Delamare)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-09-23">23/09/1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>23/09/1914. inconnu.</p>
+                <p>testament olographe de Paul François Alexandre Delamare, mort pour la France le
+                    1er mars 1915 à « La Russe » au Nord-Est de Neuvilly (Meuse).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-02-12/2020-04-23" who="#MFGarreau #SL. #LBIsabelle #emeline"
+                >transcription</change>
+            <change when-iso="2019-02-12/2019-11-16" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0273___JPEG___FRAN_Poilus_t-0273_01.jpg"
+                xml:id="FRAN_Poilus_t-0273_01"/>
+        </surface>
+        <surface type="will-envelope-verso" n="02">
+            <graphic url="testament_AN_0273___JPEG___FRAN_Poilus_t-0273_02.jpg"
+                xml:id="FRAN_Poilus_t-0273_02"/>
+        </surface>
+        <surface type="will-envelope-verso" n="03">
+            <graphic url="testament_AN_0273___JPEG___FRAN_Poilus_t-0273_03.jpg"
+                xml:id="FRAN_Poilus_t-0273_03"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0273">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0273_01"/>
+                <p>Je soussigné <persName ref="#pers-327">Paul François Alexandre
+                            <lb/><surname>Delamare</surname></persName> domicilié à <placeName
+                        type="willAuthorResidence" ref="#pl-2">Paris</placeName> 38 rue Eugène
+                    <lb/>Carrière <choice><sic><surplus>à Paris </surplus></sic><corr/></choice><choice><sic>complete</sic><corr>complète</corr></choice>
+                    mon testament <lb/>que j’ai laissé chez mon ami <persName><choice><abbr>M<hi
+                                    rend="superscript">r</hi></abbr><expan>Monsieur</expan></choice>
+                        Bengué</persName> <lb/>16 rue Juliette Lamber <placeName type="otherPlace"
+                        ref="#pl-2">Paris</placeName>, de la <lb/>façon suivante :</p>
+                <p>Je <choice><sic>legue</sic><corr>lègue</corr></choice> à
+                                <persName>Mademoiselle
+                        Margueritte Puyssegur <lb/>dite Margueritte Segur</persName> domiciliée à
+                                <placeName><choice><sic>Montrejeau</sic><corr>Montréjeau</corr></choice> <lb/><choice><abbr>H<hi
+                                    rend="superscript"
+                        >te</hi></abbr><expan>Haute</expan></choice><choice><sic> </sic><corr>-</corr></choice>Garonne</placeName></p>
+                <list>
+                    <item>1<hi rend="superscript">o</hi>/ la somme de cinq mille francs (5000 <hi
+                            rend="superscript"
+                            ><choice><abbr>fr</abbr><expan>francs</expan></choice></hi>)</item>
+                    <item>2<hi rend="superscript">o</hi>/ mes actions
+                        <choice><sic>shell</sic><corr>Shell</corr></choice> transport
+                                <choice><sic>déposés</sic><corr>déposées</corr></choice> chez
+                            <lb/><orgName>Pollak et <choice><abbr>C<hi rend="superscript"
+                                    >ie</hi></abbr><expan>compagnie</expan></choice></orgName> 7 ou
+                        8 rue Bourdaloue <lb/>Paris Londres</item>
+                    <item>3<hi rend="superscript">o</hi>/ ma créance de deux mille cinq cents
+                        <lb/>francs sur le Syndicat franco<choice><sic>
+                            Brésilien</sic><corr>-brésilien</corr></choice> <lb/>de l’Urucuia 31 rue Mogador
+                        Paris</item>
+                </list>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <dateline>Fait aux armées <date type="willDate" when="1914-09-23">le vingt<choice><sic> </sic><corr>-</corr></choice>trois
+                    <choice><sic>Septembre</sic><corr>septembre</corr></choice>
+                                <lb/>mil neuf cent
+                        quatorze</date><choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="centered"><persName ref="#pers-327">PA
+                        <surname>Delamare</surname></persName></signed>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0273_02"/>
+                <dateline rend="centered"><date type="willDate" when="1914-09-23">23
+                                <choice><abbr>Septbr</abbr><expan>septembre</expan></choice>&#xa0;<choice><abbr>14</abbr><expan>1914</expan></choice></date></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <head rend="centered">Mon cher Maître </head>
+                <p>Je vous envoie inclus <lb/>une suite à mon testament <lb/>et comme suite à la
+                    <lb/>lettre que je vous ai écrite <lb/>il y a une <choice><abbr>15<hi
+                                rend="superscript">e</hi></abbr><expan>quinzaine</expan></choice> de
+                            jours<choice><sic/><corr>.</corr></choice></p>
+                <p>Veuillez agréer mon cher Maître <lb/>l’assurance de mes sentiments
+                            <lb/>distingués<choice><sic/><corr>.</corr></choice></p>
+                <signed rend="right"><persName ref="#pers-327"
+                        >P<surname>Delamare</surname></persName></signed>
+                <fw place="right"><choice><abbr>TSVP</abbr><expan>Tournez s’il vous
+                        plaît</expan></choice></fw>
+                <pb facs="#FRAN_Poilus_t-0273_03"/>
+                <postscript rend="centered"><p><persName ref="#pers-327">Paul
+                        <surname>Delamare</surname></persName> <lb/>9<hi rend="superscript"
+                            >e</hi> <choice><sic>Section</sic><corr>section</corr></choice> 1<hi
+                        rend="superscript">e</hi> échelon <lb/>train de combat du <lb/>5<hi
+                        rend="superscript">e</hi> corps<choice><sic></sic><corr>.</corr></choice></p></postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

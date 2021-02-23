@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0328">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Théodore Paul Acker (1er août 1914)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-471">Théodore Paul Acker
+                    (1874-1915)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#RCM">Rosine Cleyet-Michaud</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#Lamotte">Isabelle Lamotte</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#CNougaret">Christine Nougaret</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0328</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0328_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXVII/1224, minute du 10 juillet 1915 (dépôt du testament de
+                            Théodore Paul Acker)</idno>
+                        <msName>Testament de Théodore Paul Acker (1er août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-01">1er août 1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-471"><forename>Théodore</forename> <forename>Paul</forename> <surname>Acker</surname></persName>, mort pour la France le <date when="1915-06-27" source="#will_AN_0328_min">27 juin
+              1915 [NOT]</date> ou le <date when="1915-06-28" source="#EC">28 juin 1915 [EC]</date>
+            à <placeName ref="#pl-720">Moosch (Alsace)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à lettre (testament). Papier à lettre (codicille). </support>
+                                <extent>3 pages. Dimensions du testament : <dimensions
+                                        type="willPage" unit="cm">
+                                        <height>17,9</height>
+                                        <width>13,3</width>
+                                    </dimensions>. Dimensions du codicille : <dimensions
+                                        type="willCodicil" unit="cm">
+                                        <height>17,9</height>
+                                        <width>13,3</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre bleue. Codicille : encre bleue.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010154"
+                                >étude notariale 27 (CRPCEN : 75111)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0328_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXVII/1224, minute du 10 juillet 1915 (dépôt du testament de
+                            Théodore Paul Acker)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-01">1er août 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>1er août 1914. Paris.</p>
+                <p>testament olographe de Théodore Paul Acker, mort pour la France le 27 juin 1915
+                    [NOT] ou le 28 juin 1915 [EC] à Moosch (Alsace).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2020-03-04/2020-04-06" who="#lelia #MFGarreau #Lamotte"
+                >transcription</change>
+            <change when-iso="2020-03-04/2020-04-05" who="#PCharbonnier #CNougaret"
+                >validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0328___JPEG___FRAN_Poilus_t-0328_01.jpg"
+                xml:id="FRAN_Poilus_t-0328_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0328___JPEG___FRAN_Poilus_t-0328_02.jpg"
+                xml:id="FRAN_Poilus_t-0328_02"/>
+        </surface>
+        <surface type="codicil-page" n="03">
+            <graphic url="testament_AN_0328___JPEG___FRAN_Poilus_t-0328_03.jpg"
+                xml:id="FRAN_Poilus_t-0328_03"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0328">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0328_01"/>
+                <dateline rend="right"><placeName type="willPlace" ref="#pl-2"
+                            >Paris</placeName><choice><sic/><corr>,</corr></choice> <date
+                        type="willDate" when="1914-08-01">le 1<hi rend="superscript-double-underlined"
+                            >er</hi> août 1914</date></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <head rend="left">Ceci est mon testament.</head>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <list>
+                    <item>1) Prévoyant le cas où je
+                                <choice><sic>viendrai</sic><corr>viendrais</corr></choice> à mourir
+                        <lb/>avant ma mère et mes trois soeurs, <persName>Henriette</persName>,
+                            <lb/><persName>Georgette</persName>,
+                                <persName>Marie</persName><choice><sic/><corr>,</corr></choice> <lb/><space
+                            dim="horizontal" unit="chars" quantity="5"/><choice><sic>J</sic><corr>j</corr></choice>’institue, dans ce cas,
+                        pour légataires <lb/> universelles, en toute propriété, ma mère et <lb/> mes
+                        trois soeurs<choice><sic/><corr>.</corr></choice></item>
+                    <item>2) Si je viens à mourir après ma mère et <lb/>avant mes trois soeurs,
+                        j’institue mes trois <lb/>soeurs légataires universelles, en toute
+                                propriété<choice><sic/><corr>.</corr></choice></item>
+                    <item>3) Si je viens à mourir avant deux de mes <lb/>soeurs, j’institue ces deux
+                        soeurs survivantes <lb/>pour légataires universelles, en toute
+                                propriété<choice><sic/><corr>.</corr></choice></item>
+                    <item>4) Si je viens à mourir avant une de mes <lb/>soeurs, j’institue cette
+                        soeur survivante <lb/>pour légataire universelle, en toute
+                                propriété<choice><sic/><corr>.</corr></choice></item>
+                </list>
+                <p>Tout ce qui m’appartient en livres, meubles, <lb/>effets, autres<choice><sic></sic><corr>,</corr></choice> devra être
+                            vendu<choice><sic/><corr>.</corr></choice></p>
+                <p> <hi rend="underlined">Les livres</hi><choice><sic></sic><corr>,</corr></choice> à l’<orgName>Hôtel des Ventes</orgName>,
+                    par les soins de <lb/><persName><choice><abbr>M<hi rend="superscript"
+                                >r</hi></abbr><expan>Monsieur</expan></choice> Henri
+                        Leclerc</persName>, libraire <placeName>rue Saint Honoré <choice><abbr>N<hi
+                                    rend="superscript">o</hi></abbr><expan>numéro</expan></choice>
+                        219</placeName> <pb facs="#FRAN_Poilus_t-0328_02"/>ou à son
+                            <choice><sic>defaut</sic><corr>défaut</corr></choice>, par
+                                    <persName><choice><abbr>M<hi rend="superscript"
+                                >r</hi></abbr><expan>Monsieur</expan></choice> Lucien
+                        Gougy</persName>, 5 quai Conti<choice><sic/><corr>.</corr></choice></p>
+                <p>La bibliothèque vitrée ne contient que des livres de valeur ; <lb/>dans les
+                    autres bibliothèques le libraire choisira les <lb/>livres ayant quelque valeur
+                    et achètera les autres en bloc.</p>
+                <p>Les meubles seront vendus à l’<orgName>Hôtel des Ventes</orgName>.</p>
+                <p>L’autre, qui se trouve à l’Allemand-Rombach <lb/>(<placeName>L’Allemand-Rombach -
+                    Haute Alsace</placeName>), sera <choice><sic>vendu</sic><corr>vendue</corr></choice>,
+                    <lb/>comme on voudra. Il serait bon d’en proposer la <lb/>vente à
+                                    <persName><choice><abbr>M<hi rend="superscript"
+                                >r</hi></abbr><expan>Monsieur</expan></choice> Verly</persName>, à
+                        <placeName>Mulhouse</placeName>.</p>
+                <p>Il sera remis à <persName>Madame
+                        Jeanniot (Henriette)</persName> les couverts <lb/>à entremets, les cuillers
+                    à café en argent, les couverts en <lb/>ruolz qui lui appartiennent, les deux
+                    tableaux à l’huile <lb/>qui sont dans le salon, et on la laissera libre de
+                    choisir <lb/>et d’emporter, comme souvenirs, ce qu’elle voudra.</p>
+                <p>Mon assurance sur la vie, jointe à ce testament, <lb/>sera
+                            <choice><sic>versé</sic><corr>versée</corr></choice> à mes soeurs ou à
+                    celles de mes soeurs <lb/>survivantes, ainsi que les droits d’auteur à la
+                        <lb/><orgName>Société des Gens de
+                            <choice><sic>lettres</sic><corr>Lettres</corr></choice></orgName> et chez mes
+                    éditeurs (<orgName>Plon</orgName>, <lb/><orgName>Flammarion</orgName>,
+                        <orgName>Fayard</orgName>, <orgName>Nelson</orgName>) ainsi que le reliquat
+                    <lb/>de mon dépôt au <orgName>Crédit lyonnais</orgName>, agence de la <lb/>rue
+                    Royale, n°14 (compte 4466<choice><sic/><corr>)</corr></choice>.</p>
+                <signed rend="centered"><persName ref="#pers-471">Paul
+                        <surname>Acker</surname></persName></signed>
+                <postscript>
+                    <p>Ce testament, ayant été fait durant les menaces de <lb/>guerre, je demande
+                        que mon corps soit inhumé à <lb/><placeName>Saverne, Alsace</placeName>, si
+                            <hi rend="underlined">c’est possible</hi>.</p>
+                </postscript>
+                <signed rend="right"><persName ref="#pers-471">Paul
+                        <surname>Acker</surname></persName></signed>
+            </div>
+            <div type="codicil">
+                <pb facs="#FRAN_Poilus_t-0328_03"/>
+                <head rend="left"><hi rend="underlined">Codicille</hi></head>
+                <p>J’ai à toucher un prix de l’Académie, <lb/>de quinze cents francs. Ma mère et mes
+                    soeurs <lb/>le toucheront et le garderont.</p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="centered"><persName ref="#pers-471">Paul
+                        <surname>Acker</surname></persName></signed>
+                <dateline rend="right"><placeName type="codicilPlace" ref="#pl-2"
+                            >Paris</placeName><choice><sic/><corr>,</corr></choice> <date
+                        type="codicilDate" when="1914-08-01">1<hi
+                            rend="superscript-double-underlined">er</hi> août 1914</date>.</dateline>
+                <postscript><p>Ma mère et mes soeurs décideront si elles doivent, <lb/>sur mon héritage,
+                    remettre quelque chose à mes <lb/>deux nièces, <persName>Renée</persName> et
+                        <persName>Simone Acker</persName><choice><sic/><corr>.</corr></choice></p></postscript>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="centered"><persName ref="#pers-471">Paul
+                        <surname>Acker</surname></persName></signed>
+                <dateline rend="centered"><placeName type="codicilPlace" ref="#pl-2"
+                        >Paris</placeName><choice><sic/><corr>,</corr></choice> <date
+                        type="codicilDate" when="1914-08-01">1<hi rend="superscript-underlined"
+                            >er</hi><choice><sic>aout</sic><corr>août</corr></choice> 1914</date>.</dateline>
+                <postscript>
+                    <p>Codicille<choice><sic></sic><corr>.</corr></choice></p><p>Mon auto a été prise par les
+                        <choice><sic>Allemand</sic><corr>Allemands</corr></choice>. Le chauffeur
+                                    <lb/><persName><choice><sic>Celestin</sic><corr>Célestin</corr></choice></persName>
+                        a reçu d’eux une quittance.</p>
+                    <p>J’ai touché le prix de
+                            l’<choice><sic>Academie</sic><corr>Académie</corr></choice> de 1500
+                        francs.</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

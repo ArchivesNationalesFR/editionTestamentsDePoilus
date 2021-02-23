@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0306">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Joseph Peltier (11 août 1914)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-449">Joseph Peltier (1882-1914)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#SL">Sébastien Lagarde</persName>
+                    <persName ref="#AM">Aurélie Massie</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#CNougaret">Christine Nougaret</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0306</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0306_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LII/1324, minute du 20 avril 1915 (dépôt du testament de Joseph
+                            Peltier)</idno>
+                        <msName>Testament de Joseph Peltier (11 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-11">11 août 1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-449"><forename>Joseph</forename> <surname>Peltier</surname></persName>, mort pour la France le <date when="1914-12-16">16 décembre 1914</date> à <placeName ref="#pl-191">ambulance 6/32 à Ypres (Belgique)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions
+                                        type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010179"
+                                >étude notariale 52 (CRPCEN : 75120)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0306_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LII/1324, minute du 20 avril 1915 (dépôt du testament de Joseph
+                            Peltier)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-11">11 août 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>11 août 1914. Paris.</p>
+                <p>testament olographe de Joseph Peltier, mort pour la France le 16 décembre 1914 à
+                    ambulance 6/32 à Ypres (Belgique).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2020-03-25/2020-04-15" who="#lelia #SL. #GBMireille"
+                >transcription</change>
+            <change when-iso="2020-03-25/2020-03-29" who="#PCharbonnier #CNougaret"
+                >validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0306___JPEG___FRAN_Poilus_t-0306_01.jpg"
+                xml:id="FRAN_Poilus_t-0306_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0306">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0306_01"/>
+                <dateline rend="centered">Fait à <placeName type="willPlace" ref="#pl-2"
+                        >Paris</placeName> <date type="willDate" when="1914-08-11">le 11
+                                <choice><sic>Aout</sic><corr>août</corr></choice>
+                    1914</date></dateline>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <p><choice><sic>J’ai Soussigné </sic><corr>Je soussigné</corr></choice> <persName
+                        ref="#pers-449"><surname>Peltier</surname> Joseph</persName> <lb/>né à
+                        <placeName type="willAuthorBirthPlace" ref="#pl-701"
+                            >Chinon</placeName><choice><sic/><corr>,</corr></choice> <date
+                        type="willAuthorBirthDate" when="1882-01-31">le 31
+                                <choice><sic>Janvier</sic><corr>janvier</corr></choice>
+                            1882</date><choice><sic/><corr>.</corr></choice> <lb/>Indre-et-Loire<choice><sic/><corr>.</corr></choice></p>
+                <p>En cas de <choice><sic>décés</sic><corr>décès</corr></choice> pendant la guerre
+                    <lb/>de 1914 <add place="above">et 1915</add><choice><sic>Léguée</sic><corr>,
+                            lègue</corr></choice> tout ce que je <lb/>possède, meubles,
+                    <choice><sic>Valeurs</sic><corr>valeurs</corr></choice>
+                    <choice><sic>aux</sic><corr>au</corr></choice> porteur<choice><sic/><corr>,</corr></choice> <lb/><orgName>Caisse de
+                        prévoyance de la <choice><abbr>S<hi rend="superscript-underlined">té</hi>
+                                    G<hi rend="superscript-underlined">le</hi></abbr><expan>Société
+                                générale</expan></choice></orgName> <lb/>54-56 rue de
+                            Provence<choice><sic>.</sic><corr>,</corr></choice>
+                            Paris<choice><sic>.</sic><corr>,</corr></choice>&#xa0;<choice><abbr>S<hi
+                                rend="superscript-underlined"
+                        >té</hi></abbr><expan>Société</expan></choice> Solidarité
+                            <lb/><choice><abbr>act.</abbr><expan>par actions</expan></choice><choice><sic></sic><corr>,</corr></choice> <lb/>à
+                        <add place="above">ma femme</add> <persName>Marie Joséphine
+                            Fleury</persName><choice><sic/><corr>,</corr></choice> née le <lb/><date
+                        when="1886-12-02" type="otherDate">2 <choice><abbr>X<hi
+                                    rend="superscript-underlined"
+                                >bre</hi></abbr><expan>décembre</expan></choice> 1886</date> à <placeName>Guérande <choice><abbr>Loire Inf<hi
+                                    rend="superscript-underlined"
+                                >re</hi></abbr><expan>Loire-Inférieure</expan></choice></placeName><choice><sic/><corr>,</corr></choice> <lb/>
+                    <choice><sic>domicilié</sic><corr>domiciliée</corr></choice> à Paris 83 Rue
+                            Daguerre<choice><sic/><corr>,</corr></choice> <lb/>fille de
+                        <persName>Pierre</persName> et de <persName>Marie Henriette
+                            <lb/><surname>Leblain</surname>.</persName></p>
+                <signed rend="centered"><choice><sic>Signèe</sic><corr>Signé</corr></choice> de
+                            <lb/>l’<choice><sic>Interessé</sic><corr>intéressé</corr></choice> <lb/><persName
+                        ref="#pers-449">J<surname>Peltier</surname></persName></signed>
+                <postscript>
+                    <p>Des témoins.</p>
+                    <space dim="vertical" unit="lines" quantity="1"/>
+                    <list>
+                        <item>1<hi rend="superscript-underlined">e</hi> <persName><choice><abbr>M<hi
+                                            rend="superscript"
+                                    >.</hi></abbr><expan>Monsieur</expan></choice>
+                                Zimmermann</persName> rue Daguerre 83.</item>
+                        <item>2<hi rend="superscript-underlined">e</hi> <persName><choice><abbr>M<hi
+                                            rend="superscript"
+                                    >.</hi></abbr><expan>Monsieur</expan></choice> J.
+                            Prouteau</persName> 83 <choice><sic>Rue</sic><corr>rue</corr></choice>
+                            Daguerre</item>
+                    </list>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

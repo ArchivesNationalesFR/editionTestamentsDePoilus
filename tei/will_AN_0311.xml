@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0311">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Jean Bernard Blum (9 août 1914)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-454">Jean Bernard Blum (1883-1915)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#SL">Sébastien Lagarde</persName>
+                    <persName ref="#AM">Aurélie Massie</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+                    <persName ref="#v.sassettiaguilera">v.sassettiaguilera</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#CNougaret">Christine Nougaret</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0311</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0311_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LII/1357, minute du 20 juillet 1920 (dépôt du testament de Jean
+                            Bernard Blum)</idno>
+                        <msName>Testament de Jean Bernard Blum (9 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-09">9 août 1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-454"><forename>Jean</forename> <forename>Bernard</forename> <surname>Blum</surname></persName>, mort pour la France le <date when="1915-06-06">6 juin 1915</date> à <placeName ref="#pl-12">Neuville Saint-Vaast (Pas de Calais)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à lettre bleuté (testament). </support>
+                                <extent>4 pages. Dimensions du testament : <dimensions
+                                        type="willPage" unit="cm">
+                                        <height>15,2</height>
+                                        <width>10,9</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre mauve.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010179"
+                                >étude notariale 52 (CRPCEN : 75120)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0311_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LII/1357, minute du 20 juillet 1920 (dépôt du testament de Jean
+                            Bernard Blum)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-09">9 août 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>9 août 1914. Paris.</p>
+                <p>testament olographe de Jean Bernard Blum, mort pour la France le 6 juin 1915 à
+                    Neuville Saint-Vaast (Pas de Calais).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2020-02-17/2020-04-06"
+                who="#MFGarreau #lelia #GBMireille #v.sassettiaguilera">transcription</change>
+            <change when-iso="2020-02-17/2020-04-02" who="#PCharbonnier #CNougaret"
+                >validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0311___JPEG___FRAN_Poilus_t-0311_01.jpg"
+                xml:id="FRAN_Poilus_t-0311_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0311___JPEG___FRAN_Poilus_t-0311_02.jpg"
+                xml:id="FRAN_Poilus_t-0311_02"/>
+        </surface>
+        <surface type="will-page" n="03">
+            <graphic url="testament_AN_0311___JPEG___FRAN_Poilus_t-0311_03.jpg"
+                xml:id="FRAN_Poilus_t-0311_03"/>
+        </surface>
+        <surface type="will-page" n="04">
+            <graphic url="testament_AN_0311___JPEG___FRAN_Poilus_t-0311_04.jpg"
+                xml:id="FRAN_Poilus_t-0311_04"/>
+        </surface>
+        <surface type="will-envelope-recto" n="05">
+            <graphic url="testament_AN_0311___JPEG___FRAN_Poilus_t-0311_05_ab.jpg"
+                xml:id="FRAN_Poilus_t-0311_05_ab"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0311">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0311_01"/>
+                <dateline rend="centered"><placeName type="willPlace" ref="#pl-2">Paris</placeName>
+                    ce <date type="willDate">9 août 1914.</date></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Dans les deux lettres <choice><sic>scellèes</sic><corr>scellées</corr></choice> que j’ai
+                    laissées, <lb/>je parle à coeur ouvert à ma mère et à mon <lb/>frère
+                        <persName>Gustave</persName>. Dans celle qui est adressée à celui-ci,
+                    <lb/>j’exprime le voeu que sur les 180.000 francs <lb/>environ que je tiens de
+                    notre pauvre père<choice><sic/><corr>,</corr></choice> 20.000 francs <lb/>soient
+                    mis à la disposition de la mun<add place="inline">i</add>cipalité de
+                        <lb/><placeName type="otherPlace" ref="#pl-128">Nancy</placeName> (et
+                    aujourd’hui je crois pouvoir dire de préférence
+                            <lb/><choice><sic>de</sic><corr>à</corr></choice> <placeName
+                        type="otherPlace" ref="#pl-95">Strasbourg</placeName>) pour créer une prime
+                    annuelle, sous <lb/>le nom de
+                    <orgName><choice><sic>fondation</sic><corr>Fondation</corr></choice> Michel et
+                        Berthe Blum</orgName><choice><sic/><corr>,</corr></choice> en faveur <lb/>du
+                    sixième enfant d’une famille de travailleurs. <lb/>Dans mon esprit, cette
+                    libéralité ne doit avoir aucun <lb/>caractère impératif ; il appartiendra à ma
+                    mère et <pb facs="#FRAN_Poilus_t-0311_02"/>à mon frère de décider quand ils le
+                    feront. Ils <lb/>ne devront le faire qu’à la condition qu’elle ne les <lb/>gêne
+                    en rien. Ils feront bien d’attendre pour <lb/>savoir d’abord dans quelles
+                    conditions mon <lb/>frère se mariera. Ce que je viens de dire s’applique
+                    <lb/><choice><sic>ègalement</sic><corr>également</corr></choice> au don de
+                    10.000 (dix mille) francs <lb/>qu’il<del>s</del> y aurait lieu de faire à ma
+                    cousine <lb/><persName>Lucie Cerf</persName>, épouse divorcée
+                        <unclear>Eade</unclear> pour qu’elle fasse <lb/>de son fils qu’elle nourrit
+                    vaillamment un bon <lb/>Français.</p>
+                <p>Ces libéralités sont, de plus, exclusives de <lb/>toute autre. Ni dans ma
+                            famille<choice><sic/><corr>,</corr></choice> ni parmi mes
+                            <lb/>amis<choice><sic/><corr>,</corr></choice> je ne vois personne à qui
+                    je doive ou <lb/>veuille laisser quoi que ce soit. Des souvenirs <pb
+                        facs="#FRAN_Poilus_t-0311_03"/>à choisir parmi mes livres pourront être
+                    donnés <lb/>à <persName>Georges <surname>Marlier</surname></persName> de
+                        <placeName type="otherPlace">Lay <choice><abbr>S<hi rend="superscript"
+                                    >t</hi>.</abbr><expan>Saint-</expan></choice>Christophe</placeName>,
+                    mon <lb/>plus vieil ami, à <persName>Paul <surname>Keller</surname></persName>
+                    de <placeName type="otherPlace" ref="#pl-128">Nancy</placeName>, <lb/>à
+                        <persName>Eugène
+                            <surname>Sulger-Buel</surname></persName><choice><sic/><corr>,</corr></choice>
+                    professeur au <orgName><choice><sic>Lycée</sic><corr>lycée</corr></choice> de
+                            <placeName type="otherPlace" ref="#pl-291"
+                    >Lyon</placeName></orgName>.</p>
+                <p> Je m’excuse auprès de ma mère et <lb/>de mon frère d’avoir osé détourner <gap/>
+                    au profit <lb/>d’autres qu’eux trente mille francs d’un héritage <lb/>que notre
+                    <choice><sic>Cher</sic><corr>cher</corr></choice> père a<del>s</del>
+                    accumulé au prix de <lb/>tant de nobles peines et que je n’ai guère <lb/>grossi.
+                    Qu’ils se rappellent bien du moins le <lb/>caractère conditionnel que je laisse
+                    à ces disposi<lb break="no"/>tions qu’il dépendra d’eux seuls d’éxécuter et
+                    <lb/>au moment qui leur <choice><sic>paraitra</sic><corr>paraîtra</corr></choice>
+                    opportun. Qu’ils <pb facs="#FRAN_Poilus_t-0311_04"/>ne doutent pas de mon amour
+                    <lb/>tout entier concentré sur eux. Qu’ils <lb/>acceptent en
+                    <choice><sic>Souvenir</sic><corr>souvenir</corr></choice> de moi l’ensemble
+                    <lb/>de ce que je laisse en livres, montre, objets <lb/>personnels
+                        <supplied>et</supplied> qu’ils me pardonnent tous <lb/>les torts que j’ai pu
+                    avoir envers eux et <lb/>reçoivent la bénédiction de leur fils et frère
+                            <lb/>dévoué<choice><sic/><corr>.</corr></choice></p>
+                <signed rend="centered"><persName ref="#pers-454">Jean
+                    <surname/>Blum</persName></signed></div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0311_05_ab"/>
+                <p rend="centered">Dernières dispositions <lb/>(à ma mère et à mon frère).</p>
+                <dateline rend="centered"><date type="willDate" when="1914-08-09">9 août
+                    1914</date></dateline>
+                <signed rend="right"><persName ref="#pers-454">Jean
+                        <surname>Blum</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

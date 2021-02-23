@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0329">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Lucien Albert Bégis (6 avril 1915)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-472">Lucien Albert Bégis
+                    (1879-1915)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#DChristiane">Christiane Demeulenaere-Douyère</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0329</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0329_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXVII/1226, minute du 15 octobre 1915 (dépôt du testament de
+                            Lucien Albert Bégis)</idno>
+                        <msName>Testament de Lucien Albert Bégis (6 avril 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1915-04-06">6 avril 1915</date>. <placeName type="willPlace" ref="#pl-722">Sens</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-472"><forename>Lucien</forename> <forename>Albert</forename> <surname>Bégis</surname></persName>, mort pour la France le <date when="1915-07-04">4 juillet 1915</date> à <placeName ref="#pl-124">Bois de la Grurie (Marne)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré (testament). </support>
+                                <extent>2 pages. Dimensions du testament : <dimensions
+                                        type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010154"
+                                >étude notariale 27 (CRPCEN : 75111)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0329_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXVII/1226, minute du 15 octobre 1915 (dépôt du testament de
+                            Lucien Albert Bégis)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-04-06">6 avril 1915</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>6 avril 1915. Sens.</p>
+                <p>testament olographe de Lucien Albert Bégis, mort pour la France le 4 juillet 1915
+                    à Bois de la Grurie (Marne).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2020-03-04/2020-04-06" who="#lelia #GBMireille">transcription</change>
+            <change when-iso="2020-03-04/2020-04-03" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0329___JPEG___FRAN_Poilus_t-0329_01ab.jpg"
+                xml:id="FRAN_Poilus_t-0329_01ab"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0329___JPEG___FRAN_Poilus_t-0329_02.jpg"
+                xml:id="FRAN_Poilus_t-0329_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0329">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0329_01ab"/>
+                <dateline rend="centered"><placeName type="willPlace" ref="#pl-722">Sens</placeName>
+                    <date type="willDate" when="1915-04-06">le 6
+                    <choice><sic>Avril</sic><corr>avril</corr></choice> 1915</date></dateline>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <head rend="centered">Ceci est mon
+                    <choice><sic>Testament</sic><corr>testament</corr></choice></head>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <p>Je soussigné <persName ref="#pers-472"><surname>Bégis</surname> Lucien
+                        Albert</persName> <lb/>partant au feu <date type="otherDate" when="1915-04-07"
+                        >le 7 avril 1915</date> <lb/>déclare comme héritières : <choice><abbr>M<hi
+                                rend="superscript-double-underlined"
+                            >lle</hi></abbr><expan>Mademoiselle</expan></choice> <persName>Ernestine
+                        <lb/>Bégis,</persName> <choice><sic>sa</sic><corr>ma</corr></choice> soeur, demeurant 38 <hi
+                        rend="superscript-double-underlined"
+                            >bis</hi> <lb/><choice><sic>Rue</sic><corr>rue</corr></choice> Traversière
+                    à <placeName type="otherPlace" ref="#pl-2">Paris</placeName> et
+                                <choice><abbr>M<hi rend="superscript-double-underlined"
+                            >lle</hi></abbr><expan>Mademoiselle</expan></choice> <lb/><persName>Marie-Thérèse
+                        Lemarié</persName>, <choice><sic>sa</sic><corr>ma</corr></choice> nièce <lb/>demeurant chez ses parents 50 <lb/>
+                    Faubourg Saint<choice><sic> </sic><corr>-</corr></choice>Martin à <placeName
+                        type="otherPlace" ref="#pl-2">Paris</placeName>.</p>
+                <p>Il devra être fait deux parts <lb/>égales de tout ce que je possède <lb/>et dont
+                    ci-dessous détail : <lb/><choice><sic>En</sic><corr>en</corr></choice> dépôt à la <orgName>Société
+                        <choice><sic>Générale</sic><corr>générale</corr></choice> <lb/>Agence
+                        A</orgName><choice><sic/><corr>,</corr></choice> Rue
+                            Réaumur<choice><sic/><corr>,</corr></choice> une <lb/>somme liquide
+                    d’environ <choice><sic>dix <lb/>huit</sic><corr>dix-<lb/>huit</corr></choice> cents
+                    francs - trois obligations
+                    <lb/><choice><sic>Communales</sic><corr>communales</corr></choice> 1879 - une de 1880 -
+                    <lb/>six de 1906 - une de 1912 <pb facs="#FRAN_Poilus_t-0329_02"/>une obligation
+                    de 1909 et cinq de 1913.</p>
+                <p>2<hi rend="superscript-double-underlined"
+                            >o</hi> Une somme d’environ
+                        qui<add place="inline">n</add>ze cents à <lb/>deux mille francs qui me
+                    revient <lb/>de mon compte à la <orgName>maison A. Dreyfus</orgName> <lb/>50
+                            <choice><sic>Rue</sic><corr>rue</corr></choice> <choice><sic>Croix des
+                            Petits Champs</sic><corr>Croix-des-Petits-Champs</corr></choice> à
+                        <placeName type="otherPlace" ref="#pl-2"
+                            >Paris</placeName><choice><sic/><corr>.</corr></choice></p>
+                <p>3<hi rend="superscript-double-underlined"
+                    >o</hi> Une somme de
+                            dix<choice><sic> </sic><corr>-</corr></choice>sept cents francs <lb/>due par
+                    mon frère <persName>Jules <surname>Bégis</surname></persName> <lb/>habitant
+                        <placeName type="otherPlace">Les Lilas</placeName> et dont mes
+                    <lb/>héritières disposeront à leur gré.</p>
+                <metamark function="separating" rend="horizontal-line"/>
+                <p><add place="marginLeft">Mon exécuteur testamentaire <lb/>sera mon frère
+                            <persName>Ernest <surname>Bégis</surname></persName> <lb/>demeurant 124
+                    <choice><sic>Boulevard</sic><corr>boulevard</corr></choice> Montparnasse à
+                            <placeName type="otherPlace" ref="#pl-2"
+                                >Paris</placeName><choice><sic/><corr>.</corr></choice></add></p>
+                <p>Une montre en or, une <choice><sic>chaine</sic><corr>chaîne</corr></choice> or,
+                    <lb/>une bourse or et une pièce d’or <lb/>montée reviendront à mon frère
+                        <lb/><persName>Georges <surname>Bégis</surname></persName> 88 Rue
+                    Damrémont <lb/>à <placeName type="otherPlace" ref="#pl-2">Paris</placeName> qui
+                    en disposera comme <lb/>il l’entendra.</p>
+                <dateline>Fait à <placeName type="willPlace" ref="#pl-722">Sens</placeName> <date
+                        type="willDate" when="1915-04-06">le 6
+                    <choice><sic>Avril</sic><corr>avril</corr></choice> 1915</date> <lb/>sain de
+                    corps et d’esprit avant son <lb/>départ au feu avec le <orgName ref="#o-87"
+                                    >168<hi rend="superscript-double-underlined"
+                                        >e</hi> <choice><sic>Régiment</sic><corr>régiment</corr></choice>
+                        <lb/>d’<choice><sic>Infanterie</sic><corr>infanterie</corr></choice></orgName>.</dateline>
+                <signed rend="left"><persName>Lucien
+                    <surname>Bégis</surname></persName></signed> <postscript><p>Demeurant
+                    à <placeName type="willAuthorResidence" ref="#pl-2">Paris</placeName> 58
+                    <choice><sic>Rue</sic><corr>rue</corr></choice> Rodier<choice><sic></sic><corr>.</corr></choice></p></postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

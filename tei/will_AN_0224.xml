@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0224">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Pierre Étienne Frédéric Desbordes (2 février
+                    1916)] : édition électronique</title>
+                <author><persName ref="#pers-283">Pierre Étienne Frédéric Desbordes
+                        (1886-1917)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#CNougaret">Christine Nougaret</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#Lamotte">Isabelle Lamotte</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0224</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0224_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LXXVI/1287, minute du 13 mai 1919 (dépôt du testament de Pierre
+                            Etienne Frédéric Desbordes)</idno>
+                        <msName>Testament de Pierre Etienne Frédéric Desbordes (2 février
+                            1916)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1916-02-02">2 février 1916</date>. <placeName type="willPlace" ref="#pl-452">Puisieulx</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-283"><forename>Pierre</forename> <forename>Étienne</forename> <forename>Frédéric</forename> <surname>Desbordes</surname></persName>, mort pour la France le <date when="1917-04-06">6 avril 1917</date> à la <placeName ref="#pl-451">ferme de Malval au nord de Braye (Aisne)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à lettre (testament). </support>
+                                <extent>2 pages et 1 enveloppe. Dimensions du testament :
+                                        <dimensions type="willPage" unit="cm">
+                                        <height>21,2</height>
+                                        <width>13,4</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010203"
+                                >étude notariale 076 (CRPCEN : 75005)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0224_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LXXVI/1287, minute du 13 mai 1919 (dépôt du testament de Pierre
+                            Etienne Frédéric Desbordes)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1916-02-02">2 février 1916</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>2 février 1916. Puisieulx.</p>
+                <p>testament olographe de Pierre Étienne Frédéric Desbordes, mort pour la France le
+                    6 avril 1917 à la ferme de Malval au nord de Braye (Aisne).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-09-10/2019-05-07" who="#MFGarreau #lelia #SL. #Lamotte"
+                >transcription</change>
+            <change when-iso="2018-09-10/2018-10-22" who="#PCharbonnier #FClavaud"
+                >validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0224___JPEG___FRAN_Poilus_t-0224_01.jpg"
+                xml:id="FRAN_Poilus_t-0224_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0224___JPEG___FRAN_Poilus_t-0224_02.jpg"
+                xml:id="FRAN_Poilus_t-0224_02"/>
+        </surface>
+        <surface type="will-envelope-recto" n="03">
+            <graphic url="testament_AN_0224___JPEG___FRAN_Poilus_t-0224_03.jpg"
+                xml:id="FRAN_Poilus_t-0224_03"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0224">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0224_01"/>
+                <dateline rend="centered"><placeName type="willPlace" ref="#pl-452">Ferme
+                        d’Alger</placeName></dateline>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <head>Ceci est mon testament.</head>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Je désire que <persName><choice><abbr type="title">M<hi
+                                    rend="superscript-underlined"
+                                >lle</hi></abbr><expan>Mademoiselle</expan></choice> Renée
+                        Boissonnat</persName> <lb/>habitant 128 rue du <choice><sic>Mont
+                            Cenis</sic><corr>Mont-Cenis,</corr></choice> <placeName
+                        type="willAuthorResidence" ref="#pl-2">Paris</placeName> <lb/>avec moi, sous
+                    le nom de <persName><choice><abbr type="title">M<hi
+                                    rend="superscript-underlined"
+                                >me</hi></abbr><expan>Madame</expan></choice>
+                    Desbordes</persName> <lb/>soit mise à l’abri du besoin immédiat
+                            <lb/><choice><sic>c’est à dire</sic><corr>c’est-à-dire</corr></choice>
+                    qu’il lui soit constitué
+                    <choice><abbr>1</abbr><expan>une</expan></choice> <lb/>rente de
+                                100<choice><abbr><hi rend="superscript-underlined"
+                            >f</hi></abbr><expan> francs</expan></choice> par mois sur la dotation
+                    <lb/>qui m’a été faite par mon père et <subst><del>qu’</del><add place="above"
+                            >dont</add></subst> il a <lb/>conservé le capital.</p>
+                <p>Le reste de mon avoir sera placé sur le <lb/>nom des
+                            <choice><abbr>3</abbr><expan>trois</expan></choice> filles de ma soeur
+                    de sorte qu’<lb break="no"/>elles <add place="above">ne</add> puissent toucher
+                    au capital.</p>
+                <p>Je désire également qu’il soit donné en <lb/>outre à la <persName>demoiselle
+                        Boissonnat</persName> une <lb/>somme de 1000<choice><abbr><hi
+                                rend="superscript-underlined"
+                        >f</hi></abbr><expan> francs</expan></choice><metamark function="other"
+                        rend="other"/> <add place="below">pour</add> lui
+                            permett<subst><del>ant</del><add place="inline">re</add></subst> de
+                    <lb/>retourner à <placeName type="otherPlace">Lyon</placeName> auprès de ses
+                    parents <lb/>avec le mobilier <choice><sic>del</sic><corr>de
+                    l</corr></choice>’appartement de <placeName type="willAuthorResidence"
+                        ref="#pl-2">Paris</placeName>.</p>
+                <fw place="right"><choice><sic>-</sic><corr></corr></choice><choice><abbr>TSVP</abbr><expan>Tournez s’il vous
+                        plaît</expan></choice>.</fw>
+                <pb facs="#FRAN_Poilus_t-0224_02"/>
+                <p>Ceci est à transmettre à mon père <lb/>auquel je demande de bien vouloir
+                    <lb/>exécuter ces <del>volo</del> désirs.</p>
+                <p><choice><sic>A</sic><corr>À</corr></choice> son défaut, mon frère est prié de s’en <lb/>charger. (<persName>Lieutenant
+                                <choice><abbr>D.</abbr><expan>Desbordes</expan></choice></persName> <orgName>poste
+                        c / avions <lb/>134<choice><sic>. Secteur 56</sic><corr>, secteur
+                            56</corr></choice></orgName>.)</p>
+                <dateline rend="centered"><placeName type="willPlace" ref="#pl-452">Ferme
+                        d’Alger</placeName><choice><sic/><corr>,</corr></choice> <date
+                        type="willDate" when="1916-02-02">le 2
+                                <choice><sic>fevrier</sic><corr>février</corr></choice>
+                    1916</date><choice><sic></sic><corr>.</corr></choice></dateline>
+                <signed rend="centered"><persName ref="#pers-283"
+                        ><surname>Desbordes</surname></persName></signed>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0224_03"/>
+                <p rend="left">Aux bons soins du <persName><choice><abbr type="title">L<hi
+                                    rend="superscript-underlined"
+                                >t</hi></abbr><expan>lieutenant</expan></choice> <surname>Desbordes</surname></persName>.</p>
+                <space dim="vertical" unit="lines" quantity="4"/>
+                <p><choice><sic>A</sic><corr>À</corr></choice> ouvrir en cas de décès du <choice><abbr>s/l<hi rend="superscript-underlined"
+                                >t</hi></abbr><expan>sous-lieutenant</expan></choice> <persName
+                        ref="#pers-283">D.</persName> aviateur<choice><sic></sic><corr>.</corr></choice></p>
+                <p rend="centered">(Testament<choice><sic>.</sic><corr></corr></choice>).</p>
+            </div>
+        </body>
+    </text>
+</TEI>

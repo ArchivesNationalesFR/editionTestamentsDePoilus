@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0348">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Louis Brun (26 septembre 1914)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-490">Louis Brun (1874-1915)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#DChristiane">Christiane Demeulenaere-Douyère</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#CNougaret">Christine Nougaret</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0348</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0348_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXVII/1258, minute du 12 mars 1920 (dépôt du testament de Louis
+                            Brun)</idno>
+                        <msName>Testament de Louis Brun (26 septembre 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-09-26">26 septembre 1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-490"><forename>Louis</forename> <surname>Brun</surname></persName>, mort pour la France le <date when="1915-10-03">3 octobre 1915</date> aux <placeName ref="#pl-742">tranchées de Bully-Grenay (Pas de Calais)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions
+                                        type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010154"
+                                >étude notariale 27 (CRPCEN : 75111)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0348_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXVII/1258, minute du 12 mars 1920 (dépôt du testament de Louis
+                            Brun)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-09-26">26 septembre 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>26 septembre 1914. Paris.</p>
+                <p>testament olographe de Louis Brun, mort pour la France le 3 octobre 1915 aux
+                    tranchées de Bully-Grenay (Pas de Calais).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2020-03-04/2020-04-07" who="#lelia #GBMireille">transcription</change>
+            <change when-iso="2020-03-04/2020-03-31" who="#PCharbonnier #CNougaret"
+                >validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0348___JPEG___FRAN_Poilus_t-0348_01ab.jpg"
+                xml:id="FRAN_Poilus_t-0348_01ab"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0348">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0348_01ab"/>
+                <head>Ceci est mon testament</head>
+                <metamark function="separating" rend="horizontal-line"/>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Sain de <choice><sic>Corps et d.esprit </sic><corr>corps et
+                        d’esprit.</corr></choice> Je
+                    <lb/><choice><sic>Soussigné</sic><corr>soussigné</corr></choice> <persName>Louis
+                            <surname>Brun</surname></persName> demeurant <lb/>à <placeName
+                        type="willAuthorResidence" ref="#pl-2">Paris</placeName> 45 rue de la
+                            <choice><sic>gaité
+                        <surplus>45</surplus></sic><corr>Gaîté</corr></choice><choice><sic>.</sic><corr>,</corr></choice> <lb/>lègue
+                    en toute propriété tout <lb/>ce que je possède
+                            <choice><sic>a</sic><corr>à</corr></choice> mon épouse
+                        <lb/>née <persName>Marie
+                            <surname/>Robeyrolle</persName><choice><sic/><corr>,</corr></choice>
+                    avec faculté <lb/><choice><sic>par</sic><corr>pour</corr></choice> elle d’en
+                    disposer <choice><sic>Comme</sic><corr>comme</corr></choice> <lb/>bon lui
+                    <choice><sic>Semblera</sic><corr>semblera</corr></choice> après mon
+                            <lb/><choice><sic>décé</sic><corr>décès</corr></choice>.</p>
+                <p rend="left">Et <choice><sic>D’ores et déja</sic><corr>d’ores et
+                    déjà</corr></choice> je lui <lb/>donne pouvoir <add place="marginLeft" type="testatorComment"><hi
+                            rend="double-underlined">Pouvoirs</hi></add> étant donné les
+                    <lb/><choice><sic>événement</sic><corr>événements,</corr></choice> de gérer et
+                    administrer <lb/>le bien
+                            <choice><sic>C</sic><corr>c</corr></choice>omm<subst><del>n</del><add>u</add></subst>n
+                    et le <choice><sic>fond de <lb/>Commerce de Vins</sic><corr>fonds de <lb/>commerce de
+                            vins</corr></choice> que nous <lb/>exploitons à
+                        <placeName>Paris</placeName> <choice><sic>ces</sic><corr>en la
+                        </corr></choice> dite rue de <lb/>la
+                            <choice><sic>Gaitée</sic><corr>Gaîté</corr></choice>&#xa0;<choice><abbr>N<hi
+                                rend="superscript">o</hi></abbr><expan>numéro</expan></choice>
+                            45<choice><sic/><corr>.</corr></choice></p>
+                <dateline><choice><sic>fait</sic><corr>Fait</corr></choice> de bonne foi
+                            <lb/><choice><sic>a</sic><corr>à</corr></choice> <placeName
+                        type="willPlace" ref="#pl-2">Paris</placeName> <date type="willDate"
+                        when="1914-09-26">le <choice><sic>vingtsix Septembre<lb/>
+                            Milneufcent</sic><corr>vingt-six septembre <lb/>mil neuf
+                            cent</corr></choice>
+                        quatorze</date><choice><sic/><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="centered"><persName ref="#pers-490"
+                        >L.<surname>Brun</surname></persName>. </signed>
+            </div>
+        </body>
+    </text>
+</TEI>

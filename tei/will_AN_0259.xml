@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0259">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Félix Henri Marie Richard de Nugent (8 et 10 août
+                    1914)] : édition électronique</title>
+                <author>
+                    <persName ref="#pers-316">Félix Henri Marie Richard de Nugent
+                        (1882-1914)</persName>
+                </author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#DChristiane">Christiane Demeulenaere-Douyère</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#SL.">EG</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName ref="#AN">Archives nationales</orgName>
+                </publisher>
+                <publisher>
+                    <orgName>Université de Cergy-Pontoise</orgName>
+                </publisher>
+                <publisher>
+                    <orgName ref="#AD78">Archives départementales des Yvelines</orgName>
+                </publisher>
+                <publisher>
+                    <orgName>École nationale des chartes</orgName>
+                </publisher>
+                <publisher>
+                    <orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName>
+                </publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0259</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0259_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVI/1385, minute du 30/01/1915 (dépôt du testament de Félix
+                            Henri Marie Richard de Nugent)</idno>
+                        <msName>Testament de Félix Henri Marie Richard de Nugent (8 et 10 août
+                            1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when-iso="1914-08-08/1914-08-10">8 et 10 août 1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-316"><forename>Félix</forename> <forename>Henri</forename> <forename>Marie</forename> <forename>Richard</forename> <surname>Nugent</surname></persName>, mort pour la France le <date when="1914-08-30">30/08/1914</date> à <placeName ref="#pl-196">Saint-Nicolas-du-Port (Meurthe et Moselle)</placeName>.</p>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré (testament). </support>
+                                <extent>2 pages et 1 enveloppe. Dimensions du testament :
+                                        <dimensions type="willPage" unit="cm"
+                                            ><height>24,9</height><width>17,8</width></dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance>
+                            <orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010183"
+                                >étude notariale 56 (CRPCEN : 75040)</orgName>
+                        </provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0259_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVI/1385, minute du 30/01/1915 (dépôt du testament de Félix
+                            Henri Marie Richard de Nugent)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date type="willDate" when-iso="1914-08-08/1914-08-10">8 et 10 août 1914</date>
+            </creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>8 et 10 août 1914. Paris.</p>
+                <p>testament olographe de Félix Henri Marie Richard Nugent, mort pour la France le
+                    30/08/1914 à Saint-Nicolas-du-Port (Meurthe et Moselle).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-02-12/2020-06-11" who="#lelia #MFGarreau #SL."
+                >transcription</change>
+            <change when-iso="2019-02-12/2019-03-15" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0259___JPEG___FRAN_Poilus_t-0259_01ab.jpg"
+                xml:id="FRAN_Poilus_t-0259_01ab"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0259___JPEG___FRAN_Poilus_t-0259_02.jpg"
+                xml:id="FRAN_Poilus_t-0259_02"/>
+        </surface>
+        <surface type="will-envelope-recto" n="03">
+            <graphic url="testament_AN_0259___JPEG___FRAN_Poilus_t-0259_03.jpg"
+                xml:id="FRAN_Poilus_t-0259_03"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0259">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0259_01ab"/>
+                <head rend="centered">Ceci est mon testament :</head>
+                <p>Je lègue à mon frère Gilbert tout ce <lb/>que je peux posséder ici-bas, ma part
+                    dans <lb/>l’affaire de la licitation du domaine de <placeName type="otherPlace"
+                                >Saint<choice><sic> </sic><corr>-</corr></choice><lb/>Estève</placeName>
+                    qui n’est pas encore réglée, tous mes <lb/>meubles situés à <placeName
+                        type="otherPlace" ref="#pl-2">Paris</placeName> ou à
+                                <placeName>Saint<choice><sic> </sic><corr>-</corr></choice>Estève</placeName><choice><sic></sic><corr>,</corr></choice> <lb/>l’argenterie,
+                    les souvenirs de famille.</p>
+                <p><hi rend="underlined">Si dans la guerre franco-germanique, <lb/>mon frère</hi> me
+                    précède et <hi rend="underlined">tombe à son <lb/>poste avant moi</hi>, <add
+                        place="marginLeft" type="testatorComment">quatorze mots <lb/>soulignés <seg type="signature"
+                                ><persName ref="#pers-316"
+                        >RN</persName></seg></add> je laisse tous mes biens
+                    <lb/>à ma <choice><sic>Cousine</sic><corr>cousine</corr></choice> <persName>Alix de
+                        Lenzbourg</persName>, en la <lb/>priant instamment d’épouser un
+                            Français<choice><sic/><corr>.</corr></choice> <lb/>Je lui demanderai
+                    également de bien vouloir <lb/>faire parvenir un souvenir choisi parmi <lb/>mes
+                    meubles <add place="above">(bague avec perle)</add> <add place="marginLeft" type="testatorComment">trois
+                        mots ajoutés <seg type="signature"><persName ref="#pers-316"
+                                    >RN</persName></seg></add> à une autre
+                    parente qu’elle <choice><sic>con-<lb/>nait</sic><corr>con<lb break="no"/>naît</corr></choice> bien (<persName>Marie de
+                        Sinéty</persName>). Je compte sur <lb/>sa discrétion pour faire remettre cet
+                    objet <lb/>même en conservant l’anonymat. <persName>Alix <lb/>de
+                        Lenzbourg</persName> devra remettre mon sabre "<choice><sic>Ré-<lb/>giment</sic><corr>Ré<lb break="no"></lb>giment</corr></choice> de
+                    Nugent" à un membre de la famille, <lb/><choice><sic>français</sic><corr>Français</corr></choice> ou Anglais, portant
+                    mon nom et <choice><sic>sus-<lb/>ceptible</sic><corr>sus<lb break="no"/>ceptible</corr></choice> de fonder une famille. Elle donnera
+                    <lb/>de même un souvenir à mon associé
+                                <persName>Monsieur <lb/>A.
+                        E. Labouchere</persName>, dont la collaboration affable <lb/>ne s’est pas
+                    démentie depuis plus de cinq ans.</p>
+                <p>En m’en allant j’adresse un dernier merci à <lb/>ma
+                    <choice><sic>Tante</sic><corr>tante</corr></choice> qui m’a élevé dans le
+                    droit chemin<choice><sic/><corr>.</corr></choice></p>
+                <p>Si cela se peut<choice><sic></sic><corr>,</corr></choice> je désire être enterré dans le <lb/>petit cimetière <placeName
+                        type="otherPlace">des Mesnuls</placeName> à
+                            <choice><sic>coté</sic><corr>côté</corr></choice> du mémoire <lb/>de mon
+                    père et près des tombes des miens.</p>
+                <p>Pour mes droits sur le bois de <placeName type="otherPlace"
+                        >Villevieille</placeName><choice><sic></sic><corr>,</corr></choice> canton <lb/>d’Entrevaux
+                                    (Basses<choice><sic> </sic><corr>-</corr></choice>Alpes)<choice><sic></sic><corr>,</corr></choice> je les
+                            <choice><sic>legue</sic><corr>lègue</corr></choice> <hi rend="underlined"
+                        >toujours au <lb/>cas de prédécès de mon frère</hi> <add place="marginLeft" type="testatorComment">huit mots <lb/>soulignés <seg type="signature"><persName ref="#pers-316"
+                                    >RN</persName></seg></add> à ma cousine
+                    <persName><choice><sic>Va-<lb/>lentine</sic><corr>Va<lb break="no"/>lentine</corr></choice> de Sallmard</persName> qui a
+                    elle-même des droits sur <pb facs="#FRAN_Poilus_t-0259_02"/>cette propriété, que
+                    son père a souvent visitée.</p>
+                <dateline rend="right"><placeName type="willPlace" ref="#pl-2">Paris</placeName> 
+                        <date type="willDate" when="1914-08-08">le huit
+                            <choice><sic>Août</sic><corr>août</corr></choice> <choice><sic>dix neuf</sic><corr>dix-neuf</corr></choice> cent
+                            <subst><del>treize</del><add>quatorze</add></subst></date> <add place="marginBottom" type="testatorComment">Je dis
+                                mil neuf
+                                cent <lb/>quatorze <seg type="signature"><persName ref="#pers-316"
+                                    >Richard de Nugent</persName></seg></add><choice><sic></sic><corr>.</corr></choice></dateline>
+                <signed rend="centered">
+                    <persName ref="#pers-316">Richard de <surname>Nugent</surname></persName>
+                </signed>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <postscript>
+                    <p>Toujours <hi rend="underlined">au cas où</hi> <hi rend="double-underlined"
+                        >mon</hi> <hi rend="underlined">frère décèderait avant moi</hi>, <add type="testatorComment" place="below">huit mots soulignés <seg type="signature"><persName ref="#pers-316"
+                            >RN</persName></seg></add> <lb/>je
+                        désire que l’argenterie des Mons, que m’a léguée <lb/>ma mère en 1912, et
+                        qui porte les armes suivantes : <lb/>un cheval maure sur fond d’or et trois
+                        molettes <lb/>d’éperons sur chef bleu, devienne la propriété, <lb/>avec sa
+                        gaine, de mon cousin <persName>Henri de Sinéty</persName>, <lb/>52
+                        <choice><sic>Quai</sic><corr>quai</corr></choice>
+                                Debilly<choice><sic>.</sic><corr>,</corr></choice> <placeName
+                            type="otherPlace" ref="#pl-2">Paris</placeName>. C’est l’argenterie de
+                        <lb/>ses <choice><sic>arrière
+                            grand’</sic><corr>arrière-grands-</corr></choice>parents.</p>
+                </postscript>
+                <dateline rend="right"><date type="willDate" when="1914-08-10">Le <choice><sic><hi
+                                    rend="underlined">Dix Août</hi></sic><corr>dix
+                            août</corr></choice>
+                    1914</date><choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="centered">
+                    <persName ref="#pers-316">Richard de <surname>Nugent</surname></persName>
+                </signed>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0259_03"/>
+                <p rend="centered">Ceci est mon testament<choice><sic/><corr>.</corr></choice></p>
+                <dateline rend="centered"><placeName type="willPlace" ref="#pl-2">Paris</placeName>
+                    <date type="willDate" when="1914-08-10">le 10
+                        <choice><sic>Août</sic><corr>août</corr></choice>
+                            1914</date>.</dateline>
+                <signed rend="centered">
+                    <persName ref="#pers-316">R<surname>N</surname>
+                    </persName>
+                </signed>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0292">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Pierre Marie Bricaud (03/08/1914)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-345">Pierre Marie Bricaud
+                    (1879-1918)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#DChristiane">Christiane Demeulenaere-Douyère</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+                    <persName ref="#SL.">EG</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0292</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0292_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVI/1439, minute du 26/06/1919 (dépôt du testament de Pierre
+                            Marie Bricaud)</idno>
+                        <msName>Testament de Pierre Marie Bricaud (03/08/1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-03">03/08/1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-345"><forename>Pierre</forename> <forename>Marie</forename> <surname>Bricaud</surname></persName>, mort pour la France le <date when="1918-11-05">05/11/1918</date> dans l’<placeName ref="#pl-525">ambulance 4/14 secteur postal 101, Giromany
+            (Haut-Rhin)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>1 page et 1 enveloppe. Dimensions du testament : <dimensions
+                                        type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010183"
+                                >étude notariale 56 (CRPCEN : 75040)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0292_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVI/1439, minute du 26/06/1919 (dépôt du testament de Pierre
+                            Marie Bricaud)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-03">03/08/1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>03/08/1914. Paris.</p>
+                <p>testament olographe de Pierre Marie Bricaud, mort pour la France le 05/11/1918
+                    dans l’ambulance 4/14 secteur postal 101, Giromany (Haut-Rhin).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-02-12/2019-05-02" who="#MFGarreau #lelia #GBMireille #SL."
+                >transcription</change>
+            <change when-iso="2019-02-12/2019-03-07" who="#PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0292___JPEG___FRAN_Poilus_t-0292_01.jpg"
+                xml:id="FRAN_Poilus_t-0292_01"/>
+        </surface>
+        <surface type="will-envelope-verso" n="02">
+            <graphic url="testament_AN_0292___JPEG___FRAN_Poilus_t-0292_02.jpg"
+                xml:id="FRAN_Poilus_t-0292_02"/>
+        </surface>
+        <surface type="will-envelope-verso" n="03">
+            <graphic url="testament_AN_0292___JPEG___FRAN_Poilus_t-0292_03.jpg"
+                xml:id="FRAN_Poilus_t-0292_03"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0292">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0292_01"/>
+                <dateline rend="centered"><placeName type="willPlace" ref="#pl-2">Paris</placeName>
+                    <date type="willDate" when="1914-08-03">le 3
+                                <choice><sic>Aout</sic><corr>août</corr></choice>
+                    1914</date></dateline>
+                <space dim="vertical" unit="lines" quantity="3"/>
+                <p>Pa<add place="above"
+                    >r</add>tant <choice><sic>a</sic><corr>à</corr></choice> la guerre. <lb/>Je
+                            <choice><sic>par</sic><corr>pars</corr></choice> comme l’on doit faire
+                    ce <lb/>qu<add place="above"
+                        >’</add>un patriote doit
+                            faire<choice><sic/><corr>.</corr></choice></p>
+                <p>Si le malheur
+                            <choice><sic>marrivais</sic><corr>m’arrivait</corr></choice> <lb/>je
+                            <choice><sic>desire</sic><corr>désire</corr></choice> que
+                    <choice><sic>tous</sic><corr>tout</corr></choice> ce qui <choice><sic>appar-<lb
+                        />tient</sic><corr>appar<lb
+                            break="no"/>tient</corr></choice>&#xa0;<choice><sic>a moi et a</sic><corr>à moi et
+                                à</corr></choice> ma femme<choice><sic> <lb/>Ma</sic><corr>,
+                        <lb/>ma</corr></choice> femme <persName>Marie
+                                Castel<choice><sic>.</sic><corr>-</corr></choice>Bricaud</persName> <lb/>de
+                    jouir <choice><sic>a</sic><corr>à</corr></choice> son <choice><sic>grée de
+                            tous</sic><corr>gré de tout</corr></choice> ce <lb/>que nous
+                            <choice><sic>possedon.</sic><corr>possédons,</corr></choice> sans que
+                    <lb/><choice><sic>Aucun</sic><corr>aucun</corr></choice> de ma famille
+                    puisse <lb/>réclamer <choice><sic>quoique ce soi</sic><corr>quoi que ce
+                            soit</corr></choice>.</p>
+                <p><choice><sic>Tant qua</sic><corr>Quant à</corr></choice> notre fils
+                        <persName>Eugène
+                        <lb/>Bricaud</persName><choice><sic>.</sic><corr>,</corr></choice> elle
+                            <choice><sic>sarrangera</sic><corr>s’arrangera</corr></choice> comme
+                    <lb/>il lui <choice><sic>plairat celon</sic><corr>plaira selon</corr></choice>
+                    ses <choice><sic>moyent.</sic><corr>moyens, </corr></choice> <lb/>pour lui donner soit
+                    instruction <lb/><del>soit</del> ou lui donner un
+                            <choice><sic>metier</sic><corr>métier</corr></choice> <lb/>pour pouvoir
+                    <choice><sic>ce debrouiller</sic><corr>se débrouiller</corr></choice>.</p>
+                <p><choice><abbr>2<hi rend="superscript-underlined"
+                            >eme</hi></abbr><expan>Deuxièmement : </expan></choice> 
+                    <choice><sic>Je Declare</sic><corr>je déclare</corr></choice> que
+                                <persName>Monsieur
+                        <lb/>Capou</persName> me doit la somme de 80<hi
+                                rend="superscript">f</hi>.00
+                    <lb/>dont <choice><sic>jen est</sic><corr>j’e n’ai</corr></choice> aucun
+                    <choice><sic>reçut</sic><corr>reçu</corr></choice>. <lb/><persName><choice><abbr>M<hi
+                                    rend="superscript">r</hi></abbr><expan>Monsieur</expan></choice>
+                        Capou</persName><choice><sic>. cafe. </sic><corr>, café, </corr></choice> 12
+                            <choice><abbr>Av.</abbr><expan>avenue</expan></choice> Daumesnil
+                        <lb/><placeName type="otherPlace" ref="#pl-2">Paris</placeName>.</p>
+                <dateline rend="centered">Fait <choice><sic>a</sic><corr>à</corr></choice> <placeName
+                        type="willPlace" ref="#pl-2"
+                            >Paris</placeName><choice><sic> :</sic><corr>,</corr></choice> le
+                        <lb/><space dim="horizontal" unit="chars" quantity="6"/><date
+                        type="willDate" when="1914-08-03">3
+                            <choice><sic>Aout</sic><corr>août</corr></choice> 1914</date><choice><sic></sic><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="centered"><persName ref="#pers-345">P
+                        <surname>Bricaud</surname></persName></signed>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0292_02"/>
+                <p><choice><sic>a Remettre</sic><corr>À remettre</corr></choice> à
+                            Madame <lb/><space
+                        dim="horizontal" unit="chars" quantity="8"/><persName>Bricaud
+                        Pierre</persName> <lb/>en <choice><sic>ca</sic><corr>cas</corr></choice> de
+                            <subst><del>D</del><add>d</add></subst>éc<choice><sic>ée</sic><corr>ès.</corr></choice> <lb/><address>
+                        <addrLine>77 <choice><sic>Rue</sic><corr>rue</corr></choice>
+                            d’<choice><sic>aboukir</sic><corr>Aboukir</corr></choice> <placeName
+                                type="willAuthorResidence" ref="#pl-2">Paris</placeName></addrLine>
+                    </address></p>
+                <pb facs="#FRAN_Poilus_t-0292_03"/>
+                <signed rend="centered"><persName ref="#pers-345"
+                            >PM<surname>Bricaud</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

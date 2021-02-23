@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0232">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Paul Maurice Stoffel (27 septembre 1916)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-290">Paul Maurice Stoffel
+                    (1873-1916)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#CNougaret">Christine Nougaret</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#Douat">Frédéric Douat</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0232</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0232_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXVII/1735, minute du 19 mars 1918 (dépôt du testament de Paul
+                            Maurice Stoffel)</idno>
+                        <msName>Testament de Paul Maurice Stoffel (27 septembre 1916)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1916-09-27">27 septembre 1916</date>. <placeName type="willPlace" ref="#pl-457">Nogent-sur-Marne</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-290"><forename>Paul</forename> <forename>Maurice</forename> <surname>Stoffel</surname></persName>, mort pour la France le <date when="1916-10-04">4 octobre 1916</date> en <placeName ref="#pl-423">mer Méditerranée</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à lettre (testament). </support>
+                                <extent>3 pages et 1 enveloppe. Dimensions du testament :
+                                        <dimensions type="willPage" unit="cm">
+                                        <height>17,6</height>
+                                        <width>11,4</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre mauve.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010244"
+                                >étude notariale 117 (CRPCEN : 75035)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0232_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXVII/1735, minute du 19 mars 1918 (dépôt du testament de Paul
+                            Maurice Stoffel)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1916-09-27">27 septembre 1916</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>27 septembre 1916. Nogent-sur-Marne.</p>
+                <p>testament olographe de Paul Maurice Stoffel, mort pour la France le 4 octobre
+                    1916 en mer Méditerranée.</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-09-10/2019-01-21" who="#MFGarreau #lelia #Douat"
+                >transcription</change>
+            <change when-iso="2018-09-10/2018-10-18" who="#PCharbonnier #FClavaud"
+                >validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
+                et contrôle de qualité finaux</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0232___JPEG___FRAN_Poilus_t-0232_01.jpg"
+                xml:id="FRAN_Poilus_t-0232_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0232___JPEG___FRAN_Poilus_t-0232_02.jpg"
+                xml:id="FRAN_Poilus_t-0232_02"/>
+        </surface>
+        <surface type="will-page" n="03">
+            <graphic url="testament_AN_0232___JPEG___FRAN_Poilus_t-0232_03.jpg"
+                xml:id="FRAN_Poilus_t-0232_03"/>
+        </surface>
+        <surface type="will-envelope-recto" n="04">
+            <graphic url="testament_AN_0232___JPEG___FRAN_Poilus_t-0232_04.jpg"
+                xml:id="FRAN_Poilus_t-0232_04"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0232">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0232_01"/>
+                <dateline><placeName type="willPlace" ref="#pl-457">Nogent<choice><abbr> s/
+                                </abbr><expan>-sur-</expan></choice>Marne</placeName>
+                    <date type="willDate" when="1916-09-27">le 27 <choice><abbr>Sept<hi
+                                    rend="superscript-double-underlined"
+                                >bre</hi></abbr><expan>septembre</expan></choice>
+                    1916</date></dateline>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <head rend="centered">Ceci est mon
+                            <choice><sic>Testament</sic><corr>testament</corr></choice></head>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <p>En permission chez ma <lb/><choice><sic>mere</sic><corr>mère</corr></choice> 2
+                            <choice><sic>Rue</sic><corr>rue</corr></choice> de Coulmiers
+                            <choice><sic>a</sic><corr>à</corr></choice>
+                    <lb/><placeName type="otherPlace" ref="#pl-457">Nogent<choice><abbr> s/
+                                </abbr><expan>-sur-</expan></choice>Marne</placeName> et avant
+                    <lb/>de rejoindre mon <choice><sic>Regiment</sic><corr>régiment</corr></choice>
+                    <lb/>en partance pour <placeName type="otherPlace"
+                            >Salonique</placeName><choice><sic/><corr>,</corr></choice>
+                    <lb/>je consigne ici mes
+                        <choice><sic>dernieres</sic><corr>dernières</corr></choice>
+                    <lb/>volontés dans le cas <choice><sic>ou</sic><corr>où</corr></choice>
+                    <term type="willAuthorVisionOfDeath">une <lb/>mort violente en mer ou <lb/>sur
+                        terre me <choice><sic>separerait</sic><corr>séparerait</corr></choice> pour
+                        <lb/>toujours de ma famille</term><choice><sic>
+                        :</sic><corr>.</corr></choice>
+                </p>
+                <p>Je <choice><sic>legue</sic><corr>lègue</corr></choice> tout ce que <lb/>je
+                            <choice><sic>possede</sic><corr>possède</corr></choice> ici et en
+                            <choice><sic>depot</sic><corr>dépôt</corr></choice>
+                    <lb/>au <orgName><choice><sic>Credit Foncier</sic><corr>Crédit
+                            foncier</corr></choice></orgName><choice><sic/><corr>,</corr></choice>
+                    argent et
+                            <lb/>valeurs<choice><sic/><corr>,</corr></choice>&#xa0;<choice><sic>a</sic><corr>à</corr></choice>
+                    ma <choice><sic>mere bien aimee</sic><corr>mère bien-aimée</corr></choice>
+                    <lb/>et <choice><sic>a</sic><corr>à</corr></choice> ma soeur <persName>France
+                        <lb/> Stoffel</persName> par
+                        <choice><sic>moitie</sic><corr>moitié</corr></choice> et
+                            <choice><sic>a</sic><corr>à</corr></choice>
+                    <lb/>part <choice><sic>egale</sic><corr>égale</corr></choice> pour chacune <pb
+                        facs="#FRAN_Poilus_t-0232_02"
+                    />d’elles<choice><sic/><corr>.</corr></choice></p>
+                <p>La <choice><sic>derniere</sic><corr>dernière</corr></choice>
+                            survivante<choice><sic> -</sic><corr>,</corr></choice>
+                    <lb/>en cas <choice><sic>ou</sic><corr>où</corr></choice> l’une <choice><sic>d
+                            elles</sic><corr>d’elles</corr></choice> serait
+                            <lb/><choice><sic>decedee</sic><corr>décédée,</corr></choice> devenant
+                            <choice><sic>heritiere</sic><corr>héritière</corr></choice>
+                    <lb/>de la <choice><sic>totalite</sic><corr>totalité</corr></choice> de ce que
+                    je <lb/>possède.</p>
+                <p>Ce legs a <choice><sic>ete</sic><corr>été</corr></choice> fait par moi
+                        <lb/><persName ref="#pers-290">Paul
+                            <surname>Stoffel</surname></persName><choice><sic/><corr>,</corr></choice>
+                    leur fils et frère<choice><sic/><corr>,</corr></choice>
+                    <lb/>en reconnaissance des soins et
+                            <lb/><choice><sic>bontes</sic><corr>bontés</corr></choice> qu’elles
+                        m<add place="above">’</add>ont
+                            <choice><sic>prodigues</sic><corr>prodigués</corr></choice>
+                    <lb/>depuis le <choice><sic>debut</sic><corr>début</corr></choice> de la
+                            guerre<choice><sic/><corr>.</corr></choice></p>
+                <p>Les faibles ressources qui
+                            <choice><sic>representent</sic><corr>représentent</corr></choice>
+                    <lb/>mon avoir aideront un peu <lb/>ma pauvre soeur <persName>France
+                        Stoffel</persName>
+                    <lb/>à vivre lorsqu’elle sera seule <lb/>au monde et sans soutien.</p>
+                <p>En for de quoi j’ai <choice><sic>redige</sic><corr>rédigé</corr></choice>
+                    <lb/>ce testament que je remets <lb/><choice><sic>a</sic><corr>à</corr></choice>
+                    ma <choice><sic>mere</sic><corr>mère</corr></choice> pour <choice><sic>qu
+                            </sic><corr>qu’</corr></choice>elle <lb/>le
+                            <choice><sic>depose</sic><corr>dépose</corr></choice> dans mes papiers
+                        <pb facs="#FRAN_Poilus_t-0232_03"
+                        />personnel<subst><del>le</del><add>s</add></subst><choice><sic/><corr>.</corr></choice></p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <dateline>Fait <choice><sic>a</sic><corr>à</corr></choice>
+                    <placeName type="willPlace" ref="#pl-457">Nogent<choice><abbr> s/
+                                </abbr><expan>-sur-</expan></choice>Marne</placeName>
+                    <lb/><date type="willDate" when="1916-09-27">le <choice><sic>Vingt
+                                </sic><corr>vingt-</corr></choice>sept
+                                <choice><sic>Septembre</sic><corr>septembre</corr></choice>
+                        <lb/>mil neuf cent seize</date> par moi <lb/><persName ref="#pers-290"
+                            >Paul<surname> Stoffel</surname></persName> et de ma <lb/>propre main et
+                    je <lb/>signe<choice><sic></sic><corr>.</corr></choice></dateline>
+                <signed rend="centered"><persName ref="#pers-290"
+                        >M<surname>Stoffel</surname></persName></signed>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0232_04"/>
+                <p><choice><sic>à</sic><corr>À</corr></choice> ouvrir
+                            <choice><sic>apres</sic><corr>après</corr></choice>
+                    <lb/><space dim="horizontal" unit="chars" quantity="5"/>ma
+                            mort<choice><sic/><corr>.</corr></choice></p>
+                <signed rend="centered"><persName ref="#pers-290"
+                        >M<surname>Stoffel</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>
