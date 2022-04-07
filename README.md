@@ -12,3 +12,8 @@ Ce dépôt contient les fichiers TEI source de l'édition numérique consultable
 Ces fichiers sont conformes à la version 4.1.0 des TEI Guidelines (<https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html>). Le modèle d'encodage (fichier ODD et schéma Relax NG correspondant) seront disponibles prochainement. Voir aussi la page <https://edition-testaments-de-poilus.huma-num.fr/apropos/h2KubHYBhCz8YWfpzreL>.
 
 Les fichiers TEI sont placés sous licence Creative Commons « Attribution 4.0 international (CC-BY 4.0) » (<https://creativecommons.org/licenses/by/4.0/deed.fr>). Voir aussi la page de mentions légales du site web d'édition numérique : <https://edition-testaments-de-poilus.huma-num.fr/apropos/-hqvnHUBighAQ_8Sp2m5>.
+
+
+## Pour plus d'informations
+
+Vous pouvez contacter par courriel le Lab des Archives nationales de France, à l'adresse suivante :  <le-lab.archives-nationales@culture.gouv.fr>.
