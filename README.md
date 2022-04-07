@@ -14,6 +14,7 @@ Ces fichiers sont conformes à la version 4.1.0 des TEI Guidelines (<https://www
 Les fichiers TEI sont placés sous licence Creative Commons « Attribution 4.0 international (CC-BY 4.0) » (<https://creativecommons.org/licenses/by/4.0/deed.fr>). Voir aussi la page de mentions légales du site web d'édition numérique : <https://edition-testaments-de-poilus.huma-num.fr/apropos/-hqvnHUBighAQ_8Sp2m5>.
 
 
-## Pour plus d'informations
+## For more information | Pour plus d'informations
 
+You can contact the Lab of the Archives Nationales de France by email at the following address: <le-lab.archives-nationales@culture.gouv.fr>.
 Vous pouvez contacter par courriel le Lab des Archives nationales de France, à l'adresse suivante :  <le-lab.archives-nationales@culture.gouv.fr>.
