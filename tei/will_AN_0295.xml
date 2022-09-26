@@ -132,6 +132,7 @@
             <change when-iso="2019-02-12/2019-03-14" who="#PCharbonnier">validation</change>
             <change who="#FClavaud #PCharbonnier" when-iso="2020-10-26/2020-12-08">enrichissements
                 et contrôle de qualité finaux</change>
+            <change who="#FClavaud" when-iso="2022-09-26">correction d'une note d'apparat critique</change>
         </revisionDesc>
     </teiHeader>
     <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
@@ -193,7 +194,7 @@
                     <item>3<hi rend="superscript-underlined">o</hi> Titre sans valeur la Coopération</item>
                     <item>4<hi rend="superscript-underlined">o</hi> (2)
                                 <supplied>titres</supplied> <app><lem>Mines de Riutort</lem><note
-                                resp="#lelia">Mines en Espagne</note></app> ?</item>
+                                resp="#FClavaud">Peut-être la mine de pétrole de Riutort en Catalogne (Espagne).</note></app> ?</item>
                     <item>5<hi rend="superscript-underlined">o</hi> Titre <choice><abbr>fermiers
                                 réunis</abbr><expan>Société de Laiterie des Fermiers
                             Réunis</expan></choice>&#xa0;<choice><sic>(25.700 <hi rend="superscript"
