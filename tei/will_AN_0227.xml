@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0227">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la
+               Grande Guerre</title>
+            <title type="main">[Testament de Edouard Lucien Marie de Thieffries de Layens (8 août
+               1914)] : édition électronique</title>
+            <author><persName ref="#pers-286">Edouard Lucien Marie de Thieffries de Layens
+                  (1893-1915)</persName></author>
+            <editor ref="#CNougaret">Christine Nougaret</editor>
+            <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+            <editor ref="#FClavaud">Florence Clavaud</editor>
+            <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>Première édition électronique, fondée sur un travail de transcription
+               collaborative</edition>
+            <respStmt>
+               <resp>Numérisation</resp>
+               <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                  scientifique. Département de la Conservation. Atelier photographique</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription</resp>
+               <persName ref="#MFGarreau">MFGarreau</persName>
+               <persName ref="#SL.">EG</persName>
+               <persName ref="#Lamotte">Isabelle Lamotte</persName>
+               <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+               <persName ref="#lelia">Lélia Picabia</persName>
+               <persName ref="#Annie">Annie</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Validation</resp>
+               <persName ref="#jmorvan">Josselin Morvan</persName>
+               <persName ref="#FClavaud">Florence Clavaud</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+               <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+               <persName ref="#FClavaud">Florence Clavaud</persName>
+               <persName ref="#jmorvan">Josselin Morvan</persName>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+            <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+            <publisher><orgName ref="#AD78">Archives départementales des
+               Yvelines</orgName></publisher>
+            <publisher><orgName>École nationale des chartes</orgName></publisher>
+            <publisher><orgName ref="#AD95">Archives départementales du
+               Val-d’Oise</orgName></publisher>
+            <date when="2021-09">septembre 2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                  4.0</licence>
+            </availability>
+            <idno>TestamentsDePoilus_will_AN_0227</idno>
+            <!--ultérieurement ajouter idno fourni par Nakala-->
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="will_AN_0227_tes">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives nationales</institution>
+                  <collection>Minutier central des notaires de Paris</collection>
+                  <idno>MC/ET/CXVII/1718, minute du 4 janvier 1916 (dépôt du testament de Edouard
+                     Lucien Marie de Thieffries de Layens)</idno>
+                  <msName>Testament de Edouard Lucien Marie de Thieffries de Layens (8 août
+                     1914)</msName>
+               </msIdentifier>
+               <msContents>
+                  <summary><p><date type="willDate" when="1914-08-08">8 août 1914</date>. <placeName type="willPlace" ref="#pl-291">Lyon</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-286"><forename>Edouard</forename> 
+                           <forename>Lucien</forename> 
+                           <forename>Marie</forename> 
+                           <surname>Thieffries de Layens</surname></persName>, mort pour la France
+                        le <date when="1915-12-29">29 décembre 1915</date> à l’<placeName ref="#pl-454">hôpital militaire de Lunéville
+                           (Meurthe-et-Moselle)</placeName>.</p></summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>Papier bleu à en-tête commercial (testament). </support>
+                        <extent>6 pages et 1 enveloppe. Dimensions du testament : <dimensions
+                              type="willPage" unit="cm">
+                              <height>17,8</height>
+                              <width>13,6</width>
+                           </dimensions>.</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <p>Testament : encre.</p>
+                  </handDesc>
+               </physDesc>
+               <history>
+                  <provenance><!--agencyNumberRoman=CXVII--><orgName
+                        ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010244"
+                        >étude notariale 117 (CRPCEN : 75035)</orgName></provenance>
+               </history>
+            </msDesc>
+            <msDesc xml:id="will_AN_0227_min">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives nationales</institution>
+                  <collection>Minutier central des notaires de Paris</collection>
+                  <idno>MC/ET/CXVII/1718, minute du 4 janvier 1916 (dépôt du testament de Edouard
+                     Lucien Marie de Thieffries de Layens)</idno>
+                  <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                     minute</msName>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation><date type="willDate" when="1914-08-08">8 août 1914</date></creation>
+         <langUsage>
+            <language ident="fr">français</language>
+         </langUsage>
+         <abstract>
+            <p>8 août 1914. Lyon.</p>
+            <p>Testament olographe de Edouard Lucien Marie de Thieffries de Layens, mort pour la
+               France le 29 décembre 1915 à l’hôpital militaire de Lunéville
+               (Meurthe-et-Moselle).</p>
+         </abstract>
+         <textClass>
+            <keywords>
+               <term type="subject">Grande Guerre</term>
+               <term type="subject">Poilu</term>
+               <term type="subject">testament</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when-iso="2018-09-10/2020-12-16"
+            who="#MFGarreau #SL. #Lamotte #GBMireille #lelia #Annie">transcription</change>
+         <change when-iso="2018-09-10/2020-06-24" who="#jmorvan #FClavaud">validation</change>
+         <change who="#FClavaud #PCharbonnier" when-iso="2021-07-30+02:00"> enrichissements et
+            contrôle de qualité finaux</change>
+         <change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant
+            publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans
+            l'élément summary et correction de la valeur des attributs resp. Par ailleurs,
+            correction dans postscript, pour rétablir la conformité aux Guidelines.</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+      <surface type="will-page" n="01">
+         <graphic url="testament_AN_0227___JPEG___FRAN_Poilus_t-0227_01.jpg"
+            xml:id="FRAN_Poilus_t-0227_01"/>
+      </surface>
+      <surface type="will-page" n="02">
+         <graphic url="testament_AN_0227___JPEG___FRAN_Poilus_t-0227_02.jpg"
+            xml:id="FRAN_Poilus_t-0227_02"/>
+      </surface>
+      <surface type="will-page" n="03">
+         <graphic url="testament_AN_0227___JPEG___FRAN_Poilus_t-0227_03.jpg"
+            xml:id="FRAN_Poilus_t-0227_03"/>
+      </surface>
+      <surface type="will-page" n="04">
+         <graphic url="testament_AN_0227___JPEG___FRAN_Poilus_t-0227_04.jpg"
+            xml:id="FRAN_Poilus_t-0227_04"/>
+      </surface>
+      <surface type="will-page" n="05">
+         <graphic url="testament_AN_0227___JPEG___FRAN_Poilus_t-0227_05.jpg"
+            xml:id="FRAN_Poilus_t-0227_05"/>
+      </surface>
+      <surface type="will-page" n="06">
+         <graphic url="testament_AN_0227___JPEG___FRAN_Poilus_t-0227_06.jpg"
+            xml:id="FRAN_Poilus_t-0227_06"/>
+      </surface>
+      <surface type="will-envelope-recto" n="07">
+         <graphic url="testament_AN_0227___JPEG___FRAN_Poilus_t-0227_07.jpg"
+            xml:id="FRAN_Poilus_t-0227_07"/>
+      </surface>
+   </facsimile>
+   <text xml:id="will_AN_0227">
+      <body>
+         <div type="will">
+            <pb facs="#FRAN_Poilus_t-0227_01"/>
+            <dateline><placeName type="willPlace" ref="#pl-291">Lyon</placeName>
+               <date type="willDate" when="1914-08-08"><choice>
+                     <sic>Samedi</sic>
+                     <corr>samedi</corr>
+                  </choice> 8 <choice>
+                     <sic>Aout</sic>
+                     <corr>août</corr>
+                  </choice> 1914</date></dateline>
+            <metamark function="separating" rend="horizontal-line"/>
+            <space dim="vertical" unit="lines" quantity="2"/>
+            <p>Je prends ces dernières <choice>
+                  <sic>disposi-<lb break="no"/>tions</sic>
+                  <corr>disposi<lb break="no"/>tions</corr>
+               </choice> à la hâte avant de <lb/>quitter <placeName type="willPlace" ref="#pl-291"
+                  >Lyon</placeName><choice><sic> -</sic><corr>.</corr></choice></p>
+            <p>Je laisse tous mes biens <lb/><choice>
+                  <sic>immobiliés</sic>
+                  <corr>immobiliers</corr>
+               </choice> à mon frère, <persName>le <lb/><choice>
+                     <sic>Marquis</sic>
+                     <corr>marquis</corr>
+                  </choice> de Layens</persName>, <choice>
+                  <sic>habittant</sic>
+                  <corr>habitant</corr>
+               </choice> le <lb/>château de Boucly par <placeName type="otherPlace"
+                  >Roisel</placeName><choice><sic/><corr>,</corr></choice>
+                     Somme<choice><sic> -</sic><corr>.</corr></choice>
+               <lb/>Mes <choice>
+                  <sic>Biens mobiliés</sic>
+                  <corr>biens mobiliers</corr>
+               </choice> seront <choice>
+                  <sic>repartis</sic>
+                  <corr>répartis</corr>
+               </choice>
+               <lb/>comme suit :</p>
+            <list>
+               <item><choice>
+                     <sic>A</sic>
+                     <corr>À</corr>
+                  </choice> la <persName><choice>
+                        <sic>Marquise</sic>
+                        <corr>marquise</corr>
+                     </choice> de Boisdenemets</persName>, ma grand-<lb break="no"
+                        />mère<choice><sic/><corr>,</corr></choice> quatre
+                        <choice><sic>cents</sic><corr>cent</corr></choice> mille
+                        francs<choice><sic/><corr>.</corr></choice></item>
+               <item><choice>
+                     <sic>A</sic>
+                     <corr>À</corr>
+                  </choice>
+                  <persName>Monsieur Elie de Fesquet</persName><choice><sic/><corr>,</corr></choice>
+                  mon frère, <lb/><choice>
+                     <sic>Deux</sic>
+                     <corr>deux</corr>
+                  </choice> cent cinquante mille francs en <lb/>pleine propriété.</item>
+               <pb facs="#FRAN_Poilus_t-0227_02"/>
+               <item><choice>
+                     <sic>A</sic>
+                     <corr>À</corr>
+                  </choice>
+                  <persName>Monsieur Elie de Fesquet</persName>
+                  <lb/><choice>
+                     <sic>Deux</sic>
+                     <corr>deux</corr>
+                  </choice> cent cinquante mille francs en <lb/><choice>
+                     <sic>nue propriété -</sic>
+                     <corr>nue-propriété.</corr>
+                  </choice> L’usufruit en <lb/>sera donné à <persName>Madame de
+                        Fesquet</persName><choice><sic/><corr>,</corr></choice>
+                  <lb/>ma mère.</item>
+               <item><choice>
+                     <sic>A</sic>
+                     <corr>À</corr>
+                  </choice>
+                  <persName>Monsieur le <choice>
+                        <sic>Comte</sic>
+                        <corr>comte</corr>
+                     </choice> Alain de <lb/>Vergennes</persName>, 4 rue Boissière, <lb/>cinq cent
+                  mille francs<choice><sic/><corr>,</corr></choice> que je <choice>
+                     <sic>charcge</sic>
+                     <corr>charge</corr>
+                  </choice>
+                  <lb/>d’autre part de régler les <choice>
+                     <sic>differentes</sic>
+                     <corr>différentes</corr>
+                  </choice>
+                  <lb/>affaires que j’avais en commun avec
+                        <lb/>lui<choice><sic> -</sic><corr>.</corr></choice></item>
+               <item><choice>
+                     <sic>A</sic>
+                     <corr>À</corr>
+                  </choice>
+                  <persName>Monsieur l’<choice><sic>Abbé</sic><corr>abbé</corr></choice>
+                     Solignac</persName>
+                  <lb/>demeurant au <placeName type="otherPlace">Canet d’Olt</placeName>, par <lb/><choice>
+                     <sic>Saint-Laurent d’Olt</sic>
+                     <corr>Saint-Laurent-d’Olt,</corr>
+                  </choice> Aveyron<choice><sic/><corr>,</corr></choice>
+                  <lb/>vingt mille francs.</item>
+               <item><choice>
+                     <sic>A</sic>
+                     <corr>À</corr>
+                  </choice>
+                  <persName>Monsieur Tardieu, Fernand</persName>, <choice>
+                     <sic>Rue</sic>
+                     <corr>rue</corr>
+                  </choice>
+                  <lb/>Saint-Fursy, <placeName type="otherPlace"
+                        >Péronne<choice><sic/><corr>,</corr></choice>
+                        Somme</placeName><choice><sic/><corr>,</corr></choice>
+                  <lb/>cinquante mille francs<choice><sic/><corr>.</corr></choice></item>
+               <item><choice>
+                     <sic>A</sic>
+                     <corr>À</corr>
+                  </choice>
+                  <persName>Miss Mary Carden</persName> habitant <lb/>93 rue de Lonchamp à
+                     <placeName ref="#pl-2">Paris</placeName><choice><sic/><corr>,</corr></choice>
+                  <lb/><choice>
+                     <sic>Dix</sic>
+                     <corr>dix</corr>
+                  </choice> mille francs<choice><sic/><corr>.</corr></choice></item>
+               <pb facs="#FRAN_Poilus_t-0227_03"/>
+               <item><choice>
+                     <sic>A</sic>
+                     <corr>À</corr>
+                  </choice>
+                  <persName><choice>
+                        <abbr>M<hi rend="superscript-underlined">elle</hi></abbr>
+                        <expan>Mademoiselle</expan>
+                     </choice> Louise Ravoir</persName><choice><sic/><corr>,</corr></choice>
+                  <lb/>femme de chambre de ma mère<choice><sic/><corr>,</corr></choice>
+                  <lb/><choice>
+                     <sic>Dix</sic>
+                     <corr>dix</corr>
+                  </choice> mille francs<choice><sic/><corr>.</corr></choice></item>
+               <item><choice>
+                     <sic>A</sic>
+                     <corr>À</corr>
+                  </choice>
+                  <persName><choice>
+                        <abbr>M<hi rend="superscript-underlined">elle</hi></abbr>
+                        <expan>Mademoiselle</expan>
+                     </choice> Julie <unclear reason="quite-illegible">Latapie</unclear></persName>,
+                  cuisinière <lb/>de <choice>
+                     <sic>Ma</sic>
+                     <corr>ma</corr>
+                  </choice> mère<choice><sic/><corr>,</corr></choice>
+                  <lb/><choice>
+                     <sic>Deux</sic>
+                     <corr>deux</corr>
+                  </choice> mille francs<choice><sic/><corr>.</corr></choice></item>
+               <item><choice>
+                     <sic>A</sic>
+                     <corr>À</corr>
+                  </choice>
+                  <persName>Monsieur Emile Aïer</persName>, <choice>
+                     <sic>maitre <lb/>d’Hotêl</sic>
+                     <corr>maître <lb/>d’hôtel</corr>
+                  </choice> de ma mère<choice><sic/><corr>,</corr></choice>
+                  <lb/><choice>
+                     <sic>Deux</sic>
+                     <corr>deux</corr>
+                  </choice> mille francs<choice><sic/><corr>.</corr></choice></item>
+               <item><choice>
+                     <sic>A</sic>
+                     <corr>À</corr>
+                  </choice>
+                  <persName>Monsieur Aimable Fauré</persName>, mon
+                        chauffeur<choice><sic/><corr>,</corr></choice>
+                  <lb/><choice>
+                     <sic>Deux</sic>
+                     <corr>deux</corr>
+                  </choice> mille francs<choice><sic/><corr>.</corr></choice></item>
+               <item><choice>
+                     <sic>A</sic>
+                     <corr>À</corr>
+                  </choice>
+                  <persName>Monsieur Alphonse Debry</persName>, gardien <lb/>du château de
+                        Boucly<choice><sic/><corr>,</corr></choice>
+                  <subst><del>5</del><add>cinq</add></subst> mille francs.</item>
+               <item><choice>
+                     <sic>A</sic>
+                     <corr>À</corr>
+                  </choice>
+                  <persName>Monsieur Camille Réauté</persName>, <lb/>chauffeur de <choice>
+                     <sic>Ma</sic>
+                     <corr>ma</corr>
+                  </choice> mère<choice><sic/><corr>,</corr></choice>
+                  <lb/><choice>
+                     <sic>Deux</sic>
+                     <corr>deux</corr>
+                  </choice> mille francs.</item>
+               <item><choice>
+                     <sic>A</sic>
+                     <corr>À</corr>
+                  </choice>
+                  <persName>Monsieur l’<choice><sic>Abbé</sic><corr>abbé</corr></choice>
+                     Solignac</persName>, <choice>
+                     <sic>dejà</sic>
+                     <corr>déjà</corr>
+                  </choice> nommé<choice><sic/><corr>,</corr></choice>
+                  <lb/><choice>
+                     <sic>Dix</sic>
+                     <corr>dix</corr>
+                  </choice> mille francs.</item>
+            </list>
+            <metamark function="separating" rend="horizontal-line"/>
+            <p>Ma mère gardera l’usufruit <subst><del>de</del><add>qu</add></subst>’elle <lb/>a
+               actuellement, d’une somme d’environ <pb facs="#FRAN_Poilus_t-0227_04"/>huit <choice>
+                  <sic>cents</sic>
+                  <corr>cent</corr>
+               </choice> mille francs dont je <subst><del><gap reason="cancelled"
+                     /></del><add>p</add></subst>ossède <lb/>la <choice>
+                  <sic>nue propriété -</sic>
+                  <corr>nue-propriété.</corr>
+               </choice></p>
+            <p>Cette <choice>
+                  <sic>nue propriété</sic>
+                  <corr>nue-propriété</corr>
+               </choice> est donnée par <lb/>moi à mon frère <persName>Elie de Fesquet</persName>
+               <lb/>qui entrera en possession de la pleine <lb/>propriété de cette somme à la mort
+               de <lb/>ma mère. Cependant, si à la mort <lb/>de ma mère, mon beau-père
+                  <persName>Monsieur <lb/>Jean de Fesquet</persName> vit encore, l’usufruit <lb/>de
+               cette partie de mes biens lui <lb/>reviendra si ma mère le veut bien.</p>
+            <p>Au cas <choice>
+                  <sic>ou</sic>
+                  <corr>où</corr>
+               </choice> mon frère <persName>Hubert <lb/>de Layens</persName> viendrait à être tué
+               <lb/>dans cette guerre, tout ce que je <lb/>lui laisse reviendrait à ma mère <lb/><persName><choice>
+                     <sic>madame</sic>
+                     <corr>Madame</corr>
+                  </choice> de Fesquet</persName> qui en fera <lb/>ce que bon lui
+                     semblera<choice><sic> -</sic><corr>.</corr></choice> Je lui <lb/>demande en ce
+               cas, de s’en <lb/>servir pour augmenter les revenus de <lb/>ma grand-mère.<choice>
+                  <sic><surplus> -</surplus></sic>
+                  <corr/>
+               </choice> Je m’excuse de <lb/>laisser des dispositions aussi rapidement
+                     <lb/>prises<choice><sic> -</sic><corr>.</corr></choice> Je charge mon
+               beau-père, <lb/><persName>Monsieur Jean de Fesquet</persName>, de régler <choice>
+                  <sic>l’accomplis-<lb break="no"/>sement</sic>
+                  <corr>l’accomplis<lb break="no"/>sement</corr>
+               </choice> de ces dispositions<choice><sic> -</sic><corr>.</corr></choice> S’il venait
+               à mourir, je demande <lb/>à <persName><choice>
+                     <abbr>Mr.</abbr>
+                     <expan>Monsieur</expan>
+                  </choice> Tardieu</persName><choice><sic/><corr>,</corr></choice><choice>
+                  <sic>Rue</sic>
+                  <corr>rue</corr>
+               </choice><choice><abbr>St
+                     Fursy</abbr><expan>Saint-Fursy</expan></choice><choice><sic/><corr>,</corr></choice>
+               <placeName type="otherPlace">Péronne</placeName> de s’en charger <lb/>pour éviter des
+               soucis à ma mère<choice><sic/><corr>.</corr></choice><metamark function="other"
+                  rend="horizontal-line"/></p>
+            <dateline><choice>
+                  <sic>A</sic>
+                  <corr>À</corr>
+               </choice>
+               <placeName type="willPlace" ref="#pl-291">Lyon</placeName>
+               <date type="willDate" when="1914-08-08">le 8 <choice>
+                     <sic>Aout</sic>
+                     <corr>août</corr>
+                  </choice> 1914</date><choice><sic/><corr>.</corr></choice></dateline>
+            <signed rend="right"><persName ref="#pers-286">Edouard de <surname>Thieffries de
+                     Layens</surname></persName></signed>
+            <pb facs="#FRAN_Poilus_t-0227_05"/>
+            <postscript>
+               <p>Au cas <choice>
+                     <sic>ou</sic>
+                     <corr>où</corr>
+                  </choice> on ne pourrait pas retrouver <lb/>la somme suffisante pour régler
+                  <lb/>ce qui est <choice>
+                     <sic>écris</sic>
+                     <corr>écrit</corr>
+                  </choice> plus haut (si les valeurs <lb/>que je
+                           possède<choice><sic><surplus>,</surplus></sic><corr/></choice> ont
+                  beaucoup baissé par <lb/>exemple) je demande que l’on donne <lb/>à chacun,
+                  proportionnellement à ce <lb/>qui restera de ma fortune.</p>
+               <p>Je <choice>
+                     <sic>pris</sic>
+                     <corr>prie</corr>
+                  </choice> la <subst><del><gap reason="cancelled"
+                  /></del><add>pe</add></subst>rsonne qui exécutera <lb/>ces divisions de ne pas le
+                  faire <lb/>immédiatement <choice>
+                     <sic>aprés</sic>
+                     <corr>après</corr>
+                  </choice> la guerre ; s’il <lb/>en <choice>
+                     <sic>ai</sic>
+                     <corr>est</corr>
+                  </choice> besoin que l’on attende six <lb/>mois pour <choice>
+                     <sic>realiser</sic>
+                     <corr>réaliser</corr>
+                  </choice> les valeurs ou <lb/>les <choice>
+                     <sic>repartir -</sic>
+                     <corr>répartir.</corr>
+                  </choice> J’espère que les personnes <lb/>à qui je laisse voudront bien patienter
+                  <lb/>ces quelques mois.</p>
+               <p>Si <persName>Monsieur Alain de Vergennes</persName>
+                  <lb/>venait à mourir, je <choice>
+                     <sic>pris</sic>
+                     <corr>prie</corr>
+                  </choice> un de ses <lb/>frères de régler les <choice>
+                     <sic>differentes</sic>
+                     <corr>différentes</corr>
+                  </choice> affaires <lb/><subst><del>qu</del><add>do</add></subst>nt je parle à
+                     <persName>Monsieur de Vergennes <lb/>Alain</persName>, dans la lettre que je
+                  laisse <lb/>pour lui<choice><sic> -</sic><corr>.</corr></choice> Si ce cas se
+                  présente, et <lb/>qu’il soit
+                     <choice><sic>embarassé</sic><corr>embarrassé</corr></choice>, qu’il confie
+                  <lb/>tout simplement cette tâche à <lb/>mon beau-père, <persName>Monsieur de
+                     Fesquet</persName>.</p>
+               <p>Si au contraire, dans la <choice>
+                     <sic>liquida-<lb break="no"/>tion</sic>
+                     <corr>liquida<lb break="no"/>tion</corr>
+                  </choice> de mes valeurs mobilières il <pb facs="#FRAN_Poilus_t-0227_06"/>se
+                  trouvait que la somme trouvée <lb/><choice>
+                     <sic>depasse</sic>
+                     <corr>dépasse</corr>
+                  </choice> celle que j’ai distribuée,
+                        <lb/>l’<choice><sic>excedent</sic><corr>excédent</corr></choice> sera versé
+                  à <persName>Monsieur <lb/>Elie de
+                     Fesquet</persName><choice><sic/><corr>.</corr></choice></p>
+               <p>Tous mes <choice>
+                     <sic>recépicés</sic>
+                     <corr>récépissés</corr>
+                  </choice> et papiers <lb/>se trouvent <subst><del>d</del><add place="inline"
+                        >a</add></subst>vec un<del>e</del> nécessaire de <lb/>toilette, que j’ai
+                  laissé au château <lb/>de <choice><sic>Montréal-en
+                        Puisaye</sic><corr>Montréal-en-Puisaye</corr></choice>, par <lb/><placeName
+                     type="otherPlace"><choice><sic>Saint
+                        Fargeau</sic><corr>Saint-Fargeau</corr></choice></placeName><choice><sic/><corr>,</corr></choice>
+                  Yonne, appartenant à <lb/><persName>Madame la <choice>
+                        <sic>Comtesse</sic>
+                        <corr>comtesse</corr>
+                     </choice> de Vergennes</persName><choice><sic/><corr>.</corr></choice></p>
+               <p>Je laisse la somme que je possède en <lb/>parts de la charge d’agent de change
+                  <lb/>Lestelle à <persName>Monsieur de Fesquet Jean</persName>, mon
+                        <lb/>beau-père<choice><sic> -</sic><corr>.</corr></choice> J’ai <choice>
+                     <sic>dis</sic>
+                     <corr>dit</corr>
+                  </choice> plus haut que je <choice>
+                     <sic>laissait</sic>
+                     <corr>laissais</corr>
+                  </choice>
+                  <lb/>mes biens <choice>
+                     <sic>immobiliés</sic>
+                     <corr>immobiliers</corr>
+                  </choice> à <choice>
+                     <sic>Mon</sic>
+                     <corr>mon</corr>
+                  </choice> frère <persName>Hubert de
+                        <lb/>Layens</persName><choice><sic> -</sic><corr>.</corr></choice> Exception
+                  doit être <choice>
+                     <sic>faites</sic>
+                     <corr>faite</corr>
+                  </choice> pour les bien<supplied unit="chars" reason="hidden" quantity="1"
+                     >s</supplied>
+                  <lb/>que je possède au Maroc qu<subst><del>i</del><add>e</add></subst> je laisse <choice>
+                     <sic>a</sic>
+                     <corr>à</corr>
+                  </choice><persName>Monsieur <lb/>Elie de Fesquet</persName> mon frère.</p>
+               <p>Je laisse ma voiture à <persName>Monsieur Alain de
+                        <lb/>Vergennes</persName><choice><sic> -</sic><corr>.</corr></choice></p>
+               <!--<dateline> - non autorisé dans postscript selon les Guidelines ; remplacé par p, 26 sept. 2022-->
+               <p><date type="willDate" when="1914-08-08"
+                           ><subst><del>l</del><add>L</add></subst>e<choice><sic>,</sic><corr/></choice>
+                     <subst><del>9</del><add>8</add></subst>
+                     <choice>
+                        <sic>Aout, Samedi</sic>
+                        <corr>août, samedi,</corr>
+                     </choice></date> à <placeName type="willPlace" ref="#pl-291"
+                        >Lyon</placeName><choice><sic/><corr>.</corr></choice></p>
+               <!--</dateline>-->
+               <signed rend="right"><persName ref="#pers-286">Edouard de <surname>Thieffries de
+                        Layens</surname></persName></signed>
+            </postscript>
+         </div>
+         <div type="envelope">
+            <pb facs="#FRAN_Poilus_t-0227_07"/>
+            <p>Ceci est le testament <lb/>d’<persName ref="#pers-286">Edouard, Lucien, Marie, de
+                     <lb/><surname>Thieffries de Layens</surname></persName></p>
+            <space dim="vertical" unit="lines" quantity="1"/>
+            <metamark function="other" rend="horizontal-line"/>
+         </div>
+      </body>
+   </text>
+</TEI>

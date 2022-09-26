@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0365">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title>
+                <title type="main">[Testament de Paul Édouard Ernest Lehec (31 mars 1915)] : édition électronique</title>
+                <author><persName ref="#pers-507">Paul Édouard Ernest Lehec (1887-1916)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique. Département de la Conservation. Atelier photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#DChristiane">Christiane Demeulenaere-Douyère</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#CNougaret">Christine Nougaret</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0365</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0365_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVII/1475, minute du 28 septembre 1917 (dépôt du testament de Paul Édouard Ernest Lehec)</idno>
+                        <msName>Testament de Paul Édouard Ernest Lehec (31 mars 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1915-03-31">31 mars 1915</date>. <placeName type="willPlace" ref="#pl-18">Verdun</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-507"><forename>Paul</forename>  <forename>Édouard</forename>  <forename>Ernest</forename>  <surname>Lehec</surname></persName>, mort pour la France le <date when="1916-04-21">21 avril 1916</date> au <placeName ref="#pl-290">bois des chevaliers à Ambly (Meuse)</placeName>.</p>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier quadrillé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>20,7</height>
+                                        <width>13,4</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010184">étude notariale 57 (CRPCEN : 75006)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0365_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVII/1475, minute du 28 septembre 1917 (dépôt du testament de Paul Édouard Ernest Lehec)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-03-31">31 mars 1915</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>31 mars 1915. Verdun.</p>
+                <p>testament olographe de Paul Édouard Ernest Lehec, mort pour la France le 21 avril 1916 au bois des chevaliers à Ambly (Meuse).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2020-05-11/2020-06-02" who="#MFGarreau #lelia #GBMireille">transcription</change>
+            <change when-iso="2020-05-11/2020-06-02" who="#PCharbonnier #CNougaret">validation</change>
+            <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0365___JPEG___FRAN_Poilus_t-0365_01.jpg" xml:id="FRAN_Poilus_t-0365_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0365">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0365_01"/>
+                <dateline rend="right"><placeName type="willPlace" ref="#pl-18">Verdun</placeName> le <date type="willDate" when="1915-03-31">31 <choice><sic>Mars</sic><corr>mars</corr></choice> 1915</date></dateline>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <head rend="centered">Ceci est mon testament</head>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Je <choice><sic>désires</sic><corr>désire</corr></choice> que tout ce qui m’appartient <lb/>par la suite de la succession de mon <choice><sic>Père</sic><corr>père</corr></choice> <lb/>devienne la propriété pleine et entière <lb/>de ma chère <choice><sic>Mère</sic><corr>mère</corr></choice>.</p>
+                <dateline rend="centered">Fait à <placeName type="willPlace" ref="#pl-18">Verdun</placeName> le <date type="willDate" when="1915-03-31"><choice><sic>trente un</sic><corr>trente-et-un</corr></choice> <lb/>mars mil neuf cent quinze</date><choice><sic/><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="centered"><persName ref="#pers-507"><surname>Lehec</surname></persName></signed>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <postscript>
+                    <p><choice><abbr>P.S.</abbr><expan>Post-scriptum :</expan></choice> Je <choice><sic>restes</sic><corr>reste</corr></choice> devoir à <choice><abbr>M<hi rend="superscript-underlined">e</hi></abbr><expan>maître</expan></choice> <persName>Tachot</persName> la somme <lb/>de quatre cent<del>s</del> <choice><sic>soixante dix</sic><corr>soixante-dix</corr></choice> francs plus les <lb/><choice><sic>interéts</sic><corr>intérêts,</corr></choice> que je prie ma chère <choice><sic>Petite Mère</sic><corr>petite mère</corr></choice> <lb/>de bien vouloir rembourser. Je la prie de bien <lb/>vouloir me pardonner cette dernière chose que <lb/>je lui avais cachée. Je <choice><sic>regrettes</sic><corr>regrette</corr></choice> bien n’avoir <lb/>pu lui prouver<choice><sic/><corr>,</corr></choice> après cette dure séparation<choice><sic/><corr>,</corr></choice> mon <lb/>vouloir de <choice><sic>reparer</sic><corr>réparer</corr></choice> toutes les dernières <choice><sic>bétises</sic><corr>bêtises</corr></choice> <lb/>que j’avais commises.</p>
+                </postscript>
+                <signed rend="centered"><persName ref="#pers-507"><surname>Lehec</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

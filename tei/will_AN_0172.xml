@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0172">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Frédéric Auguste Ernest Alphonse Monnier
+                    (28/07/1914)] : édition électronique</title>
+                <author><persName ref="#pers-234">Frédéric Auguste Ernest Alphonse Monnier
+                        (1875-1915)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021-09">septembre 2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0172</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0172_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XVIII/1881, minute du 19/03/1915 (dépôt du testament de Frédéric
+                            Auguste Ernest Alphonse Monnier)</idno>
+                        <msName>Testament de Frédéric Auguste Ernest Alphonse Monnier
+                            (28/07/1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-07-28">28/07/1914</date>.
+                                    <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-234"><forename>Frédéric</forename> 
+                                    <forename>Auguste</forename> 
+                                    <forename>Ernest</forename> 
+                                    <forename>Alphonse</forename> 
+                                    <surname>Monnier</surname></persName>, mort pour la France le
+                                    <date when="1915-02-03">03/02/1915</date> à <placeName ref="#pl-380">Nieuport (Belgique)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). Enveloppe bleue avec
+                                    cachet (enveloppe). </support>
+                                <extent>2 pages et 1 enveloppe. Dimensions du testament :
+                                        <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                                        <height>9,8</height>
+                                        <width>14,2</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Enveloppe : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><!--agencyNumberRoman=XVIII--><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010145">étude notariale 18 (CRPCEN : 75026)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0172_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XVIII/1881, minute du 19/03/1915 (dépôt du testament de Frédéric
+                            Auguste Ernest Alphonse Monnier)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-07-28">28/07/1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>28/07/1914. Paris.</p>
+                <p>Testament olographe de Frédéric Auguste Ernest Alphonse Monnier, mort pour la
+                    France le 03/02/1915 à Nieuport (Belgique).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-07-19/2020-11-29" who="#MFGarreau #SL. #lelia">transcription</change>
+            <change when-iso="2018-07-19/2020-06-22" who="#jmorvan #PCharbonnier #FClavaud">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2021-07-30+02:00"> enrichissements et
+                contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0172___JPEG___FRAN_Poilus_t-0172_01.jpg" xml:id="FRAN_Poilus_t-0172_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0172___JPEG___FRAN_Poilus_t-0172_02.jpg" xml:id="FRAN_Poilus_t-0172_02"/>
+        </surface>
+        <surface type="will-envelope-recto" n="03">
+            <graphic url="testament_AN_0172___JPEG___FRAN_Poilus_t-0172_03_ab.jpg" xml:id="FRAN_Poilus_t-0172_03_ab"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0172">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0172_01"/>
+                <head>Ceci est mon testament :</head>
+                <p>Je lègue à ma femme née <persName><choice><sic>Marie-<lb/>Madeleine-Blanche</sic><corr>Marie-<lb break="no"/>Madeleine-Blanche</corr></choice>
+                        Adam</persName>, tout <lb/>ce dont je puis disposer en sa faveur, en
+                    usufruit.</p>
+                <p>Pour jouir de cet usufruit, elle <lb/>sera dispensée de fournir caution <lb/>et
+                    de faire emploi.</p>
+                <p>Cet usufruit portera sur tous les <lb/>biens qui m’appartiennent à titre <lb/>de
+                    propres et sur la part me revenant <lb/>dans les acquêts de <choice><sic>Communauté</sic><corr>communauté</corr></choice>.</p>
+                <p>En ce qui concerne les meubles et <lb/>objets meublants, ma femme pourra
+                    <lb/>choisir et conserver tous ceux qui <lb/>lui conviendraient.</p>
+                <p>En ce qui concerne les <choice><sic>Souvenirs</sic><corr>souvenirs</corr></choice>, <lb/>papiers de famille et archives qui <lb/>m’appartiennent, je les
+                    lègue à mon <lb/>fils <persName>Jean-Claude</persName>, en sa qualité <lb/>d’<choice><sic>ainé</sic><corr>aîné</corr></choice> ; mais, je stipule <choice>
+                        <sic>expressé-<lb/>ment</sic>
+                        <corr>expressé<lb break="no"/>ment</corr>
+                    </choice> que sa mère pourra les conserver <lb/>jusqu’à son décès.</p>
+                <p>Ces <choice>
+                        <sic>Souvenirs</sic>
+                        <corr>souvenirs</corr>
+                    </choice> de famille compren<add place="below">nent</add> <lb/>les décorations,
+                    cordons et épaulettes <lb/>du <persName><choice>
+                        <sic>Maréchal</sic>
+                        <corr>maréchal</corr>
+                        </choice> Molitor</persName>, le tableau <lb/>de <placeName type="otherPlace">Campillo-<choice><sic>las</sic><corr>de</corr></choice>-Arenas</placeName>, le <lb/>portrait en cire de
+                        <persName>Marguerite <lb/><choice><sic>Neÿ</sic><corr>Ney</corr></choice></persName>, le portrait de la <persName><choice>
+                            <sic>Maréchale</sic>
+                            <corr>maréchale</corr>
+                        </choice> <lb/><choice>
+                            <sic>Neÿ</sic>
+                            <corr>Ney</corr>
+                        </choice></persName> par <persName>Robert Lefebvre</persName>, <pb facs="#FRAN_Poilus_t-0172_02"/>la petite <choice>
+                        <sic>tabattière</sic>
+                        <corr>tabatière</corr>
+                    </choice> en or de <persName>Marguerite <lb/><choice>
+                            <sic>Neÿ</sic>
+                            <corr>Ney</corr>
+                        </choice></persName> et la statue en bronze du <persName><choice><sic>Maréchal <lb/>Neÿ</sic><corr>maréchal Ney</corr></choice></persName>.</p>
+                <p>Je recommande à mon fils <persName>Claude</persName> <lb/>de conserver le tout
+                    comme un <choice>
+                        <sic>dépot</sic>
+                        <corr>dépôt</corr>
+                    </choice> <lb/>sacré.</p>
+                <p>Je lègue à mon fils <persName>Michel</persName> ma <choice><sic>bibli-<lb/>-othèque</sic><corr>bibli<lb break="no"/>othèque</corr></choice>, <choice>
+                        <sic>c’est à dire</sic>
+                        <corr>c’est-à-dire</corr>
+                    </choice> tous mes livres, <lb/>et ma collection de timbres-poste ; <lb/>mais
+                    cette dernière ne devra lui être <lb/>remise qu’à sa majorité.</p>
+                <p>Ma femme aura un droit de <choice>
+                        <sic>préfé-<lb/>rence</sic>
+                        <corr>préfé<lb break="no"/>rence</corr>
+                    </choice> sur la propriété de <placeName type="otherPlace">Parmain</placeName> <lb/>(Champsfleur), sauf à en tenir <lb/>compte, s’il y
+                    avait lieu, aux autres <lb/>héritiers.</p>
+                <p>Je prie mon frère <persName>Louis</persName> d’être <lb/>mon exécuteur testamentaire<choice><sic/><corr>.</corr></choice></p>
+                <dateline rend="right">Fait à <placeName type="willPlace" ref="#pl-2">Paris</placeName>, <date type="willDate" when="1914-07-28">le 28 <choice>
+                            <sic>Juillet</sic>
+                            <corr>juillet</corr>
+                        </choice> 1914<choice><sic/><corr>.</corr></choice></date></dateline>
+                <signed rend="right"><persName ref="#pers-234">F
+                        <surname>Monnier</surname></persName></signed>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0172_03_ab"/>
+                <p rend="centered">Je prie <persName><choice>
+                            <abbr>M<hi rend="superscript">e</hi></abbr>
+                            <expan>maître</expan>
+                        </choice> Tollu</persName> ou son <lb/>successeur d’ouvrir la présente
+                    <lb/>enveloppe au cas de mon <choice><sic>dècès</sic><corr>décès</corr></choice>.</p>
+                <signed rend="right"><persName ref="#pers-234">F<surname>Monnier</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

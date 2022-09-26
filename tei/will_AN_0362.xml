@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0362">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title>
+                <title type="main">[Testament de Edgar Georges Cornelle (24 juin 1915)] : édition électronique</title>
+                <author><persName ref="#pers-504">Edgar Georges Cornelle (1887-1916)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique. Département de la Conservation. Atelier photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#RCM">Rosine Cleyet-Michaud</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#CNougaret">Christine Nougaret</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0362</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0362_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVII/1473, minute du 26 juin 1917 (dépôt du testament de Edgar Georges Cornelle)</idno>
+                        <msName>Testament de Edgar Georges Cornelle (24 juin 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1915-06-24">24 juin 1915</date>. <placeName type="willPlace" ref="#pl-757">Beaune</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-504"><forename>Edgar</forename>  <forename>Georges</forename>  <surname>Cornelle</surname></persName>, mort pour la France le <date when="1916-08-21">21 août 1916</date> à <placeName ref="#pl-177">Estrées (Somme)</placeName>.</p>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm"><height>24,9</height><width>17,8</width></dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010184">étude notariale 57 (CRPCEN : 75006)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0362_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVII/1473, minute du 26 juin 1917 (dépôt du testament de Edgar Georges Cornelle)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-06-24">24 juin 1915</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>24 juin 1915. Beaune.</p>
+                <p>testament olographe de Edgar Georges Cornelle, mort pour la France le 21 août 1916 à Estrées (Somme).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2020-05-11/2020-06-04" who="#MFGarreau #lelia #GBMireille">transcription</change>
+            <change when-iso="2020-05-11/2020-06-01" who="#PCharbonnier #CNougaret">validation</change>
+            <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0362___JPEG___FRAN_Poilus_t-0362_01.jpg" xml:id="FRAN_Poilus_t-0362_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0362">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0362_01"/>
+                <dateline rend="right"><placeName type="willPlace" ref="#pl-757">Beaune</placeName> le <date type="willDate" when="1915-06-24">24 <choice><sic>Juin</sic><corr>juin</corr></choice> 1915</date></dateline>
+                <p>Je soussigné <persName ref="#pers-504"><surname>Cornelle</surname> Edgard Georges</persName><choice><sic/><corr>,</corr></choice> <lb/>actuellement soldat mobilisé au <lb/><orgName ref="#o-41">vingtième bataillon de chasseurs <lb/>à pied</orgName> à <placeName type="otherPlace" ref="#pl-757">Beaune (<choice><sic>Côte d’Or</sic><corr>Côte-d’Or</corr></choice>)</placeName><choice><sic/><corr>,</corr></choice> déclare <lb/>et <choice><sic>stipules</sic><corr>stipule</corr></choice> les conditions suivantes : <lb/><choice><sic>Aux cas ou</sic><corr>au cas où</corr></choice> je viendrais à <choice><sic>disparaitre</sic><corr>disparaître,</corr></choice> <lb/>soit par suite de décès ou tué à <lb/>l’ennemi<choice><sic/><corr>,</corr></choice> et en vertu de la loi, <lb/>marié sous le régime de la <choice><sic>commu-<lb/>nauté ;</sic><corr>commu<lb break="no"/>nauté</corr></choice> j’institue ma femme <persName><choice><sic>Cor-<lb/>nelle</sic><corr>Cor<lb break="no"/>nelle</corr></choice> Gabrielle née Rigal</persName> mon <lb/>héritière de droit pour tout ce que <lb/>nous possédons actuellement ensemble<choice><sic/><corr>,</corr></choice> <lb/>ainsi que pour tout ce qui me <choice><sic>revien-<lb/>dra</sic><corr>revien<lb break="no"/>dra</corr></choice> plus tard et tant que <choice><sic>mobi-<lb/>lier</sic><corr>mobi<lb break="no"/>lier,</corr></choice> argent<choice><sic/><corr>,</corr></choice> etc. Je lui confère le <lb/>droit et l’autorise après mon décès à <lb/>fournir toute signature dont elle <lb/>pourrait avoir besoin, soit par suite <lb/><del>de suite</del><add place="above"><metamark function="other" rend="cross"/></add><app><lem><add place="marginLeft" type="testatorComment"><metamark function="other" rend="cross"/> <lb/>rayé deux mots nuls <seg type="signature"><persName ref="#pers-504">G.<surname>C.</surname></persName></seg></add></lem><note resp="#jmorvan">Mention "rayé deux mots nuls" ajoutée en marge et signée "G.C.".</note></app> de succession ou autre, sans <lb/>que personne ne puisse<add place="above"><metamark function="other" rend="cross"/> s’opposer</add><app><lem><add place="marginLeft" type="testatorComment">ajouter un <metamark function="other" rend="cross"/> <lb/>mot <seg type="signature"><persName ref="#pers-504">G.<surname>C.</surname></persName></seg></add></lem><note resp="#jmorvan">Mention "ajouter un mot" ajoutée en marge et signée "G.C.".</note></app> <subst><del>à</del><add>en</add></subst> quoi que <lb/>ce soit à ce qui est stipulé sur ce <lb/>présent, rédigé et écrit de ma main <lb/>pour lui valoir ce que de droit, en <lb/>foi de quoi je lui délivre.</p>
+                <dateline rend="right">Fait à <placeName type="willPlace" ref="#pl-757">Beaune</placeName> le <date type="willDate" when="1915-06-24">24 <choice><sic>Juin</sic><corr>juin</corr></choice> 1915</date><choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="right"><persName ref="#pers-504"><surname>Cornelle</surname> Georges</persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0115">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Pierre Marie Delphin Balleyguier (1 août 1914)] :
+                    édition électronique</title>
+                <author><persName ref="#pers-177">Pierre Marie Delphin Balleyguier
+                        (1870-1914)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#Lamotte">Isabelle Lamotte</persName>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021-09">septembre 2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0115</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0115_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XLVIII/1731, minute du 10 avril 1915 (dépôt du testament de
+                            Pierre Marie Delphin Balleyguier)</idno>
+                        <msName>Testament de Pierre Marie Delphin Balleyguier (1 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-01">1 août 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-177"><forename>Pierre</forename> 
+                                    <forename>Marie</forename> 
+                                    <forename>Delphin</forename> 
+                                    <surname>Balleyguier</surname></persName>, mort pour la France
+                                le <date when="1914-09-17" source="#will_AN_0115_min">17 septembre
+                                    1914 [NOT]</date> ou le <date notBefore="1914-09-13" notAfter="1914-09-14" source="#MDH">13 ou 14 septembre 1914
+                                    [MDH]</date> au <placeName ref="#pl-160">combat de Fontenoy
+                                    (Aisne)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à lettre fin (testament). Enveloppe bleue
+                                    (enveloppe). </support>
+                                <extent>4 pages. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>26,8</height>
+                                        <width>21</width>
+                                    </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                                        <height>8</height>
+                                        <width>14,5</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Enveloppe : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><!--agencyNumberRoman=XLVIII--><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010175">étude notariale 048 (CRPCEN : 75047)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0115_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XLVIII/1731, minute du 10 avril 1915 (dépôt du testament de
+                            Pierre Marie Delphin Balleyguier)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-01">1 août 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>1 août 1914. Paris.</p>
+                <p>Testament olographe de Pierre Marie Delphin Balleyguier, mort pour la France le
+                    17 septembre 1914 [NOT] ou le 13 ou 14 septembre 1914 [MDH] à combat de Fontenoy
+                    (Aisne).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-04-20/2020-12-15" who="#MFGarreau #Lamotte #SL. #lelia">transcription</change>
+            <change when-iso="2018-04-20/2018-09-29" who="#PCharbonnier #FClavaud #jmorvan">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2021-07-30+02:00"> enrichissements et
+                contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0115___JPEG___FRAN_Poilus_t-0115_01b.jpg" xml:id="FRAN_Poilus_t-0115_01b"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0115___JPEG___FRAN_Poilus_t-0115_02b.jpg" xml:id="FRAN_Poilus_t-0115_02b"/>
+        </surface>
+        <surface type="will-page" n="03">
+            <graphic url="testament_AN_0115___JPEG___FRAN_Poilus_t-0115_03b.jpg" xml:id="FRAN_Poilus_t-0115_03b"/>
+        </surface>
+        <surface type="will-page" n="04">
+            <graphic url="testament_AN_0115___JPEG___FRAN_Poilus_t-0115_04.jpg" xml:id="FRAN_Poilus_t-0115_04"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0115">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0115_01b"/>
+                <dateline rend="right"><placeName type="willPlace" ref="#pl-2">Paris</placeName><choice><sic> </sic><corr>,</corr></choice> le <date type="willDate" when="1914-08-01"><choice>
+                            <sic>Premier</sic>
+                            <corr>premier</corr>
+                        </choice><choice>
+                            <sic>Août</sic>
+                            <corr>août</corr>
+                        </choice>
+                        <lb/>mil neuf cent quatorze</date></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <head><seg type="other" rend="left">Au nom du Père, du Fils et du
+                        Saint-Esprit.</seg>
+                    <lb/>Ceci est mon testament.</head>
+                <p>Je désigne ma femme <persName>Anne Marie <surname>Villot</surname></persName>
+                    <lb/>comme tutrice de mes enfants et comme <lb/>pouvant et devant en exercer
+                    tous les <lb/>droits. Il s’agit bien entendu des enfants <lb/>tant du premier
+                    lit que du deuxième <lb/>lit.</p>
+                <p>Je désigne Messieurs <persName>Henri <surname>Finale</surname></persName>, <choice>
+                        <sic>Employé a</sic>
+                        <corr>employé à</corr>
+                    </choice>
+                    <lb/>la <orgName>Société Française de Banque et de <lb/>dépôts</orgName>,
+                        <persName>Henri <surname>Terrel</surname></persName>, Directeur général
+                    <lb/>du <orgName>Crédit Français</orgName>, <persName>Albert
+                            <surname>Vincent</surname></persName>, <lb/><choice>
+                        <sic>Employé</sic>
+                        <corr>employé</corr>
+                    </choice> au <orgName>Comptoir d’Escompte</orgName> pour <lb/>la seconder et la
+                    conseiller au besoin <lb/>dans l’exercice de cette tutelle dative, <lb/>étant
+                    entendu que ma femme pourra <lb/>néanmoins agir sans leur concours <lb/>ou agir
+                    avec le concours de l’un des <lb/>trois séparément.</p>
+                <p>Je laisse à ma femme le quart de <lb/>ma fortune en nue propriété et <lb/>la
+                    moitié en usufruit.</p>
+                <pb facs="#FRAN_Poilus_t-0115_02b"/>
+                <p>Ma fortune se compose :</p>
+                <list>
+                    <item>1<hi rend="superscript">o</hi>) De titres et espèces en dépôt à <lb/>la
+                            <orgName>Société <choice>
+                                <sic>Générale</sic>
+                                <corr>générale.</corr>
+                            </choice></orgName></item>
+                    <item>2<hi rend="superscript">o</hi>) De mon avoir à la <orgName>Caisse de <lb/><choice>
+                                <sic>Prévoyance</sic>
+                                <corr>prévoyance</corr>
+                            </choice> de la Société <choice>
+                                <sic>Générale</sic>
+                                <corr>générale.</corr>
+                            </choice></orgName></item>
+                    <item>3<hi rend="superscript">o</hi>) De mon avoir à la <orgName>10<hi rend="superscript">e</hi> Association <lb/>des <choice>
+                                <sic>Employés et Agents</sic>
+                                <corr>employés et agents</corr>
+                            </choice> de la Société <lb/><choice>
+                                <sic>Générale</sic>
+                                <corr>générale.</corr>
+                            </choice></orgName></item>
+                    <item>4<hi rend="superscript">o</hi>) De mon avoir à la <orgName>Mutuelle de
+                            <lb/>France et des <choice>
+                                <sic>Colonies</sic>
+                                <corr>colonies.</corr>
+                            </choice></orgName></item>
+                    <item>5<hi rend="superscript">o</hi>) De vêtements, livres et objets
+                        <lb/>mobiliers y compris tous les tableaux<choice><sic> </sic><corr>, </corr></choice> <lb/>gravures<choice><sic> </sic><corr>, </corr></choice>photographies<choice><sic> </sic><corr>, </corr></choice>armes qui sont <lb/>dans mon bureau<choice><sic> </sic><corr>, </corr></choice>56 <choice>
+                            <sic>Rue</sic>
+                            <corr>rue</corr>
+                        </choice> de Provence<choice><sic> </sic><corr>, </corr></choice><lb/>et différents livres et papiers personnels <add place="inline"><metamark rend="cross" function="other"/></add>
+                        <lb/>dont le triage sera fait utilement <lb/>par <choice>
+                            <abbr>MM.</abbr>
+                            <expan>messieurs</expan>
+                        </choice>
+                        <persName>Paul Bourdon</persName><add place="above"><metamark rend="cross" function="other"/></add> et <persName>David</persName>, <choice>
+                            <sic>Chef</sic>
+                            <corr>chef</corr>
+                        </choice>
+                        <lb/>de <choice>
+                            <sic>Section</sic>
+                            <corr>section</corr>
+                        </choice> et <choice>
+                            <sic>Employé</sic>
+                            <corr>employé</corr>
+                        </choice> principal à la <lb/><orgName>Société <choice>
+                                <sic>Française de Banque</sic>
+                                <corr>française de banque</corr>
+                        </choice> et de dépôts</orgName><choice><sic> </sic><corr>, </corr></choice><lb/>56 <choice>
+                            <sic>Rue</sic>
+                            <corr>rue</corr>
+                        </choice> de Provence<choice><sic> </sic><corr>.</corr></choice></item>
+                    <item>6<hi rend="superscript">o</hi>) De l’argenterie et des bijoux déposés,
+                        <lb/>enfermés dans une caisse cachetée, dans <lb/>le coffre de la
+                            <orgName>Société <choice>
+                                <sic>Française de Banque</sic>
+                                <corr>française de banque</corr>
+                            </choice>
+                            <lb/>et de dépôts</orgName> chez la <orgName>Société <choice>
+                                <sic>Générale</sic>
+                                <corr>générale</corr>
+                            </choice></orgName> (salle <lb/>des <choice>
+                            <sic>Coffres</sic>
+                            <corr>coffres</corr>
+                        </choice>)<choice><sic> </sic><corr>, </corr></choice> 56 <choice>
+                            <sic>Rue</sic>
+                            <corr>rue</corr>
+                        </choice> de Provence. La <lb/>clef de ce coffre est entre les mains de
+                        <lb/>Monsieur <persName>Paul Bourdon</persName>.</item>
+                </list>
+                <pb facs="#FRAN_Poilus_t-0115_03b"/>
+                <p>Je laisse ma femme libre de répartir <lb/>entre mes enfants différents souvenirs <lb/>personnels.<choice>
+                        <sic><surplus>-</surplus></sic>
+                        <corr/>
+                    </choice> Je me fie entièrement <lb/>à son esprit de justice et à son amour
+                    <lb/>pour moi pour agir de telle sorte que <lb/>mes trois enfants aient en leur
+                    possession <lb/>des objets, livres ou bijoux dont j’ai fait <lb/>un usage
+                    personnel habituel ou <lb/><del>pour lesquels je</del> auxquels j’attache
+                    <lb/>un prix particulier.</p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Je demande pardon à Dieu des fautes <lb/>que j’ai commises<choice><sic> -</sic><corr>.</corr></choice> Du fond du cœur <lb/>et avec la sincérité de celui qui a <lb/>reçu ce
+                    matin la <choice><sic>Sainte-communion</sic><corr>Sainte Communion</corr></choice>, <lb/>prêt à donner mon sang pour mon pays, <lb/>je pardonne à mon
+                    frère et à ma <lb/>sœur et je leur demande de me <lb/>pardonner.</p>
+                <p>Je remercie Dieu des bontés et des <lb/>bienfaits dont il m’a comblé. Il <lb/>m’a
+                    permis, après la perte d’une <lb/>femme aimée, de trouver une compagne
+                    <lb/>sage, dévouée et aimante qui s’est <lb/>consacrée pleinement à l’éducation
+                    de <lb/>mes enfants<choice><sic> -</sic><corr>.</corr></choice> Qu’elle continue à les <lb/>élever avant tout dans l’amour de <lb/><app><lem>Dieu</lem><note resp="#jmorvan">En marge, un mot non édité illisible.</note></app>, la pratique de la religion, l’amour <lb/>de la France et la foi en sa
+                    destinée <lb/><hi rend="underlined"><choice>
+                            <sic>quoiqu’il</sic>
+                            <corr>quoi qu’il</corr>
+                        </choice> arrive</hi> !<pb facs="#FRAN_Poilus_t-0115_04"/>Seigneur ! <subst>
+                        <del/>
+                        <add>Si</add>
+                    </subst> mon heure est venue et <lb/>si je dois tomber pour la défense de
+                    <lb/>mon bien-aimé pays, faites que je <lb/>sois en état de grâce et <choice>
+                        <sic>recevez moi</sic>
+                        <corr>recevez-moi</corr>
+                    </choice> près <lb/>de vous. Vierge Marie, protectrice de <lb/>la France, <choice><sic>sauvez la</sic><corr>sauvez-la</corr></choice>, je vous en supplie ! <lb/>Que les péchés de quelques égarés ne
+                    <lb/>retombent pas sur les autres ! Que le <lb/>sang de ceux qui vont mourir
+                    pour <lb/>elle soit le sacrifice et la pénitence ! <lb/>Mon Dieu ! Je remets mon
+                    sort entre <lb/>vos mains et celui de ma chère femme <lb/>mon Annie bien-aimée,
+                    de mon fils <lb/>aîné Jean qui devra comprendre son <lb/>rôle de petit chef de
+                    famille, de ma <lb/>petite Denise qui devra entourer sa <lb/>maman Annie
+                    d’affection et <lb/>d’attention et enfin de mon petit <lb/>Roland qui devra
+                    porter dignement <lb/>le nom du premier preux de la France.<lb/></p>
+                <p>Credo ! - Amen.</p>
+                <signed rend="centered"><persName ref="#pers-177"><surname>Balleyguier</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

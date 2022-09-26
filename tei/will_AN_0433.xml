@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0433">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la
+               Grande Guerre</title>
+            <title type="main">[Testament de Marcel Coutant (28 juillet 1914)] : édition
+               électronique</title>
+            <author><persName ref="#pers-572">Marcel Coutant (1892-1914)</persName></author>
+            <editor ref="#CNougaret">Christine Nougaret</editor>
+            <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+            <editor ref="#FClavaud">Florence Clavaud</editor>
+            <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>Première édition électronique, fondée sur un travail de transcription
+               collaborative</edition>
+            <respStmt>
+               <resp>Numérisation</resp>
+               <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                  scientifique. Département de la Conservation. Atelier photographique</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription</resp>
+               <persName ref="#MFGarreau">MFGarreau</persName>
+               <persName ref="#lelia">Lélia Picabia</persName>
+               <persName ref="#lerydaniela">lerydaniela</persName>
+               <persName ref="#LPourre">LPourre</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Validation</resp>
+               <persName ref="#jmorvan">Josselin Morvan</persName>
+               <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+               <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+               <persName ref="#FClavaud">Florence Clavaud</persName>
+               <persName ref="#jmorvan">Josselin Morvan</persName>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+            <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+            <publisher><orgName ref="#AD78">Archives départementales des
+               Yvelines</orgName></publisher>
+            <publisher><orgName>École nationale des chartes</orgName></publisher>
+            <publisher><orgName ref="#AD95">Archives départementales du
+               Val-d’Oise</orgName></publisher>
+            <date when="2021-09">septembre 2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                  4.0</licence>
+            </availability>
+            <idno>TestamentsDePoilus_will_AN_0433</idno>
+            <!--ultérieurement ajouter idno fourni par Nakala-->
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="will_AN_0433_tes">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives nationales</institution>
+                  <collection>Minutier central des notaires de Paris</collection>
+                  <idno>MC/ET/XXXII/1298, minute du 24 janvier 1919 (dépôt du testament de Marcel
+                     Coutant)</idno>
+                  <msName>Testament de Marcel Coutant (28 juillet 1914)</msName>
+               </msIdentifier>
+               <msContents>
+                  <summary><p><date type="willDate" when="1914-07-28">28 juillet 1914</date>.
+                           <placeName type="willPlace" ref="#pl-128">Nancy</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-572"><forename>Marcel</forename> 
+                           <surname>Coutant</surname></persName>, mort pour la France le <date when="1914-08-26">26 août 1914</date> à <placeName ref="#pl-830">La Ferme
+                           des Oeufs Durs, commune d’Anthelupt (Meurthe et
+                     Moselle)</placeName>.</p></summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>Papier à lettre (testament). Enveloppe (enveloppe). </support>
+                        <extent>2 pages et 1 enveloppe. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                              <height>17,8</height>
+                              <width>11</width>
+                           </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                              <height>9,5</height>
+                              <width>12</width>
+                           </dimensions>.</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <p>Testament : encre bleue. Enveloppe : encre bleue.</p>
+                  </handDesc>
+               </physDesc>
+               <history>
+                  <provenance><!--agencyNumberRoman=XXXII--><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010159">étude notariale 032 (CRPCEN : 75103)</orgName></provenance>
+               </history>
+            </msDesc>
+            <msDesc xml:id="will_AN_0433_min">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives nationales</institution>
+                  <collection>Minutier central des notaires de Paris</collection>
+                  <idno>MC/ET/XXXII/1298, minute du 24 janvier 1919 (dépôt du testament de Marcel
+                     Coutant)</idno>
+                  <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                     minute</msName>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation><date type="willDate" when="1914-07-28">28 juillet 1914</date></creation>
+         <langUsage>
+            <language ident="fr">français</language>
+         </langUsage>
+         <abstract>
+            <p>28 juillet 1914. Nancy.</p>
+            <p>Testament olographe de Marcel Coutant, mort pour la France le 26 août 1914 à La Ferme
+               des Oeufs Durs, commune d’Anthelupt (Meurthe et Moselle).</p>
+         </abstract>
+         <textClass>
+            <keywords>
+               <term type="subject">Grande Guerre</term>
+               <term type="subject">Poilu</term>
+               <term type="subject">testament</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when-iso="2020-11-03/2021-03-10" who="#MFGarreau #lelia #lerydaniela #LPourre">transcription</change>
+         <change when-iso="2020-11-03/2021-02-11" who="#jmorvan #PCharbonnier">validation</change>
+         <change who="#FClavaud #PCharbonnier" when-iso="2021-07-30+02:00"> enrichissements et
+            contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+      <surface type="will-page" n="01">
+         <graphic url="testament_AN_0433___JPEG___FRAN_Poilus_t-0433_01.jpg" xml:id="FRAN_Poilus_t-0433_01"/>
+      </surface>
+      <surface type="will-page" n="02">
+         <graphic url="testament_AN_0433___JPEG___FRAN_Poilus_t-0433_02.jpg" xml:id="FRAN_Poilus_t-0433_02"/>
+      </surface>
+      <surface type="will-envelope-recto" n="03">
+         <graphic url="testament_AN_0433___JPEG___FRAN_Poilus_t-0433_03.jpg" xml:id="FRAN_Poilus_t-0433_03"/>
+      </surface>
+   </facsimile>
+   <text xml:id="will_AN_0433">
+      <body>
+         <div type="will">
+            <pb facs="#FRAN_Poilus_t-0433_01"/>
+            <dateline rend="right">Nancy <date type="willDate" when="1914-07-28">le 28
+                        <choice><sic>Juillet</sic><corr>juillet</corr></choice>
+               1914</date></dateline>
+            <space dim="vertical" unit="lines" quantity="1"/>
+            <head rend="centered">Ceci est mon testament :</head>
+            <p>Je lègue à ma <choice><sic>Mére cherie</sic><corr>mère chérie</corr></choice> tout
+               <lb/>ce que je <choice><sic>possede</sic><corr>possède</corr></choice> et la laisse
+               libre <lb/>d’en user comme il lui
+               conviendra<choice><sic/><corr>,</corr></choice> <lb/>pour la remercier de tous les
+               soins <lb/>et bonté qu’elle m’a toujours prodigués.</p>
+            <dateline>Fait à <placeName type="willPlace" ref="#pl-128">Nancy</placeName> <date type="willDate" when="1914-07-28">le 28
+                        <choice><sic>Juillet</sic><corr>juillet</corr></choice>
+                     1914</date><choice><sic/><corr>,</corr></choice> <lb/><choice><sic>entiérement</sic><corr>entièrement</corr></choice>
+               libre de mes actes et <lb/>sans <subst><del>o</del><add>a</add></subst>ucune
+                     pression<choice><sic/><corr>.</corr></choice></dateline>
+            <signed rend="centered"><persName ref="#pers-572">M
+                  <surname>Coutant</surname></persName></signed>
+            <postscript>
+               <p><persName ref="#pers-572">Marcel
+                        <surname>Coutant</surname></persName><choice><sic/><corr>,</corr></choice> <orgName ref="#o-58">26<hi rend="superscript-underlined">e</hi> <choice><abbr>Reg<hi rend="superscript">t</hi></abbr><expan>régiment</expan></choice>
+                           d’<choice><sic>Infanterie</sic><corr>infanterie</corr></choice> <lb/><choice><abbr>1<hi rend="superscript-underlined">ere</hi> C<hi rend="superscript-underlined">ie</hi></abbr><expan>1<hi rend="superscript">re</hi>
+                           compagnie</expan></choice><choice><sic/><corr>,</corr></choice>
+                           Nancy</orgName><choice><sic/><corr>,</corr></choice> <choice><abbr>M<hi rend="superscript">le</hi></abbr><expan>matricule</expan></choice>
+                        7709<choice><sic/><corr>.</corr></choice></p>
+            </postscript>
+            <pb facs="#FRAN_Poilus_t-0433_02"/>
+            <postscript>
+               <p>Loin de vous ma dernière pensée <lb/>sera pour vous tous qui m’avez <lb/>toujours
+                  comblé de vos bienfaits<choice><sic/><corr>.</corr></choice></p>
+               <p rend="centered">Au revoir ; peut être <lb/>Adieu !</p>
+               <signed rend="centered"><persName ref="#pers-572">Marcel</persName></signed>
+            </postscript>
+         </div>
+         <div type="envelope">
+            <pb facs="#FRAN_Poilus_t-0433_03"/>
+            <p><persName>Monsieur <choice><abbr>&amp;</abbr><expan>et</expan></choice> Madame
+               Coutant</persName><choice><sic/><corr>,</corr></choice> <lb/>Tabacs<choice><sic/><corr>,</corr></choice> <lb/>102
+                  <choice><sic>Rue</sic><corr>rue</corr></choice> Montorgueil <lb/><hi rend="underlined"><placeName type="otherPlace" ref="#pl-2">Paris 2<hi rend="superscript">e</hi></placeName></hi><choice><sic/><corr>.</corr></choice></p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0415">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Maurice Julien Reginensi (29 novembre 1917)] :
+                    édition électronique</title>
+                <author><persName ref="#pers-554">Maurice Julien Reginensi
+                    (1884-1918)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021-09">septembre 2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0415</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0415_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVIII/1247, minute du 7 août 1918 (dépôt du testament de Maurice
+                            Julien Reginensi)</idno>
+                        <msName>Testament de Maurice Julien Reginensi (29 novembre 1917)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1917-11-29">29 novembre 1917</date>.
+                                    <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-554"><forename>Maurice</forename> 
+                                    <forename>Julien</forename> 
+                                    <surname>Reginensi</surname></persName>, mort pour la France le
+                                    <date when="1918-08-02">2 août 1918</date> à <placeName ref="#pl-2">hôpital de la Pitié, 83 boulevard de l’Hôpital,
+                                    Paris 13e arrondissement</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à en-tête commercial (testament). Enveloppe bleue à
+                                    en-tête commercial, 5 cachets de cire (enveloppe). </support>
+                                <extent>1 page et 1 enveloppe. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>26,9</height>
+                                        <width>21</width>
+                                    </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                                        <height>11,3</height>
+                                        <width>14,5</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Enveloppe : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><!--agencyNumberRoman=LVIII--><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010185">étude notariale 58 (CRPCEN : 75081)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0415_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVIII/1247, minute du 7 août 1918 (dépôt du testament de Maurice
+                            Julien Reginensi)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1917-11-29">29 novembre 1917</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>29 novembre 1917. Paris.</p>
+                <p>Testament olographe de Maurice Julien Reginensi, mort pour la France le 2 août
+                    1918 à hôpital de la Pitié, 83 boulevard de l’Hôpital, Paris 13e
+                    arrondissement.</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2020-09-09/2020-12-03" who="#lelia #MFGarreau #GBMireille">transcription</change>
+            <change when-iso="2020-09-09/2020-11-30" who="#jmorvan #PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2021-07-30+02:00"> enrichissements et
+                contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0415___JPEG___FRAN_Poilus_t-0415_01_ab.jpg" xml:id="FRAN_Poilus_t-0415_01_ab"/>
+        </surface>
+        <!--FC <surface type="unknown" n="02">-->
+        <surface type="will-envelope-recto" n="02">
+            <graphic url="testament_AN_0415___JPEG___FRAN_Poilus_t-0415_02.jpg" xml:id="FRAN_Poilus_t-0415_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0415">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0415_01_ab"/>
+                <dateline rend="right"><placeName type="willPlace" ref="#pl-2">Paris</placeName>, <date type="willDate" when="1917-11-29">le 29
+                                        <choice><sic>Novembre</sic><corr>novembre</corr></choice>
+                                1917</date></dateline>
+                <space dim="vertical" unit="lines" quantity="12"/>
+                <p>Je soussigné, <persName ref="#pers-554">Maurice
+                        <surname>Réginensi</surname></persName>, <lb/>commissionnaire aux Halles,
+                    étant sain <lb/>de corps et d’esprit, institue par le présent
+                                <lb/>testament<choice><sic><surplus>,</surplus></sic><corr/></choice>
+                    comme <hi rend="underlined">légataire universelle</hi>, <lb/>ma mère,
+                        <persName>Madame Angèle Guibert Réginensi</persName>.</p>
+                <p>Ce testament remplace celui que j’avais fait <lb/>en <date type="otherDate" when="1914">1914</date>, à <placeName type="otherPlace">Agnicourt
+                        (Aisne)</placeName> au début de la guerre. <lb/>Il est, du reste, conçu dans
+                    le même esprit.</p>
+                <p>Sans faire de ce qui suit une clause de mon <lb/>testament, je prie ma mère au
+                    cas où l’une de <lb/>mes soeurs ne serait pas mariée de lui laisser <lb/>par
+                    testament, quand elle sentira sa fin prochaine, la <lb/>moitié de son avoir, les
+                    deux autres n’ayant qu’un <lb/>quart chacune. Comme mes deux soeurs actuellement
+                                <lb/>célibataires<choice><sic><surplus>,</surplus></sic><corr/></choice>
+                    ont chacune bon coeur, je suis sûr que <add place="above">si</add> celle
+                    <lb/>qui sera la plus favorisée voit une autre de mes soeurs <lb/>malheureuse,
+                    elle lui portera aide <choice><abbr>&amp;</abbr><expan>et</expan></choice>
+                    assistance.</p>
+                <p>Je <choice><sic>desire</sic><corr>désire</corr></choice> être enterré au
+                    cimetière de <placeName><choice><abbr>St
+                            Ouen</abbr><expan>Saint-Ouen</expan></choice></placeName> <lb/>dans un
+                    caveau simple que ma mère fera
+                    édifier<choice><sic/><corr>,</corr></choice> <lb/>dans lequel elle fera
+                    transférer les restes de mon <choice><sic>grand-<lb/>père</sic><corr>grand-<lb break="no"/>père</corr></choice>
+                            <choice><abbr>&amp;</abbr><expan>et</expan></choice> où elle
+                            <choice><abbr>&amp;</abbr><expan>et</expan></choice> mes soeurs auront
+                    leur place.</p>
+                <p>Je désire un enterrement simple, sans fleurs <lb/>ni couronnes.</p>
+                <p>J’ai fait le plus de bien que j’ai pu
+                        <choice><abbr>&amp;</abbr><expan>et</expan></choice> je ne pense pas
+                    <lb/>avoir jamais fait de mal à personne.</p>
+                <p><add place="marginLeft">Je crois en Dieu
+                                <choice><abbr>&amp;</abbr><expan>et</expan></choice> <lb/>prie ma
+                        mère de ne pas avoir de chagrin. Je
+                            serai<choice><sic/><corr>,</corr></choice> <lb/>s’il est possible,
+                        souvent auprès d’elle.</add></p>
+                <signed rend="right"><persName ref="#pers-554">Maurice
+                        <surname>Réginensi</surname></persName></signed>
+            </div>
+            <!-- FC -->
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0415_02"/>
+                <p>Cec<subst><del>u</del><add>i</add></subst> <lb/>est mon
+                            testament<choice><sic/><corr>.</corr></choice></p>
+                <metamark function="emphasis" rend="horizontal-line"/>
+            </div>
+        </body>
+    </text>
+</TEI>

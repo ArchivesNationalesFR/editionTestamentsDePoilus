@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0361">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title>
+        <title type="main">[Testament de Édouard Victor Grapinet (27 mars 1915)] : édition électronique</title>
+        <author><persName ref="#pers-503">Édouard Victor Grapinet (1892-1916)</persName></author>
+        <editor ref="#CNougaret">Christine Nougaret</editor>
+        <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+        <editor ref="#FClavaud">Florence Clavaud</editor>
+        <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+        <respStmt>
+          <resp>Numérisation</resp>
+          <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique. Département de la Conservation. Atelier photographique</orgName>
+        </respStmt>
+        <respStmt>
+          <resp>Identification et description du testament</resp>
+          <persName ref="#DChristiane">Christiane Demeulenaere-Douyère</persName>
+          <persName ref="#LVieillon">Lucie Vieillon</persName>
+          <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Transcription</resp>
+          <persName ref="#lelia">Lélia Picabia</persName>
+          <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+          <persName ref="#lescure">Jean-Claude Lescure</persName>
+          <persName ref="#MFGarreau">MFGarreau</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Validation</resp>
+          <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+          <persName ref="#CNougaret">Christine Nougaret</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+          <persName ref="#FClavaud">Florence Clavaud</persName>
+          <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+          <persName ref="#jmorvan">Josselin Morvan</persName>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+        <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+        <publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher>
+        <publisher><orgName>École nationale des chartes</orgName></publisher>
+        <publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher>
+        <date when="2021">2021</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence>
+        </availability>
+        <idno>TestamentsDePoilus_will_AN_0361</idno>
+        <!--ultérieurement ajouter idno fourni par Nakala-->
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="will_AN_0361_tes">
+          <msIdentifier>
+            <country>France</country>
+            <institution>Archives nationales</institution>
+            <collection>Minutier central des notaires de Paris</collection>
+            <idno>MC/ET/LVII/1470, minute du 16 novembre 1916 (dépôt du testament de Édouard Victor Grapinet)</idno>
+            <msName>Testament de Édouard Victor Grapinet (27 mars 1915)</msName>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p><date type="willDate" when="1915-03-27">27 mars 1915</date>. <placeName type="willPlace" ref="#pl-635">Ecouen</placeName>.</p>
+              <p><term type="willType">testament olographe</term> de <persName ref="#pers-503"><forename>Édouard</forename>  <forename>Victor</forename>  <surname>Grapinet</surname></persName>, mort pour la France le <date when="1916-11-04">4 novembre 1916</date> dans l’<placeName ref="#pl-756">ambulance de Marcelcave près d’Amiens (Somme)</placeName>.</p>
+            </summary>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>Papier timbré (testament). Enveloppe de deuil (enveloppe). Papier timbré (codicille). </support>
+                <extent>2 pages et 1 enveloppe.  Dimensions du testament : <dimensions type="willPage" unit="cm"><height>24,9</height><width>17,8</width></dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm"><height>11,2</height><width>14,6</width></dimensions>. Dimensions du codicille : <dimensions type="willCodicil" unit="cm"><height>24,9</height><width>17,8</width></dimensions>.</extent>
+              </supportDesc>
+            </objectDesc>
+            <handDesc>
+              <p>Testament : encre. Enveloppe : encre. Codicille : encre.</p>
+            </handDesc>
+          </physDesc>
+          <history>
+            <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010184">étude notariale 57 (CRPCEN : 75006)</orgName></provenance>
+          </history>
+        </msDesc>
+        <msDesc xml:id="will_AN_0361_min">
+          <msIdentifier>
+            <country>France</country>
+            <institution>Archives nationales</institution>
+            <collection>Minutier central des notaires de Paris</collection>
+            <idno>MC/ET/LVII/1470, minute du 16 novembre 1916 (dépôt du testament de Édouard Victor Grapinet)</idno>
+            <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation><date type="willDate" when="1915-03-27">27 mars 1915</date></creation>
+      <langUsage>
+        <language ident="fr">français</language>
+      </langUsage>
+      <abstract>
+        <p>27 mars 1915. Ecouen.</p>
+        <p>testament olographe de Édouard Victor Grapinet, mort pour la France le 4 novembre 1916 dans l’ambulance de Marcelcave près d’Amiens (Somme).</p>
+      </abstract>
+      <textClass>
+        <keywords>
+          <term type="subject">Grande Guerre</term>
+          <term type="subject">Poilu</term>
+          <term type="subject">testament</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when-iso="2020-05-11/2020-06-04" who="#lelia #GBMireille #lescure #MFGarreau">transcription</change>
+      <change when-iso="2020-05-11/2020-06-02" who="#PCharbonnier #CNougaret">validation</change>
+      <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+    <surface type="will-page" n="01">
+      <graphic url="testament_AN_0361___JPEG___FRAN_Poilus_t-0361_01.jpg" xml:id="FRAN_Poilus_t-0361_01"/>
+    </surface>
+    <surface type="codicil-page" n="02">
+      <graphic url="testament_AN_0361___JPEG___FRAN_Poilus_t-0361_02.jpg" xml:id="FRAN_Poilus_t-0361_02"/>
+    </surface>
+    <surface type="will-envelope-recto" n="03">
+      <graphic url="testament_AN_0361___JPEG___FRAN_Poilus_t-0361_03.jpg" xml:id="FRAN_Poilus_t-0361_03"/>
+    </surface>
+  </facsimile>
+  <text xml:id="will_AN_0361">
+    <body>
+      <div type="will">
+        <pb facs="#FRAN_Poilus_t-0361_01"/>
+        <p>Je soussigné <persName ref="#pers-503"><choice><sic>Edouard-Victor</sic><corr>Edouard Victor</corr></choice> <surname>Grapinet</surname></persName><choice><sic> ;</sic><corr>,</corr></choice> <lb/>étudiant en droit<choice><sic> ;</sic><corr>,</corr></choice> demeurant à <placeName type="willAuthorResidence" ref="#pl-635"><choice><sic>Ecouen</sic><corr>Écouen</corr></choice></placeName> (<choice><abbr>S-et-O</abbr><expan>Seine-et-Oise</expan></choice>) <lb/>chez son père<choice><sic> ;</sic><corr>,</corr></choice> et actuellement aspirant au <orgName ref="#o-378">150<hi rend="superscript-double-underlined"><choice><sic>ème</sic><corr>e</corr></choice></hi> <lb/><choice><sic>Régiment</sic><corr>régiment</corr></choice> d’<choice><sic>Infanterie</sic><corr>infanterie</corr></choice> de ligne</orgName><choice><sic/><corr>.</corr></choice></p>
+        <p rend="centered">Déclare par ces présentes :</p>
+        <p>Qu’étant sain de corps et d’esprit, je <lb/>désire et veux que ma cousine et amie <persName>Thérèse Tettare</persName> <lb/>soit pour une partie mon héritière, à charge pour <lb/>elle de suivre certaines clauses.</p>
+        <p>Je désire que  mon <choice><sic>Père</sic><corr>père</corr></choice> lui donne <lb/>l’usufruit de certains de mes biens <subst><del>et</del><add>a</add></subst>fin de lui <lb/>permettre de vivre simplement et comme <lb/>il faut<choice><sic/><corr>,</corr></choice> à charge pour elle de rester <lb/>célibataire<choice><sic/><corr>.</corr></choice></p>
+        <p>Je désire être ramené à <placeName type="otherPlace" ref="#pl-635"><choice><sic>Ecouen</sic><corr>Écouen</corr></choice></placeName> <lb/>et <choice><sic>etre</sic><corr>être</corr></choice> enterré dans mon village natal.</p>
+        <p>Je tiens à ce <choice><sic>que : il</sic><corr>qu’il</corr></choice> y ait un autre <lb/>caveau pour y déposer le corps de mon amie <lb/><persName>Thérèse Tettare</persName> au cas où il lui arriverait quelque chose <lb/>de fatal.</p>
+        <p>Qu’elle fasse dire une messe chaque <lb/>semaine pour le repos de mon âme<choice><sic> ;</sic><corr/></choice> et <lb/>un bout de l’an la 1<hi rend="superscript-double-underlined">ère</hi> année anniversaire de <lb/>mon décès.</p>
+        <p>Je prie mon cher <choice><sic>Père</sic><corr>père</corr></choice>, au nom <lb/>de l’affection sincère qu’il avait pour moi de <lb/><choice><sic>le</sic><corr>la</corr></choice> reporter sur ma chère <persName>Thérèse</persName>, et le  prie de faire <lb/>le nécessaire pour qu’elle puisse vivre simplement <lb/>avec mon souvenir.</p>
+        <dateline rend="centered">Fait à <placeName type="willPlace" ref="#pl-635"><choice><sic>Ecouen</sic><corr>Écouen</corr></choice></placeName><choice><sic> ;</sic><corr>,</corr></choice> le <date type="willDate" when="1915-03-27">27 mars 1915</date> <lb/>en pleine et complète présence d’esprit<choice><sic/><corr>.</corr></choice></dateline>
+        <signed rend="centered"><persName ref="#pers-503"><surname>Grapinet</surname></persName></signed>
+      </div>
+      <div type="codicil">
+        <pb facs="#FRAN_Poilus_t-0361_02"/>
+        <dateline>Ce <date type="willDate" when="1916-07-07">sept <choice><sic>Juillet</sic><corr>juillet</corr></choice> mil neuf cent seize.</date></dateline>
+        <p>Je soussigné <persName ref="#pers-503"><surname>Grapinet</surname> Edouard</persName><choice><sic> ;</sic><corr>,</corr></choice> <term>sous-lieutenant</term> <lb/>au <orgName ref="#o-132">soixante-septième <supplied reason="deleted">régiment</supplied> d’<choice><sic>Infanterie</sic><corr>infanterie</corr></choice></orgName><choice><sic/><corr>,</corr></choice> n’ai rien <lb/>à <choice><sic>ajoute</sic><corr>ajouter</corr></choice> aux dispositions ci-contre ; je n’en <lb/>réclame que l’exécution formelle et tiens à ce <lb/>que le revenu donné à <persName><choice><sic>thérèse</sic><corr>Thérèse</corr></choice> Tettare</persName> ne soit pas <lb/>inférieur à trois mille francs.</p>
+        <dateline rend="right">Fait à <placeName type="willPlace" ref="#pl-635"><choice><sic>Ecouen</sic><corr>Écouen</corr></choice></placeName>, le <date type="willDate" when="1916-07-07">sept <choice><sic>Juillet</sic><corr>juillet</corr></choice> (1916) <lb/>mil neuf cent seize</date><choice><sic/><corr>.</corr></choice></dateline>
+        <signed rend="right"><persName ref="#pers-503"><surname>Grapinet</surname></persName></signed>
+        <space dim="vertical" unit="lines" quantity="4"/>
+        <postscript>
+          <p rend="centered">Bon pour pouvoir<choice><sic/><corr>.</corr></choice></p>
+          <signed rend="centered"><persName ref="#pers-503"><surname>Grapinet</surname></persName></signed>
+        </postscript>
+      </div>
+      <div type="envelope">
+        <pb facs="#FRAN_Poilus_t-0361_03"/>
+        <head rend="centered">Testament <persName ref="#pers-503"><surname>Grapinet</surname></persName></head>
+        <metamark function="separating" rend="horizontal-line"/>
+        <p rend="centered"><choice><sic>à Remettre</sic><corr>À remettre</corr></choice> à Mademoiselle <lb/><persName>Thérèse Tettare</persName> ; après <lb/>l’annonce officielle de ma <lb/>mort<choice><sic/><corr>.</corr></choice></p>
+        <metamark function="separating" rend="horizontal-line"/>
+        <signed rend="centered"><persName ref="#pers-503"><surname>G</surname></persName></signed>
+      </div>
+    </body>
+  </text>
+</TEI>

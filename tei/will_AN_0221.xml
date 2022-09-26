@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0221">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Gilbert Laval (17 décembre 1916)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-281">Gilbert Laval (1875-1917)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021-09">septembre 2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0221</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0221_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LXXVI/1283, minute du 16 janvier 1918 (dépôt du testament de
+                            Gilbert Laval)</idno>
+                        <msName>Testament de Gilbert Laval (17 décembre 1916)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1916-12-17">17 décembre 1916</date>.
+                                    <placeName type="willPlace" ref="#pl-423">inconnu</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-281"><forename>Gilbert</forename> 
+                                    <surname>Laval</surname></persName>, mort pour la France le
+                                    <date when="1917-05-08">8 mai 1917</date> à <placeName ref="#pl-447">Ambulance 9/8, Belrupt
+                            (Meuse)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à lettre (testament). </support>
+                                <extent>3 pages et 1 enveloppe. Dimensions du testament :
+                                        <dimensions type="willPage" unit="cm">
+                                        <height>17,4</height>
+                                        <width>11</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><!--agencyNumberRoman=LXXVI--><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010203">étude notariale 076 (CRPCEN : 75005)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0221_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LXXVI/1283, minute du 16 janvier 1918 (dépôt du testament de
+                            Gilbert Laval)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1916-12-17">17 décembre 1916</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>17 décembre 1916. inconnu.</p>
+                <p>Testament olographe de Gilbert Laval, mort pour la France le 8 mai 1917 à
+                    Ambulance 9/8, Belrupt (Meuse).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-09-10/2020-12-17" who="#MFGarreau #SL. #lelia">transcription</change>
+            <change when-iso="2018-09-10/2020-10-24" who="#jmorvan #FClavaud">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2021-07-30+02:00"> enrichissements et
+                contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0221___JPEG___FRAN_Poilus_t-0221_01.jpg" xml:id="FRAN_Poilus_t-0221_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0221___JPEG___FRAN_Poilus_t-0221_02.jpg" xml:id="FRAN_Poilus_t-0221_02"/>
+        </surface>
+        <surface type="will-page" n="03">
+            <graphic url="testament_AN_0221___JPEG___FRAN_Poilus_t-0221_03.jpg" xml:id="FRAN_Poilus_t-0221_03"/>
+        </surface>
+        <surface type="will-envelope-recto" n="04">
+            <graphic url="testament_AN_0221___JPEG___FRAN_Poilus_t-0221_04ab.jpg" xml:id="FRAN_Poilus_t-0221_04ab"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0221">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0221_01"/>
+                <p rend="right">Bien <choice><sic>Chers Parents</sic><corr>chers parents</corr></choice>,</p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>J’ai laissé en faveur de <lb/><persName><choice><abbr>M<hi rend="superscript-double-underlined">me</hi></abbr>
+                            <expan>Madame</expan></choice> Reboul</persName> des dispositions <lb/>testamentaires auxquelles
+                    je <lb/>vous demande en grâce de <lb/>ne point toucher. Renoncez <lb/>même aux
+                    avantages de la loi. <lb/>Sans <persName><choice>
+                            <abbr>M<hi rend="superscript-double-underlined">me</hi></abbr>
+                            <expan>Madame</expan>
+                        </choice> Reboul</persName>, mon legs <lb/>serait absolument nul car <lb/>la
+                    Lysine aurait cessé de <lb/>vivre avec la guerre.</p>
+                <p>L’affaire a été maintenue <lb/>grâce à son zèle<choice><sic/><corr>,</corr></choice> à son <choice>
+                        <sic>intel-<lb break="no"/>ligence</sic>
+                        <corr>intel<lb break="no"/>ligence</corr>
+                    </choice> et à son dévouement<choice><sic/><corr>.</corr></choice></p>
+                <pb facs="#FRAN_Poilus_t-0221_02"/>
+                <p>De grâce <choice>
+                        <sic>laissez la</sic>
+                        <corr>laissez-la</corr>
+                    </choice> continuer <lb/>à diriger seule cette affaire et <lb/>bannissez tous
+                    conseils d’immixtion <lb/>ou d’inventaire qui pourraient <lb/>vous être
+                    donnés.</p>
+                <p><persName><choice>
+                            <abbr>M<hi rend="superscript-double-underlined">me</hi></abbr>
+                            <expan>Madame</expan>
+                        </choice> Reboul</persName> qui s’est dévouée <lb/>et sacrifiée à la
+                    sauvegarde <lb/>de la Lysine a seule droit d’en <lb/>disposer, et elle le fera <choice>
+                        <sic>conformé-<lb break="no"/>ment</sic>
+                        <corr>conformé<lb break="no"/>ment</corr>
+                    </choice> à mes instructions.</p>
+                <p>Une ingérence quelconque de <lb/>votre part ou de celle de tout <lb/>mandataire
+                    que vous pourriez <lb/>constituer ne pourrait que <lb/>compromettre la
+                    Lysine.</p>
+                <p>Fiez-vous donc à ma légataire <lb/>universelle qui a le culte de <lb/>la famille
+                    et le souci de <lb/>la justice. Un jour viendra <pb facs="#FRAN_Poilus_t-0221_03"/>peut-être où d’intéressantes <lb/>affaires élaborées par <persName><choice>
+                            <abbr>M<hi rend="superscript-double-underlined">me</hi></abbr>
+                            <expan>Madame</expan>
+                        </choice> <lb/>Reboul</persName> aboutiront<choice><sic/><corr>.</corr></choice> Alors je <lb/>lui ai demandé de vous faire <lb/>une pension mensuelle
+                    de <lb/>50 à 100 <choice>
+                        <abbr>fr.</abbr>
+                        <expan>francs</expan>
+                    </choice> qui vous donnera <lb/>un peu plus de <choice><sic>mieux être</sic><corr>mieux-être</corr></choice>. <lb/>Mais quoi qu’il arrive ne <lb/>demandez aucun principal <lb/>qui
+                    puisse compromettre la <lb/>marche de l’affaire dont <lb/>l’organisation <subst><del>à</del><add>a</add></subst> coûté<choice><sic/><corr>,</corr></choice> tant <lb/>à <persName><choice>
+                            <abbr>M<hi rend="superscript-double-underlined">me</hi></abbr>
+                            <expan>Madame</expan>
+                        </choice> Reboul</persName> qu’à moi<choice><sic/><corr>,</corr></choice> <lb/>beaucoup de sou<subst><del>s</del><add>c</add></subst>is, de travaux <lb/>et de sacrifices.</p>
+                <dateline rend="centered">Fait aux Armées, <lb/><date type="willDate" when="1916-12-17">le 17 <choice>
+                            <sic>Décembre</sic>
+                            <corr>décembre</corr>
+                        </choice> 1916</date><choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="centered"><persName ref="#pers-281">Gilbert
+                        <surname>Laval</surname></persName></signed>
+                <postscript>
+                    <p><address>
+                            <addrLine><persName><choice>
+                                        <abbr>M<hi rend="superscript-double-underlined">r</hi></abbr>
+                                        <expan>Monsieur</expan>
+                                    </choice> ou <choice>
+                                        <abbr>M<hi rend="superscript-double-underlined">me</hi></abbr>
+                                        <expan>Madame</expan>
+                                    </choice> Laval</persName></addrLine>
+                            <addrLine><placeName type="otherPlace" ref="#pl-446"><choice>
+                                        <abbr>S<hi rend="superscript-double-underlined">t</hi>
+                                            Germain l’Herm</abbr>
+                                        <expan>Saint-Germain-l’Herm</expan>
+                                    </choice></placeName></addrLine>
+                            <addrLine>(<choice><abbr>P. de Dôme</abbr><expan>Puy-de-Dôme</expan></choice>)<choice><sic/><corr>.</corr></choice></addrLine>
+                        </address></p>
+                </postscript>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0221_04ab"/>
+                <p rend="centered"><address>
+                        <addrLine><persName>Monsieur ou <choice>
+                                    <abbr>M<hi rend="superscript-double-underlined">me</hi></abbr>
+                                    <expan>Madame</expan>
+                                </choice> <surname>Laval</surname></persName></addrLine>
+                        <addrLine>de <placeName type="otherPlace" ref="#pl-446"><choice>
+                                    <abbr>S<hi rend="superscript-double-underlined">t</hi> Germain
+                                        l’Herm</abbr>
+                                    <expan>Saint-Germain-l’Herm</expan>
+                                </choice></placeName></addrLine>
+                        <addrLine rend="right">Puy-de-Dôme</addrLine>
+                    </address></p>
+                <p><add place="marginBottom"><supplied reason="hidden" quantity="1" unit="chars">À</supplied> joindre au pli <lb/><supplied reason="hidden">déjà</supplied> remis</add><choice>
+                                    <sic/>
+                                    <corr>.</corr>
+                                </choice></p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0409">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Henri Jules Barbier (25 mars 1915 et 25 mars
+                    1917)] : édition électronique</title>
+                <author><persName ref="#pers-548">Henri Jules Barbier
+                    (1878-1917)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#CNougaret">Christine Nougaret</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021-09">septembre 2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0409</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0409_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVIII/1239, minute du 7 mai 1917 (dépôt du testament de Henri
+                            Jules Barbier)</idno>
+                        <msName>Testament de Henri Jules Barbier (25 mars 1915 et 25 mars
+                            1917)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><!--FC <date type="willDate" when-iso="1915-03-25/1917-03-25">25 mars 1915 et 25 mars 1917</date>--><date type="willDate" when="1915-03-25">25 mars 1915</date> et <date when="1917-03-25">25 mars 1917</date>. <placeName type="willPlace" ref="#pl-482">Colombes</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-548"><forename>Henri</forename> 
+                                    <forename>Jules</forename> 
+                                    <surname>Barbier</surname></persName>, mort pour la France le
+                                    <date when="1917-05-02">2 mai 1917</date> à <placeName ref="#pl-183">Villejuif</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à lettre (testament). Enveloppe cachetée
+                                    (enveloppe). </support>
+                                <extent>4 pages et 1 enveloppe. Dimensions du testament :
+                                        <dimensions type="willPage" unit="cm">
+                                        <height>22,8</height>
+                                        <width>16,7</width>
+                                    </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                                        <height>14,4</height>
+                                        <width>19,7</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Enveloppe : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><!--agencyNumberRoman=LVIII--><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010185">étude notariale 58 (CRPCEN : 75081)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0409_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVIII/1239, minute du 7 mai 1917 (dépôt du testament de Henri
+                            Jules Barbier)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-03-25">25 mars 1915</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>25 mars 1915 et 25 mars 1917. Colombes.</p>
+                <p>Testament olographe de Henri Jules Barbier, mort pour la France le 2 mai 1917 à
+                    Villejuif.</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2020-09-09/2020-11-29" who="#MFGarreau #GBMireille #lelia">transcription</change>
+            <change when-iso="2020-09-09/2020-09-19" who="#jmorvan #PCharbonnier #CNougaret">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2021-07-30+02:00"> enrichissements et
+                contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0409___JPEG___FRAN_Poilus_t-0409_01_ab.jpg" xml:id="FRAN_Poilus_t-0409_01_ab"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0409___JPEG___FRAN_Poilus_t-0409_02_ab.jpg" xml:id="FRAN_Poilus_t-0409_02_ab"/>
+        </surface>
+        <surface type="will-page" n="03">
+            <graphic url="testament_AN_0409___JPEG___FRAN_Poilus_t-0409_03_ab.jpg" xml:id="FRAN_Poilus_t-0409_03_ab"/>
+        </surface>
+        <surface type="will-page" n="04">
+            <graphic url="testament_AN_0409___JPEG___FRAN_Poilus_t-0409_04_ab.jpg" xml:id="FRAN_Poilus_t-0409_04_ab"/>
+        </surface>
+        <!--<surface type="unknown" n="05">-->
+        <surface type="will-envelope-recto" n="05">
+            <graphic url="testament_AN_0409___JPEG___FRAN_Poilus_t-0409_05.jpg" xml:id="FRAN_Poilus_t-0409_05"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0409">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0409_01_ab"/>
+                <dateline rend="centered"><placeName type="willPlace" ref="#pl-482">Colombes</placeName> <date type="willDate" when="1915-03-25">25 mars
+                        1915</date></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <head>Ceci est mon testament :</head>
+                <p>La vie est fragile, maladie ou autre <lb/>malheur peuvent faire que la
+                    <lb/>mienne n’aille pas loin.</p>
+                <p>Je laisse donc tout ce que je <lb/>possède, en usufruit, à ma très <lb/>chère
+                    femme, grande joie de <lb/>ma jeunesse<app><lem><del>tout a</del><add place="marginRight" type="testatorComment"><seg type="signature">H.J.B</seg> 2 mots<lb/> rayés <unclear reason="quite-illegible">nuls</unclear></add></lem><note resp="#jmorvan">Mention "2 mots
+                            rayés nuls" ajoutée en marge et signés
+                            "H.J.B".</note></app><choice><sic/><corr>.</corr></choice></p>
+                <p>En ce qui concerne le <choice><sic>matiéri-<lb/>-el</sic><corr>matéri<lb break="no"/>el</corr></choice> utile à mes travaux, instruments
+                    <lb/>de chimie, outils mécaniques, bureau, <lb/>bibliothèques,
+                    <choice><sic>Table</sic><corr>table</corr></choice> à dessin, et meuble
+                    <lb/>pour ranger papiers et publications <lb/>volumineuses et des manipulations
+                    <lb/>photographiques et le matériel pour <lb/>le tirage ; grand appareil,
+                    cuvettes, flacons<choice><sic/><corr>.</corr></choice></p>
+                <p>Une pendule géographique inventée <lb/>par mon
+                            grand<choice><sic>’</sic><corr>-</corr></choice>père.</p>
+                <p>Un piano Pleyel.</p>
+                <p>Les tableaux, venant de ma famille, <lb/><app><lem><del>sauf</del><add place="below" type="testatorComment"><seg type="signature"><supplied unit="chars" reason="hidden" quantity="1">H</supplied>JB</seg> 1 mot rayé nul</add></lem><note resp="#jmorvan">Mention "1 mot rayé nul" ajoutée en marge et signée
+                            "HJB".</note></app> ceux appartenant à ma femme <lb/>et venant de sa
+                    grand-mère et <lb/>provenant de dons lui étant personnels<pb facs="#FRAN_Poilus_t-0409_02_ab"/>tels que son portrait au pastel <lb/>fait
+                    par l’aimable <persName><add place="inline"><choice><abbr>M<hi rend="superscript-underlined">me</hi></abbr><expan>Madame</expan></choice></add>
+                        Destez</persName> et le <lb/>portrait de sa mère jeune fille, <lb/>et
+                    différentes autres toiles anciennes<choice><sic/><corr>.</corr></choice></p>
+                <p>En ce qui concerne ma bibliothèque<choice><sic/><corr>,</corr></choice> <lb/>les
+                    oeuvres de mon arrière <choice><sic>grand
+                        Père</sic><corr>grand-père</corr></choice><choice><sic> ;</sic><corr/></choice><app><lem><del><gap reason="cancelled" unit="words" quantity="1"/></del><add place="below" type="testatorComment">mot rayé <lb/><seg type="signature"><persName ref="#pers-548"><hi rend="underlined">H.JB</hi></persName></seg></add></lem><note resp="#jmorvan">Mention "mot rayé" ajoutée en marge et signée
+                            "H.JB".</note></app> <lb/><persName>Alexandre Barbier</persName>, mon
+                            <choice><sic>grand
+                        Père</sic><corr>grand-père</corr></choice> <persName>Jules
+                        <lb/>Barbier</persName><choice><sic/><corr>,</corr></choice> dont quelques
+                    livrets manquent <lb/>pour terminer leur reliage. Des <lb/>livres de ma
+                            <choice><sic>grande
+                        tante</sic><corr>grand-tante</corr></choice> <persName>Victoire
+                        Barbier</persName>. <lb/>Les œuvres de ma <choice><sic>grand
+                            mère</sic><corr>grand-mère</corr></choice> « Maman <lb/>Marie ». Tous
+                    les livres intéressants <lb/>tant au
+                        <choice><sic>points</sic><corr>point</corr></choice> <app><lem><add place="above">de vue</add><add place="marginLeft" type="testatorComment"><supplied unit="words" reason="hidden" quantity="2">2 mots ajoutés <lb/><persName ref="#pers-548">HJB</persName></supplied></add></lem><note>Mention "2 mots
+                            ajoutés" ajoutée en marge et signée "HJB".</note></app> artistique,
+                    <choice><sic>scientifiques</sic><corr>scientifique</corr></choice><lb/> etc<choice><sic/><corr>.</corr></choice> qui pourront servir
+                    à <lb/>l’éducation de ma fille. Enfin les <lb/>œuvres de mon père, et des
+                    <choice><sic>Revues</sic><corr>revues</corr></choice> où <lb/>j’ai écrit
+                    quelques articles sur <lb/>l’éducation physique.</p>
+                <p>Je tiens à cette <choice><sic>complétation</sic><corr>complétion</corr></choice>
+                    des <lb/>œuvres de mon
+                        <choice><sic>grand’père</sic><corr>grand-père</corr></choice> afin que
+                        <lb/><persName>Christiane</persName> ait plus <add place="inline">tard</add>
+                    l’exemple <lb/>du travail qui dénote chez lui <lb/>un labeur immense et qui
+                    laisse <lb/>à sa famille un nom et un <lb/>patrimoine très appréciable.</p>
+                <p>Outre ces livres littéraires,
+                    artistiques<choice><sic/><corr>,</corr></choice> <lb/>ceux scientifiques pourront
+                            peut<choice><sic> </sic><corr>-</corr></choice>être<pb facs="#FRAN_Poilus_t-0409_03_ab"/>servir au mari que je souhaite <lb/>à ma
+                            <persName><hi rend="underlined">Cricri</hi></persName> !!</p>
+                <p>Que l’on garde les reliques de <lb/>la guerre que j’ai
+                            <choice><sic>anotées</sic><corr>annotées</corr></choice>, elles <lb/>
+                    rappeleront que j’ai <app><lem><supplied reason="deleted">fait</supplied></lem><note resp="#jmorvan">Il manque de tout évidence le
+                            mot « fait », que nous restituons.</note></app> mon possible <lb/>pour
+                    servir mon pays suivant <lb/>mes forces.</p>
+                <p>En ce qui concerne les
+                    <choice><sic>interêts</sic><corr>intérêts,</corr></choice> <lb/>je désire que mon
+                    oncle <persName>Henri
+                    Laffillée</persName><choice><sic/><corr>,</corr></choice> <lb/>architecte du
+                            gouvernement<choice><sic/><corr>,</corr></choice> soit <lb/>chargé du
+                    réglement de tous les
+                        <lb/><choice><sic>interêts</sic><corr>intérêts</corr></choice> qui
+                    retomberont à sa <lb/><choice><sic>majorite</sic><corr>majorité</corr></choice>
+                    ou à son mariage sur <lb/>ma fille chérie<app><lem><del> et qui pou</del><add place="inline" type="testatorComment"><seg type="signature"><hi rend="underlined">H.J.B</hi></seg></add></lem><note resp="#jmorvan">Signature "H.J.B" ajoutée en marge pour attester de la
+                            biffure des termes "et qui
+                            pou".</note></app><choice><sic/><corr>.</corr></choice></p>
+                <p>Je
+                    désire<choice><sic/><corr>,</corr></choice> <choice><sic>etant</sic><corr>étant</corr></choice>
+                    marié sous le <lb/>régime de séparation de biens, que <lb/>ma femme jouisse de
+                    l’usufruit <lb/>de mes biens futurs jusqu’<subst><del>à
+                        l’</del><add>aux</add></subst> époques <lb/>ci-dessus
+                            <choice><sic>mentionnees</sic><corr>mentionnées</corr></choice>
+                            (<choice><sic>majorite</sic><corr>majorité</corr></choice> ou
+                            <choice><sic>marige</sic><corr>mariage</corr></choice>) et qu’elle
+                    <lb/>partage la moitié des rapports, à moins, <lb/>chose que je juge impossible,
+                    qu’elle <lb/>se remarie, en ce cas ce serait ma <lb/>fille qui devrait hériter
+                    de ce qui <lb/>vient de ma famille et moi.</p>
+                <p>Que ma bien aimée femme ne <lb/>s’afflige nullement de cette
+                            <choice><sic>close</sic><corr>clause</corr></choice> <lb/>légitime.</p>
+                <pb facs="#FRAN_Poilus_t-0409_04_ab"/>
+                <p>Pour l’ensemble du mobilier déjà <lb/>dénommé dans notre contrat de <lb/>mariage,
+                    tout le complément appartient <lb/>à ma femme, lui venant de sa <choice><sic>grand-<lb/>mère</sic><corr>grand-<lb break="no"/>mère</corr></choice>.</p>
+                <p>Pour terminer les questions de <lb/>famille, la possession de la
+                            <choice><sic>Villa</sic><corr>villa</corr></choice> Vincennette <lb/>me
+                    semble devoir revenir à ma <lb/>fille, exception
+                            <choice><sic>faites</sic><corr>faite</corr></choice> des intérêts
+                    <lb/>d’emprunts autres que ceux dûs <lb/>au <orgName>Crédit
+                            Foncier</orgName><choice><sic>, comme</sic><corr>. Comme</corr></choice>
+                    la <lb/><choice><sic>Villa</sic><corr>villa</corr></choice> Mèdjé à été
+                    attribuée à ma
+                        sœur<choice><sic>.</sic><corr>,</corr></choice> <lb/><persName>Simone</persName>
+                    ne doit pas croire que <app><lem><supplied reason="deleted">je </supplied></lem><note resp="#jmorvan">Il manque de tout évidence un
+                            mot, que nous restituons
+                            ici.</note></app><choice><sic>puiste</sic><corr>puisse</corr></choice> <lb/>être
+                    jaloux d’elle, ça serait entièrement <lb/>contraire à mes sentiments
+                    fraternels ; <lb/>et en ce moment ce sont <app><lem><del>les</del><add place="marginLeft" type="testatorComment">1 mot <lb/><hi rend="underlined">rayé</hi><lb/><seg type="signature"><hi rend="underlined"><persName>HJB</persName></hi></seg></add></lem><note resp="#jmorvan">Mention "1 mot rayé" ajoutée en marge et signée "HJB".</note></app>
+                    ceux <lb/>pour l’avenir des deux êtres
+                            <choice><sic>chéries</sic><corr>chéris</corr></choice> <lb/>qu<subst><del>i</del><add>e</add></subst>
+                    sont ma <persName>Suzanne</persName> et ma
+                            « <persName>Cricri</persName> »<choice><sic/><corr>.</corr></choice></p>
+                <p>Si la <choice><sic>Destiné</sic><corr>Destinée</corr></choice> devait les
+                            <choice><sic>privées</sic><corr>priver</corr></choice> de <lb/>mon aide
+                    et de mon amour, je veux <lb/>souhaiter que, le chagrin qui se <lb/>calmera je
+                    l’espère, elles soi<subst><del>t</del><add>e</add></subst>nt heureuses.
+                    <lb/>C’est le plus <add place="above">cher</add> désir de mon
+                            coeur<choice><sic/><corr>.</corr></choice></p>
+                <signed rend="right"><hi rend="underlined"><persName ref="#pers-518">Henri Jules
+                                <surname>Barbier</surname></persName></hi></signed>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0409_05"/>
+                <!--FC <head rend="centered">Ceci est mon testament</head>-->
+                <p rend="centered">Ceci est mon testament<choice><sic/><corr>.</corr></choice></p>
+                <signed rend="centered"><hi rend="underlined"><persName ref="#pers-548">H. J.
+                                <surname>Barbier</surname></persName></hi></signed>
+                <dateline rend="right"><date type="willDate" when="1917-03-25">25 Mars
+                    1917</date></dateline>
+            </div>
+        </body>
+    </text>
+</TEI>

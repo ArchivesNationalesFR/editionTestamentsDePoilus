@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0144">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title>
+                <title type="main">[Testament de Henri Jules Sénéchal (5 août 1914)] : édition électronique</title>
+                <author><persName ref="#pers-206">Henri Jules Sénéchal (1880-1914)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique. Département de la Conservation. Atelier photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#BDavy">Benjamin Davy</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#SL.">EG</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0144</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0144_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LXIX/1544, minute du 24 novembre 1915 (dépôt du testament de Henri Jules Sénéchal)</idno>
+                        <msName>Testament de Henri Jules Sénéchal (5 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1914-08-05">5 août 1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-206"><forename>Henri</forename> <forename>Jules</forename> <surname>Sénéchal</surname></persName>, mort pour la France le <date when="1914-09-10">10 septembre 1914</date> à <placeName ref="#pl-341">Érize la Grande (Meuse)</placeName>.</p>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). Enveloppe bleue (enveloppe). </support>
+                                <extent>1 page et 1 enveloppe. Dimensions du testament : <dimensions type="willPage" unit="cm"><height>24,9</height><width>17,8</width></dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm"><height>11,5</height><width>14,6</width></dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Enveloppe : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010196">étude notariale 069 (CRPCEN : 75007)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0144_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LXIX/1544, minute du 24 novembre 1915 (dépôt du testament de Henri Jules Sénéchal)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-05">5 août 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>5 août 1914. Paris.</p>
+                <p>testament olographe de Henri Jules Sénéchal, mort pour la France le 10 septembre 1914 à Érize la Grande (Meuse).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-04-20/2018-05-22" who="#SL.">transcription</change>
+            <change when-iso="2018-04-20/2018-04-24" who="#PCharbonnier #FClavaud">validation</change>
+            <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0144___JPEG___FRAN_Poilus_t-0144_01.jpg" xml:id="FRAN_Poilus_t-0144_01"/>
+        </surface>
+        <surface type="will-envelope-recto" n="02">
+            <graphic url="testament_AN_0144___JPEG___FRAN_Poilus_t-0144_02.jpg" xml:id="FRAN_Poilus_t-0144_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0144">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0144_01"/>
+                <head>Ceci est mon testament qui <choice><sic>revoque</sic><corr>révoque</corr></choice> toute <lb/>autre disposition<choice><sic/><corr>.</corr></choice></head>
+                <p>J’institue ma mère <persName><choice><sic>madame Veuve</sic><corr>Madame veuve</corr></choice> Sénéchal <lb/>née Plé</persName> ma <choice><sic>legataire</sic><corr>légataire</corr></choice> universelle<choice><sic/><corr>,</corr></choice> lui donnant <lb/>en toute <choice><sic>proprieté</sic><corr>propriété</corr></choice> et jouissance tous mes biens<choice><sic/><corr>,</corr></choice> <lb/><choice><sic>a</sic><corr>à</corr></choice> charge des legs suivants<choice><sic/><corr>,</corr></choice> lesquels devront être <lb/><choice><sic>delivres</sic><corr>délivrés</corr></choice> quittes et francs de tous frais<choice><sic/><corr>,</corr></choice> honoraires <lb/>et droits de mutation et de succession<choice><sic/><corr>.</corr></choice></p>
+                <p>Je lègue <choice><sic>a</sic><corr>à</corr></choice> ma <choice><sic>niece</sic><corr>nièce</corr></choice> <persName>Simone Fleck</persName> une <lb/>somme de 50.000 francs payable <choice><sic>a</sic><corr>à</corr></choice> sa <lb/>18<hi rend="superscript-double-underlined">eme</hi> année <choice><sic>revolue</sic><corr>révolue</corr></choice> sans <choice><sic>interets</sic><corr>intérêts.</corr></choice></p>
+                <p>Je lègue <choice><sic>a</sic><corr>à</corr></choice> <persName>Mademoiselle Hermance Boisson</persName><choice><sic/><corr>,</corr></choice> <lb/>demeurant <choice><sic>a</sic><corr>à</corr></choice> <placeName type="otherPlace" ref="#pl-2">Paris</placeName><choice><sic/><corr>,</corr></choice> rue Beaurepaire<choice><sic/><corr>,</corr></choice> n<hi rend="superscript">o</hi> 16<choice><sic/><corr>,</corr></choice> une <lb/>rente annuelle et <choice><sic>viagere, a</sic><corr>viagère à</corr></choice> titre incessible et <lb/>insaisissable de 12.000 francs<choice><sic/><corr>.</corr></choice></p>
+                <p>Cette rente sera servie et payable d’avance <lb/>aussitôt mon <choice><sic>dèces</sic><corr>décès, </corr></choice> mensuellement le 1<hi rend="superscript-underlined">er</hi> de chaque mois<choice><sic/><corr>.</corr></choice> <lb/><choice><sic>Savoir</sic><corr>À savoir</corr></choice> 1800 francs pour chaque mois de janvier<choice><sic/><corr>,</corr></choice> <lb/>avril, juillet et octobre<choice><sic/><corr>,</corr></choice> et 600 francs pour chaque <lb/>mois de <choice><sic>fevrier</sic><corr>février</corr></choice>, mars, mai, juin, <choice><sic>aout</sic><corr>août</corr></choice>, septembre<choice><sic/><corr>,</corr></choice> <lb/>novembre et <choice><sic>decembre </sic><corr>décembre.</corr></choice></p>
+                <p>Mes <choice><sic>legataires</sic><corr>légataires</corr></choice> ne pourront prendre aucune <lb/>inscription et ne pourront exiger ni emploi <lb/>ni garantie<choice><sic/><corr>.</corr></choice></p>
+                <p>Je nomme <persName><choice><abbr>M.</abbr><expan>Monsieur</expan></choice> Bazin W</persName><choice><sic/><corr>,</corr></choice> mon notaire<choice><sic/><corr>,</corr></choice> <lb/>mon <choice><sic>executeur</sic><corr>exécuteur</corr></choice> testamentaire<choice><sic/><corr>, </corr></choice> le priant de <lb/>veiller <choice><sic>a</sic><corr>à</corr></choice> la stricte <choice><sic>execution de mes volontes</sic><corr>exécution de mes volontés.</corr></choice> <lb/>Il <choice><sic>reglera</sic><corr>règlera</corr></choice> ma succession<choice><sic/><corr>.</corr></choice></p>
+                <dateline>Fait <choice><sic>a</sic><corr>à</corr></choice>
+                    <placeName type="willPlace" ref="#pl-2">Paris</placeName>
+                    <date type="willDate" when="1914-08-05">le cinq <choice><sic>Aout Mil</sic><corr>août mil</corr></choice> neuf cent <lb/>quatorze</date><choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="centered"><persName ref="#pers-206">J <surname>Sénéchal</surname></persName></signed>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0144_02"/>
+                <p rend="centered">Testament de <persName ref="#pers-206"><choice><abbr>M<hi rend="superscript-underlined">r</hi></abbr><expan>Monsieur</expan></choice> Henri <surname>Sénéchal</surname></persName> <lb/><choice><sic>Remis a</sic><corr>remis à</corr></choice> <persName><choice><abbr>M<hi rend="superscript-underlined">r</hi></abbr><expan>Monsieur</expan></choice> Lambert</persName><choice><sic/><corr>.</corr></choice></p>
+            </div>
+        </body>
+    </text>
+</TEI>

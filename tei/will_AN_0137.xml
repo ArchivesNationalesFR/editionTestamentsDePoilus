@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0137">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title>
+                <title type="main">[Testament de Eugène Léon Freminet (11 août 1914)] : édition électronique</title>
+                <author><persName ref="#pers-199">Eugène Léon Freminet (1883-1914)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique. Département de la Conservation. Atelier photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#AM">Aurélie Massie</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#Desauthieux">Laurent Corbin</persName>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#FMARIECLAIRE">FMARIECLAIRE</persName>
+                    <persName ref="#SL.">EG</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0137</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0137_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XLVIII/1809, minute du 19 août 1920 (dépôt du testament de Eugène Léon Freminet)</idno>
+                        <msName>Testament de Eugène Léon Freminet (11 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1914-08-11">11 août 1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-199"><forename>Eugène</forename> <forename>Léon</forename> <surname>Freminet</surname></persName>, mort pour la France en <date notBefore="1914-08-01" notAfter="1914-08-31">août 1914</date> à <placeName>lieu inconnu</placeName>.</p>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). Enveloppe (enveloppe). </support>
+                                <extent>2 pages et 1 enveloppe. Dimensions du testament : <dimensions type="willPage" unit="cm"><height>24,9</height><width>17,8</width></dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm"><height>9,5</height><width>15</width></dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Enveloppe : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010175">étude notariale 048 (CRPCEN : 75047)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0137_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XLVIII/1809, minute du 19 août 1920 (dépôt du testament de Eugène Léon Freminet)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-11">11 août 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>11 août 1914. Paris.</p>
+                <p>testament olographe de Eugène Léon Freminet, mort pour la France en août 1914 à lieu inconnu.</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-04-20/2018-06-08" who="#lelia #Desauthieux #MFGarreau #FMARIECLAIRE #SL.">transcription</change>
+            <change when-iso="2018-04-20/2018-05-05" who="#PCharbonnier #FClavaud">validation</change>
+            <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0137___JPEG___FRAN_Poilus_t-0137_01.jpg" xml:id="FRAN_Poilus_t-0137_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0137___JPEG___FRAN_Poilus_t-0137_02.jpg" xml:id="FRAN_Poilus_t-0137_02"/>
+        </surface>
+        <surface type="will-envelope-recto" n="03">
+            <graphic url="testament_AN_0137___JPEG___FRAN_Poilus_t-0137_03.jpg" xml:id="FRAN_Poilus_t-0137_03"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0137">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0137_01"/>
+                <head rend="centered"><hi rend="underlined">Testament</hi>.</head>
+                <p>Ceci est mon seul testament, par lequel je révoque <lb/>toutes dispositions antérieures en date. <lb/>J’institue ma sœur, <persName>Thérèse <surname>Fréminet</surname></persName>, <lb/>pour ma légataire universelle. <lb/>J’exprime en outre à ma mère mon désir, <lb/>qui, je n’en doute pas, sera d’ailleurs conforme <lb/>à ses propres intentions, qu’elle fasse abandon à <lb/>ma sœur de ce que la loi lui réserve dans ma <lb/>succession, puisque ce petit pécule nous vient de <lb/>notre père, et constitue, pour ainsi dire, notre <lb/>seul avoir personnel, à ma sœur et à moi. <lb/>En tous cas, je charge ma légataire universelle <lb/>d’acquitter un legs particulier d’une somme <lb/>de cinq mille francs (<choice><sic>5’000</sic><corr>5 000</corr></choice><hi rend="superscript">f</hi>), que je fais, dans ce <lb/>premier cas, à <persName>Monsieur <surname>Camoin de Vence</surname></persName>, <lb/>avocat à la <orgName>Cour d’<choice><sic>Appel</sic><corr>appel</corr></choice> de Paris</orgName>, <choice><sic>demeu-<lb/>rant</sic><corr>demeu<lb break="no"/>rant</corr></choice> à <placeName type="otherPlace" ref="#pl-2">Paris</placeName>, 49 rue de Trévise.</p>
+                <p><hi rend="underlined"><choice><abbr>II<hi rend="superscript-double-underlined">ème</hi></abbr><expan>Deuxième</expan></choice> <choice><sic>Cas</sic><corr>cas</corr></choice></hi>. - Pour le cas où ma sœur serait <lb/>décédée avant moi, j’institue ma mère, <lb/><persName>Eugénie <surname>Décombaz</surname></persName>, pour ma légataire <lb/>universelle ; et je la charge, alors, d’<choice><sic>acquit-<lb/>ter</sic><corr>acquit<lb break="no"/>ter</corr></choice> un legs particulier d’une somme <lb/>de dix mille francs  (<choice><sic>10’000</sic><corr>10 000</corr></choice><hi rend="superscript">f</hi>), que je fais, <lb/>dans ce second cas, à <persName>Monsieur <lb/><surname>Camoin de Vence</surname></persName>, avocat à la <choice><sic>Cour</sic><corr>cour</corr></choice>, <lb/>susnommé et domicilié.</p>
+                <p><hi rend="underlined"><choice><abbr>III<hi rend="superscript-double-underlined">ème</hi></abbr><expan>Troisième</expan></choice> <choice><sic>Cas</sic><corr>cas</corr></choice></hi>. - Enfin, pour le cas où ma <lb/>mère serait également prédécédée, <lb/>j’institue mon cousin <persName>Paul <surname>Pothet</surname></persName>, <pb facs="#FRAN_Poilus_t-0137_02"/>maire de <placeName type="otherPlace"><choice><sic>Ver-sur-mer</sic><corr>Ver-sur-Mer</corr></choice> (Calvados)</placeName>, pour <lb/>mon légataire universel ; et je le charge, <lb/>alors, d’acquitter un legs particulier <lb/>d’une somme de cinquante mille francs (<choice><sic>50˙000 </sic><corr>50 000</corr></choice><hi rend="superscript">f</hi>), <lb/>que je fais, dans ce troisième cas, à <persName>Monsieur <lb/>Camoin de Vence</persName>, avocat à la <choice><sic>Cour</sic><corr>cour</corr></choice>, <choice><sic>sus-<lb/>nommé</sic><corr>sus<lb break="no"/>nommé</corr></choice> et domicilié.</p>
+                <p><hi rend="underlined"><choice><sic>IV<hi rend="superscript-double-underlined">ème</hi></sic><corr>Quatrième</corr></choice> cas</hi> - Au cas de prédécès de tous les <lb/>précédents légataires universels, j’institue <lb/>l’<orgName>Assistance <choice><sic>Publique,</sic><corr>publique</corr></choice></orgName> pour ma légataire <lb/>universelle ; et je la charge d’acquitter <lb/>le legs particulier de cinquante mille <lb/>francs (<choice><sic>50˙000 </sic><corr>50 000</corr></choice><hi rend="superscript">f</hi>) que je fais également <lb/>dans ce dernier cas, à <persName>Monsieur Camoin <lb/>de Vence</persName>, susnommé et domicilié.</p>
+                <p>Si je meurs au service de la France, <lb/>ne me plaignez pas ; si nous sommes victorieux, <lb/>enviez-moi, car je mourrai joyeux.</p>
+                <p>Je ne crois ni à Dieu ni à une vie future ; <lb/>mais j’adore passionnément la Vérité, <lb/>l’Idéal <choice><sic>Humain</sic><corr>humain</corr></choice> et la Beauté.</p>
+                <p>Tous ceux que j’ai aimés l’ont senti : <lb/>à tous je dis adieu.</p>
+                <p>J’embrasse une dernière fois ma maman <lb/>et ma chère sœurette.</p>
+                <dateline>Entièrement écrit, daté et signé de <lb/>ma main, à <placeName type="willPlace" ref="#pl-2">Paris</placeName>, 174 rue de la Pompe, <lb/><date type="willDate" when="1914-08-11">le mardi onze août mil neuf cent quatorze <lb/>(11 août 1914)</date>.</dateline>
+                <signed rend="centered"><persName ref="#pers-199">Eugène <surname>Fréminet</surname></persName>
+                    <lb/>avocat à la <choice><sic>Cour</sic><corr>cour,</corr></choice>
+                    <lb/><choice><sic>Sergent d’Infanterie</sic><corr>sergent d’infanterie.</corr></choice></signed>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0137_03"/>
+                <p rend="centered">Cette enveloppe contient mon <hi rend="underlined"><choice><sic>Testament</sic><corr>testament</corr></choice></hi> <lb/>et une lettre. <lb/><hi rend="underlined">Elle ne devra être ouverte <lb/>qu’après mon décès</hi><choice><sic/><corr>.</corr></choice></p>
+                <signed rend="centered"><persName ref="#pers-199">Eugène <surname>Fréminet</surname></persName>
+                    <lb/>avocat à la <choice><sic>Cour</sic><corr>cour</corr></choice></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

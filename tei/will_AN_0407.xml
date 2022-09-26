@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0407">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Florentin Jules Michel Bazin (25 août 1914)] :
+                    édition électronique</title>
+                <author><persName ref="#pers-546">Florentin Jules Michel Bazin
+                        (1883-1916)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021-09">septembre 2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0407</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0407_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVIII/1236, minute du 29 janvier 1917 (dépôt du testament de
+                            Florentin Jules Michel Bazin)</idno>
+                        <msName>Testament de Florentin Jules Michel Bazin (25 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-25">25 août 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-810">Melun</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-546"><forename>Florentin</forename> 
+                                    <forename>Jules</forename> 
+                                    <forename>Michel</forename> 
+                                    <surname>Bazin</surname></persName>, mort pour la France le
+                                    <date when="1916-09-16">16 septembre 1916</date> à <placeName ref="#pl-441">Bouchavesnes (Somme)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre mauve.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><!--agencyNumberRoman=LVIII--><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010185">étude notariale 58 (CRPCEN : 75081)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0407_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVIII/1236, minute du 29 janvier 1917 (dépôt du testament de
+                            Florentin Jules Michel Bazin)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-25">25 août 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>25 août 1914. Melun.</p>
+                <p>Testament olographe de Florentin Jules Michel Bazin, mort pour la France le 16
+                    septembre 1916 à Bouchavesnes (Somme).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2020-09-09/2020-11-29" who="#GBMireille #MFGarreau">transcription</change>
+            <change when-iso="2020-09-09/2020-09-11" who="#jmorvan #PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2021-07-30+02:00"> enrichissements et
+                contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0407___JPEG___FRAN_Poilus_t-0407_01.jpg" xml:id="FRAN_Poilus_t-0407_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0407">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0407_01"/>
+                <dateline><placeName type="willPlace" ref="#pl-810">Melun</placeName> <date type="willDate" when="1914-08-25">le 25
+                                <choice><sic>Aout</sic><corr>août</corr></choice>
+                            1914</date><choice><sic/><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="4"/>
+                <p>Je lègue <choice><sic>a</sic><corr>à</corr></choice> ma femme légitime
+                        <lb/><del>né</del> de son nom de fille <app><lem><hi rend="underlined"><persName>Alise <lb/>Anquetil</persName></hi></lem><note resp="#jmorvan">La main qui a souligné a utilisé un crayon, ce qui
+                            conduit à penser que ce n’est peut-être pas celle du
+                        testateur.</note></app>, <choice><sic>tout</sic><corr>tous</corr></choice>
+                    mes <choice><sic>bien</sic><corr>biens</corr></choice>, <lb/>argent, meubles et
+                    immeubles <lb/>nous appartenant en
+                    commun<choice><sic/><corr>.</corr></choice></p>
+                <p><choice><sic>c</sic><corr>C</corr></choice>’est de tout coeur que je fais le
+                    <lb/>présent testament, <choice><sic>saint</sic><corr>sain</corr></choice>
+                    d’esprit et <lb/>sous aucune contrainte<choice><sic/><corr>.</corr></choice></p>
+                <dateline rend="centered">J’ai fait cette pièce
+                        <choice><sic>a</sic><corr>à</corr></choice> <placeName type="willPlace" ref="#pl-810">Melun</placeName> <lb/><space dim="vertical" unit="lines" quantity="1"/><date type="willDate" when="1914-08-25">le 25
+                                <choice><sic>Aout</sic><corr>août</corr></choice>
+                            1914</date><choice><sic/><corr>,</corr></choice> <lb/>dont
+                            signature<choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="centered"><persName ref="#pers-546">Florentin Jules Michel
+                            <surname>Bazin</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

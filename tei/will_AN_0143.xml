@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0143">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title>
+                <title type="main">[Testament de Jacques Louis Andraud (12 août 1914)] : édition électronique</title>
+                <author><persName ref="#pers-205">Jacques Louis Andraud (1880-1915)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique. Département de la Conservation. Atelier photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#BDavy">Benjamin Davy</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#SL.">EG</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0143</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0143_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LXIX/1544, minute du 8 novembre 1915 (dépôt du testament de Jacques Louis Andraud)</idno>
+                        <msName>Testament de Jacques Louis Andraud (12 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1914-08-12">12 août 1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-205"><forename>Jacques</forename> <forename>Louis</forename> <surname>Andraud</surname></persName>, mort pour la France le <date when="1915-09-27">27 septembre 1915</date> dans l’<placeName ref="#pl-340">ambulance 2/70 à Grand-Servins (Pas-de-Calais)</placeName>.</p>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>2 pages. Dimensions du testament : <dimensions type="willPage" unit="cm"><height>24,9</height><width>17,8</width></dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010196">étude notariale 069 (CRPCEN : 75007)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0143_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LXIX/1544, minute du 8 novembre 1915 (dépôt du testament de Jacques Louis Andraud)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-12">12 août 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>12 août 1914. Paris.</p>
+                <p>testament olographe de Jacques Louis Andraud, mort pour la France le 27 septembre 1915 dans l’ambulance 2/70 à Grand-Servins (Pas-de-Calais).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-04-20/2018-04-27" who="#lelia #SL.">transcription</change>
+            <change when-iso="2018-04-20/2018-04-23" who="#PCharbonnier #FClavaud">validation</change>
+            <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0143___JPEG___FRAN_Poilus_t-0143_01.jpg" xml:id="FRAN_Poilus_t-0143_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0143___JPEG___FRAN_Poilus_t-0143_02.jpg" xml:id="FRAN_Poilus_t-0143_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0143">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0143_01"/>
+                <p>Je donne et <choice><sic>legue</sic><corr>lègue</corr></choice> à <lb/><persName><choice><sic>mademoiselle</sic><corr>Mademoiselle</corr></choice> Marthe <choice><sic>laure</sic><corr>Laure</corr></choice> <lb/>Desesquelles</persName><choice><sic> -</sic><corr>,</corr></choice> née à <placeName type="otherPlace">Beauvais</placeName><choice><sic/><corr>,</corr></choice> <choice><sic>oise</sic><corr>Oise,</corr></choice> <lb/><date type="otherDate" when="1877-12-26">le <choice><sic>Vint-six Decembre</sic><corr>vingt-six décembre</corr></choice> mil huit cent <lb/><choice><sic>soixante dix sept.</sic><corr>soixante-dix-sept,</corr></choice></date> <lb/>que je considère comme ma <lb/>femme<choice><sic/><corr>.</corr></choice></p>
+                <p>Je donne l’univers<subst><del><unclear>in</unclear></del><add>ali</add></subst>té des <lb/>biens et droits mobiliers qui <lb/>composeront <choice><sic>mà succesion</sic><corr>ma succession</corr></choice> lors <lb/>de mon <choice><sic>decès sans exeption</sic><corr>décès, sans exception</corr></choice> ni <lb/>réserve<choice><sic/><corr>,</corr></choice> pour <choice><sic><unclear>qu i’elle</unclear></sic><corr>qu’elle</corr></choice> puisse jouir <lb/>et disposer de l’universalité de <lb/>ces biens en toute <choice><sic>propriete a</sic><corr>propriété à</corr></choice> <lb/>partir du jour de mon <choice><sic>dècès</sic><corr>décès</corr></choice>.</p>
+                <p>En cas d’existence d’<choice><sic>ascendant <lb/>le present</sic><corr>ascendants <lb/>le présent</corr></choice> legs ne subira de <lb/><choice><sic>reduction que quand a la nue <lb/>propriete</sic><corr>réduction que quant à la nue-<lb break="no"/>propriété</corr></choice> de la portion qui leur <lb/>est <choice><sic>reservé</sic><corr>réservée</corr></choice> par la loi.</p>
+                <p>En cas d’<choice><sic>existance</sic><corr>existence</corr></choice> d’enfants <lb/><choice><sic>le dit</sic><corr>ledit</corr></choice> legs se <choice><sic>reduira a la quotite</sic><corr>réduira à la quotité</corr></choice> <lb/>disponible, tant en <choice><sic>propriete</sic><corr>propriété</corr></choice> <lb/>qu’en usufruit <choice><sic>des dit</sic><corr>desdits</corr></choice> biens <pb facs="#FRAN_Poilus_t-0143_02"/>et droits en y comprenant <lb/>même les rapports.</p>
+                <p>Pour jouir de l’<choice><sic>usurfruit</sic><corr>usufruit</corr></choice> <lb/>auquel elle pourrait avoir <lb/>droit<choice><sic>.</sic><corr>,</corr></choice> <persName><choice><sic>mademoiselle</sic><corr>Mademoiselle</corr></choice> Marthe <choice><sic>laure</sic><corr>Laure</corr></choice> <lb/>Desesquelles</persName> ne <choice><sic>serat pas tenu</sic><corr>sera pas tenue</corr></choice> <lb/>de fournir caution ni de <lb/>faire e<subst><del>n</del><add>m</add></subst>ploi.</p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <dateline>Fait à <placeName type="willPlace" ref="#pl-2">Paris</placeName>
+                    <date type="willDate" when="1914-08-12">le douze <lb/><choice><sic><subst><del>a</del><add>A</add></subst>out</sic><corr>août</corr></choice> mil neuf cent quatorze</date><choice><sic/><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <postscript>
+                    <p><persName ref="#pers-205">Monsieur <surname>Andraud</surname> Jacques <add place="below"><choice><sic>louis</sic><corr>Louis</corr></choice></add></persName> <lb/><choice><sic>née a </sic><corr>né à </corr></choice> <placeName type="willAuthorBirthPlace" ref="#pl-339"><choice><sic>molonpize</sic><corr>Molompize,</corr></choice> canton <lb/>de <choice><sic>massiac</sic><corr>Massiac,</corr></choice></placeName> <lb/><app><lem>Cantal</lem><note resp="#jmorvan">La mention "Cantal" est écrite à droite de la page.</note></app><choice><sic/><corr>.</corr></choice></p>
+                </postscript>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="centered"><persName ref="#pers-205">J. <surname>Andraud</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

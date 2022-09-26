@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0442">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Gaston Mongeot (2 août 1914)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-581">Gaston Mongeot (1887-1914)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#SL.">EG</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021-09">septembre 2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0442</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0442_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXXII/1339, minute du 29 novembre 1920 (dépôt du testament de
+                            Gaston Mongeot)</idno>
+                        <msName>Testament de Gaston Mongeot (2 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-02">2 août 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-581"><forename>Gaston</forename> 
+                                    <surname>Mongeot</surname></persName>, mort pour la France le
+                                    <date when="1914-10-24" source="#will_AN_0442_min">24 octobre 1914 [NOT]</date> ou le
+                                        <date when-iso="1914-10-24/1914-10-25" source="#MDH">24 ou 25 octobre 1914
+                                    [MDH]</date> à <placeName ref="#pl-841">Pervyse
+                                    (Belgique)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><!--agencyNumberRoman=XXXII--><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010159">étude notariale 32 (CRPCEN : 75103)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0442_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXXII/1339, minute du 29 novembre 1920 (dépôt du testament de
+                            Gaston Mongeot)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-02">2 août 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>2 août 1914. Paris.</p>
+                <p>Testament olographe de Gaston Mongeot, mort pour la France le 24 octobre 1914
+                    [NOT] ou le 24 ou 25 octobre 1914 [MDH] à Pervyse (Belgique).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2020-11-03/2020-12-04" who="#MFGarreau #lelia #SL.">transcription</change>
+            <change when-iso="2020-11-03/2020-11-30" who="#jmorvan #PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2021-07-30+02:00"> enrichissements et
+                contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0442___JPEG___FRAN_Poilus_t-0442_01.jpg" xml:id="FRAN_Poilus_t-0442_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0442">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0442_01"/>
+                <head rend="centered">Ceci est mon testament olographe :</head>
+                <p>Je soussigné <persName ref="#pers-581">Gaston
+                        <surname>Mongeot</surname></persName><choice><sic>
+                        /</sic><corr>,</corr></choice> employé <lb/>de commerce demeurant
+                            <choice><sic>a</sic><corr>à</corr></choice> <placeName type="willAuthorResidence" ref="#pl-2">Paris</placeName> <lb/>16
+                            <choice><sic>Rue</sic><corr>rue</corr></choice> Demarquay.</p>
+                <p>Voulant donner <choice><sic>a</sic><corr>à</corr></choice> mon épouse <lb/>une
+                    preuve d’affection et reconnaître <lb/>les bons soins qu’elle m’a toujours
+                    <lb/>prodigués, déclare faire en <choice><sic>Sa</sic><corr>sa</corr></choice>
+                    faveur <lb/>les dispositions de dernière volonté qui
+                            <lb/>suivent<choice><sic/><corr>.</corr></choice></p>
+                <p>Je lui donne et <choice><sic>légue</sic><corr>lègue</corr></choice> entièrement
+                    <lb/>pour en jouir <choice><sic>a</sic><corr>à</corr></choice> partir du jour de
+                    <lb/>mon décès, tant en propriété qu’en <lb/>usufruit, tous les
+                            biens<subst><del>,</del><add place="above"> et</add></subst> meubles que
+                    <lb/>je laisserai<choice><sic/><corr>.</corr></choice></p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Le présent testament a été <lb/>fait par moi <persName ref="#pers-581">Gaston
+                            <surname>Mongeot</surname></persName>, librement <lb/>en pleine
+                            <choice><sic>santée</sic><corr>santé</corr></choice> et raison ; il a
+                    été <lb/><choice><sic>ecrit</sic><corr>écrit</corr></choice> entier, daté et
+                    signé de ma main<choice><sic/><corr>.</corr></choice></p>
+                <dateline rend="centered"><placeName type="willPlace" ref="#pl-2">Paris</placeName> <date type="willDate" when="1914-08-02">le 2
+                                <choice><sic>Aout</sic><corr>août</corr></choice> 1914
+                                (<choice><sic>Mil <lb/>neuf-cent-quatorze</sic><corr>mil <lb/>neuf
+                                cent
+                        quatorze</corr></choice>)</date><choice><sic/><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="right"><persName ref="#pers-581">G.<surname>Mongeot</surname></persName></signed>
+                <postscript rend="left">
+                    <p>Je dis <date type="willDate" when="1914-08-02">le <choice><sic>Deux Aout
+                                    <lb/>mil-neuf.-cent</sic><corr>deux août <lb/>mille neuf
+                                    cent</corr></choice> quatorze</date>.</p>
+                    <space dim="vertical" unit="lines" quantity="1"/>
+                    <signed><persName ref="#pers-581">G<surname>Mongeot</surname></persName></signed>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

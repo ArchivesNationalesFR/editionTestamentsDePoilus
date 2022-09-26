@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0303">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Jacques Delamare (02/08/1914)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-355">Jacques Delamare (1886-1914)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021-09">septembre 2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0303</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0303_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVI/1469, minute du 23/11/1920 (dépôt du testament de Jacques
+                            Delamare)</idno>
+                        <msName>Testament de Jacques Delamare (02/08/1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-02">02/08/1914</date>.
+                                    <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-355"><forename>Jacques</forename> 
+                                    <surname>Delamare</surname></persName>, mort pour la France le
+                                    <date when="1914-09-25">25/09/1914</date> à <placeName ref="#pl-538">La Chavatte (Somme)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à lettre (testament). </support>
+                                <extent>3 pages et 1 enveloppe. Dimensions du testament :
+                                        <dimensions type="willPage" unit="cm">
+                                        <height>17</height>
+                                        <width>11,2</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><!--agencyNumberRoman=LVI--><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010183">étude notariale 56 (CRPCEN : 75040)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0303_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVI/1469, minute du 23/11/1920 (dépôt du testament de Jacques
+                            Delamare)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-02">02/08/1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>02/08/1914. Paris.</p>
+                <p>Testament olographe de Jacques Delamare, mort pour la France le 25/09/1914 à La
+                    Chavatte (Somme).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-02-12/2020-11-29" who="#MFGarreau #lelia #SL. #GBMireille">transcription</change>
+            <change when-iso="2019-02-12/2019-03-15" who="#jmorvan #PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2021-07-30+02:00"> enrichissements et
+                contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0303___JPEG___FRAN_Poilus_t-0303_01.jpg" xml:id="FRAN_Poilus_t-0303_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0303___JPEG___FRAN_Poilus_t-0303_02.jpg" xml:id="FRAN_Poilus_t-0303_02"/>
+        </surface>
+        <surface type="will-page" n="03">
+            <graphic url="testament_AN_0303___JPEG___FRAN_Poilus_t-0303_03.jpg" xml:id="FRAN_Poilus_t-0303_03"/>
+        </surface>
+        <surface type="will-envelope-recto" n="04">
+            <graphic url="testament_AN_0303___JPEG___FRAN_Poilus_t-0303_04.jpg" xml:id="FRAN_Poilus_t-0303_04"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0303">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0303_01"/>
+                <dateline rend="right"><placeName type="willPlace" ref="#pl-2">Paris</placeName> <date type="willDate" when="1914-08-02">2 <choice>
+                            <sic>Aout</sic>
+                            <corr>août</corr>
+                        </choice> 1914</date></dateline>
+                <head rend="centered">Ceci est mon testament</head>
+                <p>Au moment de partir <lb/>je lègue tout ce qui m’<lb/>appartient <choice>
+                        <sic>a</sic>
+                        <corr>à</corr>
+                    </choice> mon <choice>
+                        <sic>frere</sic>
+                        <corr>frère</corr>
+                    </choice> <lb/><persName>Paul Delamare</persName>, à <lb/>charge pour lui de
+                    <lb/>donner une rente <lb/>mensuelle de 250 francs <lb/>à <persName>Mademoiselle
+                        Ethel <lb/>Adams</persName>, 34 rue Laugier <lb/>ou une somme <choice>
+                        <sic><surplus>d</surplus></sic><corr/></choice> <lb/>d’argent qu’il fixera <lb/><choice><sic>lui meme</sic><corr>lui-même</corr></choice>, <subst><del><unclear>j</unclear></del><add>c</add></subst>ette rente <lb/>pourra <choice>
+                        <sic>etre arretée</sic>
+                        <corr>être arrêtée</corr>
+                    </choice> au bout <lb/>de 3 ans.</p>
+                <pb facs="#FRAN_Poilus_t-0303_02"/>
+                <p><choice>
+                        <sic>A defaut</sic>
+                        <corr>À défaut</corr>
+                    </choice> de mon <lb/>frère, je lègue l’usufruit <lb/>de mon capital entier <lb/><choice>
+                        <sic>a</sic>
+                        <corr>à</corr>
+                    </choice> ma <choice>
+                        <sic>belle mere</sic>
+                        <corr>belle-mère</corr>
+                    </choice> <persName>Elvire <lb/>Laet. Braillard</persName>, le capital <lb/>devant revenir à la <lb/>mort
+                    de cette dernière <lb/>à Mesdemoiselles <lb/><persName>Suzanne</persName> et
+                        <persName>Lucie <lb/>Delamare</persName>, et <choice>
+                        <sic>a</sic>
+                        <corr>à</corr>
+                    </choice> <persName>Monsieur <lb/>Henri Delamare</persName><choice><sic/><corr>,</corr></choice> mes <lb/>cousins. <choice>
+                        <sic>A</sic>
+                        <corr>À</corr>
+                    </choice> charge pour <lb/>eux tous de remplir la <lb/>charge précitée<choice><sic>, </sic><corr> (</corr></choice><persName><choice><abbr>M<hi rend="superscript-underlined">elle</hi></abbr><expan>Mademoiselle</expan></choice> <lb/>Adams</persName>).</p>
+                <p>Quant à mes affaires <lb/>personnelles<choice><sic/><corr>,</corr></choice> qu’on les<pb facs="#FRAN_Poilus_t-0303_03"/>distribue <choice>
+                        <sic>a</sic>
+                        <corr>à</corr>
+                </choice> mes amis <lb/>comme souvenirs<choice><sic/><corr>.</corr></choice></p>
+                <p><choice>
+                        <sic>A</sic>
+                        <corr>À</corr>
+                    </choice> ma fiancée <lb/><persName>Raymonde Lacoste</persName>, <lb/>je prie de
+                    lui donner <lb/>un bijou en souvenir <lb/>de moi.</p>
+                <dateline rend="right"><placeName type="willPlace" ref="#pl-2">Paris</placeName> <date type="willDate" when="1914-08-02">2 <choice>
+                            <sic>Aout</sic>
+                            <corr>août</corr>
+                        </choice>191<supplied unit="chars" reason="hidden" quantity="1">4</supplied></date></dateline>
+                <signed rend="right"><persName ref="#pers-355">Jacques <surname>Delamar<supplied unit="chars" reason="hidden" quantity="1">e</supplied></surname></persName></signed>
+                <postscript>
+                    <p rend="centered">Vive la France !</p>
+                </postscript>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0303_04"/>
+                <p rend="centered">Ceci est mon testament</p>
+                <space dim="vertical" unit="cm" quantity="1"/>
+                <signed rend="centered"><persName ref="#pers-355">J
+                        <surname>Delamare</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

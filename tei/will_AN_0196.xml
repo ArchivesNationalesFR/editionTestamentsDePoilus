@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0196">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Jean Charles Joseph comte de La Rochefoucauld
+                    (11/08/1914)] : édition électronique</title>
+                <author><persName ref="#pers-257">Jean Charles Joseph comte de La Rochefoucauld
+                        (1865-1917)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021-09">septembre 2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0196</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0196_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXXI/1560, minute du 17/01/1917 (dépôt du testament de Jean
+                            Charles Joseph comte de La Rochefoucauld)</idno>
+                        <msName>Testament de Jean Charles Joseph comte de La Rochefoucauld
+                            (11/08/1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-11">11/08/1914</date>.
+                                    <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-257"><forename>Jean</forename> 
+                                    <forename>Charles</forename> 
+                                    <forename>Joseph</forename> 
+                                    <surname>La Rochefoucauld</surname></persName>, mort pour la
+                                France le <date when="1917-01-12">12/01/1917</date> à l’<placeName ref="#pl-2">hôpital militaire n°4 bis, 31 avenue des Champs
+                                    Élysées (Paris 8e)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>2 pages. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><!--agencyNumberRoman=XXXI--><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010158">étude notariale 31 (CRPCEN : 75078)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0196_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXXI/1560, minute du 17/01/1917 (dépôt du testament de Jean
+                            Charles Joseph comte de La Rochefoucauld)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-11">11/08/1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>11/08/1914. Paris.</p>
+                <p>Testament olographe de Jean Charles Joseph comte de La Rochefoucauld, mort pour
+                    la France le 12/01/1917 à l’hôpital militaire n°4 bis, 31 avenue des Champs
+                    Élysées (Paris 8e).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-07-19/2020-12-15" who="#MFGarreau #SL. #lelia #GBMireille">transcription</change>
+            <change when-iso="2018-07-19/2018-09-21" who="#jmorvan #FClavaud">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2021-07-30+02:00"> enrichissements et
+                contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0196___JPEG___FRAN_Poilus_t-0196_01.jpg" xml:id="FRAN_Poilus_t-0196_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0196___JPEG___FRAN_Poilus_t-0196_02.jpg" xml:id="FRAN_Poilus_t-0196_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0196">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0196_01"/>
+                <head>Au nom du Père et du <choice>
+                        <sic>fils</sic>
+                        <corr>Fils</corr>
+                    </choice> et <lb/>du Saint-Esprit. <choice>
+                        <sic>ainsi-</sic>
+                        <corr>Ainsi </corr>
+                    </choice>soit-il.</head>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>C’est en pleine santé et en toute <lb/>liberté d’esprit que j’écris ces lignes
+                    <lb/>pour exprimer mes dernières pensées<choice><sic/><corr>,</corr></choice> <lb/>mes derniers désirs, mes dernières volontés. <lb/>J’ai demandé
+                    pardon à Dieu, j’espère <lb/>en sa miséricorde !</p>
+                <p>Je demande pardon à tous pour le <lb/>mal, les peines, les chagrins que j’ai pu
+                    <lb/>causer. Je jure que ce fut involontaire.</p>
+                <p>Je <choice>
+                        <sic>remerçie</sic>
+                        <corr>remercie</corr>
+                    </choice> ma bien-aimée femme et <lb/>mes bien-aimés enfants de l’affection et
+                    <lb/>de la tendresse qu’ils m’ont toujours <choice>
+                        <sic>témoi-<lb/>-gnées</sic>
+                        <corr>témoi<lb break="no"/>gnées</corr>
+                    </choice> et qui m’ont été si douces. Je <choice>
+                        <sic>mour-<lb/>-rai</sic>
+                        <corr>mour<lb break="no"/>rai</corr>
+                    </choice> les adorant du plus pur, du meilleur <lb/>et du plus tendre de mon
+                    coeur.</p>
+                <p>Je laisse à ma chère femme tout ce que la <lb/>loi me permet de lui laisser. Ce
+                    sera peu de <lb/>chose quand elle aura fait ce que je lui <lb/>demande dans la
+                    lettre jointe à ce <choice>
+                        <sic>testa-<lb/>ment</sic>
+                        <corr>testa<lb break="no"/>ment</corr>
+                    </choice> et à elle adressée ; je lui demande <lb/>de me pardonner de ne pas la
+                    laisser dans <lb/>une position plus brillante ; elle sait tout <lb/>ce que j’ai
+                    souffert à ce sujet. Je la prie <lb/>de faire tout son possible pour conserver <lb/>La Cour à Gaston.</p>
+                <p>Je désire que mon frère <persName>Jules</persName> soit tuteur <lb/>de mes
+                    enfants. Je sais quelle est son affection <pb facs="#FRAN_Poilus_t-0196_02"/>il
+                    m’en a donné bien des preuves ! Pour le passé et <lb/>pour l’avenir je lui dis
+                    merci avec toute l’immense <choice>
+                        <sic>affec-<lb break="no"/>-tion</sic>
+                        <corr>affec<lb break="no"/>tion</corr>
+                    </choice> que j’ai toujours eue pour lui. Ma chère <persName>Marie</persName> a <lb/>en lui la même confiance que moi.</p>
+                <p>S’il n’était plus là, mon frère <persName>Xavier</persName> le remplacerait<choice><sic/><corr>,</corr></choice> <lb/>j’ai en lui la même confiance, pour lui la même <choice>
+                        <sic>recon-<lb break="no"/>-naissance</sic>
+                        <corr>recon<lb break="no"/>naissance</corr>
+                    </choice> et la même profonde affection. En les remerciant <lb/>je leur dis
+                    adieu ainsi qu’à ma chère <choice>
+                        <sic>Maman</sic>
+                        <corr>maman</corr>
+                    </choice> et à mes <lb/>deux sœurs que j’aim<subst><del>ais</del><add>e</add></subst> bien tendrement.</p>
+                <p>Pour les objets qui m’appartiennent personnellement<choice><sic/><corr>,</corr></choice> <lb/>je les laisse à mes trois aimés : ma femme, mon fils et <lb/>ma
+                    fille, leur demandant de choisir à eux trois parmi les <lb/>choses les moins
+                    laides m’ayant appartenu pour donner <lb/>un petit souvenir de moi à chacun de
+                    mes frères et <lb/>sœurs, à ma <choice>
+                        <sic>belle sœur</sic>
+                        <corr>belle-sœur</corr>
+                    </choice> <persName>Marie</persName>, à mon beau-frère
+                        <persName>Bonneval</persName> <lb/>à mes neveux et nièce
+                        <persName>Edmond</persName>, <persName>Emmanuel</persName>, <persName>Henry</persName> et <persName>Solange</persName>.</p>
+                <p>Je serais heureux que ma chère femme remît en souvenir <lb/>de moi un petit
+                    présent (soit objet, soit argent) aux serviteurs <lb/>qui nous ont montré tant
+                    de dévouement et qui sont <lb/>actuellement à notre service (y compris bien
+                    entendu ceux <lb/>qui sont au régiment).</p>
+                <p>Si mon corps revient je demande <hi rend="underlined">instamment</hi>
+                    l’enterrement <lb/>le plus simple. Au cas contraire et si les miens font faire <lb/>un service, je les <hi rend="underlined">supplie</hi> qu’il soit le plus simple<choice>
+                        <sic><surplus>.</surplus></sic>
+                        <corr/>
+                    </choice> possible <lb/>et le moins cher.</p>
+                <p>Je demande à ma chère femme de donner aussi un <lb/>souvenir de moi à <persName><choice>
+                            <abbr>M<hi rend="superscript-underlined">r</hi></abbr>
+                            <expan>Monsieur</expan>
+                        </choice> l’<choice><sic>Abbé</sic><corr>abbé</corr></choice> Cognet</persName> qui fut toujours <lb/>si bon et si dévoué pour
+                    notre cher <persName>Gaston</persName> et pour lequel à <lb/>cause de cela, j’ai
+                    tant de reconnaissance et tant d’affection.</p>
+                <p><choice>
+                        <sic>A</sic>
+                        <corr>À</corr>
+                    </choice> tous ceux qui m’ont aimé un peu, je demande <lb/>de prier beaucoup
+                    pour moi<choice><sic/><corr>.</corr></choice></p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <dateline><placeName type="willPlace" ref="#pl-2">Paris</placeName><date type="willDate" when="1914-08-11">le 11 <choice>
+                            <sic>Août</sic>
+                            <corr>août</corr>
+                        </choice> 1914</date><choice><sic/><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <signed rend="left"><persName ref="#pers-257">Jean de <surname>La
+                            Rochefoucauld</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

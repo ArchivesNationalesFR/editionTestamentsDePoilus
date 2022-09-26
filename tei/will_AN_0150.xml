@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0150">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title>
+        <title type="main">[Testament de Antoine Jean Baptiste Léon (dit Edgard) Briout (13 août 1914)] : édition électronique</title>
+        <author><persName ref="#pers-212">Antoine Jean Baptiste Léon (dit Edgard) Briout (1878-1918)</persName></author>
+        <editor ref="#CNougaret">Christine Nougaret</editor>
+        <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+        <editor ref="#FClavaud">Florence Clavaud</editor>
+        <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+        <respStmt>
+          <resp>Numérisation</resp>
+          <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique. Département de la Conservation. Atelier photographique</orgName>
+        </respStmt>
+        <respStmt>
+          <resp>Identification et description du testament</resp>
+          <persName ref="#BDavy">Benjamin Davy</persName>
+          <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+          <persName ref="#LVieillon">Lucie Vieillon</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Transcription</resp>
+          <persName ref="#SL.">EG</persName>
+          <persName ref="#lelia">Lélia Picabia</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Validation</resp>
+          <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+          <persName ref="#FClavaud">Florence Clavaud</persName>
+        </respStmt>
+        <respStmt>
+          <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+          <persName ref="#FClavaud">Florence Clavaud</persName>
+          <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+          <persName ref="#jmorvan">Josselin Morvan</persName>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+        <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+        <publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher>
+        <publisher><orgName>École nationale des chartes</orgName></publisher>
+        <publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher>
+        <date when="2021">2021</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence>
+        </availability>
+        <idno>TestamentsDePoilus_will_AN_0150</idno>
+        <!--ultérieurement ajouter idno fourni par Nakala-->
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="will_AN_0150_tes">
+          <msIdentifier>
+            <country>France</country>
+            <institution>Archives nationales</institution>
+            <collection>Minutier central des notaires de Paris</collection>
+            <idno>MC/ET/LXIX/1566, minute du 10 avril 1919 (dépôt du testament de Antoine Jean Baptiste Léon (dit Edgard) Briout)</idno>
+            <msName>Testament de Antoine Jean Baptiste Léon (dit Edgard) Briout (13 août 1914)</msName>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p><date type="willDate" when="1914-08-13">13 août 1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p>
+              <p><term type="willType">testament olographe</term> de <persName ref="#pers-212"><forename>Antoine</forename> <forename>Jean</forename> <forename>Baptiste</forename> <forename>Léon</forename> <forename>Edgard</forename> <surname>Briout</surname></persName>, mort pour la France le <date when="1918-10-19">19 octobre 1918</date> dans l’<placeName ref="#pl-349">ambulance 12/2 de Meaux (Seine et Marne)</placeName>.</p>
+            </summary>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>Papier timbré réglé (testament). </support>
+                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm"><height>24,9</height><width>17,8</width></dimensions>.</extent>
+              </supportDesc>
+            </objectDesc>
+            <handDesc>
+              <p>Testament : encre.</p>
+            </handDesc>
+          </physDesc>
+          <history>
+            <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010196">étude notariale 069 (CRPCEN : 75007)</orgName></provenance>
+          </history>
+        </msDesc>
+        <msDesc xml:id="will_AN_0150_min">
+          <msIdentifier>
+            <country>France</country>
+            <institution>Archives nationales</institution>
+            <collection>Minutier central des notaires de Paris</collection>
+            <idno>MC/ET/LXIX/1566, minute du 10 avril 1919 (dépôt du testament de Antoine Jean Baptiste Léon (dit Edgard) Briout)</idno>
+            <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation><date type="willDate" when="1914-08-13">13 août 1914</date></creation>
+      <langUsage>
+        <language ident="fr">français</language>
+      </langUsage>
+      <abstract>
+        <p>13 août 1914. Paris.</p>
+        <p>testament olographe de Antoine Jean Baptiste Léon Edgard Briout, mort pour la France le 19 octobre 1918 dans l’ambulance 12/2 de Meaux (Seine et Marne).</p>
+      </abstract>
+      <textClass>
+        <keywords>
+          <term type="subject">Grande Guerre</term>
+          <term type="subject">Poilu</term>
+          <term type="subject">testament</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when-iso="2018-04-20/2018-10-15" who="#SL. #lelia">transcription</change>
+      <change when-iso="2018-04-20/2018-06-07" who="#PCharbonnier #FClavaud">validation</change>
+      <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+    <surface type="will-page" n="01">
+      <graphic url="testament_AN_0150___JPEG___FRAN_Poilus_t-0150_01.jpg" xml:id="FRAN_Poilus_t-0150_01"/>
+    </surface>
+  </facsimile>
+  <text xml:id="will_AN_0150">
+    <body>
+      <div type="will">
+        <pb facs="#FRAN_Poilus_t-0150_01"/>
+        <p>Je soussigné, <persName ref="#pers-212">Antoine Jean Baptiste <choice><sic>Leon</sic><corr>Léon</corr></choice> dit <lb/>Edgard <surname>Briout</surname></persName>, 150 rue du <choice><sic>Theâtre</sic><corr>Théatre</corr></choice>, <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p>
+        <p>Je nomme ma mère <persName><choice><abbr>M<hi rend="superscript-underlined">me</hi></abbr><expan>Madame</expan></choice> <choice><abbr>V<hi rend="superscript-underlined">ve</hi></abbr><expan>veuve</expan></choice> Briout</persName><choice><sic/><corr>,</corr></choice> <lb/>ma légataire universelle. <choice><sic>A</sic><corr>À</corr></choice> défaut de ma <lb/>mère, je nomme mon frère légataire universel. <lb/>(mon frère <persName>Justin Briout</persName>). <add place="above"><metamark function="other" rend="cross"/></add><add place="marginLeft"><metamark function="other" rend="cross"/>Ma ou <app><lem><add type="testatorComment"><seg type="signature"><persName ref="#pers-212"><surname>Briout</surname></persName></seg></add></lem><note resp="#jmorvan">L’ajout "Ma ou" est signé "Briout".</note></app></add><choice><sic>Mon</sic><corr>mon</corr></choice> légataire <lb/>universel devra payer à <persName><choice><abbr>M<hi rend="superscript-double-underlined">me</hi></abbr><expan>Madame</expan></choice> Albertine <lb/>Renault</persName><choice><sic/><corr>,</corr></choice> femme divorcée <unclear>Le Larin</unclear><choice><sic/><corr>,</corr></choice> la <lb/>somme de treize cents francs<choice><sic/><corr>,</corr></choice> nette de tous <lb/>droits.</p>
+        <dateline><placeName type="willPlace" ref="#pl-2">Paris</placeName> le <date type="willDate" when="1914-08-13">treize <choice><sic>aout</sic><corr>août</corr></choice> mil neuf <lb/>cent quatorze</date>.</dateline>
+        <signed rend="centered"><persName ref="#pers-212"><surname>Briout</surname></persName></signed>
+      </div>
+    </body>
+  </text>
+</TEI>

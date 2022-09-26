@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0005">
+      <teiHeader>
+            <fileDesc>
+                  <titleStmt>
+                        <title type="corpusTitle">Édition numérique collaborative de testaments de
+                              Poilus de la Grande Guerre</title>
+                        <title type="main">[Testament de Victor Paul Pacilly (10 août et 2 septembre
+                              1914)] : édition électronique</title>
+                        <author><persName ref="#pers-170">Victor Paul Pacilly
+                              (1874-1917)</persName></author>
+                        <editor ref="#CNougaret">Christine Nougaret</editor>
+                        <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                        <editor ref="#FClavaud">Florence Clavaud</editor>
+                        <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+                  </titleStmt>
+                  <editionStmt>
+                        <edition>Première édition électronique, fondée sur un travail de
+                              transcription collaborative</edition>
+                        <respStmt>
+                              <resp>Numérisation</resp>
+                              <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de
+                                    l’Appui scientifique. Département de la Conservation. Atelier
+                                    photographique</orgName>
+                        </respStmt>
+                        <respStmt>
+                              <resp>Transcription</resp>
+                              <persName ref="#MFGarreau">MFGarreau</persName>
+                              <persName ref="#SL.">EG</persName>
+                              <persName ref="#UVandeex">Una Vandeex</persName>
+                              <persName ref="#emmanuelleph">emmanuelleph</persName>
+                              <persName ref="#lelia">Lélia Picabia</persName>
+                              <persName ref="#gpreudhomme">gpreudhomme</persName>
+                              <persName ref="#FMARIECLAIRE">FMARIECLAIRE</persName>
+                              <persName ref="#PROMBAUT">PROMBAUT</persName>
+                        </respStmt>
+                        <respStmt>
+                              <resp>Validation</resp>
+                              <persName ref="#jmorvan">Josselin Morvan</persName>
+                              <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                        </respStmt>
+                        <respStmt>
+                              <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                              <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                              <persName ref="#FClavaud">Florence Clavaud</persName>
+                              <persName ref="#jmorvan">Josselin Morvan</persName>
+                        </respStmt>
+                  </editionStmt>
+                  <publicationStmt>
+                        <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                        <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                        <publisher><orgName ref="#AD78">Archives départementales des
+                                    Yvelines</orgName></publisher>
+                        <publisher><orgName>École nationale des chartes</orgName></publisher>
+                        <publisher><orgName ref="#AD95">Archives départementales du
+                                    Val-d’Oise</orgName></publisher>
+                        <date when="2021-09">septembre 2021</date>
+                        <availability>
+                              <licence target="https://creativecommons.org/licenses/by/4.0/">Licence
+                                    CC BY 4.0</licence>
+                        </availability>
+                        <idno>TestamentsDePoilus_will_AN_0005</idno>
+                        <!--ultérieurement ajouter idno fourni par Nakala-->
+                  </publicationStmt>
+                  <sourceDesc>
+                        <msDesc xml:id="will_AN_0005_tes">
+                              <msIdentifier>
+                                    <country>France</country>
+                                    <institution>Archives nationales</institution>
+                                    <collection>Minutier central des notaires de Paris</collection>
+                                    <idno>MC/ET/LXIX/1556, minute du 28 décembre 1917 (dépôt du
+                                          testament de Victor Paul Pacilly)</idno>
+                                    <msName>Testament de Victor Paul Pacilly (10 août et 2 septembre
+                                          1914)</msName>
+                              </msIdentifier>
+                              <msContents>
+                                    <summary><p><date type="willDate" when="1914-08-10">10 août</date>
+                                                et <date type="willDate" when="1914-09-02">2
+                                                  septembre 1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament olographe</term> de
+                                                  <persName ref="#pers-170"><forename>Victor</forename> 
+                                                  <forename>Paul</forename> 
+                                                  <surname>Pacilly</surname></persName>, mort pour
+                                                la France le <date when="1917-09-03">3 septembre
+                                                  1917</date> à <placeName ref="#pl-286">Rampont
+                                                  (Meuse)</placeName>.</p></summary>
+                              </msContents>
+                              <physDesc>
+                                    <objectDesc>
+                                          <supportDesc>
+                                                <support>Papier quadrillé (testament). Enveloppe
+                                                  verte à en-tête (enveloppe). Papier de deuil
+                                                  (codicille). </support>
+                                                <extent>6 pages et 1 enveloppe. Dimensions du
+                                                  testament : <dimensions type="willPage" unit="cm">
+                                                  <height>27,2</height>
+                                                  <width>21,2</width>
+                                                  </dimensions>. Dimensions de l’enveloppe :
+                                                  <dimensions type="willEnvelope" unit="cm">
+                                                  <height>12,8</height>
+                                                  <width>16</width>
+                                                  </dimensions>. Dimensions du codicille :
+                                                  <dimensions type="willCodicil" unit="cm">
+                                                  <height>18</height>
+                                                  <width>14</width>
+                                                  </dimensions>.</extent>
+                                          </supportDesc>
+                                    </objectDesc>
+                                    <handDesc>
+                                          <p>Testament : encre. Enveloppe : encre. Codicille :
+                                                encre.</p>
+                                    </handDesc>
+                              </physDesc>
+                              <history>
+                                    <provenance><!--agencyNumberRoman=LXIX--><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010196">étude notariale 069 (CRPCEN :
+                                          75007)</orgName></provenance>
+                              </history>
+                        </msDesc>
+                        <msDesc xml:id="will_AN_0005_min">
+                              <msIdentifier>
+                                    <country>France</country>
+                                    <institution>Archives nationales</institution>
+                                    <collection>Minutier central des notaires de Paris</collection>
+                                    <idno>MC/ET/LXIX/1556, minute du 28 décembre 1917 (dépôt du
+                                          testament de Victor Paul Pacilly)</idno>
+                                    <msName>Couverture de la minute, et le cas échéant jugement
+                                          inclus dans la minute</msName>
+                              </msIdentifier>
+                        </msDesc>
+                  </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                  <creation><date type="willDate" when="1914-08-10">10 août</date><date type="willDate" when="1914-09-02">2 septembre 1914</date></creation>
+                  <langUsage>
+                        <language ident="fr">français</language>
+                  </langUsage>
+                  <abstract>
+                        <p>10 août et 2 septembre 1914. Paris.</p>
+                        <p>Testament olographe de Victor Paul Pacilly, mort pour la France le 3
+                              septembre 1917 à Rampont (Meuse).</p>
+                  </abstract>
+                  <textClass>
+                        <keywords>
+                              <term type="subject">Grande Guerre</term>
+                              <term type="subject">Poilu</term>
+                              <term type="subject">testament</term>
+                        </keywords>
+                  </textClass>
+            </profileDesc>
+            <revisionDesc>
+                  <change when-iso="2018-01-25/2020-12-15" who="#MFGarreau #SL. #UVandeex #emmanuelleph #lelia #gpreudhomme #FMARIECLAIRE #PROMBAUT">transcription</change>
+                  <change when-iso="2018-01-25/2020-06-19" who="#jmorvan #PCharbonnier #KPineau">validation</change>
+                  <change who="#FClavaud #PCharbonnier" when-iso="2021-07-30+02:00"> enrichissements
+                        et contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+            </revisionDesc>
+      </teiHeader>
+      <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+            <surface type="will-page" n="01">
+                  <graphic url="testament_AN_0005___JPEG___FRAN_Poilus_t-0005_01.jpg" xml:id="FRAN_Poilus_t-0005_01"/>
+            </surface>
+            <surface type="will-page" n="02">
+                  <graphic url="testament_AN_0005___JPEG___FRAN_Poilus_t-0005_02.jpg" xml:id="FRAN_Poilus_t-0005_02"/>
+            </surface>
+            <surface type="will-page" n="03">
+                  <graphic url="testament_AN_0005___JPEG___FRAN_Poilus_t-0005_03.jpg" xml:id="FRAN_Poilus_t-0005_03"/>
+            </surface>
+            <surface type="will-page" n="04">
+                  <graphic url="testament_AN_0005___JPEG___FRAN_Poilus_t-0005_04.jpg" xml:id="FRAN_Poilus_t-0005_04"/>
+            </surface>
+            <surface type="codicil-page" n="05">
+                  <graphic url="testament_AN_0005___JPEG___FRAN_Poilus_t-0005_05.jpg" xml:id="FRAN_Poilus_t-0005_05"/>
+            </surface>
+            <surface type="codicil-page" n="06">
+                  <graphic url="testament_AN_0005___JPEG___FRAN_Poilus_t-0005_06.jpg" xml:id="FRAN_Poilus_t-0005_06"/>
+            </surface>
+            <surface type="will-envelope-recto" n="07">
+                  <graphic url="testament_AN_0005___JPEG___FRAN_Poilus_t-0005_07.jpg" xml:id="FRAN_Poilus_t-0005_07"/>
+            </surface>
+      </facsimile>
+      <text xml:id="will_AN_0005">
+            <body>
+                  <div type="will">
+                        <pb facs="#FRAN_Poilus_t-0005_01"/>
+                        <head>Testament olographe de <lb/><persName ref="#pers-170"><choice>
+                                          <abbr>M<hi rend="superscript-underlined">r</hi></abbr>
+                                          <expan>Monsieur</expan>
+                                    </choice> V. <surname>Pacilly</surname></persName> habitant
+                              <lb/>5 <choice>
+                                    <sic>- Cité Bertrand -</sic>
+                                    <corr>cité Bertrand</corr>
+                              </choice> à <placeName type="willAuthorResidence" ref="#pl-2">Paris</placeName><choice><sic>-</sic><corr>.</corr></choice></head>
+                        <space dim="vertical" quantity="1" unit="lines"/>
+                        <list>
+                              <item>Article I<choice><sic/><corr> -</corr></choice> Le <choice>
+                                          <sic>prèsent</sic>
+                                          <corr>présent</corr>
+                                    </choice> testament est fait en <lb/>vue du <choice>
+                                          <sic>dècès</sic>
+                                          <corr>décès</corr>
+                                    </choice> possible pendant la guerre <lb/>avec l’<choice>
+                                          <sic>allemagne</sic>
+                                          <corr>Allemagne</corr>
+                                    </choice> ou de maladies ou <lb/>des suites de blessures
+                                    contractées au <lb/><choice>
+                                          <sic>Cours</sic>
+                                          <corr>cours</corr>
+                                    </choice> de cette guerre.</item>
+                              <item>Article II - <lb/>Je lègue toute ma fortune <lb/>présente <choice>
+                                          <abbr>&amp;</abbr>
+                                          <expan>et</expan>
+                                    </choice> future à mon fils <persName>Georges
+                                          <lb/>Pacilly</persName>, né à <placeName type="otherPlace" ref="#pl-2">Paris</placeName>, 6 rue Guilhem, <lb/><date type="otherDate" when="1911-12-29">le 29 <choice>
+                                                <sic>Décembre</sic>
+                                                <corr>décembre</corr>
+                                          </choice> 1911</date><choice><sic> -</sic><corr>,</corr></choice> et cela sans aucune <lb/>restriction, ni <choice><sic>rèserve</sic><corr>réserve</corr></choice><choice><sic> -</sic><corr>.</corr></choice></item>
+                              <item>Article III - <lb/>Je désire que ma dépouille mortelle <lb/>soit <choice><sic>brulée</sic><corr>brûlée</corr></choice>, si possible - autrement que <lb/>l’on m’enterre dans
+                                    la localité <choice>
+                                          <sic>ou</sic>
+                                          <corr>où</corr>
+                                    </choice> je <lb/>serai mort<choice><sic> -</sic><corr>.</corr></choice> Ma volonté expresse <lb/>est qu’il n’y ait point de <choice>
+                                          <sic>cèremonie</sic>
+                                          <corr>cérémonie</corr>
+                                    </choice><lb/><choice>
+                                          <sic>rèligieuse</sic>
+                                          <corr>religieuse</corr>
+                                    </choice><choice>
+                                          <abbr>&amp;</abbr>
+                                          <expan>et</expan>
+                                    </choice> qu’après ma mort <lb/>aucune somme, si minime <choice>
+                                          <sic>soit elle</sic>
+                                          <corr>soit-elle</corr>
+                                    </choice> <lb/>ne soit versée au clergé, pour prière ou autres <lb/>motifs<choice><sic> -</sic><corr>.</corr></choice></item>
+                              <item>Article IV - <lb/>Au cas improbable où mon fils Georges
+                                    <lb/>viendrait à décéder avant moi, mes <lb/><choice>
+                                          <sic>heritiers</sic>
+                                          <corr>héritiers</corr>
+                                    </choice> voudront bien se conformer <choice>
+                                          <sic>stricte-<lb/>ment</sic>
+                                          <corr>stricte<lb break="no"/>ment</corr>
+                                    </choice> aux dispositions de l’article III <choice>
+                                          <sic>ci dessus</sic>
+                                          <corr>ci-dessus</corr>
+                                    </choice><lb/>pour les funérailles<choice><sic> -</sic><corr>.</corr></choice></item>
+                              <pb facs="#FRAN_Poilus_t-0005_02"/>
+                              <item>Article V - <lb/>En cas de décès dans les conditions
+                                    <lb/>prévues à l’article quatre, je lègue <lb/>ma fortune comme
+                                          suit<del> :</del> dans la mesure <lb/><space dim="horizontal" unit="chars" quantity="3"/><subst>
+                                          <del><unclear>si</unclear></del>
+                                          <add>où</add>
+                                          </subst> cette fortune m’appartient<choice><sic> -</sic><corr>.</corr></choice><list>
+                                          <item>1<hi rend="superscript-underlined">o</hi> <choice><sic>en</sic><corr>En</corr></choice>
+                                                conformité des dispositions <choice>
+                                                  <sic>lègales</sic>
+                                                  <corr>légales</corr>
+                                                </choice> du <lb/><choice>
+                                                  <sic>code</sic>
+                                                  <corr>Code</corr>
+                                                </choice> civil, la part devant me revenir, par
+                                                <lb/>suite du partage anticipé effectué par <persName><choice>
+                                                  <abbr>M<hi rend="superscript-underlined">me</hi></abbr>
+                                                  <expan>Madame</expan>
+                                                  </choice> <lb/>Pacilly</persName>, ma mère, chez <persName><choice>
+                                                  <abbr>M<hi rend="superscript-underlined">e</hi></abbr>
+                                                  <expan>maître</expan>
+                                                  </choice> Sebret</persName>, <subst><del>ira</del><add>retournera</add></subst><lb/> à <choice><sic>Ma Mère</sic><corr>ma mère</corr></choice> <choice><abbr>&amp;</abbr><expan>et</expan></choice> ira à ma sœur<choice><sic> -</sic><corr>.</corr></choice></item>
+                                          <item>2<hi rend="superscript-underlined">o</hi> <subst>
+                                                  <del>le</del>
+                                                  <add>Ma</add>
+                                                </subst><choice>
+                                                  <sic><subst>
+                                                  <del>m</del>
+                                                  <add>M</add>
+                                                  </subst>ère</sic>
+                                                  <corr>mère</corr>
+                                                </choice> et ma <choice>
+                                                  <sic>Sœur</sic>
+                                                  <corr>sœur</corr>
+                                                </choice> ou l’une d’<choice>
+                                                  <sic>elle</sic>
+                                                  <corr>elles</corr>
+                                                </choice> survivante <lb/>toucheront jusqu’au
+                                                minimum légal sur <lb/>le surplus de ma fortune mobilière,<choice>
+                                                  <sic><surplus> -</surplus></sic>
+                                                  <corr/>
+                                                </choice><lb/>leur part de ce chef ne devant pas <choice>
+                                                  <sic>ètre</sic>
+                                                  <corr>être</corr>
+                                                </choice> inférieure <lb/>à trois mille francs<choice><sic> -</sic><corr>.</corr></choice></item>
+                                          <item>3<hi rend="superscript-underlined">o</hi> Le surplus
+                                                de la quotité <app>
+                                                  <lem><add place="above">disponible</add> <add place="marginLeft" type="testatorComment">1 mot
+                                                  ajouté <lb/><seg type="signature"><persName ref="#pers-170">Pacilly</persName></seg></add></lem>
+                                                  <note resp="#jmorvan">Mention "1 mot ajouté"
+                                                  ajoutée en marge et signée "Pacilly".</note>
+                                                </app> de ma fortune <lb/>mobilière ira au
+                                                  <orgName>département de la <lb/>Manche</orgName>
+                                                et sera <choice>
+                                                  <sic> affectèe</sic>
+                                                  <corr>affectée</corr>
+                                                </choice> au <orgName>Service de
+                                                  <lb/>l’assistance</orgName> en faveur des
+                                                orphelins dont <lb/>les parents, ou le père
+                                                seulement, aurait été <lb/>victime de la guerre<choice><sic> -</sic><corr>,</corr></choice> sous la <choice>
+                                                  <sic>rèserve</sic>
+                                                  <corr>réserve</corr>
+                                                </choice> <lb/><choice>
+                                                  <sic>ci dessous -</sic>
+                                                  <corr>ci-dessous.</corr>
+                                                </choice><list>
+                                                      <item><hi rend="double-underlined">a</hi> <choice><sic>les</sic><corr>Les</corr></choice>
+                                                  objets mobiliers, meubles, <lb/>linges, bibelots, <choice>
+                                                  <sic>etc,</sic>
+                                                  <corr>etc.</corr>
+                                                  </choice> provenant des apports <lb/>de ma femme <choice>
+                                                  <sic>décèdée</sic>
+                                                  <corr>décédée</corr>
+                                                  </choice> (née <persName>Maria
+                                                  Lelavandier</persName>) <lb/>retourneront à sa famille<choice><sic> -</sic><corr>.</corr></choice></item>
+                                                  <item><hi rend="underlined">b</hi> <choice><sic>les</sic><corr>Les</corr></choice> meubles,
+                                                  linges, <choice>
+                                                  <sic>etc,</sic>
+                                                  <corr>etc.</corr>
+                                                  </choice> m’appartenant <lb/>en propre<del>e</del>
+                                                  iront à ma famille.</item>
+                                                      <item><choice><sic>c</sic><corr><hi rend="underlined">c</hi></corr></choice> <choice><sic>les</sic><corr>Les</corr></choice> ouvrages en <choice>
+                                                  <sic>langue</sic>
+                                                  <corr>langues</corr>
+                                                  </choice> étrangères renfermés <lb/>dans ma
+                                                  bibliothèque seront remis <subst><del>à</del><add>d</add></subst>e <lb/><choice>
+                                                  <sic>préfèrence</sic>
+                                                  <corr>préférence</corr>
+                                                  </choice> à la bibliothèque de la Société
+                              <pb facs="#FRAN_Poilus_t-0005_03"/>
+                             pour la propagation des langues étrangères
+                                                  en <lb/>France, dont le <choice>
+                                                  <sic>Siège Social</sic>
+                                                  <corr>siège social</corr>
+                                                  </choice> est à <placeName type="otherPlace" ref="#pl-2">Paris, <add place="inline">rue
+                                                  Serpente</add> <lb/>à l’<choice><sic>Hotel</sic><corr>hôtel</corr></choice> des Sociétés <choice><sic>Savantes</sic><corr>savantes</corr></choice></placeName>, <choice>
+                                                  <sic>où</sic>
+                                                  <corr>ou</corr>
+                                                  </choice> à défaut <lb/>à celle de la
+                                                  <orgName>Société <choice>
+                                                  <abbr>internale</abbr>
+                                                  <expan>internationale</expan>
+                                                  </choice> de correspondance <lb/>et d’échange
+                                                  (Concordia)</orgName> 9 rue Christine<choice><sic/><corr>,</corr></choice> <placeName type="otherPlace" ref="#pl-2">Paris</placeName>.</item>
+                                                  <item><hi rend="underlined">d</hi> <choice><sic>au</sic><corr>Au</corr></choice> cas où ma
+                                                  sœur mourrait <choice><sic>Sans</sic><corr>sans</corr></choice> enfants<choice><sic/><corr>,</corr></choice> les <lb/>ouvrages français de ma
+                                                  bibliothèque devraient <lb/>être versés à la
+                                                  <orgName>bibliothèque <choice>
+                                                  <sic>Communale</sic>
+                                                  <corr>communale</corr>
+                                                  </choice> <lb/>de <placeName type="otherPlace">Mesnillard</placeName></orgName><choice><sic> -</sic><corr>,</corr></choice> ainsi que le meuble les
+                                                  renfermant.</item>
+                                                </list></item>
+                                    </list></item>
+                              <item><choice><sic><hi rend="underlined">Article VI</hi></sic><corr>Article VI -</corr></choice> <choice><sic>tous</sic><corr>Tous</corr></choice> les impôts <choice>
+                                          <abbr>&amp;</abbr>
+                                          <expan>et</expan>
+                                    </choice> droits de mutation <lb/>de propriété seraient dans
+                                    l’éventualité prévue <lb/><choice>
+                                          <sic>a</sic>
+                                          <corr>à</corr>
+                                    </choice> l’article quatre supportés par ma mère <choice>
+                                          <abbr>&amp;</abbr>
+                                          <expan>et</expan>
+                                    </choice><subst>
+                                          <del>a</del>
+                                          <add>ma</add>
+                                    </subst> <lb/>sœur ou l’une d’<choice><sic>elle</sic><corr>elles</corr></choice> seulement, sauf en ce qui <lb/>concerne la part à
+                                    revenir au département <lb/>de la Manche<choice><sic> -</sic><corr>.</corr></choice></item>
+                              <item>Article VII - <lb/>En cas de <choice>
+                                          <sic>décés</sic>
+                                          <corr>décès</corr>
+                                    </choice> dans les conditions <lb/>prévues à l’article II<choice><sic/><corr>,</corr></choice> ma volonté est que <lb/>les valeurs françaises
+                                    comprises dans mon <lb/>portefeuille ne soient pas vendues, mais
+                                    <lb/>simplement transférées au nominatif au <lb/>nom de mon fils<choice><sic> -</sic><corr>.</corr></choice> En ce qui concerne les <lb/>valeurs étrangères, je
+                                    laisse le conseil de famille <lb/>libre d’agir au mieux des <choice>
+                                          <sic>intérèts</sic>
+                                          <corr>intérêts</corr>
+                                    </choice> du pupille<choice><sic/><corr>,</corr></choice> <lb/>mais je <choice>
+                                          <sic>préfererais</sic>
+                                          <corr>préférerais</corr>
+                                    </choice> le voir conserver les valeurs <lb/>minières et les
+                                    fonds d’état<choice><sic> -</sic><corr>.</corr></choice></item>
+                              <item>Article VIII - En cas de <choice>
+                                          <sic>décés</sic>
+                                          <corr>décès</corr>
+                                    </choice> après mon fils Georges<choice><sic/><corr>,</corr></choice> <lb/>la part qui aurait pu me revenir de ce <subst>
+                                          <del>etat</del>
+                                          <add>fait</add>
+                                    </subst> <lb/>retournera à la famille d’où elle provient<choice><sic> - c’est à dire</sic><corr>, c’est-à-dire</corr></choice> <lb/>à celle de sa mère <choice>
+                                          <sic>nèe</sic>
+                                          <corr>née</corr>
+                                    </choice><persName>Maria Lelavandier</persName> dans
+                              <pb facs="#FRAN_Poilus_t-0005_04"/>
+                              ce cas, la partie prenante aura, par <lb/>dérogation à l’article
+                                    VI, à supporter tous <lb/>les <choice>
+                                          <sic>impots</sic>
+                                          <corr>impôts</corr>
+                                    </choice><choice>
+                                          <abbr>&amp;</abbr>
+                                          <expan>et</expan>
+                                    </choice> droits de mutation afférents à <lb/>ce qui lui
+                                    revient.</item>
+                              <item>Article <add place="inline">I</add>X - Les frais d’inventaire,
+                                    d’envoi <lb/>en possession et de partage, <choice>
+                                          <sic>sil</sic>
+                                          <corr>s’il</corr>
+                                    </choice> y avait lieu, etc. <lb/>seraient supportés par les
+                                    parties prenantes <list>
+                                          <item>1<hi rend="superscript-underlined">o</hi> <persName>Madame et Mademoiselle
+                                                  Pacilly</persName>, </item>
+                                          <item>2<hi rend="superscript-underlined">o</hi> <subst><del>l</del><add>L</add></subst>a famille <persName>Lelavandier</persName>, </item>
+                                          <item>3<hi rend="superscript">o</hi> le
+                                                  <orgName>département de la Manche</orgName>,
+                                          </item>
+                                    </list>dans le cas prévu aux articles IV &amp; VIII<choice><sic> -</sic><corr>.</corr></choice></item>
+                        </list>
+                        <space dim="vertical" unit="lines" quantity="1"/>
+                        <dateline>Fait à <placeName type="willPlace" ref="#pl-2">Paris</placeName>,
+                              <date type="willDate" when="1914-08-10">le dix <choice>
+                                          <sic>Août</sic>
+                                          <corr>août</corr>
+                                    </choice> 1914</date><choice><sic/><corr>.</corr></choice></dateline>
+                        <signed rend="centered"><persName ref="#pers-170">V
+                                          <surname>Pacilly</surname></persName></signed>
+                        <space dim="vertical" unit="lines" quantity="2"/>
+                        <postscript>
+                              <p>Dans le cas où mon fils viendrait <lb/>à décéder après moi <choice>
+                                          <abbr>&amp;</abbr>
+                                          <expan>et</expan>
+                                    </choice> avant sa majorité, <lb/>je demande en tant que de
+                                    besoin à ses <lb/>héritiers naturels de se conformer <lb/>aux
+                                    dispositions prévues dans <lb/>l’éventualité <subst>
+                                          <del>de l</del>
+                                          <add>des</add>
+                                    </subst> article<add>s</add> IV <choice>
+                                          <abbr>&amp;</abbr>
+                                          <expan>et</expan>
+                                    </choice> VIII<choice><sic/><corr>.</corr></choice></p>
+                              <signed rend="centered"><persName ref="#pers-170">V
+                                                <surname>Pacilly</surname></persName></signed>
+                        </postscript>
+                  </div>
+                  <div type="codicil">
+                        <pb facs="#FRAN_Poilus_t-0005_05"/>
+                        <dateline rend="centered"><placeName type="codicilPlace" ref="#pl-2">Paris</placeName>, <date type="codicilDate" when="1914-09-02">le 2 <choice>
+                                          <sic>Septembre</sic>
+                                          <corr>septembre</corr>
+                                    </choice> 1914</date><choice><sic/><corr>.</corr></choice></dateline>
+                        <space dim="vertical" unit="lines" quantity="1"/>
+                        <head><choice>
+                                    <sic>Codicile</sic>
+                                    <corr>Codicille</corr>
+                              </choice> à mon testament <lb/>olographe, déposé dans un <lb/>coffre <choice>
+                                    <sic>a</sic>
+                                    <corr>à</corr>
+                              </choice> mon nom à la <lb/><orgName>Banque des Pays du
+                                    Nord</orgName>, <lb/>28<hi rend="superscript-underlined">bis</hi> avenue de l’<choice><sic>Opèra</sic><corr>Opéra</corr></choice> à <placeName type="otherPlace" ref="#pl-2">Paris</placeName>.</head>
+                        <space dim="vertical" unit="lines" quantity="1"/>
+                        <p rend="left">Au cas où je viendrais à <lb/><choice>
+                                    <sic>décèder</sic>
+                                    <corr>décéder</corr>
+                              </choice> au cours de la guerre <lb/>avec l’Allemagne, ou des <lb/><choice>
+                                    <sic>Suites</sic>
+                                    <corr>suites</corr>
+                              </choice> de cette guerre, le <lb/><choice>
+                                    <sic>Conseil</sic>
+                                    <corr>conseil</corr>
+                              </choice> de famille<del>,</del> chargé <lb/>de <choice>
+                                    <sic>veuiller</sic>
+                                    <corr>veiller</corr>
+                              </choice> sur l’éducation <choice>
+                                    <abbr>&amp;</abbr>
+                                    <expan>et</expan>
+                              </choice><lb/>la fortune de mon fils Georges <lb/>voudra bien se
+                              conformer <lb/>aux dispositions ci-dessous <lb/><choice>
+                                    <sic>entant quélles nesont</sic>
+                                    <corr>en tant qu’elles ne sont</corr>
+                              </choice><choice>
+                                    <abbr>&amp;</abbr>
+                                    <expan>et</expan>
+                              </choice> ne <lb/>seront pas contraires aux lois.</p>
+                        <list>
+                              <item>1<hi rend="superscript-underlined">o</hi> L’enfant sera confié à
+                                    la <lb/>garde de son <choice><sic>Grand-Père</sic><corr>grand-père</corr></choice>. <add place="marginLeft">Il y aurait en cas de <choice>
+                                                <sic>dècès</sic>
+                                                <corr>décès</corr>
+                                          </choice> à toucher l’indemnité de guerre me <choice><sic>revant</sic><corr>revenant.</corr></choice><list>
+                                                <item><add place="marginLeft">1<hi rend="superscript-underlined">o</hi> à <orgName><choice><sic>L<del>u</del>Union Commerciale
+                                                  Indochinoise</sic><corr>l’Union commerciale indochinoise</corr></choice></orgName>, 9 rue Tronchet (base <choice>
+                                                  <abbr>appoint<hi rend="superscript-underlined">ts</hi></abbr>
+                                                  <expan>appointements</expan>
+                                                  </choice> 400<choice>
+                                                  <abbr><hi rend="superscript">F</hi></abbr><expan> francs</expan></choice><choice><sic/><corr>)</corr></choice></add></item>
+                                                <item><add place="marginLeft">2<hi rend="superscript">°</hi> à la <orgName><choice>
+                                                  <abbr>S<hi rend="superscript-underlined">té</hi></abbr><expan>Société</expan>
+                                                  </choice> d’<choice><sic>Etudes &amp; de Commerce</sic><corr>études et de commerce</corr></choice> au Maroc</orgName> - <app>
+                                                  <lem><supplied>9 rue Tronchet</supplied></lem>
+                                                        <note resp="#PCharbonnier">L’expression restituée est marquée dans le manuscrit par
+                                                              "d", abréviation de idem.</note></app><app><lem><supplied>(base appointements</supplied></lem><note resp="#PCharbonnier">L’expression restituée est marquée dans le manuscrit par
+                                                        "d", abréviation de idem.</note></app> 50<choice>
+                                                  <abbr><hi rend="superscript">F</hi></abbr><expan> francs</expan></choice><supplied>)</supplied><choice><sic/><corr>.</corr></choice></add></item>
+                                          </list></add> <pb facs="#FRAN_Poilus_t-0005_06"/><choice>
+                                          <abbr>M<hi rend="superscript">r</hi></abbr>
+                                          <expan>Monsieur</expan>
+                                    </choice> <persName>Victor
+                                          <surname>Lelavandier</surname></persName>,
+                                    46 <lb/>rue
+                                    St Gervais à <placeName type="otherPlace">Avranches</placeName>.</item>
+                              <item>2° Au cas où le décès de <persName><choice>
+                                                <abbr>M<hi rend="superscript">r</hi></abbr>
+                                                <expan>Monsieur</expan>
+                                          </choice> V. <lb/>Lelavandier</persName> surviendrait
+                                    avant <lb/>la majorité de mon fils Georges, <lb/><persName><choice>
+                                                <abbr>M<hi rend="superscript">me</hi></abbr>
+                                                <expan>Madame</expan>
+                                          </choice> Lelavandier (née Marie<lb/> Poussard)</persName>
+                                    qui a élevé mon <lb/>fils, aura, sur sa demande, <lb/>la
+                                    préférence pour la garde de<lb/> l’<choice>
+                                          <sic>enfant</sic>
+                                          <corr>enfant.</corr>
+                                    </choice></item>
+                              <item> 3° Mon fils devra faire<lb/> ses études de préférence dans<lb/>
+                                    un ou plusieurs établissements<lb/> de l’<choice><sic>Etat</sic><corr>État</corr></choice>. A défaut, il devra<lb/> être placé dans une
+                                    école<lb/> laïque, à l’exclusion de<lb/> tout établissement
+                                          d’enseigne<lb break="no"/>ment congréganiste <unclear reason="quite-illegible">ou</unclear> religieux.</item>
+                              <item> 4° Il me serait agréable de<lb/> voir orienter mon fils vers
+                                    les <choice>
+                                          <sic>Carrières<lb/> Commerciales</sic>
+                                          <corr>carrières commerciales.</corr>
+                                    </choice></item>
+                        </list>
+                        <dateline>Fait à <placeName type="codicilPlace" ref="#pl-2">Paris</placeName>, <date when="1914-09-02"/>le deux septembre
+                              1914<choice><sic/><corr>.</corr></choice></dateline>
+                        <signed rend="right"><persName ref="#pers-170">V
+                                    <surname>Pacilly</surname></persName></signed>
+                  </div>
+                  <div type="envelope">
+                        <pb facs="#FRAN_Poilus_t-0005_07"/>
+                        <p rend="centered"><hi rend="underlined"><persName ref="#pers-170">V<surname>
+                                                Pacilly</surname></persName></hi> <lb/><hi rend="underlined"><choice><sic>dispositions</sic><corr>Disposition</corr></choice> testamentaires</hi><choice><sic/><corr>.</corr></choice></p>
+                  </div>
+            </body>
+      </text>
+</TEI>

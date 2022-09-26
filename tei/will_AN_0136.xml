@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0136">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title>
+                <title type="main">[Testament de Marius Lambert Granjon (24 janvier 1916)] : édition électronique</title>
+                <author><persName ref="#pers-198">Marius Lambert Granjon (1892-1917)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique. Département de la Conservation. Atelier photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#AM">Aurélie Massie</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0136</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0136_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XLVIII/1802, minute du 28 mai 1920 (dépôt du testament de Marius Lambert Granjon)</idno>
+                        <msName>Testament de Marius Lambert Granjon (24 janvier 1916)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1916-01-24">24 janvier 1916</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-198"><forename>Marius</forename> <forename>Lambert</forename> <surname>Granjon</surname></persName>, mort pour la France le <date when="1917-07-18">18 juillet 1917</date> au <placeName ref="#pl-329">combat de Moulin de Tous-Vents (Aisne)</placeName>.</p>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). Enveloppe (enveloppe). </support>
+                                <extent>1 page et 1 enveloppe. Dimensions du testament : <dimensions type="willPage" unit="cm"><height>24,9</height><width>17,8</width></dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm"><height>11,4</height><width>14,5</width></dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Enveloppe : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010175">étude notariale 048 (CRPCEN : 75047)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0136_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XLVIII/1802, minute du 28 mai 1920 (dépôt du testament de Marius Lambert Granjon)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1916-01-24">24 janvier 1916</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>24 janvier 1916. Paris.</p>
+                <p>testament olographe de Marius Lambert Granjon, mort pour la France le 18 juillet 1917 au combat de Moulin de Tous-Vents (Aisne).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-04-20/2018-06-25" who="#lelia #MFGarreau">transcription</change>
+            <change when-iso="2018-04-20/2018-05-04" who="#PCharbonnier #FClavaud">validation</change>
+            <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0136___JPEG___FRAN_Poilus_t-0136_01.jpg" xml:id="FRAN_Poilus_t-0136_01"/>
+        </surface>
+        <surface type="will-envelope-recto" n="02">
+            <graphic url="testament_AN_0136___JPEG___FRAN_Poilus_t-0136_02.jpg" xml:id="FRAN_Poilus_t-0136_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0136">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0136_01"/>
+                <head rend="centered"><hi rend="underlined">Testament</hi></head>
+                <space dim="vertical" unit="lines" quantity="3"/>
+                <p>Je soussigné <persName ref="#pers-198"><surname>Granjon</surname> <lb/>Marius, Lambert</persName>, né le <date type="willAuthorBirthDate" when="1892-12-31"><choice><sic>trente-un <lb/>Décembre</sic><corr>trente et un <lb/>décembre</corr></choice> mil huit cent <choice><sic>quatre-vingt <lb/>douze</sic><corr>quatre-vingt-<lb break="no"/>douze</corr></choice></date> à <placeName type="willAuthorBirthPlace" ref="#pl-328">Châtonnay (Isère)</placeName>, déclare <lb/>tester en faveur de <persName>Madame <choice><sic>Veuve</sic><corr>veuve</corr></choice> <lb/><surname>Plassard</surname>, née Louise Granjon</persName>, ma tante.</p>
+                <p>Tout ce qui m’appartient ou peut <lb/>m’appartenir de successions futures, <lb/>devra donc lui revenir <choice><sic>a</sic><corr>à</corr></choice> mon décès.</p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <dateline>Fait, à <placeName type="willPlace" ref="#pl-2">Paris</placeName>, le <date type="willDate" when="1916-01-24">vingt-quatre <choice><sic>Janvier</sic><corr>janvier</corr></choice> de l’an <lb/>mil neuf cent seize</date><choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="centered"><persName ref="#pers-198">Marius <surname>Granjon</surname></persName></signed>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0136_02"/>
+                <p rend="centered">Testament de <lb/><persName ref="#pers-198">Marius <surname>Granjon</surname></persName></p>
+            </div>
+        </body>
+    </text>
+</TEI>

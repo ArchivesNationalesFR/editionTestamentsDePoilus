@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0440">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Jean Charles Pirus (2 août 1914)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-579">Jean Charles Pirus (1889-1915)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021-09">septembre 2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0440</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0440_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXXII/1333, minute du 9 juillet 1920 (dépôt du testament de Jean
+                            Charles Pirus)</idno>
+                        <msName>Testament de Jean Charles Pirus (2 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-02">2 août 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-782">Saint-Mandé</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-579"><forename>Jean</forename> 
+                                    <forename>Charles</forename> 
+                                    <surname>Pirus</surname></persName>, mort pour la France le
+                                    <date when="1915-06-19">19 juin 1915</date> à <placeName ref="#pl-838">Pont à Mousson (Meurthe et
+                                Moselle)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à lettre (testament). </support>
+                                <extent>4 pages. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>17,6</height>
+                                        <width>11,1</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre mauve.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><!--agencyNumberRoman=XXXII--><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010159">étude notariale 032 (CRPCEN : 75103)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0440_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXXII/1333, minute du 9 juillet 1920 (dépôt du testament de Jean
+                            Charles Pirus)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-02">2 août 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>2 août 1914. Saint-Mandé.</p>
+                <p>Testament olographe de Jean Charles Pirus, mort pour la France le 19 juin 1915 à
+                    Pont à Mousson (Meurthe et Moselle).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2020-11-03/2021-02-08" who="#MFGarreau #lelia">transcription</change>
+            <change when-iso="2020-11-03/2021-02-08" who="#jmorvan #PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2021-07-30+02:00"> enrichissements et
+                contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0440___JPEG___FRAN_Poilus_t-0440_01.jpg" xml:id="FRAN_Poilus_t-0440_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0440___JPEG___FRAN_Poilus_t-0440_02.jpg" xml:id="FRAN_Poilus_t-0440_02"/>
+        </surface>
+        <surface type="will-page" n="03">
+            <graphic url="testament_AN_0440___JPEG___FRAN_Poilus_t-0440_03.jpg" xml:id="FRAN_Poilus_t-0440_03"/>
+        </surface>
+        <surface type="will-page" n="04">
+            <graphic url="testament_AN_0440___JPEG___FRAN_Poilus_t-0440_04.jpg" xml:id="FRAN_Poilus_t-0440_04"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0440">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0440_01"/>
+                <p>Je lègue tout ce qui m’<choice><sic>ap-<lb/>partient</sic><corr>ap<lb break="no"/>partient</corr></choice> à ma chère
+                            <choice><sic>Maman</sic><corr>maman</corr></choice> <lb/>qui en fera ce
+                    qu’elle voudra !</p>
+                <metamark function="separating" rend="horizontal-line"/>
+                <p>J’ai un compte établi <lb/>au <orgName>Crédit
+                                <choice><sic>Lyonnais</sic><corr>lyonnais</corr></choice></orgName>.
+                    <lb/>Siège
+                                    <choice><sic>Central</sic><corr>central,</corr></choice> <lb/><app><lem><choice><sic>Boulevard</sic><corr>boulevard</corr></choice>
+                            des Italiens</lem><note resp="#jmorvan">Inscrite à la ligne après "Siège
+                            central", cette mentions "Boulevard des Italiens" est
+                        centrée.</note></app><choice><sic/><corr>,</corr></choice> <lb/><app><lem><placeName type="otherPlace" ref="#pl-2">Paris</placeName></lem><note resp="#jmorvan">À la ligne après "Boulevard des Italiens", cette
+                            mentions "Paris" est inscrite sur la partie droite de la
+                            page.</note></app><choice><sic/><corr>.</corr></choice> <lb/><choice><sic>le</sic><corr>Le</corr></choice> <choice><abbr>N<hi rend="superscript-double-underlined">o</hi></abbr><expan>numéro</expan></choice> de mon compte est
+                            <lb/><app><lem>190.014.</lem><note resp="#jmorvan">Inscrite à la ligne,
+                            cette mention "190.014." est centrée.</note></app> <lb/>J’y ai en
+                            <choice><sic>dépot</sic><corr>dépôt</corr></choice> environ 95<hi rend="superscript">f</hi>,00 d’argent
+                        liquide<choice><sic/><corr>,</corr></choice> <lb/>puis<choice><sic>.</sic><corr> :</corr></choice></p>
+                <list>
+                    <item>1<hi rend="superscript-double-underlined">o</hi> 4
+                                <choice><sic>Obligations</sic><corr>obligations</corr></choice>
+                        communales <add place="below">1906</add> <lb/><choice><abbr>N<hi rend="superscript-double-underlined">os</hi></abbr><expan>numéros</expan></choice> 94.680,
+                                94.458<choice><sic/><corr>,</corr></choice> <lb/>634.848,
+                        634.849</item>
+                </list>
+                <pb facs="#FRAN_Poilus_t-0440_02"/>
+                <list>
+                    <item>2<hi rend="superscript-double-underlined">o</hi> 3 <supplied reason="deleted">obligations</supplied> <choice><sic>Foncières</sic><corr>foncières</corr></choice>
+                        1903 <lb/><choice><abbr>N<hi rend="superscript-double-underlined">os</hi></abbr><expan>numéros</expan></choice> 19.938
+                                <lb/>33.610 <lb/>33.619</item>
+                    <item>3<hi rend="superscript-double-underlined">o</hi> 2 <supplied reason="deleted">obligations</supplied> <choice><sic>Communales</sic><corr>communales</corr></choice>
+                        1906 <lb/><choice><abbr>N<hi rend="superscript-double-underlined">os</hi></abbr><expan>numéros</expan></choice> 466.829
+                                <lb/>919.462<choice><sic/><corr>.</corr></choice> <lb/>Ces deux
+                            <supplied reason="deleted">obligations</supplied> communales
+                                    <choice><sic>appartien-<lb/>nent</sic><corr>appartien<lb break="no"/>nent</corr></choice>
+                        à <persName>Charles</persName>.</item>
+                </list>
+                <metamark function="separating" rend="horizontal-line"/>
+                <p>Ne pas oublier de demander <lb/>à <persName>Monsieur
+                            Turgeon</persName><choice><sic/><corr>,</corr></choice> <lb/><app><lem>13
+                            rue Bonaparte</lem><note resp="#jmorvan">Cette mention "13 rue
+                            Bonaparte" est centrée sous "Monsieur
+                                Turgeon".</note></app> <lb/><app><lem><placeName type="otherPlace" ref="#pl-2">Paris</placeName></lem><note resp="#jmorvan">Cette
+                            mention "Paris" est inscrite sous "13 rue Bonaparte", à
+                        droite.</note></app><choice><sic>.</sic><corr>,</corr></choice> <lb/>200
+                    photographies environ <lb/>d’Algérie et d’Océanie <lb/>que je lui ai
+                            <choice><sic>pretées</sic><corr>prêtées</corr></choice>.</p>
+                <metamark function="separating" rend="horizontal-line"/>
+                <p>Ma dernière pensée aura <lb/>été pour ma bien-aimée<pb facs="#FRAN_Poilus_t-0440_03"/><choice><sic>Maman</sic><corr>maman</corr></choice><choice><sic>.</sic><corr>,</corr></choice>
+                    pour Joseph<choice><sic>.</sic><corr>,</corr></choice> <lb/>Charles et Marie ma
+                    <lb/>petite sœur chérie.</p>
+                <p>J’espère que la mort <lb/>m’aura trouvé l’âme <lb/>pure.</p>
+                <dateline rend="right">Fait à <placeName type="willPlace" ref="#pl-782"><choice><abbr>S<hi rend="superscript-double-underlined">t</hi>
+                                Mandé</abbr><expan>Saint-Mandé</expan></choice></placeName> <lb/><date type="willDate" when="1914-08-02">le 2
+                                <choice><sic>Août</sic><corr>août</corr></choice>
+                            1914</date><choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="centered"><persName ref="#pers-579">Jean
+                        <surname>Pirus</surname></persName></signed>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <metamark function="separating" rend="horizontal-line"/>
+                <postscript>
+                    <p>Aujourd’hui 2 <choice><sic>Août</sic><corr>août</corr></choice> <lb/>j’ai
+                        confié à <persName>Monsieur l’abbé <lb/>L’Hermitte</persName>, 46,
+                                <choice><sic>Rue</sic><corr>rue</corr></choice>
+                    <pb facs="#FRAN_Poilus_t-0440_04"/>de la République<choice><sic/><corr>,</corr></choice> <lb/><placeName type="otherPlace"><choice><sic>Bry sur
+                                            Marne</sic><corr>Bry-sur-Marne</corr></choice></placeName>
+                                (Seine)<choice><sic/><corr>,</corr></choice> <lb/><choice><abbr>700<hi rend="superscript">F</hi></abbr><expan>700
+                            francs</expan></choice>, en le priant de <lb/>les envoyer à ma chère
+                                <lb/><choice><sic>Maman</sic><corr>maman.</corr></choice></p>
+                </postscript>
+                <dateline><placeName type="willPlace" ref="#pl-782"><choice><abbr>S<hi rend="superscript-double-underlined">t</hi>
+                                Mandé</abbr><expan>Saint-Mandé</expan></choice></placeName><choice><sic/><corr>,</corr></choice> <date type="willDate" when="1914-08-02">2
+                            <choice><sic>Août</sic><corr>août</corr></choice>
+                            1914</date><choice><sic/><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="centered"><persName ref="#pers-579">Jean
+                        <surname>Pirus</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

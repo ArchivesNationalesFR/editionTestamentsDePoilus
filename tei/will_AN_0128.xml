@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0128">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title>
+                <title type="main">[Testament de Claude Paul Odon Marguerite Henri de Juge Montespieu (23 août 1914)] : édition électronique</title>
+                <author><persName ref="#pers-190">Claude Paul Odon Marguerite Henri de Juge Montespieu (1876-1916)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique. Département de la Conservation. Atelier photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#MDeuve">Mathilde Deuve</persName>
+                    <persName ref="#AM">Aurélie Massie</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#Annie">Annie</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0128</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0128_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XLVIII/1746, minute du 18 décembre 1916 (dépôt du testament de Claude Paul Odon Marguerite Henri de Juge Montespieu)</idno>
+                        <msName>Testament de Claude Paul Odon Marguerite Henri de Juge Montespieu (23 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1914-08-23">23 août 1914</date>. <placeName type="willPlace" ref="#pl-317">Gray</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-190"><forename>Claude</forename> <forename>Paul</forename> <forename>Odon</forename> <forename>Marguerite</forename> <forename>Henri</forename> <surname>de Juge Montespieu</surname></persName>, mort pour la France le <date when="1916-06-24">24 juin 1916</date> à <placeName ref="#pl-176">entre le poste des 4 cheminées et Verdun (Meuse)</placeName>.</p>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Enveloppe (enveloppe). Papier quadrillé (codicille). </support>
+                                <extent>1 page et 1 enveloppe. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                                        <height>11</height>
+                                        <width>14,5</width>
+                                    </dimensions>. Dimensions du codicille : <dimensions type="willCodicil" unit="cm">
+                                        <height>26,6</height>
+                                        <width>21,3</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Enveloppe : encre. Codicille : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010175">étude notariale 048 (CRPCEN : 75047)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0128_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XLVIII/1746, minute du 18 décembre 1916 (dépôt du testament de Claude Paul Odon Marguerite Henri de Juge Montespieu)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-23">23 août 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>23 août 1914. Gray.</p>
+                <p>testament olographe de Claude Paul Odon Marguerite Henri de Juge Montespieu, mort pour la France le 24 juin 1916 à entre le poste des 4 cheminées et Verdun (Meuse).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-04-20/2018-10-15" who="#SL. #Annie #lelia #MFGarreau">transcription</change>
+            <change when-iso="2018-04-20/2018-09-29" who="#PCharbonnier #FClavaud">validation</change>
+            <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="codicil-page" n="01">
+            <graphic url="testament_AN_0128___JPEG___FRAN_Poilus_t-0128_01.jpg" xml:id="FRAN_Poilus_t-0128_01"/>
+        </surface>
+        <surface type="will-envelope-recto" n="02">
+            <graphic url="testament_AN_0128___JPEG___FRAN_Poilus_t-0128_02.jpg" xml:id="FRAN_Poilus_t-0128_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0128">
+        <body>
+            <div type="codicil">
+                <pb facs="#FRAN_Poilus_t-0128_01"/>
+                <head rend="right">Codicille <choice><sic>a</sic><corr>à</corr></choice> ajouter <choice><sic>a</sic><corr>à</corr></choice> mon <choice><sic>Testament</sic><corr>testament</corr></choice> <lb/>déposé chez <persName><choice><sic>Maître</sic><corr>maître</corr></choice> Dufour</persName><choice><sic/><corr>,</corr></choice> notaire <choice><abbr>B<hi rend="superscript-underlined">d</hi></abbr><expan>boulevard</expan></choice> <choice><sic>Poissonniere a</sic><corr>Poissonnière à</corr></choice><placeName type="otherPlace" ref="#pl-2"> Paris</placeName></head>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Je <choice><sic>desire</sic><corr>désire</corr></choice> que la lettre jointe <choice><sic>a</sic><corr>à</corr></choice> mon testament et <lb/>adressée à <choice><abbr>M<hi rend="superscript-underlined">r</hi></abbr><expan>Monsieur</expan></choice> <persName>H. <surname>Bauer</surname></persName><choice><sic/><corr>,</corr></choice><add place="above"><metamark function="other" rend="cross"/> 7 rue Labélonye <choice><sic>a</sic><corr>à</corr></choice> <placeName type="otherPlace" ref="#pl-4">Chatou</placeName></add><choice><sic/><corr>,</corr></choice> soit détruite<choice><sic/><corr>.</corr></choice> Je <choice><sic>desire</sic><corr>désire</corr></choice> <lb/>que son nom ne figure pas parmi les membres <lb/>du <choice><sic>Conseil</sic><corr>conseil</corr></choice> de famille de mon fils <persName>Louis</persName><choice><sic/><corr>.</corr></choice></p>
+                <p>Ce <choice><sic>desir</sic><corr>désir</corr></choice> ne saurait en aucune façon <choice><sic>etre interpretée</sic><corr>être interprété</corr></choice> <lb/>co<subst><del><unclear>nte</unclear></del><add>mm</add></subst>e une marque de <choice><sic>defiance</sic><corr>défiance</corr></choice> envers une <choice><sic>person-<lb/>ne</sic><corr>person<lb break="no"/>ne</corr></choice> que j’estime beaucoup et que je <choice><sic>considere</sic><corr>considère</corr></choice> comme <lb/>un ami <choice><sic>sur</sic><corr>sûr.</corr></choice> Je m’excuse de ne pouvoir en raison <lb/>de l’état de guerre remanier ce <choice><sic>Testament</sic><corr>testament</corr></choice>. Au reste <lb/>j’avais <choice><sic>écris</sic><corr>écrit</corr></choice> son nom au moment <choice><sic>ou</sic><corr>où</corr></choice> cet acte fut <lb/><choice><sic>redigé</sic><corr>rédigé</corr></choice> et ne l’avais point pressenti depuis<choice><sic/><corr>.</corr></choice> <lb/>J’ai remis de jour en jour et me suis laissé surprendre<choice><sic/><corr>.</corr></choice></p>
+                <p>En remplacement de <choice><abbr>M<hi rend="superscript-underlined">r</hi></abbr><expan>Monsieur</expan></choice> <persName>Henri <surname>Bauer</surname></persName> je prie <lb/>mon ami <choice><abbr>M<hi rend="superscript-underlined">r</hi></abbr><expan>Monsieur</expan></choice> <persName>Louis <surname>Chavanne</surname></persName><choice><sic/><corr>,</corr></choice> rue de Lille<choice><sic/><corr>,</corr></choice> de <lb/>vouloir bien accepter cette charge m’excusant <lb/>encore de n’avoir pu le pressentir. <choice><sic>A</sic><corr>À</corr></choice> son <lb/><choice><sic>defaut</sic><corr>défaut</corr></choice> je <choice><sic>desirerais</sic><corr>désirerais</corr></choice> voir <choice><abbr>M<hi rend="superscript-underlined">r</hi></abbr><expan>Monsieur</expan></choice> <persName><surname>Mosnier</surname></persName> assumer <lb/>cette fonction<choice><sic/><corr>.</corr></choice></p>
+                <dateline rend="centered"><choice><sic>fait a</sic><corr>Fait à</corr></choice> <placeName type="willPlace" ref="#pl-317">Gray</placeName> le <date type="codicilDate" when="1914-08-23">23 <choice><sic>Aout</sic><corr>août</corr></choice> 1914</date> <lb/>et <choice><sic>expedié</sic><corr>expédié</corr></choice> par pli recommandé <choice><sic>a Maitre</sic><corr>à maître</corr></choice> <persName><surname>Dufour</surname></persName> <choice><sic>a</sic><corr>à</corr></choice> <lb/><placeName type="otherPlace" ref="#pl-2">Paris</placeName>.</dateline>
+                <signed rend="right"><persName ref="#pers-190">H. de <surname>Juge Montespieu</surname></persName></signed>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0128_02"/>
+                <p>Codicille <lb/>au <choice><sic>Testament</sic><corr>testament</corr></choice> de <persName ref="#pers-190"><unclear>M</unclear>. <lb/><hi rend="underlined">H. de Juge Montespieu</hi></persName></p>
+            </div>
+        </body>
+    </text>
+</TEI>

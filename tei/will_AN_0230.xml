@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0230">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Pierre Charles Marie de Loustal (3 août 1914)] :
+                    édition électronique</title>
+                <author><persName ref="#pers-288">Pierre Charles Marie de Loustal
+                        (1878-1914)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#PROMBAUT">PROMBAUT</persName>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021-09">septembre 2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0230</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0230_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXVII/1724, minute du 13 octobre 1916 (dépôt du testament de
+                            Pierre Charles Marie de Loustal)</idno>
+                        <msName>Testament de Pierre Charles Marie de Loustal (3 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-03">3 août 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-288"><forename>Pierre</forename> 
+                                    <forename>Charles</forename> 
+                                    <forename>Marie</forename> 
+                                    <surname>Loustal</surname></persName>, mort pour la France le
+                                    <date when="1914-08-25">25 août 1914</date> à <placeName ref="#pl-456">Saint Martin sur Ecaillon
+                            (Nord)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à en-tête (testament). Papier à en-tête (codicille). </support>
+                                <extent>5 pages et 1 enveloppe. Dimensions du testament :
+                                        <dimensions type="willPage" unit="cm">
+                                        <height>16,9</height>
+                                        <width>12,3</width>
+                                    </dimensions>. Dimensions du codicille : <dimensions type="willCodicil" unit="cm">
+                                        <height>16,9</height>
+                                        <width>12,3</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre mauve. Codicille : encre mauve.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><!--agencyNumberRoman=CXVII--><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010244">étude notariale 117 (CRPCEN : 75035)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0230_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXVII/1724, minute du 13 octobre 1916 (dépôt du testament de
+                            Pierre Charles Marie de Loustal)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-03">3 août 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>3 août 1914. Paris.</p>
+                <p>Testament olographe de Pierre Charles Marie de Loustal, mort pour la France le 25
+                    août 1914 à Saint Martin sur Ecaillon (Nord).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-09-10/2020-12-15" who="#MFGarreau #lelia #PROMBAUT #SL. #GBMireille">transcription</change>
+            <change when-iso="2018-09-10/2019-11-04" who="#jmorvan #FClavaud">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2021-07-30+02:00"> enrichissements et
+                contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0230___JPEG___FRAN_Poilus_t-0230_01.jpg" xml:id="FRAN_Poilus_t-0230_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0230___JPEG___FRAN_Poilus_t-0230_02.jpg" xml:id="FRAN_Poilus_t-0230_02"/>
+        </surface>
+        <surface type="will-page" n="03">
+            <graphic url="testament_AN_0230___JPEG___FRAN_Poilus_t-0230_03.jpg" xml:id="FRAN_Poilus_t-0230_03"/>
+        </surface>
+        <surface type="codicil-page" n="04">
+            <graphic url="testament_AN_0230___JPEG___FRAN_Poilus_t-0230_04.jpg" xml:id="FRAN_Poilus_t-0230_04"/>
+        </surface>
+        <surface type="codicil-page" n="05">
+            <graphic url="testament_AN_0230___JPEG___FRAN_Poilus_t-0230_05.jpg" xml:id="FRAN_Poilus_t-0230_05"/>
+        </surface>
+        <surface type="will-envelope-recto" n="06">
+            <graphic url="testament_AN_0230___JPEG___FRAN_Poilus_t-0230_06.jpg" xml:id="FRAN_Poilus_t-0230_06"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0230">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0230_01"/>
+                <dateline rend="left"><date type="willDate" when="1914-08-03">Ce 3 <choice>
+                            <sic>Aout</sic>
+                            <corr>août</corr>
+                        </choice> 1914</date></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <head rend="centered">Ceci est mon testament</head>
+                <metamark function="emphasis" rend="horizontal-line"/>
+                <p>Il a été écrit le deuxième jour de <lb/>la mobilisation et il m’a été <choice>
+                        <sic>im-<lb break="no"/>possible</sic>
+                        <corr>im<lb break="no"/>possible</corr>
+                    </choice> de trouver dans tous les <lb/>débits à cet usage la moindre <lb/>feuille de papier timbré<choice><sic> -</sic><corr>.</corr></choice> Je <lb/>pense que c’est une circonstance <lb/>suffisante pour que le
+                    cas échéant <lb/>le fisc ne frappe pas de l’amende <lb/>ordinaire ce papier non
+                    timbré <lb/>sur lequel j’écris les volontés <choice>
+                        <sic>sui-<lb break="no"/>vantes</sic>
+                        <corr>sui<lb break="no"/>vantes</corr></choice><choice><sic> -</sic><corr>.</corr></choice></p>
+                <p>Je laisse à mon <choice>
+                        <sic>frêre</sic>
+                        <corr>frère</corr>
+                    </choice> <persName>Jacques de <lb/>Loustal</persName> tout ce dont la loi me
+                    <lb/>permet de disposer<choice><sic> -</sic><corr>.</corr></choice><choice>
+                        <sic>A</sic>
+                        <corr>À</corr>
+                    </choice> son défaut <pb facs="#FRAN_Poilus_t-0230_02"/>tout ce que je possède
+                    reviendra <lb/>à <persName>Madame Marie Boutroux</persName><choice><sic/><corr>,</corr></choice> <lb/>ma <choice>
+                        <sic>Mère -</sic>
+                        <corr>mère.</corr>
+                    </choice></p>
+                <p>Je souhaite si mon frère me <lb/>survit que ma <choice>
+                        <sic>Mère</sic>
+                        <corr>mère</corr>
+                    </choice> abandonne <lb/>à mon frère la part dont elle <lb/>hérite forcément<choice><sic> -</sic><corr>.</corr></choice></p>
+                <p>Si mon frère meurt avant ma <lb/><choice>
+                        <sic>Mère</sic>
+                        <corr>mère</corr>
+                    </choice> et que je vienne à mourir <lb/>je désire que ma <choice>
+                        <sic>Mère</sic>
+                        <corr>mère</corr>
+                    </choice> fasse <lb/>immédiatement profiter (si elle <lb/>y consent) mon neveu
+                        <persName>Jean de <lb/>Loustal</persName> et ma nièce <persName>Valentine <lb/>de Loustal</persName>, dans les conditions où <lb/>elle le jugera bon,
+                    de ce qu’elle <lb/>a reçu de ma succession - j’exprime <lb/>ce désir afin
+                    qu’aucun autre ayant <lb/>droit ne touche une somme <pb facs="#FRAN_Poilus_t-0230_03"/>quelconque de mon <choice>
+                        <sic>heritage</sic>
+                        <corr>héritage.</corr>
+                    </choice></p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <dateline rend="centered">Fait à <placeName type="willPlace" ref="#pl-2">Paris</placeName> <date type="willDate" when="1914-08-03">le 3 <choice>
+                            <sic>Août</sic>
+                            <corr>août</corr>
+                        </choice> 1914</date><choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="centered"><persName ref="#pers-288">Pierre de
+                            <surname>Loustal</surname></persName></signed>
+            </div>
+            <div type="codicil">
+                <pb facs="#FRAN_Poilus_t-0230_04"/>
+                <head>Codicille à mon testament du <date type="willDate" when="1914-08-03">3 <choice>
+                            <sic>Aout</sic>
+                            <corr>août</corr>
+                        </choice> <lb/>1914</date><choice><sic> -</sic><corr>.</corr></choice></head>
+                <p>Je désire <choice>
+                        <sic>quelques</sic>
+                        <corr>quelles que</corr>
+                    </choice> soient les conditions <lb/>où je <choice>
+                        <sic>meure</sic>
+                        <corr>meurs</corr>
+                    </choice> être enterré le plus <lb/>simplement possible, sans aucune <lb/>lettre<del>s</del> d’invitation ou de <choice>
+                        <sic>faire part</sic>
+                        <corr>faire-part</corr>
+                    </choice> <lb/>et sans fleurs ni couronnes<choice><sic> -</sic><corr>.</corr></choice></p>
+                <p>Je laisse beaucoup de papiers <lb/>que mon départ à la guerre ne <lb/>me laisse
+                    pas le temps de ranger.</p>
+                <p>Je désire que mon frère <persName>Jacques <lb/>de Loustal</persName> recherche
+                    brièvement <lb/>avec ma <choice>
+                        <sic>Mère </sic>
+                        <corr>mère</corr>
+                    </choice> ceux qui peuvent <lb/><del>lui</del> être <hi rend="underlined">utiles</hi> soit à lui soit à <pb facs="#FRAN_Poilus_t-0230_05"/>ma <choice>
+                        <sic>Mère</sic>
+                        <corr>mère</corr>
+                    </choice> et que le reste soit <lb/><choice>
+                        <sic>completement</sic>
+                        <corr>complètement</corr>
+                    </choice> détruit.</p>
+                <p>Je désire que ma <choice>
+                        <sic>Mère</sic>
+                        <corr>mère</corr>
+                    </choice> dispose <lb/>de tous les bijoux et bibelots <lb/>qui seront en ma
+                    possession au <lb/>moment de mon décès<choice><sic> -</sic><corr>.</corr></choice></p>
+                <p>Je charge également ma <choice>
+                        <sic>Mère</sic>
+                        <corr>mère</corr>
+                    </choice> <lb/>de choisir parmi ces bijoux <lb/>et mes livres ceux qu’elle
+                    <lb/>croira devoir faire plaisir <lb/>à mes amis personnels pour <lb/>les leur
+                    remettre en souvenir <lb/>de moi.</p>
+                <dateline rend="centered">Fait à <placeName type="willPlace" ref="#pl-2">Paris</placeName> <date when="1914-08-03" type="codicilDate">le 3 <choice>
+                            <sic>Août</sic>
+                            <corr>août</corr>
+                        </choice> 1914<choice><sic/><corr>.</corr></choice></date></dateline>
+                <signed rend="centered"><persName ref="#pers-288">Pierre de
+                            <surname>Loustal</surname></persName></signed>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0230_06"/>
+                <p>Ceci est mon testament</p>
+                <metamark function="emphasis" rend="horizontal-line"/>
+            </div>
+        </body>
+    </text>
+</TEI>

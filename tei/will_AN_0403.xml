@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0403">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Joseph Barbaroux (14 mars 1915)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-542">Joseph Barbaroux (1895-1915)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                    <persName ref="#CNougaret">Christine Nougaret</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021-09">septembre 2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0403</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0403_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVIII/1232, minute du 14 mars 1916 (dépôt du testament de Joseph
+                            Barbaroux)</idno>
+                        <msName>Testament de Joseph Barbaroux (14 mars 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1915-03-14">14 mars 1915</date>.
+                                    <placeName type="willPlace" ref="#pl-807">Offemont</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-542"><forename>Joseph</forename> 
+                                    <surname>Barbaroux</surname></persName>, mort pour la France le
+                                    <date when="1915-10-01">1er octobre 1915</date> à <placeName ref="#pl-694">hôpital 39 d’Epernay
+                            (Marne)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>2 pages. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><!--agencyNumberRoman=LVIII--><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010185">étude notariale 58 (CRPCEN : 75081)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0403_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVIII/1232, minute du 14 mars 1916 (dépôt du testament de Joseph
+                            Barbaroux)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-03-14">14 mars 1915</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>14 mars 1915. Offemont.</p>
+                <p>Testament olographe de Joseph Barbaroux, mort pour la France le 1er octobre 1915
+                    à hôpital 39 d’Epernay (Marne).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2020-09-09/2020-11-29" who="#lelia #GBMireille #MFGarreau">transcription</change>
+            <change when-iso="2020-09-09/2020-09-19" who="#jmorvan #CNougaret #PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2021-07-30+02:00"> enrichissements et
+                contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0403___JPEG___FRAN_Poilus_t-0403_01.jpg" xml:id="FRAN_Poilus_t-0403_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0403___JPEG___FRAN_Poilus_t-0403_02.jpg" xml:id="FRAN_Poilus_t-0403_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0403">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0403_01"/>
+                <dateline rend="centered"><placeName type="willPlace" ref="#pl-807">Offemont</placeName> <date type="willDate" when="1915-03-14">le 14
+                                <choice><sic>Mars</sic><corr>mars</corr></choice>
+                            1915</date><choice><sic/><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <p>Je soussigné <persName ref="#pers-542">Joseph
+                        <surname>Barbaroux</surname></persName>,
+                            <choice><sic>Soldat</sic><corr>soldat</corr></choice> <lb/>au <orgName ref="#o-409"><choice><sic>171<hi rend="superscript-double-underlined">me</hi> Régiment d Infanterie</sic><corr>171<hi rend="superscript">e</hi> régiment
+                        d’infanterie</corr></choice></orgName>, <lb/>en garnison
+                            <choice><sic>a</sic><corr>à</corr></choice> <placeName type="otherPlace" ref="#pl-807">Offemont</placeName> ; voulant <lb/>mettre en ordre mes biens
+                    personnels <lb/>et ceux venant de mes parents, avant <lb/>de partir sur le
+                    front. Je donne ma <lb/>maison et le jardin, situés au village <lb/>de
+                        <placeName type="otherPlace">Couard commune de Langrolay
+                                <lb/>(<choice><sic>Cotes-du
+                            Nord</sic><corr>Côtes-du-Nord</corr></choice>)</placeName> <choice><sic>a</sic><corr>à</corr></choice> <persName>Madame
+                        <lb/>Mouton, née Désirée
+                        David</persName><choice><sic/><corr>,</corr></choice> demeu<lb break="no"/>rant à <placeName type="otherPlace" ref="#pl-2">Paris</placeName><choice><sic/><corr>,</corr></choice> 1<hi rend="superscript">er</hi> rue de Colmar ; en <lb/>remerciement des soins
+                    donnés à ma <lb/><choice><sic>Mère</sic><corr>mère</corr></choice>.</p>
+                <p>Mon titre de rente française<choice><sic/><corr>,</corr></choice> <lb/>45 francs,
+                    à ma filleule <persName>Blanche David</persName><choice><sic/><corr>,</corr></choice> <lb/>chez ses parents
+                            <subst><del>5</del><add>3</add></subst>7 rue Pouchet, ce <lb/>titre est
+                    entre les mains de mon <lb/>tuteur, son père <persName>François
+                    David</persName>.</p>
+                <p>Quant à mes affaires
+                    personnelles<choice><sic/><corr>,</corr></choice> <lb/>argent, linge, habits,
+                    bibelots<choice><sic/><corr>,</corr></choice> qui <lb/>sont chez mon tuteur, je les laisse <lb/>à mon tuteur
+                            (sus<choice><sic>-</sic><corr/></choice>nommé) et <lb/>à sa femme née
+                        <persName>Sophie Fallet</persName> <lb/>ainsi que les diverses choses, linge
+                    <lb/>et bibelots qui sont à <placeName type="otherPlace">Langrolay</placeName> <lb/>chez <persName>Madame <choice><abbr type="superscription">V<hi rend="superscript-double-underlined">ve</hi></abbr><expan>veuve</expan></choice> Rouault (née
+                        <lb/>Nathalie Ollivier<choice><sic>.</sic><corr/></choice>)<choice><sic/><corr>.</corr></choice></persName><pb facs="#FRAN_Poilus_t-0403_02"/>Quant
+                    à la somme de 150 francs <lb/>qui m’est due par Madame <persName>Koob <lb/>(née
+                        Marguerite Fallet)</persName><choice><sic/><corr>,</corr></choice> je la lui
+                            <lb/><choice><sic>donnes</sic><corr>donne</corr></choice> pour l’aider à
+                    élever ses enfants.</p>
+                <p>Quant aux 30 francs dus par <lb/>Madame <persName>Mire (née Eugénie
+                        David)</persName><choice><sic/><corr>,</corr></choice> <lb/>je les lui laisse
+                    en souvenir de sa <lb/>tante.</p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Le présent testament devra <lb/>être pour servir au cas où le <lb/>malheur
+                    voudrait que je ne revienne <lb/>pas de cette
+                            campagne<choice><sic/><corr>.</corr></choice></p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="centered">Signé <lb/><persName ref="#pers-542">Joseph
+                            <surname>Barbaroux</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

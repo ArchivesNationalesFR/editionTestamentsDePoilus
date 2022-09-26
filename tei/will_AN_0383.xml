@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0383">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Louis Marie Philippe Alexandre Berthier, Prince de
+                    Wagram (1er août 1914)] : édition électronique</title>
+                <author><persName ref="#pers-525">Louis Marie Philippe Alexandre Berthier, Prince de
+                        Wagram (1883-1918)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#CNougaret">Christine Nougaret</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021-09">septembre 2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0383</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0383_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LXXXVI/1790, minute du 6 janvier 1919 (dépôt du testament de
+                            Louis Marie Philippe Alexandre Berthier, Prince de Wagram)</idno>
+                        <msName>Testament de Louis Marie Philippe Alexandre Berthier, Prince de
+                            Wagram (1er août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-01">1er août 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-525"><forename>Louis</forename> 
+                                    <forename>Marie</forename> 
+                                    <forename>Philippe</forename> 
+                                    <forename>Alexandre</forename> 
+                                    <surname>Berthier de Wagram</surname></persName>, mort pour la
+                                        France le <date when="1918-05-30">30 mai 1918</date> à l’
+                                    <placeName ref="#pl-780">ambulance allemande de
+                                    Barenton-sur-Serre (Aisne)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré (testament). </support>
+                                <extent>4 pages. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><!--agencyNumberRoman=LXXXVI--><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010213">étude notariale 86 (CRPCEN : 75113)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0383_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LXXXVI/1790, minute du 6 janvier 1919 (dépôt du testament de
+                            Louis Marie Philippe Alexandre Berthier, Prince de Wagram)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-01">1er août 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>1er août 1914. Paris.</p>
+                <p>Testament olographe de Louis Marie Philippe Alexandre Berthier, Prince de Wagram,
+                    mort pour la France le 30 mai 1918 à l’ambulance allemande de Barenton-sur-Serre
+                    (Aisne).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2020-08-19/2020-11-29" who="#MFGarreau #GBMireille #lelia">transcription</change>
+            <change when-iso="2020-08-19/2020-10-15" who="#jmorvan #PCharbonnier #CNougaret">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2021-07-30+02:00"> enrichissements et
+                contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0383___JPEG___FRAN_Poilus_t-0383_01.jpg" xml:id="FRAN_Poilus_t-0383_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0383___JPEG___FRAN_Poilus_t-0383_02.jpg" xml:id="FRAN_Poilus_t-0383_02"/>
+        </surface>
+        <surface type="will-page" n="03">
+            <graphic url="testament_AN_0383___JPEG___FRAN_Poilus_t-0383_03.jpg" xml:id="FRAN_Poilus_t-0383_03"/>
+        </surface>
+        <surface type="will-page" n="04">
+            <graphic url="testament_AN_0383___JPEG___FRAN_Poilus_t-0383_04.jpg" xml:id="FRAN_Poilus_t-0383_04"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0383">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0383_01"/>
+                <head>Ceci est mon testament qui <lb/>révoque toute disposition antérieure.</head>
+                <p>J’institue pour mes légataires <lb/>universelles mes deux soeurs, <persName>la
+                        <lb/>Princesse de la Tour d’Auvergne</persName> et <lb/><persName>la
+                        Princesse Jacques de Broglie</persName>, à <lb/>charge par elles d’exécuter
+                    les legs <lb/>particuliers et de se conformer aux <lb/>conditions ci-après.</p>
+                <p>Je lègue à <persName><choice><abbr>M<hi rend="superscript-underlined">elle</hi></abbr><expan>Mademoiselle</expan></choice> Monique <lb/>Salivas</persName>, 8 avenue du Parc Monceau :</p>
+                <list>
+                    <item>1<hi rend="superscript-underlined">o</hi> la totalité de mes actions de <lb/>"<orgName>la Dépêche</orgName>", à charge par elle de
+                        <lb/>satisfaire aux stipulations intervenues <lb/>en ce qui concerne ces
+                        actions, entre <lb/><choice><abbr>MM.</abbr><expan>Messieurs</expan></choice> <persName>Huc</persName>, <persName>Sarraut</persName> et
+                        moi-même.</item>
+                    <item>2<hi rend="superscript-underlined">o</hi> la moitié de mon portefeuille - <lb/>titres
+                        grevés de substitution.</item>
+                    <item>3<hi rend="superscript-underlined">o</hi> la moitié de toutes mes actions <lb/>du
+                            <orgName>Nord-Africain</orgName>, quelles qu’en soit <lb/>la
+                        nature.</item>
+                </list>
+                <pb facs="#FRAN_Poilus_t-0383_02"/>
+                <p>Je lègue à <persName><choice><abbr>M<hi rend="superscript-underlined">me</hi></abbr><expan>Madame</expan></choice> Marie-Louise Wilson</persName>, mère de <persName><choice><abbr>M<hi rend="superscript-underlined">elle</hi></abbr><expan>Mademoiselle</expan></choice> <lb/>Monique Salivas</persName>, l’usufruit des 8/10 du legs que je
+                    viens <lb/>de faire à sa fille.</p>
+                <p>Le revenu des 2/10 de surplus <supplied reason="illegible" unit="words" quantity="1">sera</supplied> capitalisé <lb/>tous les ans par les soins de
+                    mes exécuteurs testamentaires. <lb/>Cette capitalisation aura lieu dans les
+                    valeurs suivantes :</p>
+                <list>
+                    <item>1<hi rend="superscript-underlined">o</hi> actions et obligations de
+                            <orgName>Chemin de fer</orgName></item>
+                    <item>2<hi rend="superscript">o</hi> <supplied unit="words" quantity="3">actions
+                            et obligations</supplied> du <orgName>Crédit Foncier de
+                        France</orgName></item>
+                    <item>3<hi rend="superscript-underlined">o</hi> fonds d’<choice><sic>Etat</sic><corr>État</corr></choice> garantis par la France, à l’exception de la <lb/><space dim="horizontal" unit="chars" quantity="18"/>rente française</item>
+                    <item>4<hi rend="superscript-underlined">o</hi> actions de <orgName>la Banque de
+                            France</orgName></item>
+                    <item>5<hi rend="superscript-underlined">o</hi> <supplied unit="words" quantity="1">actions</supplied> de <orgName>la <choice><abbr>C<hi rend="superscript-underlined">ie</hi> Gén. des
+                                    Eaux</abbr><expan>Compagnie Générale des Eaux</expan></choice></orgName></item>
+                    <item>6<hi rend="superscript-underlined">o</hi> <supplied unit="words" quantity="1">actions</supplied> de <orgName>la <choice><abbr>C<hi rend="superscript-underlined">ie</hi></abbr><expan>Compagnie</expan></choice> du Canal de Suez</orgName></item>
+                    <item>7<hi rend="superscript-underlined">o</hi> <supplied unit="words" quantity="1">actions</supplied> des <orgName>aciéries de
+                            Longwy</orgName></item>
+                    <item>8<hi rend="superscript-underlined">o</hi> <supplied unit="words" quantity="1">actions</supplied> <orgName><supplied unit="words" quantity="2">des aciéries</supplied> de
+                        Denain-Anzin</orgName></item>
+                    <item>9<hi rend="superscript-underlined">o</hi> <supplied unit="words" quantity="1">actions</supplied><orgName> <supplied unit="words" quantity="2">des aciéries</supplied> de Micheville</orgName></item>
+                    <item>10<hi rend="superscript-underlined">o</hi> <supplied unit="words" quantity="1">actions</supplied><orgName> <supplied unit="words" quantity="2">des aciéries</supplied> de la Marine et
+                            d’Homécourt</orgName></item>
+                </list>
+                <p>Les valeurs remboursées seront remployées de <lb/>même façon.</p>
+                <p>Cette capitalisation prendra<del>t</del><del><gap reason="cancelled" unit="chars" quantity="1"/></del> fin le jour <del>de
+                        la</del><lb/><del>majorité </del>où l’intéressée aurait atteint les vingt et
+                    un <lb/>ans ou le jour de son mariage. <choice><sic>A</sic><corr>À</corr></choice> partir de cette <lb/>majorité ou de ce mariage, <persName><choice><abbr>M<hi rend="superscript-underlined">elle</hi></abbr><expan>Mademoiselle</expan></choice> Salivas</persName> aura la libre <lb/>disposition <del>de la
+                        somme</del> tant du produit de cette <pb facs="#FRAN_Poilus_t-0383_03"/>capitalisation que de ces revenus. De même, elle touchera <lb/>directement le
+                    revenu des 2/10 qui servait à cette <choice><sic>capita-<lb/>lisation</sic><corr>capita<lb break="no"/>lisation</corr></choice>.</p>
+                <p>Les deux legs que je viens de faire sont nets de <lb/>tous frais et droits de
+                    succession quelconques ; ils doivent <lb/>être absolument <hi rend="underlined"><add place="inline">ir</add>réductibles</hi>. Seuls les legs suivants
+                    devant <lb/>supporter la réduction, s’il y avait lieu.</p>
+                <p>Je lègue à mon neveu, <persName>Godefroy de la Tour <lb/>d’Auvergne</persName>,
+                    la <choice><sic>nu propriété</sic><corr>nue-propriété</corr></choice> du parc et du château de <lb/>Grosbois, avec tout ce qu’il contient d’objets mobiliers, ainsi <lb/>que mes
+                    collections de table<subst><del>u</del><add>a</add></subst>ux et de dentelles. La <lb/>collection de tableaux ne comprend que les
+                    toiles accrochées <lb/>aux murs de mon appartement à <placeName type="otherPlace" ref="#pl-2">Paris</placeName>, à l’exception <lb/>des
+                    toiles de <persName>Claude Monet</persName>, de Sisley et de Degas. Seul <lb/>le Sisley : <choice><sic/><corr>« </corr></choice>
+                        bords de la Seine effet d’automne<choice><sic/><corr> »</corr></choice> devrait y <lb/>figurer. Devraient encore y être compris un petit carton
+                    <lb/>peint de Puvis de Chavannes, un <choice><sic>Carrieri</sic><corr>Carrière</corr></choice> « portrait de <lb/>Jean Dolent » et un Perronneau « portrait d’homme en <lb/>habit rose<choice><sic/><corr> ».</corr></choice></p>
+                <p>L’usufruit de ce legs à ma soeur, <persName>la <lb/>Princesse de la Tour
+                        d’Auvergne</persName>.</p>
+                <p>Quant au surplus de ma fortune <del>je le</del> <lb/><add place="marginLeft">j’en</add> lègue la <add place="above"><choice><sic>nu propriété</sic><corr>nue-propriété</corr></choice></add> à mes neveux et nièces dans la proprotion suivante :</p>
+                <list>
+                    <item>1/3 à mon neveu <persName>Godefroy de la Tour d’Auvergne</persName></item>
+                    <item>1/6 à chacun des autres</item>
+                    <pb facs="#FRAN_Poilus_t-0383_04"/>
+                    <item>l’usufruit revenant à la mère de chacun d’eux.</item>
+                </list>
+                <p>Dans ce legs ne sont pas compris les objets <lb/>mobiliers et les bibelots que je
+                    possède à <placeName ref="#pl-2">Paris</placeName>, <choice>
+                        <sic>nomplus</sic>
+                        <corr>non plus</corr>
+                    </choice> <lb/>que les tableaux indiqués plus haut comme ne faisant <lb/>pas
+                    partie de ma collection, ainsi que les tableaux <lb/>m’appartenant et se
+                    trouvant actuellement chez <lb/><choice><abbr>MM.</abbr><expan>Messieurs</expan></choice> <persName>Levesque</persName><choice><sic/><corr>,</corr></choice> 109 Faubourg Saint-Honoré<choice><sic/><corr>,</corr></choice> et
+                    <lb/><persName>Hessel</persName><choice><sic/><corr>,</corr></choice> rue la Boëtie.</p>
+                <p>Mes légataires universelles se les partageront <lb/>par moitié, à charge par
+                    elles de remettre à <persName><choice><abbr>M<hi rend="superscript-underlined">me</hi></abbr><expan>Madame</expan></choice> <lb/>Wilson</persName> le mobilier en bois naturel non recouvert,
+                    <lb/>ainsi que le canapé et les quatre fauteuils en <lb/>tapisserie Louis
+                    XVI.</p>
+                <p>Je nomme pour mes exécuteurs <choice><sic>testa-<lb/>mentaires</sic><corr>testa<lb break="no"/>mentaires</corr></choice> avec saisine <choice><abbr>MM.</abbr><expan>Messieurs</expan></choice> <persName>Maurice Sarraut</persName> <lb/>et <persName><add place="below">Georges</add> Thion de la Chaume</persName>.</p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <dateline rend="centered"><choice><sic>Ecrit</sic><corr>Écrit</corr></choice> entièrement de ma main <lb/>à <placeName type="willPlace" ref="#pl-2">Paris</placeName>, <date type="willDate" when="1914-08-01">le 1<hi rend="superscript-underlined">er</hi><choice><sic>Août</sic><corr>août</corr></choice> 1914</date><choice><sic/><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="centered"><persName ref="#pers-525"><surname>Wagram</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

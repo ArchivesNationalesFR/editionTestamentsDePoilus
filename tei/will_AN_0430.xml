@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0430">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la
+               Grande Guerre</title>
+            <title type="main">[Testament de Lucien Charles Jules Coiret (20 octobre 1914)] :
+               édition électronique</title>
+            <author><persName ref="#pers-569">Lucien Charles Jules Coiret
+               (1882-1916)</persName></author>
+            <editor ref="#CNougaret">Christine Nougaret</editor>
+            <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+            <editor ref="#FClavaud">Florence Clavaud</editor>
+            <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>Première édition électronique, fondée sur un travail de transcription
+               collaborative</edition>
+            <respStmt>
+               <resp>Numérisation</resp>
+               <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                  scientifique. Département de la Conservation. Atelier photographique</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription</resp>
+               <persName ref="#MFGarreau">MFGarreau</persName>
+               <persName ref="#lelia">Lélia Picabia</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Validation</resp>
+               <persName ref="#jmorvan">Josselin Morvan</persName>
+               <persName ref="#CNougaret">Christine Nougaret</persName>
+               <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+               <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+               <persName ref="#FClavaud">Florence Clavaud</persName>
+               <persName ref="#jmorvan">Josselin Morvan</persName>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+            <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+            <publisher><orgName ref="#AD78">Archives départementales des
+               Yvelines</orgName></publisher>
+            <publisher><orgName>École nationale des chartes</orgName></publisher>
+            <publisher><orgName ref="#AD95">Archives départementales du
+               Val-d’Oise</orgName></publisher>
+            <date when="2021-09">septembre 2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                  4.0</licence>
+            </availability>
+            <idno>TestamentsDePoilus_will_AN_0430</idno>
+            <!--ultérieurement ajouter idno fourni par Nakala-->
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="will_AN_0430_tes">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives nationales</institution>
+                  <collection>Minutier central des notaires de Paris</collection>
+                  <idno>MC/ET/XXXII/1279, minute du 31 mars 1917 (dépôt du testament de Lucien
+                     Charles Jules Coiret)</idno>
+                  <msName>Testament de Lucien Charles Jules Coiret (20 octobre 1914)</msName>
+               </msIdentifier>
+               <msContents>
+                  <summary><p><date type="willDate" when="1914-10-20">20 octobre 1914</date>.
+                           <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-569"><forename>Lucien</forename> 
+                           <forename>Charles</forename> 
+                           <forename>Jules</forename> 
+                           <surname>Coiret</surname></persName>, mort pour la France le <date when="1916-04-16">16 avril 1916</date> dans l’<placeName ref="#pl-828">ambulance 233 à Chaumont sur Aire (Meuse)</placeName>.</p></summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>Papier à lettre (testament). Enveloppe bleutée (enveloppe). </support>
+                        <extent>2 pages et 1 enveloppe. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                              <height>21,8</height>
+                              <width>20,8</width>
+                           </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                              <height>9,8</height>
+                              <width>16,9</width>
+                           </dimensions>.</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <p>Testament : encre. Enveloppe : encre.</p>
+                  </handDesc>
+               </physDesc>
+               <history>
+                  <provenance><!--agencyNumberRoman=XXXII--><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010159">étude notariale 032 (CRPCEN : 75103)</orgName></provenance>
+               </history>
+            </msDesc>
+            <msDesc xml:id="will_AN_0430_min">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives nationales</institution>
+                  <collection>Minutier central des notaires de Paris</collection>
+                  <idno>MC/ET/XXXII/1279, minute du 31 mars 1917 (dépôt du testament de Lucien
+                     Charles Jules Coiret)</idno>
+                  <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                     minute</msName>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation><date type="willDate" when="1914-10-20">20 octobre 1914</date></creation>
+         <langUsage>
+            <language ident="fr">français</language>
+         </langUsage>
+         <abstract>
+            <p>20 octobre 1914. Paris.</p>
+            <p>Testament olographe de Lucien Charles Jules Coiret, mort pour la France le 16 avril
+               1916 à l’ambulance 233 à Chaumont sur Aire (Meuse).</p>
+         </abstract>
+         <textClass>
+            <keywords>
+               <term type="subject">Grande Guerre</term>
+               <term type="subject">Poilu</term>
+               <term type="subject">testament</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when-iso="2020-11-03/2021-03-10" who="#MFGarreau #lelia">transcription</change>
+         <change when-iso="2020-11-03/2021-02-08" who="#jmorvan #CNougaret #PCharbonnier">validation</change>
+         <change who="#FClavaud #PCharbonnier" when-iso="2021-07-30+02:00"> enrichissements et
+            contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+      <surface type="will-page" n="00">
+         <graphic url="testament_AN_0430___JPEG___FRAN_Poilus_t-0430_01_ab.jpg" xml:id="FRAN_Poilus_t-0430_01_ab"/>
+      </surface>
+      <surface type="will-page" n="02">
+         <graphic url="testament_AN_0430___JPEG___FRAN_Poilus_t-0430_02.jpg" xml:id="FRAN_Poilus_t-0430_02"/>
+      </surface>
+      <surface type="will-envelope-verso" n="03">
+         <graphic url="testament_AN_0430___JPEG___FRAN_Poilus_t-0430_03.jpg" xml:id="FRAN_Poilus_t-0430_03"/>
+      </surface>
+      <surface type="will-envelope-verso" n="04">
+         <graphic url="testament_AN_0430___JPEG___FRAN_Poilus_t-0430_04.jpg" xml:id="FRAN_Poilus_t-0430_04"/>
+      </surface>
+   </facsimile>
+   <text xml:id="will_AN_0430">
+      <body>
+         <div type="will">
+            <pb facs="#FRAN_Poilus_t-0430_01_ab"/>
+            <dateline rend="right"><placeName type="willPlace" ref="#pl-2">Paris</placeName><choice><sic/><corr>,</corr></choice> <date type="willDate" when="1914-10-20">le
+                     <choice><sic>Vingt</sic><corr>vingt</corr></choice> octobre mil neuf cent
+                  quatorze</date></dateline>
+            <p>Ce jour, vingt octobre<choice><sic><surplus>,</surplus></sic><corr/></choice> mil
+               neuf cent quatorze, étant en pleine
+                     <lb/><choice><sic>posession</sic><corr>possession</corr></choice> de toutes mes
+               idées, et absolument <choice><sic>Sain</sic><corr>sain</corr></choice> d’esprit, je
+               <lb/>dicte mes dernières et <choice><sic>suprémes</sic><corr>suprêmes</corr></choice>
+               volontés :</p>
+            <p><choice><sic>A</sic><corr>À</corr></choice> <persName><choice><sic>mademoiselle,</sic><corr>Mademoiselle</corr></choice>
+                  Julia Liéval</persName>, originaire de <placeName>Baignes</placeName><choice><sic>,</sic><corr/></choice>
+               <lb/>(Haute-Saône)<choice><sic/><corr>,</corr></choice> mon amie, cohabitant avec moi depuis <lb/>de nombreuses années - à
+               qui j’ai donné ma plus tendre affection <lb/>et ma plus
+                     <choice><sic>sincere</sic><corr>sincère</corr></choice> amitié - et que je n’ai
+               pu faire ma <lb/>femme devant la loi, à cause des dissentiments profonds <lb/>que je
+               craignais entre ma <choice><sic>Mère</sic><corr>mère</corr></choice> et
+                     moi<choice><sic/><corr> :</corr></choice></p>
+            <list>
+               <item>1<hi rend="superscript-double-underlined">°</hi> Je lui
+                           donne<choice><sic><surplus>,</surplus></sic><corr/></choice> tout ce que
+                  je possède<choice><sic><surplus>,</surplus></sic><corr/></choice> et tout ce
+                  <lb/>que la loi m’autorise de lui donner<choice><sic/><corr>,</corr></choice> à
+                        <choice><sic>Savoir</sic><corr>savoir</corr></choice> : <lb/>mon
+                        mobilier<choice><sic> -</sic><corr>,</corr></choice> linge
+                        personnel<choice><sic> -</sic><corr>,</corr></choice> effets
+                        personnels<choice><sic> -</sic><corr>,</corr></choice> <lb/>ainsi que tous
+                  les souvenirs et cadeaux qui auraient pu <lb/>m’être faits personnellement soit
+                  par des amis, soit par mes parents <choice><sic>eux
+                        mêmes -</sic><corr>eux-mêmes ;</corr></choice></item>
+               <item>2<hi rend="superscript-double-underlined">°</hi> Tous les titres que je
+                  possède, et qui me viennent <lb/>en
+                        <choice><sic>heritage</sic><corr>héritage</corr></choice> de
+                     <persName>Monsieur Charles Coiret</persName>, ayant demeuré <lb/>117 chemin
+                  d’Hacquet à <placeName type="otherPlace">Abbeville (Somme)</placeName><choice><sic/><corr>,</corr></choice> titres qui <lb/>sont en
+                        <choice><sic>dépot</sic><corr>dépôt</corr></choice> chez ma
+                        <choice><sic>Mére</sic><corr>mère</corr></choice> provisoirement, et dont
+                  <lb/>voici les numéros et
+                     <choice><sic>designations</sic><corr>désignations</corr></choice>,
+                        <choice><sic>ci
+                           dessous</sic><corr>ci-dessous</corr></choice> <choice><sic>sus-<lb/>nommés</sic><corr>sus<lb break="no"/>nommés</corr></choice> :</item>
+               <pb facs="#FRAN_Poilus_t-0430_02"/>
+               <item>3<hi rend="superscript-double-underlined">°</hi> La
+                        <choice><sic>Somme</sic><corr>somme</corr></choice> de neuf mille francs,
+                  qui a <choice><sic>ete</sic><corr>été</corr></choice> versée en <lb/>mon nom dans
+                  la maison de commerce<choice><sic><surplus>,</surplus></sic><corr/></choice> de
+                     <persName>Monsieur <lb/>Regneau</persName>, 77 faubourg <choice><sic>Saint
+                        Martin</sic><corr>Saint-Martin</corr></choice> à
+                     <placeName>Paris</placeName><choice><sic/><corr>,</corr></choice> comme appoint
+                  <lb/>dans une combinaison d’association future ;
+                        <choice><sic>Somme</sic><corr>somme</corr></choice> <lb/>qui devra
+                        <choice><sic>etre</sic><corr>être</corr></choice> versée à mon
+                        <choice><sic>Amie</sic><corr>amie</corr></choice>, en espèces
+                        <choice><sic>inte-<lb/>gralement</sic><corr>inté<lb break="no"/>gralement</corr></choice> et dans le
+                        <choice><sic>delai</sic><corr>délai</corr></choice> le plus
+                  court<choice><sic><surplus>,</surplus></sic><corr/></choice> <choice><sic>precrit</sic><corr>prescrit</corr></choice>
+                  par <lb/>la loi<choice><sic> -</sic><corr> ;</corr></choice></item>
+               <item>4° Le <choice><sic>complement</sic><corr>complément</corr></choice> de cette
+                  somme <choice><sic>equivalente</sic><corr>équivalente</corr></choice> à la
+                  totalité <lb/>de la dot qui a <choice><sic>eté</sic><corr>été</corr></choice>
+                           versée<choice><sic><surplus>,</surplus></sic><corr/></choice> à
+                     <persName>Madame Helene Coiret</persName>, ma
+                        <lb/><choice><sic>Sœur</sic><corr>sœur</corr></choice>, lors de son
+                        mariage<choice><sic/><corr> ;</corr></choice></item>
+               <item>5<hi rend="superscript-underlined">°</hi> la
+                        <choice><sic>Somme</sic><corr>somme</corr></choice> qui me sera due à ma
+                  mort, des <lb/>appointements mensuels que je touchais chez <persName>Monsieur
+                     <lb/>Regneau</persName>, comme employé -
+                        <choice><sic>interessé</sic><corr>intéressé</corr></choice> - qui devra
+                        <lb/><choice><sic>etre</sic><corr>être</corr></choice> versée de suite en
+                  espèces à mon <choice><sic>Amie</sic><corr>amie</corr></choice> - ainsi <lb/>que
+                  les <choice><sic>interets</sic><corr>intérêts</corr></choice> des 9000 francs
+                        <choice><sic>interets</sic><corr>intérêts</corr></choice> de 5% <lb/>(je dis
+                  bien cinq pour <choice><sic>cents</sic><corr>cent</corr></choice> sur neuf mille
+                  francs) <lb/>et qui m’étaient payés
+                     trimestriellement<choice><sic/><corr> ;</corr></choice></item>
+               <item>6<hi rend="superscript-underlined">°</hi> Tous les objets personnels qui
+                  restent en <choice><sic>depot</sic><corr>dépôt</corr></choice> <lb/>chez mes
+                        <choice><sic>Parents</sic><corr>parents</corr></choice>, 11 place
+                        <choice><sic>Sainte Catherine</sic><corr>Sainte-Catherine</corr></choice> à
+                     <lb/><placeName>Abbeville (Somme)</placeName><choice><sic/><corr> ;</corr></choice></item>
+               <item>7<hi rend="superscript-underlined">°</hi> En un mot tout ce que la loi
+                  m’autorise <lb/>de donner à mon
+                  amie<choice><sic> -</sic><corr>.</corr></choice></item>
+            </list>
+            <dateline><add place="marginLeft">Fait à <placeName type="willPlace" ref="#pl-2">Paris</placeName> ce jour en simple exemplaire, sur feuille
+                        <lb/>de papier libre<choice><sic/><corr>.</corr></choice></add></dateline>
+            <signed><add place="marginLeft"><persName ref="#pers-569">Lucien
+                        <surname>Coiret</surname></persName></add></signed>
+         </div>
+         <div type="envelope">
+            <pb facs="#FRAN_Poilus_t-0430_03"/>
+            <metamark function="separating" rend="horizontal-line"/>
+            <p rend="centered"><choice><sic>pour etre Remis</sic><corr>Pour être
+                  remis</corr></choice> à <persName>Madame <lb/>Coiret</persName> <lb/>en cas de
+                     mort<choice><sic/><corr>.</corr></choice></p>
+            <metamark function="separating" rend="horizontal-line"/>
+            <pb facs="#FRAN_Poilus_t-0430_04"/>
+            <p rend="centered"><date type="willDate" when="1914-10-20">20 octobre
+                        <lb/>1914</date></p>
+            <metamark function="emphasis" rend="horizontal-line"/>
+         </div>
+      </body>
+   </text>
+</TEI>

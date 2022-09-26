@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0076">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Paul Jacquemin (2 août 1914)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-133">Paul Jacquemin (1885-1914)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#Lagrange">Lagrange</persName>
+                    <persName ref="#solene">solene</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021-09">septembre 2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0076</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0076_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1636, minute du 5 août 1919 (dépôt du testament de Paul
+                            Jacquemin)</idno>
+                        <msName>Testament de Paul Jacquemin (2 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-02">2 août 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-175">Ivry-sur-Seine</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-133"><forename>Paul</forename> 
+                                    <surname>Jacquemin</surname></persName>, mort pour la France le
+                                    <date when="1914-09-06">6 septembre 1914</date> à <placeName ref="#pl-231">Barcy, région de Saint-Soupplets
+                                    (Seine-et-Marne)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><!--agencyNumberRoman=CXX--><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010247">étude notariale 120 (CRPCEN : 75100)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0076_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/CXX/1636, minute du 5 août 1919 (dépôt du testament de Paul
+                            Jacquemin)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-02">2 août 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>2 août 1914. Ivry-sur-Seine.</p>
+                <p>Testament olographe de Paul Jacquemin, mort pour la France le 6 septembre 1914 à
+                    Barcy, région de Saint-Soupplets (Seine-et-Marne).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-01-24/2020-12-16" who="#MFGarreau #SL. #lelia #Lagrange #solene">transcription</change>
+            <change when-iso="2018-01-24/2018-10-23" who="#jmorvan #PCharbonnier #KPineau">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2021-07-30+02:00"> enrichissements et
+                contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0076___JPEG___FRAN_Poilus_t-0076_01.jpg" xml:id="FRAN_Poilus_t-0076_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0076">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0076_01"/>
+                <p>Je soussigné <persName ref="#pers-133">Paul
+                        <surname>Jacquemin</surname></persName> <lb/>domicilié 2 <choice>
+                        <sic>Sentier</sic>
+                        <corr>sentier</corr>
+                    </choice> des Bossettes <lb/>à <placeName type="willAuthorResidence" ref="#pl-175">Ivry</placeName>. Partant à la campagne <lb/>d’<choice><sic>allemagne. Je</sic><corr>Allemagne, je</corr></choice> lègue à ma cousine <lb/><persName>Madame Lerr, née Henriette Jacquemin</persName><choice><sic/><corr>,</corr></choice> <lb/><placeName type="otherPlace" ref="#pl-2">31 <choice><sic>Rue</sic><corr>rue</corr></choice> de Bercy à Paris 12<hi rend="superscript-double-underlined">ème</hi></placeName>, la <lb/>totalité de ce que je possède, et
+                    <lb/>dont suit l’énumération :</p>
+                <list>
+                    <item><add place="marginLeft">1<hi rend="superscript-double-underlined">e</hi></add> <choice><sic>la</sic><corr>La</corr></choice> maison <lb/>située 2 <choice>
+                            <sic>Sentier</sic>
+                            <corr>sentier</corr>
+                        </choice> des Bossettes à <placeName type="willAuthorResidence" ref="#pl-175">Ivry</placeName><choice><sic> ;</sic><corr>,</corr></choice> <lb/>mise par moi à la disposition de la <lb/><orgName>Croix-Rouge
+                            française</orgName>.</item>
+                    <item><add place="marginLeft">2<hi rend="superscript-double-underlined">e</hi></add> Le droit au <choice>
+                            <sic>Bail</sic>
+                            <corr>bail.</corr>
+                        </choice></item>
+                    <item><add place="marginLeft">3<hi rend="superscript-underlined">e</hi></add> Le
+                        mobilier que j’ai <choice>
+                            <sic>transporter</sic>
+                            <corr>transporté</corr>
+                        </choice> chez <lb/>elle et dont elle <choice><sic>à</sic><corr>a</corr></choice> la garde<choice><sic/><corr>.</corr></choice></item>
+                    <item><add place="marginLeft">4<hi rend="superscript-double-underlined">e</hi></add> Mon terrain payable par tempérament <lb/>à la
+                            <orgName>Prévoyante de <choice>
+                                <sic>Villeneuve le Roi</sic>
+                                <corr>Villeneuve-le-Roi</corr>
+                            </choice></orgName> dont <lb/>le siège est à <placeName type="otherPlace" ref="#pl-175">Ivry</placeName><choice><sic/><corr>,</corr></choice> 2, <choice>
+                            <sic>Sentier</sic>
+                            <corr>sentier</corr>
+                            </choice> des Bossettes<choice><sic/><corr>.</corr></choice></item>
+                </list>
+                <space quantity="1" unit="lines" dim="vertical"/>
+                <p>Fait sain de corps et
+                    d’esprit <lb/>et donnant par là mes dernières <choice>
+                        <sic>volontées</sic>
+                        <corr>volontés</corr>
+                    </choice> <lb/>auxquelles je ne veux aucune objection de <lb/>mes frères et sœurs, que je <choice><sic>deshérite</sic><corr>déshérite</corr></choice>.</p>
+                <dateline rend="right"><placeName type="willPlace" ref="#pl-175">Ivry</placeName> <choice><sic>Le</sic><corr>le</corr></choice> <date type="willDate" when="1914-08-02">2 <choice>
+                            <sic>Août</sic>
+                            <corr>août</corr>
+                </choice> 1914</date><choice><sic/><corr>.</corr></choice></dateline>
+                <space quantity="1" unit="lines" dim="vertical"/>
+                <signed rend="right"><persName ref="#pers-133">P.
+                        <surname>Jacquemin</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

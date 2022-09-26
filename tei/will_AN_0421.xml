@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0421">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Eugène Carbonnet (25 janvier 1915)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-560">Eugène Carbonnet (1887-1915)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021-09">septembre 2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0421</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0421_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXXII/1264, minute du 1er juin 1915 (dépôt du testament de
+                            Eugène Carbonnet)</idno>
+                        <msName>Testament de Eugène Carbonnet (25 janvier 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1915-01-25">25 janvier 1915</date>.
+                                    <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-560"><forename>Eugène</forename> 
+                                    <surname>Carbonnet</surname></persName>, mort pour la France le
+                                    <date when="1915-02-21">21 février 1915</date> <placeName ref="#pl-151">aux Eparges (Meuse)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><!--agencyNumberRoman=XXXII--><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010159">étude notariale 032 (CRPCEN : 75103)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0421_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXXII/1264, minute du 1er juin 1915 (dépôt du testament de
+                            Eugène Carbonnet)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-01-25">25 janvier 1915</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>25 janvier 1915. Paris.</p>
+                <p>Testament olographe de Eugène Carbonnet, mort pour la France le 21 février 1915
+                    aux Eparges (Meuse).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2020-11-03/2021-02-08" who="#MFGarreau #lelia">transcription</change>
+            <change when="2020-11-05" who="#jmorvan #PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2021-07-30+02:00"> enrichissements et
+                contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0421___JPEG___FRAN_Poilus_t-0421_01.jpg" xml:id="FRAN_Poilus_t-0421_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0421">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0421_01"/>
+                <p>Je lègue <choice><sic>a</sic><corr>à</corr></choice> <persName>Madame <lb/>Marie
+                        Louise Desvergées</persName>, mon <lb/>épouse demeurant avec moi, <lb/>tous
+                    les biens et meubles <lb/>qui composeront ma
+                            <choice><sic>Succession</sic><corr>succession</corr></choice>,
+                            <lb/><choice><sic>Sans</sic><corr>sans</corr></choice>
+                            exception<choice><sic/><corr>,</corr></choice> pour en jouir <lb/>et
+                    disposer en pleine propriété <lb/>à compter du
+                            <choice><sic>Jour</sic><corr>jour</corr></choice> de mon <lb/>décès.
+                            <choice><sic>A</sic><corr>À</corr></choice> cet effet, je l’institue
+                    <lb/>ma légataire universelle.</p>
+                <p><choice><sic>A</sic><corr>À</corr></choice> la mort de mon <lb/>épouse, tous les
+                    biens faisant <lb/>partie de mon testament <lb/>doivent revenir à ma
+                    famille.</p>
+                <dateline><placeName type="willPlace" ref="#pl-2">Paris</placeName>, <date type="willDate" when="1915-01-25">ce <choice><sic>vingt
+                            cinq</sic><corr>vingt-cinq</corr></choice> <choice><sic>Janvier</sic><corr>janvier</corr></choice> <lb/>mil
+                        neuf cent quinze</date><choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="centered"><persName ref="#pers-560">E.
+                        <surname>Carbonnet</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

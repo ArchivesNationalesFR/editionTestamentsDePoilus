@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0412">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Auguste Parlant (14 août 1914)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-551">Auguste Parlant (1868-1917)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021-09">septembre 2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0412</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0412_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVIII/1241, minute du 31 juillet 1917 (dépôt du testament de
+                            Auguste Parlant)</idno>
+                        <msName>Testament de Auguste Parlant (14 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-14">14 août 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-551"><forename>Auguste</forename> 
+                                    <surname>Parlant</surname></persName>, mort pour la France le
+                                    <date when="1917-05-24T00:00:00.000Z">24 mai 1917</date> à
+                                    <placeName ref="#pl-782">hôpital militaire Bégin, 69 avenue de
+                                    Paris, Saint-Mandé</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). Enveloppe à en-tête
+                                    commercial (enveloppe). </support>
+                                <extent>1 page et 1 enveloppe. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                                        <height>11,2</height>
+                                        <width>14,5</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Enveloppe : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><!--agencyNumberRoman=LVIII--><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010185">étude notariale 58 (CRPCEN : 75081)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0412_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVIII/1241, minute du 31 juillet 1917 (dépôt du testament de
+                            Auguste Parlant)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-14">14 août 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>14 août 1914. Paris.</p>
+                <p>Testament olographe de Auguste Parlant, mort pour la France le 24 mai 1917 à
+                    hôpital militaire Bégin, 69 avenue de Paris, Saint-Mandé.</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2020-09-09/2020-11-29" who="#MFGarreau #SL. #GBMireille #lelia">transcription</change>
+            <change when-iso="2020-09-09/2020-10-15" who="#jmorvan #PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2021-07-30+02:00"> enrichissements et
+                contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0412___JPEG___FRAN_Poilus_t-0412_01.jpg" xml:id="FRAN_Poilus_t-0412_01"/>
+        </surface>
+        <!--<surface type="unknown" n="02">-->
+        <surface type="will-envelope-recto" n="02">
+            <graphic url="testament_AN_0412___JPEG___FRAN_Poilus_t-0412_02.jpg" xml:id="FRAN_Poilus_t-0412_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0412">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0412_01"/>
+                <dateline><placeName type="willPlace" ref="#pl-2">Paris</placeName> <date type="willDate" when="1914-08-14">le 14
+                                <choice><sic>Aout</sic><corr>août</corr></choice>
+                    1914</date></dateline>
+                <space dim="vertical" unit="lines" quantity="3"/>
+                <p>Ce jour <date type="willDate" when="1914-08-14">quatorze
+                                <choice><sic>Aout</sic><corr>août</corr></choice> <lb/>mil
+                                <choice><sic>huit</sic><corr>neuf</corr></choice> cent
+                        quatorze</date> <lb/>en pleine
+                            <choice><sic>possesion</sic><corr>possession</corr></choice> <lb/>de mes
+                    facultés, je fais <lb/>mon testament.</p>
+                <p>Je donne <choice><sic>a</sic><corr>à</corr></choice> ma femme
+                        <lb/><persName>Cécile Parlant née <lb/>Raynal</persName> tout ce que <lb/>je
+                    possède en la priant</p>
+                <list>
+                    <item>1<hi rend="superscript-underlined">o</hi> de remettre
+                                <choice><sic>a</sic><corr>à</corr></choice> mon
+                        <choice><sic>Frère</sic><corr>frère</corr></choice> <lb/>mes bijoux
+                        (exception faite <lb/>pour ma chevalière et mon alliance <lb/>que je désire
+                                conserver)<choice><sic>-</sic><corr>,</corr></choice> fusils et
+                                <lb/><choice><sic>vetements.</sic><corr>vêtements ;</corr></choice></item>
+                    <item>2<hi rend="superscript-underlined">o</hi> <choice><sic>De</sic><corr>de</corr></choice> faire
+                        transporter mon <lb/>corps
+                            <choice><sic>a</sic><corr>à</corr></choice> <placeName>Périgueux</placeName>,
+                        faire dire <lb/>une messe <choice><sic>a</sic><corr>à</corr></choice>
+                                l’<choice><sic>eglise</sic><corr>église</corr></choice> de la
+                        <lb/>cité et le faire ensevelir <lb/>dans le caveau de la famille <lb/>au
+                                <choice><sic>Cimetière</sic><corr>cimetière</corr></choice> du
+                        nord.</item>
+                </list>
+                <dateline>Fait <choice><sic>a</sic><corr>à</corr></choice> <placeName type="willPlace" ref="#pl-2">Paris</placeName> <date type="willDate" when="1914-08-14">le 14 <choice><sic>Aout</sic><corr>août</corr></choice>
+                        1914</date><choice><sic/><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="centered"><persName ref="#pers-551">A<surname>Parlant</surname></persName></signed>
+                <!-- FC-->
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0412_02"/>
+                <head>Testament<choice><sic/><corr>.</corr></choice></head>
+                <p>Ouvrir après ma mort<choice><sic/><corr>.</corr></choice></p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="centered"><persName ref="#pers-551">A
+                        <surname>Parlant</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

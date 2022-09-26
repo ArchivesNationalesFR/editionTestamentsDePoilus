@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0441">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Jean Eugène Deslandes (2 août 1914)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-580">Jean Eugène Deslandes
+                    (1886-1914)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#SL.">EG</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021-09">septembre 2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0441</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0441_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXXII/1336, minute du 1er octobre 1920 (dépôt du testament de
+                            Jean Eugène Deslandes)</idno>
+                        <msName>Testament de Jean Eugène Deslandes (2 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-02">2 août 1914</date>.
+                                    <placeName type="willPlace" ref="#pl-1">Saint-Denis</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-580"><forename>Jean</forename> 
+                                    <forename>Eugène</forename> 
+                                    <surname>Deslandes</surname></persName>, mort pour la France le
+                                    <date when="1914-08-28">28 août 1914</date> à <placeName ref="#pl-840">Sailly Saillisel
+                            (Somme)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier quadrillé (testament). </support>
+                                <extent>3 pages. Dimensions du testament : <dimensions
+                                        type="willPage" unit="cm">
+                                        <height>17,8</height>
+                                        <width>11,3</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><!--agencyNumberRoman=XXXII--><orgName
+                                ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010159"
+                                >étude notariale 32 (CRPCEN : 75103)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0441_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XXXII/1336, minute du 1er octobre 1920 (dépôt du testament de
+                            Jean Eugène Deslandes)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-02">2 août 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>2 août 1914. Saint-Denis.</p>
+                <p>Testament olographe de Jean Eugène Deslandes, mort pour la France le 28 août 1914
+                    à Sailly Saillisel (Somme).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2020-11-03/2020-12-04" who="#MFGarreau #lelia #SL."
+                >transcription</change>
+            <change when-iso="2020-11-03/2020-11-27" who="#jmorvan #PCharbonnier"
+                >validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2021-07-30+02:00"> enrichissements et
+                contrôle de qualité finaux</change>
+            <change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant
+                publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans
+                l'élément summary et correction de la valeur des attributs resp. Par ailleurs,
+                correction dans postscript, pour rétablir la conformité aux Guidelines.</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0441___JPEG___FRAN_Poilus_t-0441_01.jpg"
+                xml:id="FRAN_Poilus_t-0441_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0441___JPEG___FRAN_Poilus_t-0441_02.jpg"
+                xml:id="FRAN_Poilus_t-0441_02"/>
+        </surface>
+        <surface type="will-page" n="03">
+            <graphic url="testament_AN_0441___JPEG___FRAN_Poilus_t-0441_03.jpg"
+                xml:id="FRAN_Poilus_t-0441_03"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0441">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0441_01"/>
+                <head><add place="marginLeft"><choice><sic>dernière
+                                <lb/>Volonte</sic><corr>Dernières
+                            <lb/>volontés</corr></choice><metamark function="separating"
+                            rend="horizontal-line"/></add></head>
+                <p>Je <choice><sic>reconnait</sic><corr>reconnais</corr></choice> à la veille de la
+                    <lb/>guerre <choice><sic>donné</sic><corr>donner</corr></choice> tout ce que je
+                            <choice><sic>possede</sic><corr>possède,</corr></choice>
+                    <lb/><choice><sic>en cas que je soie</sic><corr>au cas où je
+                        serais</corr></choice> tué<choice><sic/><corr>,</corr></choice> à
+                                <persName><choice><sic>Mademoisselle</sic><corr>Mademoiselle</corr></choice>
+                        <lb/>Camille Mangaud</persName><choice><sic/><corr>,</corr></choice> 457
+                            <choice><sic>Avenue</sic><corr>avenue</corr></choice>
+                    <lb/>d’Allemagne<choice><sic/><corr>.</corr></choice></p>
+                <p>Si je <choice><sic>revien</sic><corr>reviens,</corr></choice> le
+                            <choice><sic>present</sic><corr>présent</corr></choice> acte est
+                            <choice><sic>comsidéré</sic><corr>considéré</corr></choice>
+                    <lb/>comme <choice><sic>nulle</sic><corr>nul.</corr></choice></p>
+                <p><choice><sic>droit</sic><corr>Droits</corr></choice> de ma mère et de mon
+                            frère<choice><sic/><corr> :</corr></choice> 5 300<hi rend="superscript"
+                                ><choice><abbr>f</abbr><expan>francs</expan></choice></hi>,
+                            <lb/><choice><sic>((meuble effet personnelle
+                            Bicicelette</sic><corr>(meubles, effets personnels,
+                        bicyclette,</corr></choice> montre <lb/>et <choice><sic>autre
+                            objet</sic><corr>autres objets)</corr></choice>.</p>
+                <p>Argent personnel <choice><sic><surplus>(</surplus></sic><corr/></choice>(un
+                    livret de <orgName><choice><sic>caisse</sic><corr>Caisse</corr></choice>
+                        <lb/>postale</orgName>
+                    <choice><sic>N<hi rend="superscript-double-underlined"
+                            >os</hi></sic><corr>n°</corr></choice>
+                            78.557.790<choice><sic/><corr> ;</corr></choice> <choice><sic><surplus>d’</surplus></sic><corr/></choice>une
+                    police <lb/>de <orgName><choice><sic>sequanaise Capitiliation N<hi
+                                    rend="superscript-double-underlined"
+                                >os</hi></sic><corr>Séquanaise capitalisation
+                        n°</corr></choice></orgName> 489.086<choice><sic/><corr>,</corr></choice>
+                    prendre 2 <choice><sic>timbre</sic><corr>timbres</corr></choice> chez
+                        <persName>Monsieur
+                        <lb/>Poupy</persName><choice><sic/><corr>,</corr></choice> 4 rue
+                            <choice><sic>Louis
+                                Robert</sic><corr>Louis-Robert,</corr></choice> <choice><sic><surplus>(</surplus></sic><corr/></choice>(et
+                    la police<choice><sic/><corr>).</corr></choice></p>
+                <p><choice><sic>la bicicelette</sic><corr>La bicyclette</corr></choice> chez
+                        <persName>Monsieur Rigaud</persName><choice><sic/><corr>,</corr></choice>
+                    <lb/><choice><sic>Rue Baltelmy</sic><corr>rue Barthélémy,</corr></choice>
+                    <placeName>Essonnes</placeName><choice><sic/><corr>.</corr></choice></p>
+                <p><choice><sic>la</sic><corr>La</corr></choice> somme de <choice><abbr>205<hi
+                                rend="superscript">f</hi></abbr><expan>205 francs</expan></choice>,
+                    85 à <choice><sic>touché</sic><corr>toucher</corr></choice>
+                    <lb/>chez <persName>Monsieur
+                        Legros</persName><choice><sic/><corr>,</corr></choice> <choice><sic>entrepreuneur</sic><corr>entrepreneur</corr></choice>
+                    <lb/>à
+                            <placeName>Essonnes</placeName><choice><sic/><corr>.</corr></choice> <choice><sic>je
+                            reconnait le present</sic><corr>Je reconnais le présent</corr></choice>
+                    acte <lb/>fait de ma main<choice><sic/><corr>,</corr></choice> valable avant la
+                            <lb/><choice><sic>guèrre</sic><corr>guerre,</corr></choice>
+                    <date type="willDate" when="1914-08-02">le 2 août 1914</date>
+                    <choice><sic>en cas que <lb/>je soit</sic><corr>au cas où <lb/>je
+                        serais</corr></choice> tué à la
+                    guerre<choice><sic/><corr>.</corr></choice></p>
+                <pb facs="#FRAN_Poilus_t-0441_02"/>
+                <p>Si je <choice><sic>revien</sic><corr>reviens,</corr></choice> il est
+                            <choice><sic>nulle</sic><corr>nul.</corr></choice></p>
+                <p><orgName><choice><sic>la séquanaise</sic><corr>La
+                        Séquanaise</corr></choice></orgName> à prendre chez <persName>Monsieur
+                        <lb/>Poupy</persName><choice><sic/><corr>,</corr></choice> rue
+                            <choice><sic>Louis Robert N<hi rend="superscript-underlined">os</hi>
+                            4</sic><corr>Louis-Robert, n° 4.</corr></choice></p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p><choice><sic>le Livret</sic><corr>Le livret</corr></choice> à prendre chez
+                        <lb/><persName>Monsieur
+                        Rigaud</persName><choice><sic/><corr>,</corr></choice>
+                    <lb/>rue <choice><sic>Baltelmy</sic><corr>Barthélémy,</corr></choice>
+                    <placeName>Essonnes</placeName><choice><sic/><corr>.</corr></choice></p>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <p rend="centered"><choice><sic>fait</sic><corr>Fait</corr></choice> et signé de ma
+                            main<choice><sic/><corr>.</corr></choice></p>
+                <signed><persName ref="#pers-580">Jean Eugene
+                        <surname>Deslandes</surname></persName></signed>
+                <postscript>
+                    <p><choice><sic>Derniere volonté</sic><corr>Dernières
+                        volontés</corr></choice></p>
+                    <space dim="vertical" unit="lines" quantity="1"/>
+                    <p>
+                        <choice><sic>et</sic><corr>Et</corr></choice> une somme en argent
+                                    <lb/><choice><sic><surplus>(</surplus></sic><corr/></choice>(billet
+                        qui se trouve dans ma <lb/>malle<choice><sic/><corr>,</corr></choice>
+                        retourne <choice><sic>tout un <supplied unit="words" reason="hidden"
+                                    quantity="1">par</supplied> un <lb/>mais effets et papier tu
+                                trouvera</sic><corr>tous mes effets et papiers un par un, tu
+                                trouveras</corr></choice>
+                        <lb/>la somme<choice><sic/><corr>).</corr></choice>
+                        <choice><sic>en cas que je</sic><corr>Au cas où je</corr></choice>
+                        <pb facs="#FRAN_Poilus_t-0441_03"/>
+                        <add place="marginRight"><choice><sic>soie</sic><corr>serais</corr></choice>
+                                    tué<choice><sic/><corr>.</corr></choice>
+                            <seg type="signature"><persName ref="#pers-580">E.
+                                        <surname>Deslandes</surname></persName></seg></add></p>
+                    <p rend="centered">Adieu pour toujours<choice><sic/><corr>.</corr></choice></p>
+                    <p><choice><sic>en cas que je soie tué vien cherché</sic><corr>Au cas où je
+                                serais tué, viens chercher</corr></choice>
+                        <lb/><choice><sic>mais</sic><corr>mes</corr></choice>
+                                effets<choice><sic/><corr>,</corr></choice> malle et
+                                <choice><sic>autre</sic><corr>autres</corr></choice>
+                                objets<choice><sic/><corr>,</corr></choice>
+                        <lb/>tu <choice><sic>trouvera</sic><corr>trouveras</corr></choice> une bonne
+                                <choice><sic>reconpence</sic><corr>récompense</corr></choice>
+                        <lb/><choice><sic>Derrière</sic><corr>derrière</corr></choice>
+                        <unclear>ton panier</unclear><choice><sic/><corr>.</corr></choice></p>
+                    <signed rend="centered"><persName ref="#pers-580">Eugène
+                                <surname>Deslandes</surname></persName></signed>
+                    <space dim="vertical" unit="lines" quantity="1"/>
+                    <!-- FC p pas autorisé après signed ; remplacé par postscript 26 sept. 2022 -->
+                    <postscript>
+                        <p>
+                            <!--<p>--><choice><sic>fait 2 minute</sic><corr>Fait 2
+                                minutes</corr></choice> avant de
+                                partir<choice><sic/><corr>.</corr></choice><!--</p>--></p>
+                    </postscript>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

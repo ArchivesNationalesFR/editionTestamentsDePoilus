@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0189">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la
+               Grande Guerre</title>
+            <title type="main">[Testament de Jean Marie Armand Poirier (02/10/1914)] : édition
+               électronique</title>
+            <author><persName ref="#pers-251">Jean Marie Armand Poirier
+               (1865-1914)</persName></author>
+            <editor ref="#CNougaret">Christine Nougaret</editor>
+            <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+            <editor ref="#FClavaud">Florence Clavaud</editor>
+            <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>Première édition électronique, fondée sur un travail de transcription
+               collaborative</edition>
+            <respStmt>
+               <resp>Numérisation</resp>
+               <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                  scientifique. Département de la Conservation. Atelier photographique</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription</resp>
+               <persName ref="#MFGarreau">MFGarreau</persName>
+               <persName ref="#SL.">EG</persName>
+               <persName ref="#lelia">Lélia Picabia</persName>
+               <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Validation</resp>
+               <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+               <persName ref="#FClavaud">Florence Clavaud</persName>
+               <persName ref="#jmorvan">Josselin Morvan</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+               <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+               <persName ref="#FClavaud">Florence Clavaud</persName>
+               <persName ref="#jmorvan">Josselin Morvan</persName>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+            <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+            <publisher><orgName ref="#AD78">Archives départementales des
+               Yvelines</orgName></publisher>
+            <publisher><orgName>École nationale des chartes</orgName></publisher>
+            <publisher><orgName ref="#AD95">Archives départementales du
+               Val-d’Oise</orgName></publisher>
+            <date when="2021-09">septembre 2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                  4.0</licence>
+            </availability>
+            <idno>TestamentsDePoilus_will_AN_0189</idno>
+            <!--ultérieurement ajouter idno fourni par Nakala-->
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="will_AN_0189_tes">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives nationales</institution>
+                  <collection>Minutier central des notaires de Paris</collection>
+                  <idno>MC/ET/XXXI/1551, minute du 19/02/1915 (dépôt du testament de Jean Marie
+                     Armand Poirier)</idno>
+                  <msName>Testament de Jean Marie Armand Poirier (02/10/1914)</msName>
+               </msIdentifier>
+               <msContents>
+                  <summary><p><date type="willDate" when="1914-10-02">02/10/1914</date>. <placeName type="willPlace" ref="#pl-404">Soligny-la-Trappe</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-251"><forename>Jean</forename> 
+                           <forename>Marie</forename> 
+                           <forename>Armand</forename> 
+                           <surname>Poirier</surname></persName>, mort pour la France le <date when="1914-11-28" source="#will_AN_0189_min">28 novembre 1914 [NOT]</date> ou le <date when="1914-11-29" source="#MDH">29 novembre 1914 [MDH]</date>, <placeName ref="#pl-403" source="#will_AN_0189_min">près Bernécourt (Meurthe et Moselle)
+                           [NOT]</placeName> ou à Flirey (Meurthe et Moselle) [MDH].</p></summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>Papier à lettre (testament). </support>
+                        <extent>4 pages. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                              <height>30,9</height>
+                              <width>19,8</width>
+                           </dimensions>.</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <p>Testament : encre et crayon.</p>
+                  </handDesc>
+               </physDesc>
+               <history>
+                  <provenance><!--agencyNumberRoman=XXXI--><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010158">étude notariale 31 (CRPCEN : 75078)</orgName></provenance>
+               </history>
+            </msDesc>
+            <msDesc xml:id="will_AN_0189_min">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives nationales</institution>
+                  <collection>Minutier central des notaires de Paris</collection>
+                  <idno>MC/ET/XXXI/1551, minute du 19/02/1915 (dépôt du testament de Jean Marie
+                     Armand Poirier)</idno>
+                  <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                     minute</msName>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation><date type="willDate" when="1914-10-02">02/10/1914</date></creation>
+         <langUsage>
+            <language ident="fr">français</language>
+         </langUsage>
+         <abstract>
+            <p>02/10/1914. Soligny-la-Trappe.</p>
+            <p>Testament olographe de Jean Marie Armand Poirier, mort pour la France le 28 novembre
+               1914 [NOT] ou le 29 novembre 1914 [MDH], près Bernécourt (Meurthe et Moselle) [NOT]
+               ou à Flirey (Meurthe et Moselle) [MDH].</p>
+         </abstract>
+         <textClass>
+            <keywords>
+               <term type="subject">Grande Guerre</term>
+               <term type="subject">Poilu</term>
+               <term type="subject">testament</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when-iso="2018-07-19/2020-12-18" who="#MFGarreau #SL. #lelia #GBMireille">transcription</change>
+         <change when-iso="2018-07-19/2020-06-24" who="#PCharbonnier #FClavaud #jmorvan">validation</change>
+         <change who="#FClavaud #PCharbonnier" when-iso="2021-07-30+02:00"> enrichissements et
+            contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+      <surface type="will-page" n="01">
+         <graphic url="testament_AN_0189___JPEG___FRAN_Poilus_t-0189_01.jpg" xml:id="FRAN_Poilus_t-0189_01"/>
+      </surface>
+      <surface type="will-page" n="02">
+         <graphic url="testament_AN_0189___JPEG___FRAN_Poilus_t-0189_02.jpg" xml:id="FRAN_Poilus_t-0189_02"/>
+      </surface>
+      <surface type="will-page" n="03">
+         <graphic url="testament_AN_0189___JPEG___FRAN_Poilus_t-0189_03.jpg" xml:id="FRAN_Poilus_t-0189_03"/>
+      </surface>
+      <surface type="will-page" n="04">
+         <graphic url="testament_AN_0189___JPEG___FRAN_Poilus_t-0189_04.jpg" xml:id="FRAN_Poilus_t-0189_04"/>
+      </surface>
+   </facsimile>
+   <text xml:id="will_AN_0189">
+      <body>
+         <div type="will">
+            <pb facs="#FRAN_Poilus_t-0189_01"/>
+            <dateline rend="right"><placeName type="willPlace" ref="#pl-404">Monastère de Soligny<choice><sic> la </sic><corr>-la-</corr></choice>Trappe</placeName></dateline>
+            <space dim="vertical" unit="lines" quantity="4"/>
+            <p>J’exprime la volonté de n’être pas enterré avant <lb/>que la décomposition de mon
+               cadavre ait témoigné <lb/>d’une façon certaine de ma mort.</p>
+            <p>Apposition des scellés, en raison de l’état de <lb/>minorité de mes enfants.</p>
+            <p>J’interdis que <persName><choice><abbr>M<hi rend="superscript">lle</hi></abbr><expan>mademoiselle</expan></choice> Lemardeley</persName>, ma femme, <lb/>approche de mon cadavre<choice><sic> - </sic><corr>. </corr></choice>Elle ne commettra <lb/>pas cette <choice>
+                  <sic>suprème</sic>
+                  <corr>suprême</corr>
+            </choice> hypocrisie. <lb/>Qu’elle soit mise dans l’impossibilité de s’emparer<lb/> - ou de prendre connaissance d’aucun de mes <lb/>papiers.</p>
+            <p>Que Dieu lui soit miséricordieux.</p>
+            <p>Je bénis mes enfants chéris<choice><sic> - </sic><corr>, </corr></choice> et tout <choice><sic>particuliè-<lb/>rement</sic><corr>particuliè<lb break="no"/>rement</corr></choice> mon fils ainé
+                  <persName>Yves</persName> qui devient le <lb/>chef de leur famille. Que Dieu les protège, et <lb/>qu’avec son aide ils deviennent tous - des hommes <lb/>d’honneur -
+               des femmes de devoir<choice><sic> - </sic><corr>, </corr></choice>malgré<lb/> tout.</p>
+            <p>Très peu de chose j’ai été de mon vivant<choice><sic> -</sic><corr>, </corr></choice> <lb/>moins de chose encore sera ce qui restera de <lb/>moi en ce monde : ma mort ne
+               sera l’occasion <lb/>d’aucune dépense pour les miens qui sont pauvres<choice><sic>,<lb/> -</sic><corr>.<lb/></corr></choice> Elle ne sera pas non plus l’occasion de témoignages <lb/>tardifs<choice><sic> - </sic><corr>, </corr></choice> ou même faux<choice><sic> -</sic><corr>,</corr></choice> de <choice>
+                  <sic>fidelité</sic>
+                  <corr>fidélité</corr></choice><choice><sic> - </sic><corr>, </corr></choice> d’affection<choice><sic><lb/> - </sic><corr>, <lb/></corr></choice>de respect. Mes enfants porteront le deuil de leur <lb/>père<choice><sic> -</sic><corr/></choice> dans leur coeur, non dans leurs habits<choice><sic> - </sic><corr>, </corr></choice>
+               <lb/>s’ils l’aiment encore<choice><sic> -</sic><corr>,</corr></choice> malgré l’abîme creusé <pb facs="#FRAN_Poilus_t-0189_02"/>entre eux et lui
+               par leur mère. <lb/>Bien entendu <subst>
+                  <del><unclear>aucun</unclear></del><add>pas d’</add></subst>honneurs militaires.</p>
+            <space dim="vertical" unit="lines" quantity="2"/>
+            <p>J’exprime encore la volonté que les objets <choice>
+                  <sic>ci<del>s</del> dessous</sic>
+                  <corr>ci-dessous</corr>
+               </choice>
+               <lb/>indiqués soient remis à <persName>Mesdames
+               <surname>Durand</surname></persName> - 3 rue <lb/>de Champagny à <placeName type="otherPlace" ref="#pl-2">Paris</placeName> (7<hi rend="superscript">e</hi><choice>
+                  <abbr>arr.</abbr>
+                  <expan>arrondissement</expan>
+               </choice>) <lb/>afin que par elles - ils soient transmis à mon fils ainé <lb/>- dès
+               qu’il aura atteint sa majorité !</p>
+            <list>
+               <item>1<hi rend="superscript">o</hi> <choice><sic>la</sic><corr>La</corr></choice> présente notice testamentaire<choice><sic> -</sic><corr>.</corr></choice></item>
+               <item>2<hi rend="superscript">o</hi> <choice><sic>le</sic><corr>Le</corr></choice> dossier - ci-joint - de l’inique procès en
+                  <lb/>séparation de corps qui m’a été intenté - et que j’ai <lb/>perdu. <lb/>Mes
+                  enfants trouveront certainement - dans l’étude <lb/>du dossier - la preuve que
+                  leur <choice>
+                     <sic>Père</sic>
+                     <corr>père</corr>
+                  </choice> fit toujours tout <lb/>son devoir. <lb/>J’ai banni<choice><sic> -</sic><corr/></choice> aujourd’hui toute
+                  haine de mon coeur<choice><sic> -</sic><corr/></choice> <lb/><choice><sic>Et</sic><corr>et</corr></choice> je supplie mes chers enfants de conserver à leur <lb/><choice>
+                     <sic>Mère</sic>
+                     <corr>mère</corr>
+                  </choice> égarée<choice><sic> -</sic><corr/></choice> toute leur affection - de reporter même sur <lb/>elle
+                     <del>l’affect</del> la part d’affection qu’ils n’ont pu me <lb/>donner - moi
+                  vivant. <lb/>Mais il me <choice>
+                     <sic>parait just</sic>
+                     <corr>paraît juste</corr>
+                  </choice> et nécessaire que mes <lb/>enfants connaissent la vérité<choice><sic> -</sic><corr/></choice> afin que mes
+                  souffrances <lb/>ne soient pas perdues pour eux<choice><sic> -</sic><corr/></choice> et afin qu’ils ne
+                  <lb/>maudissent pas ma mémoire. <lb/>Qu’<persName>Yves</persName> leur ainé
+                  n’éprouve ni remords<choice><sic>..</sic><corr>...</corr></choice> ni <lb/>gêne, à laisser dans ce dossier <hi rend="underlined">qu’il
+                     devra communiquer</hi> <lb/>à chacun de ses frères et soeurs<choice><sic> -</sic><corr/></choice> certaines lettres qu’il m’écrivit
+                  <lb/>lorsqu’il était bien jeune encore... ou la relation de certaines
+                  <lb/>attitudes... De rien de tout cela il ne saurait être <lb/>responsable.</item>
+               <pb facs="#FRAN_Poilus_t-0189_03"/>
+               <item>3<hi rend="superscript-double-underlined">o</hi> <choice><sic>les</sic><corr>Les</corr></choice> notes diverses <space dim="horizontal" unit="chars" quantity="4"/>(philosophie<choice><sic/><corr>,</corr></choice> souvenir<choice><sic> - etc</sic><corr>, etc.</corr></choice>) <lb/>que j’ai prises au jour le jour - à l’intention de mes
+                  enfants <lb/>- puisque je ne pouvais leur ouvrir ni mon cœur<choice><sic> -</sic><corr/></choice> ni ma <lb/>pensée<choice><sic> -</sic><corr>,</corr></choice> et d’une façon générale toute ma correspondance<choice><sic/><corr>,</corr></choice> <lb/><choice><sic>- </sic><corr/></choice>tous mes papiers<choice><sic> -</sic><corr>,</corr></choice> tout mon <hi rend="underlined">bagage</hi><choice><sic> -</sic><corr>.</corr></choice><metamark function="other" rend="cross"/></item>
+               <item>4<hi rend="superscript-underlined">o</hi> <choice><sic>quelques</sic><corr>Quelques</corr></choice> autres objets<choice><sic> -</sic><corr>,</corr></choice> souvenir que je voudrais <del>fai</del>
+                        <lb/><choice><sic>transmettr</sic><corr>transmettre</corr></choice> à mes enfants<choice><sic/><corr>,</corr></choice><subst>
+                           <del><unclear reason="quite-illegible">onto eté</unclear></del>
+                           <add>ont été</add>
+                        </subst> confiés par moi à <persName><choice><abbr>M</abbr><expan>Monsieur</expan></choice>
+                           <lb/>Dubreuil</persName><choice><sic> -</sic><corr>,</corr></choice> 25 <choice><abbr>r</abbr><expan>rue</expan></choice> du Mené à <placeName type="otherPlace" ref="#pl-293">Vannes</placeName><choice><sic/><corr>.</corr></choice> Ce sont <lb/>6 chaises de notre salle <choice>
+                              <sic>a</sic><corr>à</corr></choice> manger familiale<choice><sic/><corr>,</corr></choice>
+                        <lb/>3 <choice>
+                           <sic>Caisses de differente dimension</sic>
+                           <corr>caisses de différentes dimensions.</corr>
+                        </choice></item>
+            </list>
+            <space dim="vertical" unit="lines" quantity="1"/>
+            <p>Je demande à mon <choice>
+                  <sic>Frère</sic>
+                  <corr>frère</corr>
+               </choice> et à mes sœurs de remettre à <lb/>mon fils <choice><sic>ainé</sic><corr>aîné</corr></choice><choice><sic> -</sic><corr>,</corr></choice> qui devient par ma mort<choice>
+                  <sic><surplus> -</surplus></sic><corr>,</corr></choice> le <choice>
+                  <sic>Chef</sic>
+                  <corr>chef</corr>
+                  </choice> de notre <lb/>famille, selon l’ancien régime familial<choice><sic> -</sic><corr>,</corr></choice>
+               <hi rend="underlined">qui était le bon</hi>, <lb/>les papiers de famille<choice><sic> -</sic><corr>,</corr></choice> portraits<choice><sic>.. etc</sic><corr>, etc.</corr></choice> qui pourraient <lb/>servir à reconstituer une tradition de famille, afin de
+               <lb/>rétablir - s’il se peut - entre nos enfants les liens<choice><sic><surplus> -</surplus></sic><corr/></choice> si <lb/>naturels, si précieux<choice><sic><surplus> -</surplus></sic><corr/></choice> que nos <choice>
+                  <sic>Parents et nous mêmes</sic>
+                  <corr>parents et nous-mêmes</corr>
+               </choice> <lb/>avons follement rompus - pour <del>notre</del> le malheur de <lb/>la plupart
+               d’entre nous.</p>
+            <space dim="vertical" unit="lines" quantity="1"/>
+            <p>J’exprime enfin ma profonde reconnaissance <lb/>à Madame et à <persName><choice><abbr>M<hi rend="superscript">elle</hi></abbr><expan>Mademoiselle</expan></choice> Durand</persName> qui <del>m’</del>ont <choice>
+                  <sic>rechauffe</sic>
+                  <corr>réchauffé</corr>
+               </choice> <lb/>mon cœur de leur sympathie - en ces derniers mois <lb/>de ma triste
+               vie - et qui ont bien voulu se charger <lb/>de porter à mes enfants les <choice>
+                  <sic>dernieres</sic>
+                  <corr>dernières</corr>
+               </choice> volontés de <lb/>leur <choice>
+                  <sic>Père -</sic>
+                  <corr>père.</corr>
+               </choice> <lb/>Que mes chers enfants <choice>
+                  <sic>eprouvent</sic>
+                  <corr>éprouvent</corr>
+               </choice> pour elles <supplied reason="deleted">les</supplied> <lb/>mêmes sentiments
+               d’affection et de gratitude.</p>
+            <space dim="vertical" unit="lines" quantity="1"/>
+            <dateline rend="left"><date type="willDate" when="1914-10-02"><choice><sic>le</sic><corr>Le</corr></choice> 2 <choice>
+                     <sic>Octobre</sic>
+                     <corr>octobre</corr>
+                  </choice> 1914</date><choice><sic/><corr>.</corr></choice></dateline>
+            <signed rend="right"><persName ref="#pers-251">A
+                  <surname>Poirier</surname></persName></signed>
+            <space dim="vertical" unit="lines" quantity="1"/>
+            <postscript>
+               <p><metamark rend="cross" function="other"/>
+                        <subst>
+                           <del>confié</del>
+                           <add><choice>
+                                 <sic>laissé</sic>
+                                 <corr>Laissé</corr>
+                              </choice></add>
+                        </subst> à la garde de mon dernier propriétaire - <persName><choice>
+                              <abbr>M.</abbr>
+                              <expan>Monsieur</expan>
+                           </choice> Lanceleur</persName><choice><sic/><corr>,</corr></choice> <lb/>36 rue nationale <choice>
+                           <sic>a</sic>
+                           <corr>à</corr>
+                        </choice> <placeName type="otherPlace" ref="#pl-401">Cholet</placeName> :</p>
+               <list rend="centered">
+                  <item>1 malle brune</item>
+                  <item>1 <choice>
+                        <sic>mall</sic>
+                        <corr>malle</corr>
+                     </choice> noire</item>
+                  <item>1 caisse</item>
+                  <item>1 <choice>
+                        <sic>pannier</sic>
+                        <corr>panier</corr>
+                     </choice></item>
+                  <item>1 sac de voyage</item>
+                  <item>1 paquet de brochures.</item>
+               </list>
+            </postscript>
+            <pb facs="#FRAN_Poilus_t-0189_04"/>
+            <postscript>
+               <p>Adresses utiles :</p>
+               <space dim="vertical" unit="lines" quantity="1"/>
+               <p><persName>Yves</persName> mon fils ainé est marin<choice><sic> - -</sic><corr>.</corr></choice> Il est né le <date type="otherDate" when="1895-05-19">19 Mai
+                           <lb/>1895</date><choice><sic/><corr>.</corr></choice></p>
+               <space dim="vertical" unit="lines" quantity="1"/>
+               <p><hi rend="double-underlined">Le notaire</hi> de mes enfants est <persName>M. Vingtain</persName><choice><sic/><corr>,</corr></choice> 26 avenue <lb/><space dim="horizontal" unit="chars" quantity="30"/> de
+                  la Grande Armée.</p>
+               <p>Mon <choice><sic>Père</sic><corr>père</corr></choice> : Ker an garo, près de <placeName type="otherPlace">Perros Guirec</placeName> (<choice><sic>Côtes du Nord</sic><corr>Côtes-du-Nord</corr></choice>)<choice><sic/><corr>.</corr></choice></p>
+               <p>Mes sœurs <persName>Ellen</persName> (notre ainée) et <persName>Renée</persName> - auprès de mon <choice><sic>Père</sic><corr>père</corr></choice><choice><sic/><corr>.</corr></choice></p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0417">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Christian Théodore Stéphane Godefroid Baudouin
+                    Patrimonio (16 avril 1917)] : édition électronique</title>
+                <author><persName ref="#pers-556">Christian Théodore Stéphane Godefroid Baudouin
+                        Patrimonio (1880-1918)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#CNougaret">Christine Nougaret</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021-09">septembre 2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0417</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0417_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVIII/1254, minute du 29 octobre 1919 (dépôt du testament de
+                            Christian Théodore Stéphane Godefroid Baudouin Patrimonio)</idno>
+                        <msName>Testament de Christian Théodore Stéphane Godefroid Baudouin
+                            Patrimonio (16 avril 1917)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1917-04-16">16 avril 1917</date>.
+                                    <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-556"><forename>Christian</forename> 
+                                    <forename>Théodore</forename> 
+                                    <forename>Stéphane</forename> 
+                                    <forename>Godefroid</forename> 
+                                    <forename>Baudouin</forename> 
+                                    <surname>Patrimonio</surname></persName>, mort pour la France le
+                                    <date when="1918-09-02">2 septembre 1918</date> à <placeName ref="#pl-817">au combat de Praast à Champs
+                                (Aisne)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier de deuil (testament). Enveloppe de deuil
+                                    (enveloppe). </support>
+                                <extent>4 pages et 1 enveloppe. Dimensions du testament :
+                                        <dimensions type="willPage" unit="cm">
+                                        <height>17,9</height>
+                                        <width>14</width>
+                                    </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                                        <height>9,5</height>
+                                        <width>15</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre. Enveloppe : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><!--agencyNumberRoman=LVIII--><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010185">étude notariale 58 (CRPCEN : 75081)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0417_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVIII/1254, minute du 29 octobre 1919 (dépôt du testament de
+                            Christian Théodore Stéphane Godefroid Baudouin Patrimonio)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1917-04-16">16 avril 1917</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>16 avril 1917. Paris.</p>
+                <p>Testament olographe de Christian Théodore Stéphane Godefroid Baudouin Patrimonio,
+                    mort pour la France le 2 septembre 1918 à au combat de Praast à Champs
+                    (Aisne).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2020-09-09/2020-12-03" who="#MFGarreau #lelia #GBMireille">transcription</change>
+            <change when-iso="2020-09-09/2020-09-19" who="#jmorvan #PCharbonnier #CNougaret">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2021-07-30+02:00"> enrichissements et
+                contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0417___JPEG___FRAN_Poilus_t-0417_01.jpg" xml:id="FRAN_Poilus_t-0417_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0417___JPEG___FRAN_Poilus_t-0417_02.jpg" xml:id="FRAN_Poilus_t-0417_02"/>
+        </surface>
+        <surface type="will-page" n="03">
+            <graphic url="testament_AN_0417___JPEG___FRAN_Poilus_t-0417_03.jpg" xml:id="FRAN_Poilus_t-0417_03"/>
+        </surface>
+        <surface type="will-page" n="04">
+            <graphic url="testament_AN_0417___JPEG___FRAN_Poilus_t-0417_04.jpg" xml:id="FRAN_Poilus_t-0417_04"/>
+        </surface>
+        <surface type="will-envelope-recto" n="05">
+            <graphic url="testament_AN_0417___JPEG___FRAN_Poilus_t-0417_05.jpg" xml:id="FRAN_Poilus_t-0417_05"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0417">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0417_01"/>
+                <dateline rend="right"><placeName type="willPlace" ref="#pl-2">Paris</placeName>,
+                        <date type="willDate" when="1917-04-16">le 16 avril
+                    1917</date> <lb/>25 avenue
+                    Rapp.</dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <head rend="centered">Ceci est mon testament.</head>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Je meurs dans la re<subst><del>g</del><add>l</add></subst>igion <lb/>catholique,
+                    apostolique et <lb/>romaine dans laquelle je suis
+                            <lb/><choice><sic>née</sic><corr>né</corr></choice>.</p>
+                <p> <choice><sic>Etant</sic><corr>Étant</corr></choice> donné que je pars <lb/>pour le
+                    front ce soir dans <lb/>une arme très dangereuse, <lb/>je tiens à déclarer que
+                    je <lb/>désire ne laisser absolument<pb facs="#FRAN_Poilus_t-0417_02"/>que ce à
+                    quoi la loi m’oblige <lb/>à l’enfant que <persName><choice><abbr>M<hi rend="superscript-underlined">me</hi></abbr><expan>Madame</expan></choice> Monna
+                        <lb/>Delza</persName> déclare avoir <choice><sic>eue</sic><corr>eu</corr></choice> de <lb/>moi. Tous mes objets
+                    personnels, <lb/>ma propriété de <placeName type="otherPlace">San
+                        Martino</placeName>, <lb/>tous les objets me venant de <lb/>mes regrettés
+                    parents doivent <lb/>être remis à mon frère Emmanuel <lb/>que je constitue mon
+                    légataire <lb/>universel.</p>
+                <p>Je désire être enterré à côté <lb/>de mon père, de ma mère et <lb/>de ma sœur
+                    dans une concession<pb facs="#FRAN_Poilus_t-0417_03"/>du cimetière de <placeName type="otherPlace">Bastia</placeName>. Mon <lb/>seul désir est de rejoindre
+                    mes <lb/>bien-aimés parents.</p>
+                <p>Il faudra donner mon nécessaire <lb/>de voyage à <persName>Rose
+                        Raynaud</persName> à <lb/>qui je serai toujours reconnaissant <lb/>de ce
+                    qu’elle a fait pour nous.</p>
+                <p>Ma mère adorée était mon <lb/>seul vrai sentiment dans la <lb/>vie. Sa perte m’a
+                    tué.</p>
+                <p>Je demande pardon à Dieu <lb/>et aux hommes du scandale <lb/>que j’ai donné.</p>
+                <pb facs="#FRAN_Poilus_t-0417_04"/>
+                <p>Que mon frère <persName>Emmanuel</persName>, <lb/>que j’aime tendrement,
+                    <lb/>travaille bien et se fasse <lb/>un nom digne de notre <lb/>regretté père.
+                    Qu’il se marie <lb/>avec une bonne catholique <lb/>et ne m’oublie pas dans
+                    <lb/>ses prières.</p>
+                <p rend="centered">Ainsi soit-il.</p>
+                <dateline><placeName type="willPlace" ref="#pl-2">Paris</placeName>, <date type="willDate" when="1917-04-16">le seize avril mil <lb/>neuf cent
+                                <choice><sic>dix
+                    sept</sic><corr>dix-sept</corr></choice></date>.</dateline>
+                <signed rend="right"><persName ref="#pers-556">Christian,
+                                <choice><sic>Comte</sic><corr>comte</corr></choice> <surname>Patrimonio</surname></persName><choice><sic/><corr>,</corr></choice> <lb/><choice><sic>Lieutenant</sic><corr>lieutenant</corr></choice>
+                    au <orgName ref="#o-418"><choice><sic>4<hi rend="superscript-underlined">ème</hi></sic><corr>4<hi rend="superscript">e</hi></corr></choice> bataillon <lb/>de chasseurs à
+                    pied</orgName>.</signed>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0417_05"/>
+                <p rend="centered">Mon
+                    <choice><sic>Testament</sic><corr>testament</corr></choice>.</p>
+                <metamark function="emphasis" rend="horizontal-line"/>
+                <signed rend="centered"><persName ref="#pers-556">Christian
+                            <surname>Patrimonio</surname></persName></signed>
+                <metamark function="emphasis" rend="horizontal-line"/>
+            </div>
+        </body>
+    </text>
+</TEI>

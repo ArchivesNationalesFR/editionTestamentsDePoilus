@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0176">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Gaspard Louis Guy de Lasteyrie marquis du Saillant
+                    (03/08/1914)] : édition électronique</title>
+                <author><persName ref="#pers-238">Gaspard Louis Guy de Lasteyrie marquis du Saillant
+                        (1868-1915)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021-09">septembre 2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0176</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0176_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XVIII/1910, minute du 23/08/1917 (dépôt du testament de Gaspard
+                            Louis Guy de Lasteyrie marquis du Saillant)</idno>
+                        <msName>Testament de Gaspard Louis Guy de Lasteyrie marquis du Saillant
+                            (03/08/1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-03">03/08/1914</date>.
+                                    <placeName type="willPlace" ref="#pl-132">Saintes</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-238"><forename>Gaspard</forename> 
+                                    <forename>Louis</forename> 
+                                    <forename>Guy</forename> 
+                                    <surname>Lasteyrie du Saillant</surname></persName>, mort pour
+                                la France le <date when="1915-09-25">25/09/1915</date> à <placeName ref="#pl-58" source="#will_AN_0176_min">Massiges (Marne) [NOT]</placeName> ou
+                                à Beauséjour (Marne) [MDH].</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à lettre (testament). </support>
+                                <extent>4 pages. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>20,8</height>
+                                        <width>13,4</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><!--agencyNumberRoman=XVIII--><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010145">étude notariale 18 (CRPCEN : 75026)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0176_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XVIII/1910, minute du 23/08/1917 (dépôt du testament de Gaspard
+                            Louis Guy de Lasteyrie marquis du Saillant)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-03">03/08/1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>03/08/1914. Saintes.</p>
+                <p>Testament olographe de Gaspard Louis Guy de Lasteyrie marquis du Saillant, mort
+                    pour la France le 25/09/1915 à Massiges (Marne) [NOT] ou à Beauséjour (Marne)
+                    [MDH].</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-07-19/2020-11-29" who="#MFGarreau #lelia">transcription</change>
+            <change when-iso="2018-07-19/2020-06-24" who="#jmorvan #FClavaud">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2021-07-30"> enrichissements et
+                contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0176___JPEG___FRAN_Poilus_t-0176_01.jpg" xml:id="FRAN_Poilus_t-0176_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0176___JPEG___FRAN_Poilus_t-0176_02.jpg" xml:id="FRAN_Poilus_t-0176_02"/>
+        </surface>
+        <surface type="will-page" n="03">
+            <graphic url="testament_AN_0176___JPEG___FRAN_Poilus_t-0176_03.jpg" xml:id="FRAN_Poilus_t-0176_03"/>
+        </surface>
+        <surface type="will-page" n="04">
+            <graphic url="testament_AN_0176___JPEG___FRAN_Poilus_t-0176_04.jpg" xml:id="FRAN_Poilus_t-0176_04"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0176">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0176_01"/>
+                <dateline rend="centered"><placeName type="willPlace" ref="#pl-132">Saintes</placeName> <date type="willDate" when="1914-08-03">le 3 <choice><sic>aout</sic><corr>août</corr></choice> 1914</date></dateline>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <head>Ceci est mon testament<choice><sic/><corr>.</corr></choice></head>
+                <p>Je le mets sous la protection de Dieu dont <lb/>j’ai <choice>
+                        <sic>éssayé</sic>
+                        <corr>essayé</corr>
+                    </choice> de suivre les voies suivant la <lb/>devise de ma famille "Deo
+                    monstrante viam".</p>
+                <p>Ma fortune se compose d’une soixantaine <lb/>de mille francs en dépôt dans la
+                        <orgName>Banque <lb/>Mallet <choice><abbr>F<hi rend="superscript-double-underlined">res</hi></abbr><expan>Frères</expan></choice></orgName>, 37 rue d’Anjou, à <placeName type="otherPlace" ref="#pl-2">Paris</placeName> et <lb/>des objets mobiliers se trouvant à
+                        <placeName type="otherPlace" ref="#pl-132">Saintes</placeName> <lb/>et à
+                        <placeName type="otherPlace">Birazel</placeName> qui n’appartiennent pas
+                    <lb/>à ma femme et dont elle est seule juge.</p>
+                <p>En cas de <choice><sic>déces</sic><corr>décès</corr></choice>, je désire que ma femme <lb/>jouisse dans la plus large mesure que
+                    <lb/>peut lui attribuer <del>de</del> la loi de ce que <lb/>je laisse tant comme
+                    numéraire que <lb/>comme mobilier. Ceci établi, je partage <lb/>ma fortune entre
+                    mes enfants de la manière <lb/>suivante : l’<choice>
+                        <sic>ainé</sic>
+                        <corr>aîné</corr>
+                    </choice> des garcons bénéficiera du <pb facs="#FRAN_Poilus_t-0176_02"/>quart
+                    dont je peux disposer, les trois autres <lb/>quarts partagés également entre mes
+                    huit enfants.</p>
+                <p>Je désire que ma femme<choice><sic/><corr>,</corr></choice> tutrice de nos sept <lb/>enfants, le soit aussi de mon ainée qu’elle
+                    <lb/>a toujours <choice>
+                        <sic>considéré</sic>
+                        <corr>considérée</corr>
+                    </choice> comme sa propre fille <lb/>et pour laquelle dans les moments
+                    difficiles <lb/>elle a fait les plus grands sacrifices.</p>
+                <p>Je ne doute pas que cette dernière ne lui <lb/>en garde une profonde
+                    reconnaissance.</p>
+                <p> <choice>
+                        <sic>Entend</sic>
+                        <corr>En tant</corr>
+                    </choice> que tutrice, je désire que ma femme <lb/>jouisse en toute liberté des
+                    revenus de la <lb/>fortune de <persName>Guy-Anne</persName> jusqu’à sa majorité,
+                    <lb/>revenus provenant des fonds de cette dernière <lb/>placés à <orgName>la
+                        banque Mallet</orgName> <add place="above">ou <choice>
+                            <sic>avenir</sic>
+                            <corr>à venir</corr>
+                        </choice></add> ou de la pension <lb/>annuelle que doit lui payer son <choice><sic>grand <lb/>père</sic><corr>grand-<lb break="no"/>père</corr></choice>. Ce ne sera que la juste compensation <lb/>des charges qu’elle a <choice>
+                        <sic>eu</sic>
+                        <corr>eues</corr>
+                    </choice> pendant le temps <pb facs="#FRAN_Poilus_t-0176_03"/>que
+                        <persName>Monsieur Solomirsky</persName> n’a pas pu nous <lb/>payer la rente
+                    convenue par mon premier <lb/>contrat de mariage<del> et</del>. Sachant qu’elle
+                    dépensera <lb/>de ces revenus la part nécessaire pour élever
+                        <persName>Guy-Anne</persName> <lb/>dans le rang social auquel elle peut prétendre<subst>
+                        <del>, elle</del>
+                        <add place="above"> et</add>
+                    </subst> <lb/>maintiendra un train de maison en rapport <lb/>avec ce rang<choice><sic> ;</sic><corr>,</corr></choice> toutes les économies qu’elle fera <lb/>elle peut les garder sans
+                    scrupule pour ses seuls <lb/>enfants, <del>celles</del> ces économies n’étant
+                    qu’une petite <lb/>compensation à la fortune que j’eus dû tenir <lb/>des
+                        <persName>Solomirsky</persName> d’après mon contrat et le <choice>
+                        <sic>désire</sic>
+                        <corr>désir</corr>
+                    </choice> <lb/>de ma <choice>
+                        <sic>premiere</sic>
+                        <corr>première</corr>
+                    </choice> femme et ne lésant en rien <lb/><persName>Guy-Anne</persName> à qui
+                    mes efforts seuls ont acquis <lb/>la fortune que j’ai pu reconquérir pour
+                    elle.</p>
+                <p>Je tiens avant tout à ce que tout désir <lb/>ou décision de ma femme
+                        <persName>Angèle</persName> ne soit <lb/><choice>
+                        <sic>contrecarrés</sic>
+                        <corr>contrecarré</corr>
+                    </choice> en rien par ces dispositions, <lb/>elle <choice>
+                        <sic>connait</sic>
+                        <corr>connaît</corr>
+                    </choice> ma manière de voir nous <pb facs="#FRAN_Poilus_t-0176_04"/>nous
+                    identifions en tous points, son <lb/>interprétation de ma volonté prévaudra
+                    <lb/>dans tout conteste que pourrait soulever <lb/>ce testament.</p>
+                <dateline rend="right"><placeName type="willPlace" ref="#pl-132">Saintes</placeName>
+                    <date type="willDate" when="1914-08-03">le 3 <choice>
+                            <sic>aout</sic>
+                            <corr>août</corr>
+                        </choice> 1914</date><choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="right"><persName ref="#pers-238">G du
+                        <surname>Saillant</surname></persName></signed>
+                <postscript>
+                    <p>Je fais ma femme et mes enfants héritiers <choice>
+                            <sic>uni-<lb break="no"/>versels</sic>
+                            <corr>uni<lb break="no"/>versels</corr>
+                        </choice> prenant mes droits à la succession de <lb/><persName>Guy-Anne</persName> si <choice>
+                            <sic>celle ci</sic>
+                            <corr>celle-ci</corr>
+                        </choice> était ouverte avant ma mort. <lb/>Les clefs des meubles sont dans
+                        une boîte d’olivier <lb/>dans une armoire bressanne de ma chambre, <lb/>le
+                        tiroir de droite de mon bureau contient les <lb/>papiers intéressants dans
+                        une serviette en cuir <lb/>de <choice>
+                            <sic>russie</sic>
+                            <corr>Russie</corr>
+                        </choice> sur laquelle il est écrit Caucase. <lb/>Les lettres du <choice>
+                            <sic>coffre fort</sic>
+                            <corr>coffre-fort</corr>
+                        </choice> sont G A/A S<choice><sic/><corr>.</corr></choice></p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

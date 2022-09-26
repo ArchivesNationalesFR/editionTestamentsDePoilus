@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0290">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la
+               Grande Guerre</title>
+            <title type="main">[Testament de Raimond Lucien Polle (03/08/1914)] : édition
+               électronique</title>
+            <author><persName ref="#pers-343">Raimond Lucien Polle (1884-1914)</persName></author>
+            <editor ref="#CNougaret">Christine Nougaret</editor>
+            <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+            <editor ref="#FClavaud">Florence Clavaud</editor>
+            <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>Première édition électronique, fondée sur un travail de transcription
+               collaborative</edition>
+            <respStmt>
+               <resp>Numérisation</resp>
+               <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                  scientifique. Département de la Conservation. Atelier photographique</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription</resp>
+               <persName ref="#lelia">Lélia Picabia</persName>
+               <persName ref="#MFGarreau">MFGarreau</persName>
+               <persName ref="#SL.">EG</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Validation</resp>
+               <persName ref="#jmorvan">Josselin Morvan</persName>
+               <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+               <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+               <persName ref="#FClavaud">Florence Clavaud</persName>
+               <persName ref="#jmorvan">Josselin Morvan</persName>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+            <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+            <publisher><orgName ref="#AD78">Archives départementales des
+               Yvelines</orgName></publisher>
+            <publisher><orgName>École nationale des chartes</orgName></publisher>
+            <publisher><orgName ref="#AD95">Archives départementales du
+               Val-d’Oise</orgName></publisher>
+            <date when="2021-09">septembre 2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                  4.0</licence>
+            </availability>
+            <idno>TestamentsDePoilus_will_AN_0290</idno>
+            <!--ultérieurement ajouter idno fourni par Nakala-->
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="will_AN_0290_tes">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives nationales</institution>
+                  <collection>Minutier central des notaires de Paris</collection>
+                  <idno>MC/ET/LVI/1432, minute du 03/02/1919 (dépôt du testament de Raimond Lucien
+                     Polle)</idno>
+                  <msName>Testament de Raimond Lucien Polle (03/08/1914)</msName>
+               </msIdentifier>
+               <msContents>
+                  <summary><p><date type="willDate" when="1914-08-03">03/08/1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-343"><forename>Raimond</forename> 
+                           <forename>Lucien</forename> 
+                           <surname>Polle</surname></persName>, mort pour la France le <date when="1914-09-17">17/09/1914</date> à <placeName ref="#pl-521">Servon
+                           (Marne)</placeName>.</p></summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>Papier timbré (testament). </support>
+                        <extent>1 page et 1 enveloppe. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                              <height>24,9</height>
+                              <width>17,8</width>
+                           </dimensions>.</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <p>Testament : encre mauve.</p>
+                  </handDesc>
+               </physDesc>
+               <history>
+                  <provenance><!--agencyNumberRoman=LVI--><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010183">étude notariale 56 (CRPCEN : 75040)</orgName></provenance>
+               </history>
+            </msDesc>
+            <msDesc xml:id="will_AN_0290_min">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives nationales</institution>
+                  <collection>Minutier central des notaires de Paris</collection>
+                  <idno>MC/ET/LVI/1432, minute du 03/02/1919 (dépôt du testament de Raimond Lucien
+                     Polle)</idno>
+                  <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                     minute</msName>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation><date type="willDate" when="1914-08-03">03/08/1914</date></creation>
+         <langUsage>
+            <language ident="fr">français</language>
+         </langUsage>
+         <abstract>
+            <p>03/08/1914. Paris.</p>
+            <p>Testament olographe de Raimond Lucien Polle, mort pour la France le 17/09/1914 à
+               Servon (Marne).</p>
+         </abstract>
+         <textClass>
+            <keywords>
+               <term type="subject">Grande Guerre</term>
+               <term type="subject">Poilu</term>
+               <term type="subject">testament</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when-iso="2019-02-12/2020-12-18" who="#lelia #MFGarreau #SL.">transcription</change>
+         <change when-iso="2019-02-12/2020-06-18" who="#jmorvan #PCharbonnier">validation</change>
+         <change who="#FClavaud #PCharbonnier" when-iso="2021-07-30+02:00"> enrichissements et
+            contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+      <surface type="will-page" n="01">
+         <graphic url="testament_AN_0290___JPEG___FRAN_Poilus_t-0290_01.jpg" xml:id="FRAN_Poilus_t-0290_01"/>
+      </surface>
+      <surface type="will-envelope-verso" n="02">
+         <graphic url="testament_AN_0290___JPEG___FRAN_Poilus_t-0290_02.jpg" xml:id="FRAN_Poilus_t-0290_02"/>
+      </surface>
+      <surface type="will-envelope-verso" n="03">
+         <graphic url="testament_AN_0290___JPEG___FRAN_Poilus_t-0290_03.jpg" xml:id="FRAN_Poilus_t-0290_03"/>
+      </surface>
+   </facsimile>
+   <text xml:id="will_AN_0290">
+      <body>
+         <div type="will">
+            <pb facs="#FRAN_Poilus_t-0290_01"/>
+            <p>Je soussigné <persName ref="#pers-343">Raimond <lb/>Lucien
+                  <surname>Polle</surname></persName><choice><sic/><corr>,</corr></choice> employé de <choice>
+                  <sic>Banque</sic>
+                  <corr>banque</corr>
+               </choice> <lb/>demeurant à <placeName type="willAuthorResidence" ref="#pl-2">Paris</placeName><choice><sic/><corr>,</corr></choice> 112 <choice>
+                  <sic>Boulevard</sic>
+                  <corr>boulevard</corr>
+               </choice> <lb/>Rochechouart.</p>
+            <p>Voulant donner à mon épouse, <lb/>née <persName>Marthe Mélanie Mathiot</persName>,
+               une <lb/>grande preuve d’affection et reconnaître <lb/>les soins dévoués qu’elle m’a
+               toujours <lb/>prodigués, déclare faire en sa faveur <lb/>les dispositions de dernière
+               volonté suivantes.</p>
+            <p>Je lui donne et lègue entièrement <lb/>pour en jouir à partir du jour de <lb/>mon
+               décès, tant en propriété qu’en <lb/>usufruit, tous les biens, meubles et
+               <lb/>immeubles que je laisserai.</p>
+            <p>Le présent testament a été <lb/>fait par moi, <persName ref="#pers-343">Raimond
+                  Lucien <lb/><surname>Polle</surname></persName>, librement en pleine santé et
+               <lb/>raison ; il a été écrit en entier, daté <lb/>et signé de ma main.</p>
+            <dateline><placeName type="willPlace" ref="#pl-2">Paris</placeName> <date type="willDate" when="1914-08-03">le <choice>
+                     <sic>Trois Août</sic>
+                     <corr>trois août</corr>
+                  </choice><choice><sic><surplus>(Mil)</surplus></sic><corr/></choice> <lb/><choice>
+                     <sic>Mille</sic>
+                     <corr>mille</corr>
+                  </choice> neuf <choice>
+                     <sic>Cent Quatorze</sic>
+                     <corr>cent quatorze</corr></choice></date>.</dateline>
+            <signed rend="centered"><persName ref="#pers-343"><surname>Polle</surname>
+               R</persName></signed>
+         </div>
+         <div type="envelope">
+            <pb facs="#FRAN_Poilus_t-0290_02"/>
+            <p rend="centered"><choice>
+                        <sic>à</sic>
+                        <corr>À</corr>
+                     </choice> ouvrir <lb/>à mon <choice>
+                        <sic>dècés</sic>
+                        <corr>décès.</corr>
+                     </choice></p>
+            <metamark function="emphasis" rend="horizontal-line"/>
+            <signed rend="centered"><persName ref="#pers-343"><surname>Polle</surname>
+               R</persName></signed>
+            <pb facs="#FRAN_Poilus_t-0290_03"/>
+            <signed rend="centered"><persName ref="#pers-343"><surname>Polle</surname>
+               R</persName></signed>
+         </div>
+      </body>
+   </text>
+</TEI>

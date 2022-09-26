@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0147">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title>
+                <title type="main">[Testament de Amour Louis Georges Bertrand de Bouillé du Chariol, marquis de Bouillé (8 janvier 1917)] : édition électronique</title>
+                <author><persName ref="#pers-209">Amour Louis Georges Bertrand de Bouillé du Chariol, marquis de Bouillé (1860-1917)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique. Département de la Conservation. Atelier photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#BDavy">Benjamin Davy</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#SL.">EG</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0147</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0147_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LXIX/1556, minute du 14 décembre 1917 (dépôt du testament de Amour Louis Georges Bertrand de Bouillé du Chariol, marquis de Bouillé)</idno>
+                        <msName>Testament de Amour Louis Georges Bertrand de Bouillé du Chariol, marquis de Bouillé (8 janvier 1917)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1917-01-08">8 janvier 1917</date>. <placeName type="willPlace">aux armées</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-209"><forename>Amour</forename> <forename>Louis</forename> <forename>Georges</forename> <forename>Bertrand</forename> <surname>Bouillé du Chariol</surname></persName>, mort pour la France le <date when="1917-10-11">11 octobre 1917</date> devant <placeName ref="#pl-18">Verdun (Meuse)</placeName>.</p>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier de deuil (testament). </support>
+                                <extent>3 pages. Dimensions du testament : <dimensions type="willPage" unit="cm"><height>16,4</height><width>12</width></dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010196">étude notariale 069 (CRPCEN : 75007)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0147_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LXIX/1556, minute du 14 décembre 1917 (dépôt du testament de Amour Louis Georges Bertrand de Bouillé du Chariol, marquis de Bouillé)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1917-01-08">8 janvier 1917</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>8 janvier 1917. aux armées.</p>
+                <p>testament olographe de Amour Louis Georges Bertrand Bouillé du Chariol, mort pour la France le 11 octobre 1917 devant Verdun (Meuse).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-04-20/2018-04-26" who="#SL.">transcription</change>
+            <change when-iso="2018-04-20/2018-04-25" who="#PCharbonnier #FClavaud">validation</change>
+            <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0147___JPEG___FRAN_Poilus_t-0147_01.jpg" xml:id="FRAN_Poilus_t-0147_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0147___JPEG___FRAN_Poilus_t-0147_02.jpg" xml:id="FRAN_Poilus_t-0147_02"/>
+        </surface>
+        <surface type="will-page" n="03">
+            <graphic url="testament_AN_0147___JPEG___FRAN_Poilus_t-0147_03.jpg" xml:id="FRAN_Poilus_t-0147_03"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0147">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0147_01"/>
+                <head rend="centered">Ceci est mon testament</head>
+                <metamark function="separating" rend="horizontal-line"/>
+                <p>Je demande pardon à Dieu des fautes de ma vie, <lb/>je lui offre de tout cœur les misères et les douleurs <lb/>physiques qu’il lui plairait de m’envoyer en <lb/>réparation infime des mes péchés et je mets toute ma <lb/>confiance dans sa miséricorde infinie<choice><sic> -</sic><corr>.</corr></choice></p>
+                <p>Je remercie ma chère femme des années de bonheur <lb/>qu’elle m’a données et lui demande son indulgence <lb/>pour ma mémoire<choice><sic> -</sic><corr>.</corr></choice></p>
+                <p>Je demande à mes chers enfants d’être persuadés <lb/>que j’ai toujours cherché leur bien moral et matériel<choice><sic> -</sic><corr> ;</corr></choice> <lb/>je me suis efforcé de les élever en chrétiens, j’espère <lb/>qu’ils continueront à se maintenir dans la voie <lb/>qui leur a été ouverte<choice><sic> -</sic><corr>.</corr></choice> En avançant dans <lb/>l’existence ils se rendront compte qu’ils sont parmi <lb/>les <choice><sic>priviliégiés</sic><corr>privilégiés</corr></choice> de ce monde et qu’ils auront à justifier <lb/>devant Dieu des faveurs qu’Il leur a accordées<choice><sic> -</sic><corr> ;</corr></choice> <lb/>ils comprendront qu’ayant des loisirs, le plus grand <lb/>danger pour eux est l’oisiveté<choice><sic> -</sic><corr>.</corr></choice> Si les circonstances <lb/>le leur permettent, qu’ils cherchent à se rendre <lb/>utiles à leur pays<choice><sic> -</sic><corr>.</corr></choice> L’un d’eux expose déjà sa <lb/>vie pour le défendre, l’autre veut suivre l’exemple <lb/>de son frère, que Dieu les assiste<choice><sic> -</sic><corr>.</corr></choice></p>
+                <pb facs="#FRAN_Poilus_t-0147_02"/>
+                <p>Tant que vous aurez votre mère, mes chers petits, <lb/><choice><sic>respectez la, aimez la, consultez la</sic><corr>respectez-la, aimez-la, consultez-la</corr></choice> dans vos désirs, <lb/>ayez toute confiance dans la haute rectitude de son <lb/>jugement et ouvrez vos cœurs à sa tendresse<choice><sic> -</sic><corr>.</corr></choice></p>
+                <p>Notre cousine la <persName><choice><abbr>M<hi rend="superscript-underlined">ise</hi></abbr><expan>marquise</expan></choice> de Rambures, née Bouillé</persName>, <lb/>m’ayant assuré la propriété d’une somme d’environ <lb/>150000 <choice><abbr>fr.</abbr><expan>francs</expan></choice> pour la remettre à son filleul <persName>Antoine</persName>, <lb/>je désire que <persName>Pierre</persName>, outre sa part de ma fortune, <lb/>reçoive encore sur celle-ci une somme équivalente <lb/>à l’avantage fait à son frère<choice><sic> -</sic><corr>.</corr></choice> Pour le reste de mes <lb/>biens, vous vous les partagerez selon vos <choice><sic>gouts</sic><corr>goûts</corr></choice>.</p>
+                <p>Quelques objets, souvenirs de ma famille, semblen<supplied reason="hidden" quantity="1" resp="#SL." unit="chars">t</supplied> <lb/>particulièrement destinés à continuer à rester entre <lb/>les mains de l’<choice><sic>ainé</sic><corr>aîné</corr></choice> et, sans lui donner d’orgueil, <lb/>doivent lui rappeler qu’il n’y a pas eu que des <lb/>zéros dans le nombre de nos <choice><sic>grands parents -</sic><corr>grands-parents.</corr></choice></p>
+                <p>Puissent mes enfants, à leur tour, s’efforcer de prendr<supplied unit="chars" reason="hidden" quantity="1" resp="#SL.">e</supplied> <lb/>une place honorable dans la suite de notre famille<choice><sic> -</sic><corr>.</corr></choice> <lb/>Que Pierre se souvienne que l’exemple de l’<choice><sic>ainé</sic><corr>aîné</corr></choice> peut <lb/>être capital pour le bien comme pour le malheur de son <lb/>cadet et puissent les deux frères toujours maintenir <lb/>entre eux la tendresse d’une affection réciproque<choice><sic> -</sic><corr>.</corr></choice></p>
+                <p>Je désire que la subrogée tutelle de mes enfants soit <lb/>confiée à mon cousin le <persName><choice><abbr>M<hi rend="superscript-underlined">is</hi></abbr><expan>marquis</expan></choice> d’Estampes</persName> à qui je deman<supplied unit="chars" reason="hidden" quantity="2" resp="#SL.">de</supplied> <pb facs="#FRAN_Poilus_t-0147_03"/>de me donner encore cette marque d’amitié et de trouver <lb/>ici une nouvelle expression de toute mon affection <lb/>pour <choice><sic>lui même</sic><corr>lui-même</corr></choice> et pour ses parents.<choice><sic><surplus>-</surplus></sic><corr/></choice></p>
+                <p>Je donne et lègue à <persName>la <choice><abbr>M<hi rend="superscript-underlined">ise</hi></abbr><expan>marquise</expan></choice> de Bouillé</persName>, ma femme, <lb/>l’usufruit de toute ma fortune, sans exception ni réserve<choice><sic> -</sic><corr>.</corr></choice> <lb/>En cas d’existence d’enfants ou d’autres descendants, ce <lb/>legs sera réduit à un quart en toute propriété et un <lb/>quart en usufruit de tous les biens composant ma <lb/>succession, y compris les rapports<choice><sic> -</sic><corr>.</corr></choice> Pour jouir de <lb/>son usufruit, ma femme sera dispensée de caution <lb/>et d’emploi<choice><sic> -</sic><corr>.</corr></choice></p>
+                <p>Si je meurs à la guerre je désire rester au milieu <lb/>de ces pauvres soldats dont j’ai pu apprécier le <lb/>dévouement et admirer les qualités<choice><sic> -</sic><corr>.</corr></choice></p>
+                <p>Si je meurs à <placeName>Neuvy</placeName>, "l’Amicale" voudra <choice><sic>peut être</sic><corr>peut-être</corr></choice> <lb/>me donner un souvenir, mais je demande qu’elle <lb/>me donne la même couronne qu’à ses autres <lb/>membres et qu’il n’y ait pas de discours<choice><sic> -</sic><corr>.</corr></choice></p>
+                <p>Mon Dieu que votre volonté soit faite<choice><sic> -</sic><corr>.</corr></choice></p>
+                <p>Mon Dieu ayez pitié de moi<choice><sic> -</sic><corr>.</corr></choice></p>
+                <signed rend="right"><persName ref="#pers-209">Bde <surname>Bouillé</surname></persName></signed>
+                <dateline rend="left"><date type="willDate" when="1917-01-08">8 <choice><sic>Janvier</sic><corr>janvier</corr></choice> 1917</date> <lb/>aux Armées<choice><sic/><corr>.</corr></choice></dateline>
+                <metamark function="other" rend="horizontal-line"/>
+            </div>
+        </body>
+    </text>
+</TEI>

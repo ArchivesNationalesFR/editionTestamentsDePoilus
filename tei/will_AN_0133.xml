@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0133">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title>
+                <title type="main">[Testament de Stéphane Jean Raoul de Cossette (10 mai 1915)] : édition électronique</title>
+                <author><persName ref="#pers-195">Stéphane Jean Raoul de Cossette (1882-1918)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique. Département de la Conservation. Atelier photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#MDeuve">Mathilde Deuve</persName>
+                    <persName ref="#AM">Aurélie Massie</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#melcef">melcef</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0133</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0133_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XLVIII/1764, minute du 10 décembre 1918 (dépôt du testament de Stéphane Jean Raoul de Cossette)</idno>
+                        <msName>Testament de Stéphane Jean Raoul de Cossette (10 mai 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1915-05-10">10 mai 1915</date>. <placeName type="willPlace">inconnu</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-195"><forename>Stéphane</forename> <forename>Jean</forename> <forename>Raoul</forename> <surname>de Cossette</surname></persName>, mort pour la France le <date when="1918-10-29">29 octobre 1918</date> à l’<placeName ref="#pl-325">hôpital complémentaire n° 46 de Courcelles (Seine et Oise)</placeName>.</p>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier réglé (testament). Enveloppe (enveloppe). </support>
+                                <extent>1 page et 1 enveloppe. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>17,5</height>
+                                        <width>11</width>
+                                    </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                                        <height>9,5</height>
+                                        <width>12</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : crayon. Enveloppe : crayon bleu.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010175">étude notariale 048 (CRPCEN : 75047)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0133_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XLVIII/1764, minute du 10 décembre 1918 (dépôt du testament de Stéphane Jean Raoul de Cossette)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-05-10">10 mai 1915</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>10 mai 1915. inconnu.</p>
+                <p>testament olographe de Stéphane Jean Raoul de Cossette, mort pour la France le 29 octobre 1918 à l’hôpital complémentaire n° 46 de Courcelles (Seine etOise).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-04-20/2019-05-02" who="#SL. #MFGarreau #lelia #melcef">transcription</change>
+            <change when-iso="2018-04-20/2018-10-07" who="#PCharbonnier #FClavaud">validation</change>
+            <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="03">
+            <graphic url="testament_AN_0133___JPEG___FRAN_Poilus_t-0133_03.jpg" xml:id="FRAN_Poilus_t-0133_03"/>
+        </surface>
+        <surface type="will-envelope-recto" n="04">
+            <graphic url="testament_AN_0133___JPEG___FRAN_Poilus_t-0133_04.jpg" xml:id="FRAN_Poilus_t-0133_04"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0133">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0133_03"/>
+                <dateline><placeName type="willPlace">Coxyde</placeName> le <date when="1915-05-10">10 mai</date></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Ceci est mon testament fait sain de <lb/>corps et d’esprit<choice><sic/><corr>,</corr></choice> par lequel je <choice><sic>legue a</sic><corr>lègue à</corr></choice> <lb/>mon <choice><sic>neveux</sic><corr>neveu</corr></choice> <persName>Pierre de Cossette</persName> toute ma <lb/>fortune<choice><sic/><corr>,</corr></choice> en en laissant la jouissance <lb/><choice><sic>a</sic><corr>à</corr></choice> mon <choice><sic>frere</sic><corr>frère</corr></choice> <persName>Henry</persName> et <choice><sic>a</sic><corr>à</corr></choice> ma <choice><sic>belle sœur</sic><corr>belle-sœur</corr></choice> <lb/>leur vie durant<choice><sic/><corr>.</corr></choice></p>
+                <p><choice><sic>A</sic><corr>À</corr></choice> ma <choice><sic>niece</sic><corr>nièce</corr></choice> <persName>Nicole</persName><choice><sic/><corr>,</corr></choice> la somme d’environ <lb/><choice><abbr>8000<hi rend="superscript">fr</hi></abbr><expan>8000 francs</expan></choice> placée au <orgName>Crédit <choice><sic>Foncier</sic><corr>foncier</corr></choice></orgName><choice><sic/><corr>,</corr></choice> provenant <lb/>de la vente de la maison d’<placeName type="otherPlace" ref="#pl-170">Abbeville</placeName> et <lb/>dont ma mère a l’usufruit<choice><sic/><corr>.</corr></choice></p>
+                <dateline rend="centered">Fait <choice><sic>a</sic><corr>à</corr></choice> <placeName type="willPlace">Coxyde</placeName> le <date type="willDate" when="1915-05-10">10 mai 1915</date><choice><sic/><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="centered"><persName ref="#pers-195">St de <surname>Cossette</surname></persName></signed>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0133_04"/>
+                <p rend="centered"><address><addrLine><choice><abbr>M<hi rend="superscript-double-underlined">dme</hi></abbr><expan>Madame</expan></choice> la <choice><abbr>V<hi rend="superscript-double-underlined">tesse</hi></abbr><expan>vicomtesse</expan></choice> de Cossette</addrLine><addrLine>7 <choice><sic>Rue</sic><corr>rue</corr></choice> de Talleyrand</addrLine><addrLine><placeName type="otherPlace" ref="#pl-2">Paris</placeName></addrLine></address></p>
+            </div>
+        </body>
+    </text>
+</TEI>

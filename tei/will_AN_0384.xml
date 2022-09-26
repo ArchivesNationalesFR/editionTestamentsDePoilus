@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0384">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la
+               Grande Guerre</title>
+            <title type="main">[Testament de Eugène Adrien Roland Georges Garros (20 juin 1918)] :
+               édition électronique</title>
+            <author><persName ref="#pers-526">Eugène Adrien Roland Georges Garros
+                  (1888-1918)</persName></author>
+            <editor ref="#CNougaret">Christine Nougaret</editor>
+            <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+            <editor ref="#FClavaud">Florence Clavaud</editor>
+            <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>Première édition électronique, fondée sur un travail de transcription
+               collaborative</edition>
+            <respStmt>
+               <resp>Numérisation</resp>
+               <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                  scientifique. Département de la Conservation. Atelier photographique</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Transcription</resp>
+               <persName ref="#MFGarreau">MFGarreau</persName>
+               <persName ref="#lelia">Lélia Picabia</persName>
+               <persName ref="#DAccoulon">DAccoulon</persName>
+               <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Validation</resp>
+               <persName ref="#jmorvan">Josselin Morvan</persName>
+               <persName ref="#CNougaret">Christine Nougaret</persName>
+               <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+               <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+               <persName ref="#FClavaud">Florence Clavaud</persName>
+               <persName ref="#jmorvan">Josselin Morvan</persName>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+            <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+            <publisher><orgName ref="#AD78">Archives départementales des
+               Yvelines</orgName></publisher>
+            <publisher><orgName>École nationale des chartes</orgName></publisher>
+            <publisher><orgName ref="#AD95">Archives départementales du
+               Val-d’Oise</orgName></publisher>
+            <date when="2021-09">septembre 2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                  4.0</licence>
+            </availability>
+            <idno>TestamentsDePoilus_will_AN_0384</idno>
+            <!--ultérieurement ajouter idno fourni par Nakala-->
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="will_AN_0384_tes">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives nationales</institution>
+                  <collection>Minutier central des notaires de Paris</collection>
+                  <idno>MC/ET/LXXXVI/1790, minute du 27 janvier 1919 (dépôt du testament de Eugène
+                     Adrien Roland Georges Garros)</idno>
+                  <msName>Testament de Eugène Adrien Roland Georges Garros (20 juin 1918)</msName>
+               </msIdentifier>
+               <msContents>
+                  <summary><p><date type="willDate" when="1918-06-20">20 juin 1918</date>.
+                           <placeName type="willPlace" ref="#pl-423">Lieu de rédaction inconnu</placeName>.</p><p><term type="willType">testament olographe</term> de <persName ref="#pers-526"><forename>Eugène</forename> 
+                           <forename>Adrien</forename> 
+                           <forename>Roland</forename> 
+                           <forename>Georges</forename> 
+                           <surname>Garros</surname></persName>, mort pour la France le <date when="1918-10-05">5 octobre 1918</date> à <placeName ref="#pl-781">région sud-ouest de Vouziers
+                     (Ardennes)</placeName>.</p></summary>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>Papier à lettre bleu (testament). Enveloppe bleue (enveloppe). </support>
+                        <extent>3 pages et 1 enveloppe. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                              <height>20,8</height>
+                              <width>16,7</width>
+                           </dimensions>. Dimensions de l’enveloppe : <dimensions type="willEnvelope" unit="cm">
+                              <height>11</height>
+                              <width>17,3</width>
+                           </dimensions>.</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <p>Testament : encre. Enveloppe : encre.</p>
+                  </handDesc>
+               </physDesc>
+               <history>
+                  <provenance><!--agencyNumberRoman=LXXXVI--><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010213">étude notariale 86 (CRPCEN : 75113)</orgName></provenance>
+               </history>
+            </msDesc>
+            <msDesc xml:id="will_AN_0384_min">
+               <msIdentifier>
+                  <country>France</country>
+                  <institution>Archives nationales</institution>
+                  <collection>Minutier central des notaires de Paris</collection>
+                  <idno>MC/ET/LXXXVI/1790, minute du 27 janvier 1919 (dépôt du testament de Eugène
+                     Adrien Roland Georges Garros)</idno>
+                  <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                     minute</msName>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation><date type="willDate" when="1918-06-20">20 juin 1918</date></creation>
+         <langUsage>
+            <language ident="fr">français</language>
+         </langUsage>
+         <abstract>
+            <p>20 juin 1918. Lieu de rédaction inconnu.</p>
+            <p>Testament olographe de Eugène Adrien Roland Georges Garros, mort pour la France le 5
+               octobre 1918 à région sud-ouest de Vouziers (Ardennes).</p>
+         </abstract>
+         <textClass>
+            <keywords>
+               <term type="subject">Grande Guerre</term>
+               <term type="subject">Poilu</term>
+               <term type="subject">testament</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when-iso="2020-08-19/2020-11-29" who="#MFGarreau #lelia #DAccoulon #GBMireille">transcription</change>
+         <change when-iso="2020-08-19/2020-10-15" who="#jmorvan #CNougaret #PCharbonnier">validation</change>
+         <change who="#FClavaud #PCharbonnier" when-iso="2021-07-30+02:00"> enrichissements et
+            contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+      <surface type="will-page" n="01">
+         <graphic url="testament_AN_0384___JPEG___FRAN_Poilus_t-0384_01.jpg" xml:id="FRAN_Poilus_t-0384_01"/>
+      </surface>
+      <surface type="will-page" n="02">
+         <graphic url="testament_AN_0384___JPEG___FRAN_Poilus_t-0384_02.jpg" xml:id="FRAN_Poilus_t-0384_02"/>
+      </surface>
+      <surface type="will-page" n="03">
+         <graphic url="testament_AN_0384___JPEG___FRAN_Poilus_t-0384_03.jpg" xml:id="FRAN_Poilus_t-0384_03"/>
+      </surface>
+      <surface type="will-envelope-verso" n="04">
+         <graphic url="testament_AN_0384___JPEG___FRAN_Poilus_t-0384_04.jpg" xml:id="FRAN_Poilus_t-0384_04"/>
+      </surface>
+      <surface type="will-envelope-verso" n="05">
+         <graphic url="testament_AN_0384___JPEG___FRAN_Poilus_t-0384_05.jpg" xml:id="FRAN_Poilus_t-0384_05"/>
+      </surface>
+   </facsimile>
+   <text xml:id="will_AN_0384">
+      <body>
+         <div type="will">
+            <pb facs="#FRAN_Poilus_t-0384_01"/>
+            <dateline rend="centered"><date type="willDate" when="1918-06-20">Le vingt <choice>
+                     <sic>Juin</sic>
+                     <corr>juin</corr>
+                  </choice> 1918</date></dateline>
+            <space dim="vertical" unit="lines" quantity="1"/>
+            <head>Ceci est mon testament.</head>
+            <p>Ce testament annule le précédent, <lb/>déposé depuis plusieurs années <lb/>chez un
+               notaire de <placeName type="otherPlace" ref="#pl-2">Paris</placeName>.</p>
+            <space dim="vertical" unit="lines" quantity="1"/>
+            <p>Je confie à mon père et à mon <lb/>ami <persName>Audemars</persName> l’exécution du <lb/>présent testament.</p>
+            <p>Mon actif sera réalisé et divisé <lb/>en deux parts égales : l’une <lb/>sera déposée
+               dans une banque, <lb/>pour être remise à ma sœur <lb/><persName>Gilberte</persName>
+               le jour de sa majorité. <lb/>L’autre, sera remise <choice>
+                  <sic>immédiate-<lb/>-ment</sic>
+                  <corr>immédiate<lb break="no"/>ment</corr>
+               </choice> à mon amie <persName>Mademoiselle <lb/>Marcelle Gorge</persName>.</p>
+            <pb facs="#FRAN_Poilus_t-0384_02"/>
+            <p>Si je tombe sur le champ de <lb/>bataille, je désire être enterré <lb/>sur place.</p>
+            <p>Je m’oppose formellement à <lb/>toute cérémonie religieuse.</p>
+            <p>Je suis athée. Je ne veux aucun <lb/>signe de croix ni sur mon cercueil <lb/>ni sur
+               ma tombe.</p>
+            <p>Je ne veux pas de fleurs, pas de <lb/>couronnes, surtout aucun discours.</p>
+            <p>Je ne veux pas que ma mère, ni <lb/>ma sœur, ni mon amie, ni mon <lb/>père viennent
+               voir ma dépouille. <lb/>Je ne veux pas qu’ils assistent <lb/>à mes funérailles. Que
+               personne <lb/>n’y soit un spectacle au <pb facs="#FRAN_Poilus_t-0384_03"/>sadisme de
+               la foule.</p>
+            <space dim="vertical" unit="lines" quantity="1"/>
+            <p>Mes amis savent que l’<choice><sic>inobser-<lb/>-vation</sic><corr>inobser<lb break="no"/>vation</corr></choice> de mes derniers désirs <lb/>serait la plus triste infidélité <lb/>à ma
+               mémoire.</p>
+            <signed rend="centered"><hi rend="underlined"><persName ref="#pers-526"><surname>Garros</surname></persName></hi></signed>
+         </div>
+         <div type="envelope">
+            <pb facs="#FRAN_Poilus_t-0384_04"/>
+            <p rend="centered"><date type="willDate" when="1918-06-20">20 <choice>
+               <sic>Juin</sic>
+               <corr>juin</corr>
+                  </choice> 1918</date></p>
+            <space dim="vertical" unit="cm" quantity="3"/>
+            <signed rend="centered"><hi rend="underlined"><persName ref="#pers-526"><surname>Garros</surname></persName></hi></signed>
+            <pb facs="#FRAN_Poilus_t-0384_05"/>
+            <space dim="vertical" quantity="4" unit="lines"/>
+            <signed rend="centered"><hi rend="underlined"><persName ref="#pers-526"><surname>Garros</surname></persName></hi></signed>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0287">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de André Lambert (02/03/1918)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-341">André Lambert (1878-1918)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021-09">septembre 2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0287</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0287_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVI/1430, minute du 04/12/1918 (dépôt du testament de André
+                            Lambert)</idno>
+                        <msName>Testament de André Lambert (02/03/1918)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1918-03-02">02/03/1918</date>.
+                                    <placeName type="willPlace" ref="#pl-423">inconnu</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-341"><forename>André</forename> 
+                                    <surname>Lambert</surname></persName>, mort pour la France le
+                                    <date when="1918-06-04">04/06/1918</date> dans l’<placeName ref="#pl-48">ambulance 5/59 SP 16H à Compiègne
+                                    (Oise)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à lettre prédécoupé (testament). </support>
+                                <extent>4 pages et 1 enveloppe. Dimensions du testament :
+                                        <dimensions type="willPage" unit="cm">
+                                        <height>16,8</height>
+                                        <width>10,5</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre verte.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><!--agencyNumberRoman=LVI--><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010183">étude notariale 56 (CRPCEN : 75040)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0287_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVI/1430, minute du 04/12/1918 (dépôt du testament de André
+                            Lambert)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1918-03-02">02/03/1918</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>02/03/1918. inconnu.</p>
+                <p>Testament olographe de André Lambert, mort pour la France le 04/06/1918 dans
+                    l’ambulance 5/59 SP 16H à Compiègne (Oise).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-02-12/2020-12-18" who="#MFGarreau #lelia #GBMireille">transcription</change>
+            <change when-iso="2019-02-12/2020-07-01" who="#jmorvan #PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2021-07-30+02:00"> enrichissements et
+                contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0287___JPEG___FRAN_Poilus_t-0287_01.jpg" xml:id="FRAN_Poilus_t-0287_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0287___JPEG___FRAN_Poilus_t-0287_02.jpg" xml:id="FRAN_Poilus_t-0287_02"/>
+        </surface>
+        <surface type="will-page" n="03">
+            <graphic url="testament_AN_0287___JPEG___FRAN_Poilus_t-0287_03.jpg" xml:id="FRAN_Poilus_t-0287_03"/>
+        </surface>
+        <surface type="will-page" n="04">
+            <graphic url="testament_AN_0287___JPEG___FRAN_Poilus_t-0287_04.jpg" xml:id="FRAN_Poilus_t-0287_04"/>
+        </surface>
+        <surface type="will-envelope-recto" n="05">
+            <graphic url="testament_AN_0287___JPEG___FRAN_Poilus_t-0287_05.jpg" xml:id="FRAN_Poilus_t-0287_05"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0287">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0287_01"/>
+                <head><placeName type="willPlace">Aux <choice>
+                            <sic>armées</sic>
+                            <corr>Armées</corr>
+                        </choice></placeName>
+                    <date type="willDate" when="1918-03-02">le deux <lb/>mars mil neuf cent <lb/><choice>
+                            <sic>dix huit</sic>
+                            <corr>dix-huit</corr>
+                        </choice></date></head>
+                <p>Je <choice>
+                        <sic>desire</sic>
+                        <corr>désire</corr>
+                    </choice> que ma <choice>
+                        <sic>mere</sic>
+                        <corr>mère</corr>
+                    </choice>
+                    <lb/>soit mon unique héritière <lb/>et légataire
+                            universelle<choice><sic/><corr>,</corr></choice>
+                    <lb/>entendant que rien de ce <lb/>que je laisse ne revienne <lb/>à mon
+                    père.</p>
+                <p>Actif compte 3304, <orgName><choice>
+                            <sic>société</sic>
+                            <corr>Société</corr>
+                        </choice>
+                        <lb/>générale</orgName><choice><sic/><corr>,</corr></choice> 91 avenue des <lb/><choice>
+                        <sic>Champs Elyses</sic>
+                        <corr>Champs-Élysées,</corr>
+                    </choice>
+                    <lb/>comprenant une somme <lb/>liquide et quelques actions <lb/>et
+                            obligations<choice><sic/><corr>,</corr></choice>
+                    <lb/>une créance de 3000<choice><abbr><hi rend="superscript">f</hi></abbr><expan> francs</expan></choice> sur <pb facs="#FRAN_Poilus_t-0287_02"/><persName>Monsieur Lejeune</persName>
+                    demeurant <lb/>à <placeName type="otherPlace">Garches</placeName><choice><sic/><corr>,</corr></choice> 27 avenue
+                            <choice><sic>Brezin</sic><corr>Brézin</corr></choice>
+                    <lb/>(<choice><sic>verifier</sic><corr>vérifier</corr></choice> si la somme a
+                    été <lb/>remboursée ou non au compte <lb/>3304 à la <orgName><choice>
+                            <sic>Societe Generale</sic>
+                            <corr>Société générale</corr>
+                        </choice></orgName>
+                    <lb/>et donner toutes <choice>
+                        <sic>facilites</sic>
+                        <corr>facilités</corr>
+                    </choice> de <lb/>paiement).</p>
+                <p><choice>
+                                <sic>lu</sic>
+                                <corr>Plus</corr>
+                            </choice> ma <choice>
+                        <sic>propriéte</sic>
+                        <corr>propriété</corr>
+                    </choice> de deux <lb/>maisons dont mon père et <lb/>ma mère sont
+                            usufruitiers<choice><sic>.</sic><corr>,</corr></choice>
+                    <lb/>et quelques bijoux qui sont <lb/>aux mains de ma mère.</p>
+                <p>Je prie ma mère de vouloir <lb/>bien acquitter les legs
+                            suivants<choice><sic/><corr> :</corr></choice></p>
+                <p>Je donne à mon ami <persName>Henri
+                            <lb/>Rougier</persName><choice><sic/><corr>,</corr></choice> pilote
+                            aviateur<choice><sic/><corr>,</corr></choice>
+                    <lb/>10 rue de Cormeilles à <placeName><choice>
+                            <sic>Levallois <lb/>Perret</sic>
+                            <corr>Levallois-<lb break="no"/>Perret</corr></choice></placeName><choice><sic/><corr>,</corr></choice>
+                    ma montre bleue <pb facs="#FRAN_Poilus_t-0287_03"/>en <choice>
+                        <sic>email</sic>
+                        <corr>émail</corr></choice> venant de chez
+                            <orgName>Cartier</orgName><choice><sic/><corr> ;</corr></choice>
+                    <lb/>à mon ami <persName>Simon
+                        Miry</persName><choice><sic/><corr>,</corr></choice>
+                    <lb/>ma bague serpent avec <lb/>saphir
+                        bleu<choice><sic/><corr> ;</corr></choice>
+                    <lb/>à <persName>Pierre Juvenet</persName><choice><sic/><corr>,</corr></choice>
+                    27 rue <lb/>Taitbout<choice><sic/><corr>,</corr></choice> mon fer à cheval
+                    <lb/>avec diamants. <lb/><choice><sic>tous</sic>
+                        <corr>Tous</corr></choice> mes autres bijoux devront <lb/>être partagés
+                    entre mes trois <lb/>neveux et ma
+                        nièce<choice><sic>.</sic><corr>,</corr></choice>
+                    <lb/><persName>Roger</persName> et <persName><choice>
+                            <sic>Francois</sic>
+                            <corr>François</corr>
+                        </choice>
+                        <unclear reason="quite-illegible">Girche</unclear></persName><choice><sic/><corr>,</corr></choice>
+                    <lb/><persName>Simone</persName> et <persName>Jean Moundlie</persName>. <lb/>Ma
+                    mère achètera deux <lb/>breloques d’environ 500<choice>
+                        <abbr><hi rend="superscript">f</hi></abbr><expan> francs</expan></choice>
+                    <lb/>chez <orgName>Cartier</orgName> pour être remises <lb/>à <persName>Madame
+                        Dru</persName> et <lb/>à <persName>Madame
+                                Rougier<choice><sic/><corr>,</corr></choice> née
+                            <lb/><unclear>Buisson</unclear></persName><choice><sic/><corr>,</corr></choice>
+                    demeurant <lb/>à <placeName type="otherPlace">Uriage</placeName>
+                            (Isère)<choice><sic/><corr>.</corr></choice></p>
+                <p>Je désire aussi qu’une <pb facs="#FRAN_Poilus_t-0287_04"/>bague d’une valeur de
+                    <lb/>2000<choice><abbr><hi rend="superscript">f</hi></abbr><expan> francs</expan></choice> soit remise à
+                        <lb/><persName>Madame Alaniesse</persName><add place="inline" type="testatorComment"> (Alaniesse)</add><choice><sic/><corr>,</corr></choice>
+                    <lb/>12 allée Thérèse, <placeName type="otherPlace">La Varenne
+                                <lb/><choice><sic>Saint Hilaire</sic><corr>Saint-Hilaire</corr></choice></placeName> (Seine), cette <lb/>bague devra être envoyée en <lb/>recommandé avec une carte <lb/><choice><sic/><corr>(</corr></choice><persName ref="#pers-341">André <surname>Lambert</surname></persName><choice><sic/><corr>,</corr></choice> mort aux <lb/><choice><sic>armées</sic><corr>Armées</corr></choice>)<choice><sic/><corr>.</corr></choice></p>
+                <p>Ma mère enverra aussi <lb/>une somme de 2500<choice><abbr><hi rend="superscript">f</hi></abbr><expan> francs</expan></choice> à <choice><abbr>M<hi rend="superscript">lle</hi></abbr><expan>Mademoiselle</expan></choice>
+                    <lb/><persName>Madeleine Pichard</persName>, mannequin <lb/>chez
+                    <orgName>Worth</orgName><choice><sic/><corr>,</corr></choice> demeurant 7 rue <lb/>du Transval<choice><sic/><corr>,</corr></choice>
+                    <placeName>La <choice><sic>Garenne <lb/>Colombes</sic><corr>Garenne-<lb break="no"/>Colombes</corr></choice></placeName> (Seine) (Carte <lb/><persName ref="#pers-341">André
+                        <surname>Lambert</surname></persName><choice><sic/><corr>,</corr></choice> mort aux <choice><sic>armées</sic><corr>Armées</corr></choice>).</p>
+                <dateline>Fait aux <choice><sic>armées</sic><corr>Armées</corr></choice>
+                    <date type="willDate" when="1918-03-02">le deux <lb/>mars mil neuf cent <choice><sic>dix huit</sic><corr>dix-huit.</corr></choice></date></dateline>
+                <signed rend="right"><persName ref="#pers-341">A
+                        <surname>Lambert</surname></persName></signed>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0287_05"/>
+                <p>Ceci est mon testament <lb/>aux bons soins de ma mère<choice><sic/><corr>.</corr></choice></p>
+                <signed rend="centered"><persName ref="#pers-341">A
+                        <surname>Lambert</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

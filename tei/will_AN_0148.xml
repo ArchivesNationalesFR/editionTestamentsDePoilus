@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0148">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title>
+                <title type="main">[Testament de Georges Emile Lucien Pérot (18 novembre 1915)] : édition électronique</title>
+                <author><persName ref="#pers-210">Georges Emile Lucien Pérot (1893-1917)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique. Département de la Conservation. Atelier photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#BDavy">Benjamin Davy</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#Lamotte">Isabelle Lamotte</persName>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0148</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0148_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LXIX/1561, minute du 14 septembre 1918 (dépôt du testament de Georges Emile Lucien Pérot)</idno>
+                        <msName>Testament de Georges Emile Lucien Pérot (18 novembre 1915)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1915-11-18">18 novembre 1915</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-210"><forename>Georges</forename> <forename>Emile</forename> <forename>Lucien</forename> <surname>Pérot</surname></persName>, mort pour la France le <date when="1917-07-30">30 juillet 1917</date> à <placeName ref="#pl-346">Prunay (Marne)</placeName>.</p>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>2 pages. Dimensions du testament : <dimensions type="willPage" unit="cm"><height>24,9</height><width>17,8</width></dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010196">étude notariale 069 (CRPCEN : 75007)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0148_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LXIX/1561, minute du 14 septembre 1918 (dépôt du testament de Georges Emile Lucien Pérot)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1915-11-18">18 novembre 1915</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>18 novembre 1915. Paris.</p>
+                <p>testament olographe de Georges Emile Lucien Pérot, mort pour la France le 30 juillet 1917 à Prunay (Marne).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-04-20/2018-11-15" who="#Lamotte #MFGarreau #SL. #lelia">transcription</change>
+            <change when-iso="2018-04-20/2018-11-14" who="#PCharbonnier #FClavaud">validation</change>
+            <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0148___JPEG___FRAN_Poilus_t-0148_01.jpg" xml:id="FRAN_Poilus_t-0148_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0148___JPEG___FRAN_Poilus_t-0148_02.jpg" xml:id="FRAN_Poilus_t-0148_02"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0148">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0148_01"/>
+                <p>Je soussigné <persName ref="#pers-210"><surname>Pérot</surname> Georges Emile <lb/>Lucien</persName>, brigadier au <orgName ref="#o-177">6<hi rend="superscript-underlined">e</hi> cuirassiers, 2<hi rend="superscript-underlined">e</hi> <lb/>escadron, secteur postal 37</orgName>, <seg type="willAuthorStateOfMind">sain de corps et <lb/>d’esprit mais exposé aux dangers de la <lb/>guerre</seg>, déclare consigner ici mes dernières <lb/>volontés pour le cas où je ne reviendrais pas.</p>
+                <p>Je prie ma mère ou à son défaut ma <lb/><choice><sic>grand mère</sic><corr>grand-mère</corr></choice> ou ma sœur ou la personne <lb/>qui recueillera ma succession à leur défaut <lb/>de bien vouloir exécuter les legs <choice><sic>ci dessous</sic><corr>ci-dessous</corr></choice> :</p>
+                <list>
+                    <item>Je lègue à mon ami <persName>Jacques <surname>Richard</surname></persName> <lb/>à <placeName type="otherPlace" ref="#pl-2">Paris</placeName><choice><sic/><corr>,</corr></choice> 35 avenue de l’Opéra, mon <lb/>automobile avec tous ses accessoires<choice><sic/><corr>,</corr></choice> ou le <lb/>prix à en revenir si elle est réquisitionnée ; <lb/>pour que de toute façon il ait un souvenir <lb/>de moi je lui lègue aussi mon portefeuille <lb/>avec lettres en or qui est dans mon coffre <lb/>à côté de ce papier ;</item>
+                    <item>Je lègue à mon ami <persName>Lucien <surname>Laby</surname></persName>, <lb/>demeurant à <placeName type="otherPlace">Lignières Châtelain (Somme)</placeName> <lb/>ma bourse en or comme souvenir ;</item>
+                    <item><choice><sic>A</sic><corr>À</corr></choice> ma filleule <persName>Madeleine <surname>Chapard</surname></persName><choice><sic/><corr>,</corr></choice> une <lb/>somme de cent mille francs que sa <lb/>mère lui remettra à titre de dot le jour <lb/>de son mariage ou de sa majorité<choice><sic/><corr>,</corr></choice> et dont <lb/>elle aura l’usufruit jusque là ;</item>
+                    <item><choice><sic>A</sic><corr>À</corr></choice> <persName>Germaine <surname>Cenraud</surname></persName>, demeurant aux <lb/><placeName>Combes, commune de Moyrazès, canton <lb/>de Rodez (Aveyron)</placeName><choice><sic/><corr>,</corr></choice> chez ses parents, qui <lb/>fut toujours pour moi l’amie la plus <pb facs="#FRAN_Poilus_t-0148_02"/>dévouée et désintéressée, une somme de <lb/>vingt mille francs, <hi rend="underlined">libre de toutes charges.</hi></item>
+                </list>
+                <p>Je supplie ma mère d’exécuter ce legs sans <lb/>regrets car elle a méconnu la légataire et <lb/>lui reproche des griefs que je lui certifie<add place="above"><metamark rend="cross" function="other"/></add><app><lem><add place="marginLeft" type="testatorComment">Fait un renvoi mais <lb/>sans mot nul<metamark rend="other" function="separating"/> <lb/><seg type="signature"><persName ref="#pers-210">GP</persName></seg></add></lem><note resp="#jmorvan">Mention "Fait un renvoi mais sans mot nul" ajoutée en marge et signée "GP".</note></app> être <lb/> mal fondés.</p>
+                <p>Si ma sœur <persName>Germaine Fricotelle</persName> a un ou <lb/>des enfants au jour de ma mort, je désire <lb/>que tout ce qui restera disponible de ma <lb/>succession, les legs <choice><sic>ci desssus</sic><corr>ci-dessus</corr></choice> un<supplied unit="chars" reason="hidden" quantity="1">e</supplied> fois exécutés <lb/>et les parts des réservataires prélevées<choice><sic/><corr>,</corr></choice><add place="above"><metamark function="other" rend="cross"/></add> <add place="marginLeft"><metamark function="other" rend="cross"/>leur revienne<metamark rend="other" function="separating"/></add>. Sinon<lb/> que ce soit ma <supplied reason="deleted">à</supplied> <choice><sic>Mère</sic><corr>mère</corr></choice>.</p>
+                <dateline rend="right">Fait à <placeName type="willPlace" ref="#pl-2">Paris, </placeName> en permission, <date type="willDate" when="1915-11-18">le <choice><sic>dix <lb/>huit</sic><corr>dix-<lb break="no"/>huit</corr></choice> novembre mil neuf cent quinze</date>.</dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="centered"><persName ref="#pers-210">Georges <surname>Pérot</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

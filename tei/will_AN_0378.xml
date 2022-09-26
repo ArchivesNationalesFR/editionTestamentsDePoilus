@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0378">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Victor Cler (16 février 1916)] : édition
+                    électronique</title>
+                <author><persName ref="#pers-520">Victor Cler (1884-1916)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#GBMireille">Mireille Grais-Bruguière</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021-09">septembre 2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0378</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0378_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LXXXVI/1778, minute du 8 juillet 1916 (dépôt du testament de
+                            Victor Cler)</idno>
+                        <msName>Testament de Victor Cler (16 février 1916)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1916-02-16">16 février 1916</date>.
+                                    <placeName type="willPlace" ref="#pl-773">o</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-520"><forename>Victor</forename> 
+                                    <surname>Cler</surname></persName>, mort pour la France le <date when="1916-04-25">25 avril 1916</date> à <placeName ref="#pl-654">Somme Bionne (Marne)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><!--agencyNumberRoman=LXXXVI--><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010213">étude notariale 86 (CRPCEN : 75113)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0378_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LXXXVI/1778, minute du 8 juillet 1916 (dépôt du testament de
+                            Victor Cler)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1916-02-16">16 février 1916</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>16 février 1916. o.</p>
+                <p>Testament olographe de Victor Cler, mort pour la France le 25 avril 1916 à Somme
+                    Bionne (Marne).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2020-08-19/2020-11-29" who="#lelia #MFGarreau #GBMireille">transcription</change>
+            <change when-iso="2020-08-19/2020-08-26" who="#jmorvan #PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2021-07-30+02:00"> enrichissements et
+                contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0378___JPEG___FRAN_Poilus_t-0378_01.jpg" xml:id="FRAN_Poilus_t-0378_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0378">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0378_01"/>
+                <dateline><choice>
+                        <sic>Au armêes</sic>
+                        <corr>Aux Armées</corr>
+                    </choice> <date type="willDate" when="1916-02-16">le 16 <choice>
+                            <sic>Fevier</sic>
+                            <corr>février</corr>
+                    </choice> 1916</date><choice><sic/><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="4"/>
+                <p>Ceci est mon testament <choice>
+                        <sic>rêvoquant</sic>
+                        <corr>révoquant</corr>
+                    </choice> <lb/>tous autres <choice><sic>antêrieurs</sic><corr>antérieurs</corr></choice>.</p>
+                <p>J’institue pour ma <choice>
+                        <sic>lègataire</sic>
+                        <corr>légataire</corr>
+                    </choice> <lb/>universelle <persName>Madame Marie <lb/>Bouko</persName><choice><sic/><corr>,</corr></choice> femme de <persName>Monsieur <lb/>Seigneur</persName>, avec lequel elle <lb/> demeure <choice><sic>a</sic><corr>à</corr></choice> <placeName type="otherPlace" ref="#pl-435">Malakoff</placeName><choice><sic/><corr>,</corr></choice> <choice><sic>Rue</sic><corr>rue</corr></choice> <lb/><choice><sic>Dèpinay</sic><corr>d’Épinay</corr></choice> <choice><sic>N<hi rend="superscript">o</hi></sic><corr>n°</corr></choice>15<choice><sic/><corr>.</corr></choice></p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <dateline rend="right">Fait aux <choice>
+                        <sic>Armêes</sic>
+                        <corr>Armées</corr>
+                    </choice> <lb/><date type="willDate" when="1916-02-16"><choice><sic>Le</sic><corr>le</corr></choice> 16 <choice>
+                            <sic>Fevrier</sic>
+                            <corr>février</corr>
+                    </choice> 1916</date><choice><sic/><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="right"><persName ref="#pers-520">Victor
+                    <surname>Cler</surname></persName> <lb/>au <orgName ref="#o-398">411<hi rend="superscript-underlined"><choice><sic>eme</sic><corr>e</corr></choice></hi> d’infanterie</orgName><choice><sic/><corr>,</corr></choice> <lb/><choice><abbr>7</abbr><expan>septième</expan></choice> <choice><sic>Compagnie</sic><corr>compagnie,</corr></choice> <lb/><choice><sic>Secteur Postal</sic><corr>secteur postal</corr></choice> <hi rend="underlined">174</hi><choice><sic/><corr>.</corr></choice></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

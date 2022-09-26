@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0278">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Léon Pierre Louis Emile Hochereau (29/07/1914)] :
+                    édition électronique</title>
+                <author><persName ref="#pers-332">Léon Pierre Louis Emile Hochereau
+                        (1874-1914)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021-09">septembre 2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0278</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0278_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVI/1414, minute du 23/08/1917 (dépôt du testament de Léon
+                            Pierre Louis Emile Hochereau)</idno>
+                        <msName>Testament de Léon Pierre Louis Emile Hochereau (29/07/1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-07-29">29/07/1914</date>.
+                                    <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-332"><forename>Léon</forename> 
+                                    <forename>Pierre</forename> 
+                                    <forename>Louis</forename> 
+                                    <forename>Emile</forename> 
+                                    <surname>Hochereau</surname></persName>, mort pour la France le
+                                    <date when="1914-08-24">24/08/1914</date> à <placeName ref="#pl-507">Crespin (Nord)</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>2 pages et 1 enveloppe. Dimensions du testament :
+                                        <dimensions type="willPage" unit="cm">
+                                        <height>24,9</height>
+                                        <width>17,8</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><!--agencyNumberRoman=LVI--><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010183">étude notariale 56 (CRPCEN : 75040)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0278_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LVI/1414, minute du 23/08/1917 (dépôt du testament de Léon
+                            Pierre Louis Emile Hochereau)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-07-29">29/07/1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>29/07/1914. Paris.</p>
+                <p>Testament olographe de Léon Pierre Louis Emile Hochereau, mort pour la France le
+                    24/08/1914 à Crespin (Nord).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2019-02-12/2020-12-17" who="#MFGarreau #SL. #lelia">transcription</change>
+            <change when-iso="2019-02-12/2020-08-31" who="#jmorvan #PCharbonnier">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2021-07-30+02:00"> enrichissements et
+                contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0278___JPEG___FRAN_Poilus_t-0278_01.jpg" xml:id="FRAN_Poilus_t-0278_01"/>
+        </surface>
+        <surface type="will-page" n="02">
+            <graphic url="testament_AN_0278___JPEG___FRAN_Poilus_t-0278_02.jpg" xml:id="FRAN_Poilus_t-0278_02"/>
+        </surface>
+        <surface type="will-envelope-verso" n="03">
+            <graphic url="testament_AN_0278___JPEG___FRAN_Poilus_t-0278_03.jpg" xml:id="FRAN_Poilus_t-0278_03"/>
+        </surface>
+        <surface type="will-envelope-verso" n="04">
+            <graphic url="testament_AN_0278___JPEG___FRAN_Poilus_t-0278_04.jpg" xml:id="FRAN_Poilus_t-0278_04"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0278">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0278_01"/>
+                <p>En cas de décès voici mes dernières volontés : <lb/><choice>
+                        <sic>Je</sic>
+                        <corr>je</corr>
+                </choice> désire assurer à <persName>Madame Eléonore Rohr<choice><sic/><corr>,</corr></choice></persName>
+                    <lb/>ma compagne depuis de longues années, à <lb/>qui j’adresse ici l’expression
+                    de mon amour et <lb/>de ma reconnaissance pour son constant <choice>
+                        <sic>dé-<lb/>-vouement</sic>
+                        <corr>dé<lb break="no"/>vouement</corr></choice>, les ressources nécessaires à une <lb/>vie honorable et je suis
+                    certain que ma <choice>
+                        <sic>Sœur</sic>
+                        <corr>sœur</corr>
+                    </choice><lb/>et ses enfants<choice><sic/><corr>,</corr></choice> qui la connaissent et qui <lb/>l’aiment<choice><sic/><corr>,</corr></choice> m’approuveront entièrement.</p>
+                <p><choice>
+                        <sic>A</sic>
+                        <corr>À</corr>
+                    </choice> cet effet je désire que sur ma succession <lb/>soient attribués à
+                        <persName>Madame Eléonore Rohr</persName> :</p>
+                <list>
+                    <item>1<hi rend="superscript-underlined">o</hi> Sur les valeurs mobilières
+                        déposées dans mon <lb/><choice>
+                            <sic>coffre fort</sic>
+                            <corr>coffre-fort</corr>
+                        </choice> du <orgName>Crédit <choice>
+                                <sic>Lyonnais</sic>
+                                <corr>lyonnais</corr>
+                            </choice></orgName><list>
+                            <item><hi rend="superscript">a</hi>) les deux <lb/>mille deux cents
+                                francs (<hi rend="superscript"><choice>
+                                        <abbr>2200f</abbr>
+                                        <expan>2200 francs</expan>
+                                    </choice></hi>) de rente <choice>
+                                    <sic>Fran-<lb/>-çaise</sic>
+                                    <corr>fran<lb break="no"/>çaise</corr>
+                                </choice> 3% ; </item>
+                            <item><hi rend="superscript">b</hi>) les <choice>
+                                    <sic>quarante huit</sic>
+                                    <corr>quarante-huit</corr>
+                                </choice> obligations <lb/><orgName>Crédit <choice>
+                                        <sic>Foncier</sic>
+                                        <corr>foncier</corr>
+                                    </choice></orgName> communales 1906 ; </item>
+                            <item><hi rend="superscript">c</hi>) les trente <lb/>obligations du
+                                    <orgName>Chemin de fer du Nord</orgName> ;</item><item><hi rend="superscript">d</hi>) les <lb/>soixante-dix obligations du
+                                    <orgName>Chemin de fer <lb/>de Paris à Lyon et à la
+                                    Méditerranée</orgName> fusion <lb/>nouvelle.</item>
+                        </list></item>
+                    <item>2<hi rend="superscript-underlined">o</hi> Tous les meubles, effets
+                        mobiliers et meubles <lb/>meublants <choice>
+                            <sic>existants</sic>
+                            <corr>existant</corr>
+                        </choice> dans notre appartement <lb/>du <choice>
+                            <abbr>n<hi rend="superscript-underlined">o</hi></abbr>
+                            <expan>numéro</expan>
+                        </choice> 6 place de Breteuil, ainsi que les <choice>
+                            <sic>me-<lb/>-nues</sic>
+                            <corr>me<lb break="no"/>nues</corr>
+                        </choice> sommes destinées au ménage et <choice>
+                            <sic>pou-<lb/>-vant</sic>
+                            <corr>pou<lb break="no"/>vant</corr>
+                        </choice> exister dans les tiroirs ou le coffre-fort.</item>
+                </list>
+                <p>Je désire que l’ensemble de ce <choice>
+                        <sic>leg</sic>
+                        <corr>legs</corr>
+                    </choice> soit <lb/>attribué à <persName>Madame Eléonore Rohr</persName><choice>
+                        <sic>abso-<lb/>-lument</sic>
+                        <corr>abso<lb break="no"/>lument</corr>
+                    </choice> net, tous les droits, impôts, amendes, <lb/>etc.<choice>
+                        <sic><surplus>...</surplus></sic>
+                        <corr/>
+                    </choice> devant être à la charge de ma succession. <lb/>(J’espère, n’étant pas
+                    juriste, avoir défini ma <pb facs="#FRAN_Poilus_t-0278_02"/>volonté d’une manière précise)<choice><sic/><corr>.</corr></choice></p>
+                <p>Sous cette réserve de paiement des droits, impôts, <lb/>amendes, <choice>
+                        <sic>etc...,</sic>
+                        <corr>etc.</corr>
+                </choice> tout le reste ira à ma <choice><sic>Sœur</sic><corr>sœur</corr></choice>, <lb/><persName>Madame Héna Peyramaure</persName><choice><sic/><corr>,</corr></choice> à qui j’adresse
+                    <lb/>ici l’expression de ma sincère affection ainsi <lb/>qu’à son mari et à ses
+                    enfants.</p>
+                <dateline><space dim="horizontal" unit="chars" quantity="14"/><placeName type="willPlace" ref="#pl-2">Paris</placeName> <date type="willDate" when="1914-07-29">le <choice>
+                            <sic>vingt neuf Juillet</sic>
+                            <corr>vingt-neuf juillet</corr>
+                        </choice> mil <lb/>neuf cent quatorze (29 juillet 1914)</date><choice><sic/><corr>.</corr></choice></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="centered"><persName ref="#pers-332">E
+                        <surname>Hochereau</surname></persName></signed>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <postscript>
+                    <p rend="centered"><persName ref="#pers-332"><choice>
+                                <abbr>Mr.</abbr>
+                                <expan>Monsieur</expan>
+                            </choice><surname>Hochereau</surname>, Léon, Pierre, Louis,
+                            Emile</persName>. <lb/>Architecte <lb/>6 place de Breteuil, <placeName type="willAuthorResidence" ref="#pl-2">Paris</placeName>.</p>
+                </postscript>
+            </div>
+            <div type="envelope">
+                <pb facs="#FRAN_Poilus_t-0278_03"/>
+                <p rend="centered"><metamark function="emphasis" rend="other"/>Ceci est mon <choice>
+                    <sic>Testament</sic>
+                    <corr>testament</corr>
+                </choice><metamark function="emphasis" rend="other"/></p>
+                <dateline rend="centered">- <date type="willDate" when="1914-07-29">29 juillet
+                        1914</date> -</dateline>
+                <signed rend="centered"><persName ref="#pers-332">E
+                        <surname>Hochereau</surname></persName></signed>
+                <pb facs="#FRAN_Poilus_t-0278_04"/>
+                <signed rend="centered"><persName ref="#pers-332">E
+                        <surname>Hochereau</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

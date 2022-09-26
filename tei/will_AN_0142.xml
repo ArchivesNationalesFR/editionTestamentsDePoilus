@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0142">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title>
+                <title type="main">[Testament de Jean Coppin (4 août 1914)] : édition électronique</title>
+                <author><persName ref="#pers-204">Jean Coppin (1878-1914)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique. Département de la Conservation. Atelier photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#BDavy">Benjamin Davy</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                    <persName ref="#LVieillon">Lucie Vieillon</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#SL.">EG</persName>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0142</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0142_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LXIX/1540, minute du 11 février 1915 (dépôt du testament de Jean Coppin)</idno>
+                        <msName>Testament de Jean Coppin (4 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1914-08-04">4 août 1914</date>. <placeName type="willPlace" ref="#pl-2">Paris</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-204"><forename>Jean</forename> <surname>Coppin</surname></persName>, mort pour la France le <date when="1914-11-30">30 novembre 1914</date> à <placeName ref="#pl-338">Parthenay (Deux-Sèvres), hôpital mixte rue de la Citadelle</placeName>.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier timbré réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm"><height>24,9</height><width>17,8</width></dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre bleue.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010196">étude notariale 069 (CRPCEN : 75007)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0142_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/LXIX/1540, minute du 11 février 1915 (dépôt du testament de Jean Coppin)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-04">4 août 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>4 août 1914. Paris.</p>
+                <p>testament olographe de Jean Coppin, mort pour la France le 30 novembre 1914 à Parthenay (Deux-Sèvres), hôpital mixte rue de la Citadelle.</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-04-20/2018-06-08" who="#SL. #lelia #MFGarreau">transcription</change>
+            <change when-iso="2018-04-20/2018-06-08" who="#PCharbonnier #FClavaud">validation</change>
+            <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0142___JPEG___FRAN_Poilus_t-0142_01b.jpg" xml:id="FRAN_Poilus_t-0142_01b"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0142">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0142_01b"/>
+                <head rend="centered">Ceci est mon testament</head>
+                <metamark function="separating" rend="horizontal-line"/>
+                <p>En cas de mort je déclare <lb/>par ce présent faire ma <lb/>femme <choice><sic>Née</sic><corr>née</corr></choice> <persName>Adèle <surname>Brûchon</surname></persName> <lb/>ma légataire universelle<choice><sic> -</sic><corr>,</corr></choice> <lb/>lui donnant ainsi tout droit <lb/>pour entrer en <choice><sic>possessions</sic><corr>possession</corr></choice> <lb/><supplied reason="deleted">de ce</supplied> <subst><del>qui</del><add>que</add></subst> comporte ma succession<choice><sic/><corr>,</corr></choice> <lb/>comprenant un <choice><sic>dêport</sic><corr>dépôt</corr></choice> de <lb/><choice><sic>valeur</sic><corr>valeurs</corr></choice> <lb/>au <orgName><choice><sic>crédit  Lyonnais</sic><corr>Crédit lyonnais,</corr></choice> <lb/><choice><sic>Agence</sic><corr>agence</corr></choice> W</orgName> <add place="inline">rue de Monceau</add><choice><sic/><corr>,</corr></choice> et dont ma femme <lb/>est en possession des <choice><sic>récipicés</sic><corr>récépissés,</corr></choice> <lb/>et de tout autre chose dont <lb/>elle pourra <choice><sic>en disposer <lb/>suivant comme qu’elle voudra</sic><corr>disposer suivant ce qu’elle voudra.</corr></choice></p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Fait en <choice><sic>possessions</sic><corr>possession</corr></choice> de <lb/>toutes mes facultés mentales<choice><sic/><corr>.</corr></choice></p>
+                <dateline>Fait <choice><sic>a</sic><corr>à</corr></choice> <placeName type="willPlace" ref="#pl-2">Paris</placeName> <lb/><app><lem>le <date type="willDate" when="1914-08-04">4 <choice><sic>Aout</sic><corr>août</corr></choice> 1914</date><choice><sic/><corr>.</corr></choice></lem><note resp="#jmorvan">La mention "le 4 août 1914" est centrée.</note></app></dateline>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <signed rend="right"><persName ref="#pers-204">Jean <surname>Coppin</surname></persName> <lb/><space dim="vertical" unit="lines" quantity="1"/>4 <choice><sic>Avenue</sic><corr>avenue</corr></choice> Hoche<choice><sic/><corr>,</corr></choice> <lb/><placeName type="willPlace" ref="#pl-2">Paris</placeName><choice><sic/><corr>.</corr></choice></signed>
+            </div>
+        </body>
+    </text>
+</TEI>

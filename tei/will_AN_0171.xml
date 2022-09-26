@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0171">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de
+                    la Grande Guerre</title>
+                <title type="main">[Testament de Maurice Alfred Antoine Gallimard (13/08/1914)] :
+                    édition électronique</title>
+                <author><persName ref="#pers-233">Maurice Alfred Antoine Gallimard
+                        (1873-1914)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription
+                    collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui
+                        scientifique. Département de la Conservation. Atelier
+                        photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#SL.">EG</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des
+                    Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du
+                    Val-d’Oise</orgName></publisher>
+                <date when="2021-09">septembre 2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY
+                        4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0171</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0171_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XVIII/1880, minute du 02/02/1915 (dépôt du testament de Maurice
+                            Alfred Antoine Gallimard)</idno>
+                        <msName>Testament de Maurice Alfred Antoine Gallimard (13/08/1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p><date type="willDate" when="1914-08-13">13/08/1914</date>.
+                                    <placeName type="willPlace" ref="#pl-381">Florenville</placeName>.</p><p><term type="willType">testament
+                                    olographe</term> de <persName ref="#pers-233"><forename>Maurice</forename> 
+                                    <forename>Alfred</forename> 
+                                    <forename>Antoine</forename> 
+                                    <surname>Gallimard</surname></persName>, mort pour la France le
+                                    <date when="1914-12-17">17/12/1914</date> à <placeName ref="#pl-380" source="#will_AN_0171_min">Nieuport-Plage (Belgique)
+                                    [NOT]</placeName> ou à Lombaertzyde (Belgique)
+                            [MDH].</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à lettre réglé (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>21</height>
+                                        <width>13,7</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><!--agencyNumberRoman=XVIII--><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010145">étude notariale 18 (CRPCEN : 75026)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0171_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XVIII/1880, minute du 02/02/1915 (dépôt du testament de Maurice
+                            Alfred Antoine Gallimard)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la
+                            minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-13">13/08/1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>13/08/1914. Florenville.</p>
+                <p>Testament olographe de Maurice Alfred Antoine Gallimard, mort pour la France le
+                    17/12/1914 à Nieuport-Plage (Belgique) [NOT] ou à Lombaertzyde (Belgique)
+                    [MDH].</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-07-19/2020-12-18" who="#MFGarreau #SL.">transcription</change>
+            <change when-iso="2018-07-19/2019-03-18" who="#jmorvan #FClavaud">validation</change>
+            <change who="#FClavaud #PCharbonnier" when-iso="2021-07-30+02:00"> enrichissements et
+                contrôle de qualité finaux</change>
+            <change who="#FClavaud" when-iso="2022-09-26">correction d'une note d'apparat critique</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0171___JPEG___FRAN_Poilus_t-0171_01.jpg" xml:id="FRAN_Poilus_t-0171_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0171">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0171_01"/>
+                <head>Ceci est mon <choice><sic>Testament</sic><corr>testament</corr></choice>.</head>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <p>Je lègue à <persName>Madame Maurice Gallimard <lb/>mon épouse, née Marie
+                        Antoinette Huguet <lb/>de Chataux</persName><choice><sic/><corr>,</corr></choice> la totalité de ce que je puis <lb/>lui léguer conformément à la
+                    loi.</p>
+                <p>Elle disposera en outre comme elle l’entendra <lb/>de tous mes effets ou objets
+                    personnels ainsi <lb/>que de mes montres et bijoux.</p>
+                <space dim="vertical" unit="lines" quantity="1"/>
+                <dateline>Fait à l’armée, à <placeName type="willPlace" ref="#pl-381">Florenville</placeName>, Belgique, <lb/><date type="willDate" when="1914-08-13">le 13 <choice>
+                            <sic>aout</sic>
+                            <corr>août</corr>
+                        </choice> 1914</date><choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="centered"><persName ref="#pers-233">Maurice
+                            <surname>Gallimard</surname></persName></signed>
+                <postscript>
+                    <p><app>
+                            <lem>Six timbres</lem>
+                            <note resp="#FClavaud">Ces six timbres-poste de la République française sont collés au-dessus du post-scriptum.</note>
+                    </app> de <choice><sic>0<hi rend="superscript">f</hi>,10</sic><corr>0,10<hi rend="superscript">f</hi></corr></choice> apposés <lb/>par moi pour
+                        remplacer le <lb/>papier <choice>
+                            <sic>Timbré</sic>
+                            <corr>timbré.</corr>
+                        </choice></p>
+                    <space dim="vertical" unit="lines" quantity="1"/>
+                    <signed rend="right"><persName ref="#pers-233">Maurice
+                                <surname>Gallimard</surname></persName></signed>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

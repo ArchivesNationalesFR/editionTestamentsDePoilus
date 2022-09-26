@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="TestamentsDePoilus_will_AN_0127">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="corpusTitle">Édition numérique collaborative de testaments de Poilus de la Grande Guerre</title>
+                <title type="main">[Testament de Henri Victor Vaudelet (12 août 1914)] : édition électronique</title>
+                <author><persName ref="#pers-189">Henri Victor Vaudelet (1873-1916)</persName></author>
+                <editor ref="#CNougaret">Christine Nougaret</editor>
+                <editor ref="#EdChamps">Emmanuelle de Champs</editor>
+                <editor ref="#FClavaud">Florence Clavaud</editor>
+                <editor ref="#PCharbonnier">Pauline Charbonnier</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>Première édition électronique, fondée sur un travail de transcription collaborative</edition>
+                <respStmt>
+                    <resp>Numérisation</resp>
+                    <orgName ref="#AN-atelierPhoto">Archives nationales. Direction de l’Appui scientifique. Département de la Conservation. Atelier photographique</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Identification et description du testament</resp>
+                    <persName ref="#MDeuve">Mathilde Deuve</persName>
+                    <persName ref="#MLocatelli">Mélisa Locatelli</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <persName ref="#lelia">Lélia Picabia</persName>
+                    <persName ref="#MFGarreau">MFGarreau</persName>
+                    <persName ref="#Ingrid">Ingrid</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Validation</resp>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Corrections hors plate-forme et contrôle de qualité final</resp>
+                    <persName ref="#FClavaud">Florence Clavaud</persName>
+                    <persName ref="#PCharbonnier">Pauline Charbonnier</persName>
+                    <persName ref="#jmorvan">Josselin Morvan</persName>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><orgName ref="#AN">Archives nationales</orgName></publisher>
+                <publisher><orgName>Université de Cergy-Pontoise</orgName></publisher>
+                <publisher><orgName ref="#AD78">Archives départementales des Yvelines</orgName></publisher>
+                <publisher><orgName>École nationale des chartes</orgName></publisher>
+                <publisher><orgName ref="#AD95">Archives départementales du Val-d’Oise</orgName></publisher>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">Licence CC BY 4.0</licence>
+                </availability>
+                <idno>TestamentsDePoilus_will_AN_0127</idno>
+                <!--ultérieurement ajouter idno fourni par Nakala-->
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="will_AN_0127_tes">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XLVIII/1743, minute du 31 août 1916 (dépôt du testament de Henri Victor Vaudelet)</idno>
+                        <msName>Testament de Henri Victor Vaudelet (12 août 1914)</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p><date type="willDate" when="1914-08-12">12 août 1914</date>. <placeName type="willPlace" ref="#pl-313">Bucarest</placeName>.</p>
+                            <p><term type="willType">testament olographe</term> de <persName ref="#pers-189"><forename>Henri</forename> <forename>Victor</forename> <surname>Vaudelet</surname></persName>, mort pour la France le <date when="1916-05-30">30 mai 1916</date> à <placeName ref="#pl-315">hôpital militaire de Bordeaux (Gironde)</placeName>.</p>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier à en-tête commercial (testament). </support>
+                                <extent>1 page. Dimensions du testament : <dimensions type="willPage" unit="cm">
+                                        <height>26,8</height>
+                                        <width>21</width>
+                                    </dimensions>.</extent>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Testament : encre.</p>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <provenance><orgName ref="https://www.siv.archives-nationales.culture.gouv.fr/siv/NP/FRAN_NP_010175">étude notariale 048 (CRPCEN : 75047)</orgName></provenance>
+                    </history>
+                </msDesc>
+                <msDesc xml:id="will_AN_0127_min">
+                    <msIdentifier>
+                        <country>France</country>
+                        <institution>Archives nationales</institution>
+                        <collection>Minutier central des notaires de Paris</collection>
+                        <idno>MC/ET/XLVIII/1743, minute du 31 août 1916 (dépôt du testament de Henri Victor Vaudelet)</idno>
+                        <msName>Couverture de la minute, et le cas échéant jugement inclus dans la minute</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation><date type="willDate" when="1914-08-12">12 août 1914</date></creation>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <abstract>
+                <p>12 août 1914. Bucarest.</p>
+                <p>testament olographe de Henri Victor Vaudelet, mort pour la France le 30 mai 1916 à hôpital militaire de Bordeaux (Gironde).</p>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term type="subject">Grande Guerre</term>
+                    <term type="subject">Poilu</term>
+                    <term type="subject">testament</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when-iso="2018-04-20/2018-09-10" who="#lelia #MFGarreau #Ingrid">transcription</change>
+            <change when-iso="2018-04-20/2018-04-30" who="#PCharbonnier #FClavaud">validation</change>
+            <change who="#FClavaud #PCharbonnier #jmorvan" when-iso="2020-10-26/2020-12-08">enrichissements et contrôle de qualité finaux</change><change who="#FClavaud" when-iso="2022-09-26">derniers traitements automatiques avant publication sur GitHub ; en particulier normalisation des espaces entre les prénoms dans l'élément summary et correction de la valeur des attributs resp</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="https://testaments-de-poilus.huma-num.fr/iiif/2/">
+        <surface type="will-page" n="01">
+            <graphic url="testament_AN_0127___JPEG___FRAN_Poilus_t-0127_01.jpg" xml:id="FRAN_Poilus_t-0127_01"/>
+        </surface>
+    </facsimile>
+    <text xml:id="will_AN_0127">
+        <body>
+            <div type="will">
+                <pb facs="#FRAN_Poilus_t-0127_01"/>
+                <head><add place="marginLeft"><persName ref="#pers-189">H. V. <surname>Vaudelet</surname></persName></add></head>
+                <dateline><app><lem><placeName type="willPlace" ref="#pl-313">Bucarest</placeName><del>Paris,</del> le</lem><note resp="#PCharbonnier">Le testament est écrit sur un papier à en-tête. Le testateur a remplacé le lieu de rédaction pré-imprimé (Paris) par le lieu de rédaction du testament (Bucarest).</note></app> <date type="willDate" when="1914-08-12">12 <choice><sic>Août</sic><corr>août</corr></choice> 1914</date>.</dateline>
+                <space dim="vertical" unit="lines" quantity="2"/>
+                <p>Mobilisé, je pars précipitamment pour <lb/>la France mais avant, et ne pouvant faire <lb/>mieux, faute de temps, je tiens <choice><sic>a</sic><corr>à</corr></choice> déclarer <lb/>de la façon la plus formelle<choice><sic>,</sic><corr/></choice> ceci<choice><sic/><corr>,</corr></choice> pour le <lb/>cas <choice><sic>ou</sic><corr>où</corr></choice> je serais au nombre des victimes <lb/>de cette guerre<choice><sic>, je</sic><corr>. Je</corr></choice> déclare que je désire et <lb/>j’exige qu’<choice><sic>an</sic><corr>en</corr></choice> cas d’évènements graves, que <lb/>tout ce qui <choice><sic>compôse</sic><corr>compose</corr></choice> mon avoir, lequel a <lb/>été acquis depuis mon mariage, revienne <lb/>de droit et directement, sous toutes formes<choice><sic/><corr>,</corr></choice> <lb/>propriété intégrale de mon <choice><sic>Epouse</sic><corr>épouse</corr></choice> née <persName>Suzanne <lb/><surname>Robbe</surname></persName>.</p>
+                <p>J’estime et j’exige qu’aucune con<del>s</del>testation possible <lb/>dans ce but ne peut être faite par mes parents, <choice><sic>Frère</sic><corr>frère</corr></choice> <lb/>ou <choice><sic>Sœurs</sic><corr>sœurs</corr></choice>, pour aucune cause, pour aucune raison ni <lb/>pour aucune <choice><sic>chôse</sic><corr>chose</corr></choice> constituant mon avoir<choice><sic/><corr>,</corr></choice> lequel est <lb/>dès aujourd’hui celui de mon <choice><sic>Epouse</sic><corr>épouse</corr></choice>.</p>
+                <dateline>Fait à <placeName type="willPlace" ref="#pl-313">Bucarest</placeName>, le <date type="willDate" when="1914-08-12">12 <choice><sic>Aoùt</sic><corr>août</corr></choice> 1914</date> en toute <choice><sic>connaîs<lb/>sance</sic><corr>connais<lb break="no"/>sance</corr></choice> de cause et intentionnellement<choice><sic/><corr>.</corr></choice></dateline>
+                <signed rend="right"><persName ref="#pers-189">HV <surname>Vaudelet</surname></persName></signed>
+            </div>
+        </body>
+    </text>
+</TEI>
