@@ -139,6 +139,8 @@
                 notices. Quelques changements dans les notices déjà présentes début 2021. Derniers
                 traitements automatiques avant publication sur GitHub ; en particulier normalisation
                 des espaces entre les prénoms</change>
+            <change who="#FClavaud" when-iso="2022-09-28">Quelques corrections pour prendre en
+                compte des dédoublonnages dans le fichier des unités militaires.</change>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -185,7 +187,7 @@
                 </person>
                 <person xml:id="pers-4">
                     <persName type="fullProseForm">Alexandre Bonneau</persName>
-                    <persName type="fullIndexEntryForm"><forename>Alexandre</forename>   <surname>Bonneau</surname></persName>
+                    <persName type="fullIndexEntryForm"><forename>Alexandre</forename>  <surname>Bonneau</surname></persName>
                     <birth>Né le <date when="1886-04-12">12 avril 1886</date> à <placeName ref="#pl-2">Paris (18), (Seine)</placeName></birth>
                     <death>mort pour la France le <date when="1915-08-25" source="#will_AD78_0004_min">25 août 1915 [NOT]</date> ou le <date when="1915-06-01" source="#MDH">1 juin 1915 [MDH]</date> au <placeName ref="#pl-12">Champ de bataille de Neuville Saint-Waast</placeName></death>
                     <residence ref="#pl-11">Domicilié à Croissy-sur-Seine, 4 avenue du Vésinet</residence>
@@ -4190,7 +4192,9 @@
                     <death>mort pour la France le <date when="1915-09-25">25 septembre 1915</date> à <placeName ref="#pl-372">Saint Hilaire le Grand (Marne)</placeName></death>
                     <occupation>valet de chambre</occupation>
                     <residence ref="#pl-2">Domicilié à Paris, rue de Miromesnil n°50</residence>
-                    <affiliation>sergent au <orgName ref="#o-234">3e régiment de zouaves de marche</orgName></affiliation>
+                    <!--<affiliation>sergent au <orgName ref="#o-234">3e régiment de zouaves de marche</orgName></affiliation>-->
+                    <!-- FC sept. 2022 o-234 remplacé par o-114-->
+                    <affiliation>sergent au <orgName ref="#o-114">3e régiment de zouaves</orgName></affiliation>
                     <bibl type="refMemoireDesHommes"><author>Ministère de la défense, Secrétariat
                             général pour l’administration, Direction de la mémoire, du patrimoine et
                             des archives</author><title>Mémoire des hommes : notice relative à Louis
@@ -4519,7 +4523,9 @@
                     <death>mort pour la France le <date when="1914-10-28">28 octobre 1914</date> au <placeName ref="#pl-483">Bois du Luxembourg (Marne)</placeName></death>
                     <occupation>employé à l’administration des postes</occupation>
                     <residence ref="#pl-481">Domicilié à Saint Ouen, 5 rue Vincent</residence>
-                    <affiliation>caporal au <orgName ref="#o-254">5e régiment d’infanterie</orgName></affiliation>
+                    <!--<affiliation>caporal au <orgName ref="#o-254">5e régiment d’infanterie</orgName></affiliation>-->
+                    <!-- FC sept. 2022 remplacé o-254 par o-8-->
+                    <affiliation>caporal au <orgName ref="#o-8">5e régiment d’infanterie</orgName></affiliation>
                     <note type="history"><p source="#EC">fils de père non déclaré à sa naissance, et de Adélaïde Augustine Gastey, blanchisseuse, mariée à Joseph Emile Bendy, blanchisseur, qui le reconnaît, le 7 août 1875 (Colombes) [EC]</p></note>
                     <bibl type="refMemoireDesHommes"><author>Ministère de la défense, Secrétariat
                             général pour l’administration, Direction de la mémoire, du patrimoine et
@@ -6740,7 +6746,9 @@
                     <death>mort pour la France le <date when="1916-07-18">18 juillet 1916</date> à <placeName ref="#pl-478">Harbonnières (Somme)</placeName></death>
                     <occupation>employé à la Manufacture des tabacs</occupation>
                     <residence ref="#pl-2">Domicilié à Paris, rue des Tournelles, n°25</residence>
-                    <affiliation>caporal au <orgName ref="#o-371">3e régiment de génie, compagnie 3/63</orgName></affiliation>
+                    <!-- FC sept. 2022 remplacé o-371 par o-310-->
+                    <!--<affiliation>caporal au <orgName ref="#o-371">3e régiment de génie, compagnie 3/63</orgName></affiliation>-->
+                    <affiliation>caporal au <orgName ref="#o-310">3e régiment du génie, compagnie 3/63</orgName></affiliation>
                     <note type="history"><p source="#EC">fils de Hervé Marie Leflem, menuisier, et Florentine Marceline Dupré [EC]</p><p source="#EC">époux de Annette Le Flem, cigarière (mariage du 25 mai 1901, Paris 12e) [EC]</p><p source="#will_AN_0325_tes">père de Pierre Marcel Duc-Maugé et compagnon de Alice Victorine Duc-Maugé [TES]</p></note>
                     <bibl type="refMemoireDesHommes"><author>Ministère de la défense, Secrétariat
                             général pour l’administration, Direction de la mémoire, du patrimoine et
@@ -8726,7 +8734,7 @@
                 </person>
                 <person xml:id="pers-2001">
                     <persName type="fullProseForm">Fernand Lucien Jules Melchior Chatin</persName>
-                    <persName type="fullIndexEntryForm"><forename>Fernand</forename>  <forename>Lucien</forename>  <forename>Jules</forename>  <forename>Melchior</forename>  <surname>Chatin</surname></persName>
+                    <persName type="fullIndexEntryForm"><forename>Fernand</forename> <forename>Lucien</forename> <forename>Jules</forename> <forename>Melchior</forename> <surname>Chatin</surname></persName>
                     <birth>Né le <date when="1878-03-04" source="#MDH">4 mars 1878 (MDH]</date> à <placeName ref="#pl-2" source="#MDH">Paris [MDH]</placeName></birth>
                     <death>mort pour la France le <date when="1915-01-10">10 janvier 1915</date> à <placeName ref="#pl-493" source="#MDH">Maroeuil (Pas-de-Calais) [MDH]</placeName>, tué à l’ennemi</death>
                     <occupation>avocat à la cour d’appel de Paris</occupation>
@@ -8741,7 +8749,7 @@
                 </person>
                 <person xml:id="pers-2002">
                     <persName type="fullProseForm">Émile Alexandre Gorand</persName>
-                    <persName type="fullIndexEntryForm"><forename>Émile</forename>  <forename>Alexandre</forename>  <surname>Gorand</surname> </persName>
+                    <persName type="fullIndexEntryForm"><forename>Émile</forename> <forename>Alexandre</forename> <surname>Gorand</surname> </persName>
                     <birth>Né le <date when="1883-08-04" source="#MDH">4 août 1883 [MDH]</date> à <placeName ref="#pl-2" source="#MDH">Paris [MDH]</placeName></birth>
                     <death>Mort pour la France le <date when="1914-11-16">16 novembre 1914</date> au <placeName ref="#pl-124">bois de la Gruerie (Meuse)</placeName>, tué à l’ennemi.</death>
                     <occupation>inconnue</occupation>
@@ -8758,7 +8766,7 @@
                 </person>
                 <person xml:id="pers-2003">
                     <persName type="fullProseForm">Marie René Patey</persName>
-                    <persName type="fullIndexEntryForm"><forename>Marie</forename>  <forename>René</forename>  <surname>Patey</surname> </persName>
+                    <persName type="fullIndexEntryForm"><forename>Marie</forename> <forename>René</forename> <surname>Patey</surname> </persName>
                     <birth>Né le <date when="1879-07-12" source="#MDH">12 juillet 1879 [MDH]</date> à <placeName ref="#pl-722" source="#MDH">Sens (Yonne) [MDH]</placeName></birth>
                     <death>mort pour la France le <date when="1916-03-16">16 mars 1916</date> au <placeName ref="#pl-186">bois des Buttes, commune de Pontavert (Aisne)</placeName>, tué à l’ennemi</death>
                     <occupation>avocat</occupation>

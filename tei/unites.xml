@@ -123,8 +123,15 @@
         la base de données de la plateforme de transcription</change>
       <change when-iso="2020-07/2020-12-08" who="#PCharbonnier #FClavaud">export des notices,
         dédoublonnage, post-traitements automatiques, contrôle de qualité manuel</change>
-      <change when-iso="2021-03/2021-08" who="#PCharbonnier #FClavaud">export des notices ; dédoublonnage et post-traitements automatiques des nouvelles notices, puis contrôle de qualité manuel des 80 nouvelles notices obtenues</change>
-      <change when-iso="2022-09-26" who="#FClavaud">Nouvelle version du fichier (en tout 419 notices). Nettoyage des commentaires avant publication sur GitHub</change>
+      <change when-iso="2021-03/2021-08" who="#PCharbonnier #FClavaud">export des notices ;
+        dédoublonnage et post-traitements automatiques des nouvelles notices, puis contrôle de
+        qualité manuel des 80 nouvelles notices obtenues</change>
+      <change when-iso="2022-09-26" who="#FClavaud">Nouvelle version du fichier (en tout 419
+        notices). Nettoyage des commentaires avant publication sur GitHub</change>
+      <change when-iso="2022-09-28" who="#FClavaud">Nouvelle version du fichier incluant l'ensemble
+        des unités (en tout désormais 505 unités). Quelques corrections (dédoublonnages et
+        modifications de contenu) dans les notices déjà présentes dans la version précédente du
+        fichier.</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -167,6 +174,7 @@
           <orgName type="proseForm">72e régiment d’Infanterie</orgName>
         </org>
         <org xml:id="o-8">
+          <!--Même unité que l'unité supprimée n°254-->
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
               Terre</orgName>. <orgName>Régiment d’Infanterie</orgName> (<num>5</num>)</orgName>
           <orgName type="proseForm">5e régiment d’Infanterie</orgName>
@@ -201,7 +209,7 @@
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
               Terre</orgName>. <orgName>Régiment de tirailleurs marocains</orgName>
             (<num>1</num>)</orgName>
-          <orgName type="proseForm">1e régiment de tirailleurs marocains</orgName>
+          <orgName type="proseForm">1er régiment de tirailleurs marocains</orgName>
         </org>
         <org xml:id="o-15">
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
@@ -306,7 +314,7 @@
         <org xml:id="o-32">
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
               Terre</orgName>. <orgName>Régiment du Génie</orgName> (<num>1</num>)</orgName>
-          <orgName type="proseForm">1e régiment du Génie</orgName>
+          <orgName type="proseForm">1er régiment du Génie</orgName>
         </org>
         <org xml:id="o-33">
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
@@ -381,7 +389,7 @@
         <org xml:id="o-45">
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
               Terre</orgName>. <orgName>Régiment de Zouaves</orgName> (<num>1</num>)</orgName>
-          <orgName type="proseForm">1e régiment de Zouaves</orgName>
+          <orgName type="proseForm">1er régiment de Zouaves</orgName>
         </org>
         <org xml:id="o-46">
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
@@ -552,7 +560,7 @@
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
               Terre</orgName>. <orgName>Régiment de spahis marocains</orgName>
             (<num>1</num>)</orgName>
-          <orgName type="proseForm">1e régiment de spahis marocains</orgName>
+          <orgName type="proseForm">1er régiment de spahis marocains</orgName>
         </org>
         <org xml:id="o-78">
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
@@ -609,7 +617,7 @@
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
               Terre</orgName>. <orgName>Bataillon territorial de chasseurs</orgName>
             (<num>1</num>)</orgName>
-          <orgName type="proseForm">1e bataillon territorial de chasseurs</orgName>
+          <orgName type="proseForm">1er bataillon territorial de chasseurs</orgName>
         </org>
         <org xml:id="o-90">
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
@@ -640,7 +648,7 @@
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
               Terre</orgName>. <orgName>Régiment de marche de la légion étrangère</orgName>
               (<num>1</num>)</orgName>
-          <orgName type="proseForm">1e régiment de marche de la légion étrangère</orgName>
+          <orgName type="proseForm">1er régiment de marche de la légion étrangère</orgName>
         </org>
         <org xml:id="o-96">
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
@@ -731,6 +739,7 @@
           <orgName type="proseForm">36e régiment d’infanterie</orgName>
         </org>
         <!--113 REMPL par id 50-->
+        <!-- Même unité que l'unité supprimée n°234-->
         <org xml:id="o-114">
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
               Terre</orgName>. <orgName>Régiment de zouaves</orgName> (<num>3</num>)</orgName>
@@ -761,7 +770,7 @@
         <org xml:id="o-120">
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
               Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>1</num>)</orgName>
-          <orgName type="proseForm">1e régiment d’infanterie</orgName>
+          <orgName type="proseForm">1er régiment d’infanterie</orgName>
         </org>
         <org xml:id="o-121">
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
@@ -832,7 +841,7 @@
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
               Terre</orgName>. <orgName>Régiment d’infanterie coloniale</orgName>
             (<num>1</num>)</orgName>
-          <orgName type="proseForm">1e régiment d’infanterie coloniale</orgName>
+          <orgName type="proseForm">1er régiment d’infanterie coloniale</orgName>
         </org>
         <!--134 REMPL par id 5-->
         <org xml:id="o-135">
@@ -1251,7 +1260,7 @@
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
               Terre</orgName>. <orgName>Régiment de marche de zouaves</orgName>
             (<num>1</num>)</orgName>
-          <orgName type="proseForm">1e régiment de marche de zouaves</orgName>
+          <orgName type="proseForm">1er régiment de marche de zouaves</orgName>
         </org>
         <org xml:id="o-218">
           <!--Même unité que l'unité supprimée n°137-->
@@ -1340,12 +1349,8 @@
               Terre</orgName>. <orgName>Groupe d’aviation</orgName> (<num>2</num>)</orgName>
           <orgName type="proseForm">2e groupe d’aviation</orgName>
         </org>
-        <org xml:id="o-234">
-          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
-              Terre</orgName>. <orgName>Régiment de zouaves de marche</orgName>
-            (<num>3</num>)</orgName>
-          <orgName type="proseForm">3e régiment de zouaves de marche</orgName>
-        </org>
+        <!-- 234 REMPL par id 114 -->
+        <!--<org xml:id="o-234"> <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de Terre</orgName>. <orgName>Régiment de zouaves de marche</orgName> (<num>3</num>)</orgName> <orgName type="proseForm">3e régiment de zouaves de marche</orgName> </org>-->
         <org xml:id="o-235">
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
               Terre</orgName>. <orgName>Régiment d’infanterie territoriale</orgName>
@@ -1445,11 +1450,8 @@
             (<num>17</num>)</orgName>
           <orgName type="proseForm">17e bataillon de chasseurs alpins</orgName>
         </org>
-        <org xml:id="o-254">
-          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
-              Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>5</num>)</orgName>
-          <orgName type="proseForm">5e régiment d’infanterie</orgName>
-        </org>
+        <!-- 254 REMPL par id 8 -->
+        <!-- <org xml:id="o-254"> <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>5</num>)</orgName> <orgName type="proseForm">5e régiment d’infanterie</orgName> </org>-->
         <!--255 REMPL par id 29-->
         <org xml:id="o-256">
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
@@ -1460,7 +1462,7 @@
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
               Terre</orgName>. <orgName>Bataillon de chasseurs à pied</orgName>
             (<num>1</num>)</orgName>
-          <orgName type="proseForm">1e bataillon de chasseurs à pied</orgName>
+          <orgName type="proseForm">1er bataillon de chasseurs à pied</orgName>
         </org>
         <org xml:id="o-258">
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
@@ -1535,7 +1537,7 @@
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
               Terre</orgName>. <orgName>Régiment d’artillerie coloniale</orgName>
             (<num>1</num>)</orgName>
-          <orgName type="proseForm">1e régiment d’artillerie coloniale</orgName>
+          <orgName type="proseForm">1er régiment d’artillerie coloniale</orgName>
         </org>
         <org xml:id="o-273">
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
@@ -1615,8 +1617,7 @@
         <!--290 REMPL par id 247-->
         <org xml:id="o-291">
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>.
-              <orgName><!--FC 17/08/2020 Armée de
-              Terre-->Marine nationale</orgName>.
+              <orgName><!--FC 17/08/2020 Armée de Terre-->Marine nationale</orgName>.
               <orgName>Cuirassé Bouvet</orgName></orgName>
           <orgName type="proseForm">cuirassé Bouvet</orgName>
           <!-- https://fr.wikipedia.org/wiki/Bouvet_(cuirass%C3%A9)-->
@@ -1644,7 +1645,7 @@
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
               Terre</orgName>. <orgName>Régiment de marche d’Afrique</orgName>
             (<num>1</num>)</orgName>
-          <orgName type="proseForm">1e régiment de marche d’Afrique</orgName>
+          <orgName type="proseForm">1er régiment de marche d’Afrique</orgName>
         </org>
         <org xml:id="o-296">
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
@@ -1660,8 +1661,10 @@
         </org>
         <org xml:id="o-298">
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
-              Terre</orgName>. <orgName>Section de C.O.A.</orgName> (<num>15</num>)</orgName>
-          <orgName type="proseForm">15e section de C.O.A.</orgName>
+              Terre</orgName>. <orgName>Section de commis et ouvriers d’administration</orgName>
+              (<num>15</num>)</orgName>
+          <!--FC sept. 2022 <orgName type="proseForm">15e section de C.O.A.</orgName>-->
+          <orgName type="proseForm">15e section de commis et ouvriers d’administration</orgName>
         </org>
         <org xml:id="o-299">
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
@@ -1699,6 +1702,7 @@
             (<num>12</num>)</orgName>
           <orgName type="proseForm">12e Territoriale d’infanterie</orgName>
         </org>
+        <!-- Même unité que l'unité supprimée n°371-->
         <org xml:id="o-310">
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
               Terre</orgName>. <orgName>Régiment du génie</orgName> (<num>3</num>)</orgName>
@@ -1927,11 +1931,8 @@
               Terre</orgName>. <orgName>Division</orgName> (<num>42</num>)</orgName>
           <orgName type="proseForm">42e division</orgName>
         </org>
-        <org xml:id="o-371">
-          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
-              Terre</orgName>. <orgName>Régiment de génie</orgName> (<num>3</num>)</orgName>
-          <orgName type="proseForm">3e régiment de génie</orgName>
-        </org>
+        <!-- 371 REMPL PAR id 310-->
+        <!-- <org xml:id="o-371"> <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de Terre</orgName>. <orgName>Régiment de génie</orgName> (<num>3</num>)</orgName> <orgName type="proseForm">3e régiment de génie</orgName> </org>-->
         <org xml:id="o-372">
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
               Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>143</num>)</orgName>
@@ -2052,7 +2053,6 @@
             (<num>4</num>)</orgName>
           <orgName type="proseForm">4e régiment de marche de tirailleurs</orgName>
         </org>
-       
         <!--LES NOTICES CI-DESSOUS ONT ETE PREPAREES ENTRE JANVIER 2021 ET SEPTEMBRE 2022-->
         <org xml:id="o-397">
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
@@ -2122,7 +2122,7 @@
               Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>171</num>)</orgName>
           <orgName type="proseForm">171e régiment d’infanterie</orgName>
         </org>
-        <!--410 REMPL par id o-345-->
+        <!--410 REMPL par id 345-->
         <org xml:id="o-411">
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
               Terre</orgName>. <orgName>Régiment d’artillerie lourde</orgName>
@@ -2169,7 +2169,7 @@
             (<num>4</num>)</orgName>
           <orgName type="proseForm">4e bataillon de chasseurs à pied</orgName>
         </org>
-        <!--419 REMPL par id o-365-->
+        <!--419 REMPL par id 365-->
         <org xml:id="o-420">
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
               Terre</orgName>. <orgName>Bataillon de chasseurs alpins</orgName>
@@ -2196,7 +2196,7 @@
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
               Terre</orgName>. <orgName>Régiment d’infanterie coloniale du Maroc</orgName>
               (<num>1</num>)</orgName>
-          <orgName type="proseForm">1e régiment d’infanterie coloniale du Maroc</orgName>
+          <orgName type="proseForm">1er régiment d’infanterie coloniale du Maroc</orgName>
         </org>
         <org xml:id="o-425">
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
@@ -2229,7 +2229,7 @@
             (<num>8</num>)</orgName>
           <orgName type="proseForm">8e bataillon de chasseurs à pied</orgName>
         </org>
-        <!--431 REMPL par id o-12-->
+        <!--431 REMPL par id 12-->
         <org xml:id="o-432">
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
               Terre</orgName>. <orgName>Régiment de dragons</orgName> (<num>6</num>)</orgName>
@@ -2262,7 +2262,7 @@
               Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>356</num>)</orgName>
           <orgName type="proseForm">356e régiment d’infanterie</orgName>
         </org>
-        <!--438 REMPL par id o-288-->
+        <!--438 REMPL par id 288-->
         <org xml:id="o-439">
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
               Terre</orgName>. <orgName>Régiment d’artillerie</orgName> (<num>235</num>)</orgName>
@@ -2342,14 +2342,14 @@
               Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>256</num>)</orgName>
           <orgName type="proseForm">256e régiment d’infanterie</orgName>
         </org>
-        <!--454 REMPL par id o-194-->
+        <!--454 REMPL par id 194-->
         <org xml:id="o-455">
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
               Terre</orgName>. <orgName>Régiment mixte d’infanterie coloniale</orgName>
               (<num>7</num>)</orgName>
           <orgName type="proseForm">7e régiment mixte d’infanterie coloniale</orgName>
         </org>
-        <!--456 REMPl par id o-352-->
+        <!--456 REMPl par id 352-->
         <org xml:id="o-457">
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
               Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>232</num>)</orgName>
@@ -2410,18 +2410,18 @@
               Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>203</num>)</orgName>
           <orgName type="proseForm">203e régiment d’infanterie</orgName>
         </org>
-        <!--468 REMPL par id o-324-->
+        <!--468 REMPL par id 324-->
         <org xml:id="o-469">
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
               Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>83</num>)</orgName>
           <orgName type="proseForm">83e régiment d’infanterie</orgName>
         </org>
-        <!--470 REMPL par id o-10-->
-        <!--471 REMPL par id o-303-->
+        <!--470 REMPL par id 10-->
+        <!--471 REMPL par id 303-->
         <org xml:id="o-472">
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
               Terre</orgName>. <orgName>Régiment de tirailleurs</orgName> (<num>1</num>)</orgName>
-          <orgName type="proseForm">1e régiment de tirailleurs</orgName>
+          <orgName type="proseForm">1er régiment de tirailleurs</orgName>
         </org>
         <!--473 REMPL par id 465-->
         <org xml:id="o-474">
@@ -2446,7 +2446,7 @@
               Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>101</num>)</orgName>
           <orgName type="proseForm">101e régiment d’infanterie</orgName>
         </org>
-        <!--478 REMPL par id o-486 ?-->
+        <!--478 REMPL par id 486 ?-->
         <org xml:id="o-479">
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
               Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>334</num>)</orgName>
@@ -2494,7 +2494,539 @@
               Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>18</num>)</orgName>
           <orgName type="proseForm">18e régiment d’infanterie</orgName>
         </org>
-        
+        <!--DEBUT DES NOTICES AJOUTEES EN SEPTEMBRE 2022-->
+        <!--488 REMPL par id 306-->
+        <org xml:id="o-489">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie territoriale</orgName>
+            (<num>31</num>)</orgName>
+          <orgName type="proseForm">31e régiment d’infanterie territoriale</orgName>
+        </org>
+        <org xml:id="o-490">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>39</num>)</orgName>
+          <orgName type="proseForm">39e régiment d’infanterie</orgName>
+        </org>
+        <org xml:id="o-491">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’artillerie</orgName> (<num>7</num>)</orgName>
+          <orgName type="proseForm">7e régiment d’artillerie</orgName>
+        </org>
+        <!--492 REMPL par id 450-->
+        <org xml:id="o-493">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie territoriale</orgName>
+            (<num>87</num>)</orgName>
+          <orgName type="proseForm">87e régiment d’infanterie territoriale</orgName>
+        </org>
+        <org xml:id="o-494">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’artillerie</orgName> (<num>208</num>)</orgName>
+          <orgName type="proseForm">208e régiment d’artillerie</orgName>
+        </org>
+        <org xml:id="o-495">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>413</num>)</orgName>
+          <orgName type="proseForm">413e régiment d’infanterie</orgName>
+        </org>
+        <org xml:id="o-496">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie territoriale</orgName>
+            (<num>301</num>)</orgName>
+          <orgName type="proseForm">301e régiment d’infanterie territoriale</orgName>
+        </org>
+        <!--497 REMPL par id 477-->
+        <!--498 REMPL par id 394-->
+        <org xml:id="o-499">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie territoriale</orgName>
+            (<num>223</num>)</orgName>
+          <orgName type="proseForm">223e régiment d’infanterie territoriale</orgName>
+        </org>
+        <!--500 REMPL par id 123-->
+        <!--501 REMPL par id 412-->
+        <org xml:id="o-502">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>409</num>)</orgName>
+          <orgName type="proseForm">409e régiment d’infanterie</orgName>
+        </org>
+        <org xml:id="o-503">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Escadron du train des équipages militaires</orgName>
+              (<num>5</num>)</orgName>
+          <orgName type="proseForm">5e escadron du train des équipages militaires</orgName>
+        </org>
+        <!--504 REMPL par id 313-->
+        <!--505 REMPL par id 213-->
+        <!--506 REMPL par id 218-->
+        <!--507 REMPL par id 315-->
+        <org xml:id="o-508">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’artillerie lourde</orgName>
+            (<num>295</num>)</orgName>
+          <orgName type="proseForm">295e régiment d’artillerie lourde</orgName>
+        </org>
+        <!--509 REMPL par id 383-->
+        <org xml:id="o-510">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie territoriale</orgName>
+            (<num>51</num>)</orgName>
+          <orgName type="proseForm">51e régiment d’infanterie territoriale</orgName>
+        </org>
+        <!--511 REMPL par id 395-->
+        <!--512 REMPL par id 103-->
+        <org xml:id="o-513">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>39</num>)</orgName>
+          <orgName type="proseForm">39e régiment d’infanterie</orgName>
+        </org>
+        <org xml:id="o-514">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>293</num>)</orgName>
+          <orgName type="proseForm">293e régiment d’infanterie</orgName>
+        </org>
+        <!--515 REMPL par id 184-->
+        <!--516 REMPL par id 121-->
+        <org xml:id="o-517">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’artillerie lourde</orgName>
+            (<num>118</num>)</orgName>
+          <orgName type="proseForm">118e régiment d’artillerie lourde</orgName>
+        </org>
+        <org xml:id="o-518">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Bataillon de fusiliers marins</orgName></orgName>
+          <orgName type="proseForm">bataillon de fusiliers marins</orgName>
+        </org>
+        <org xml:id="o-519">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie territoriale</orgName>
+            (<num>136</num>)</orgName>
+          <orgName type="proseForm">136e régiment d’infanterie territoriale</orgName>
+        </org>
+        <!--520 REMPL par id 241-->
+        <org xml:id="o-521">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’artillerie</orgName> (<num>8</num>)</orgName>
+          <orgName type="proseForm">8e régiment d’artillerie</orgName>
+        </org>
+        <org xml:id="o-522">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>238</num>)</orgName>
+          <orgName type="proseForm">238e régiment d’infanterie</orgName>
+        </org>
+        <!--523 REMPL par id 272 -->
+        <!--524 REMPL par id 469-->
+        <!--525 REMPL par id 108-->
+        <!--526 REMPL par id 139-->
+        <!--527 REMPL par id 167-->
+        <org xml:id="o-528">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment de marche de tirailleurs</orgName>
+            (<num>8</num>)</orgName>
+          <orgName type="proseForm">8e régiment de marche de tirailleurs</orgName>
+        </org>
+        <org xml:id="o-529">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie coloniale</orgName>
+            (<num>33</num>)</orgName>
+          <orgName type="proseForm">33e régiment d’infanterie coloniale</orgName>
+        </org>
+        <org xml:id="o-530">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’artillerie</orgName> (<num>13</num>)</orgName>
+          <orgName type="proseForm">13e régiment d’artillerie</orgName>
+        </org>
+        <!--531 REMPL par id 412-->
+        <org xml:id="o-532">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Compagnie d’aérostiers</orgName> (<num>81</num>)</orgName>
+          <orgName type="proseForm">81e compagnie d’aérostiers</orgName>
+        </org>
+        <org xml:id="o-533">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie coloniale</orgName>
+            (<num>5</num>)</orgName>
+          <orgName type="proseForm">5e régiment d’infanterie coloniale</orgName>
+        </org>
+        <!--534 REMPL par id 298-->
+        <!--535 REMPL par id 80-->
+        <org xml:id="o-536">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>352</num>)</orgName>
+          <orgName type="proseForm">352e régiment d’infanterie</orgName>
+        </org>
+        <!--537 REMPL par id 284-->
+        <!--538 REMPL par id 143-->
+        <org xml:id="o-539">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’artillerie lourde</orgName>
+            (<num>109</num>)</orgName>
+          <orgName type="proseForm">109e régiment d’artillerie lourde</orgName>
+        </org>
+        <!--540 REMPL par id 406-->
+        <org xml:id="o-541">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>265</num>)</orgName>
+          <orgName type="proseForm">265e régiment d’infanterie</orgName>
+        </org>
+        <org xml:id="o-542">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie territoriale</orgName>
+            (<num>228</num>)</orgName>
+          <orgName type="proseForm">228e régiment d’infanterie territoriale</orgName>
+        </org>
+        <org xml:id="o-543">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie territoriale</orgName>
+            (<num>75</num>)</orgName>
+          <orgName type="proseForm">75e régiment d’infanterie territoriale</orgName>
+        </org>
+        <!--544 REMPL par id 197-->
+        <!--545 REMPL par id 157-->
+        <org xml:id="o-546">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>208</num>)</orgName>
+          <orgName type="proseForm">208e régiment d’infanterie</orgName>
+        </org>
+        <!--547 REMPL par id 390-->
+        <!--548 REMPL par id 285-->
+        <org xml:id="o-549">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie coloniale</orgName>
+            (<num>4</num>)</orgName>
+          <orgName type="proseForm">4e régiment d’infanterie coloniale</orgName>
+        </org>
+        <org xml:id="o-550">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>201</num>)</orgName>
+          <orgName type="proseForm">201e régiment d’infanterie</orgName>
+        </org>
+        <!--551 REMPL par id 13-->
+        <org xml:id="o-552">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>59</num>)</orgName>
+          <orgName type="proseForm">59e régiment d’infanterie</orgName>
+        </org>
+        <!--553 REMPL par id 385-->
+        <!--554 REMPL par id 48-->
+        <org xml:id="o-555">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie coloniale</orgName>
+            (<num>53</num>)</orgName>
+          <orgName type="proseForm">53e régiment d’infanterie coloniale</orgName>
+        </org>
+        <org xml:id="o-556">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>13</num>)</orgName>
+          <orgName type="proseForm">13e régiment d’infanterie</orgName>
+        </org>
+        <org xml:id="o-557">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>43</num>)</orgName>
+          <orgName type="proseForm">43e régiment d’infanterie</orgName>
+        </org>
+        <org xml:id="o-558">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>245</num>)</orgName>
+          <orgName type="proseForm">245e régiment d’infanterie</orgName>
+        </org>
+        <org xml:id="o-559">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>56</num>)</orgName>
+          <orgName type="proseForm">56e régiment d’infanterie</orgName>
+        </org>
+        <org xml:id="o-560">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’artillerie de campagne</orgName>
+            (<num>4</num>)</orgName>
+          <orgName type="proseForm">4e régiment d’artillerie de campagne</orgName>
+        </org>
+        <org xml:id="o-561">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’artillerie</orgName> (<num>63</num>)</orgName>
+          <orgName type="proseForm">63e régiment d’artillerie</orgName>
+        </org>
+        <org xml:id="o-562">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Bataillon de chasseurs à pied</orgName>
+            (<num>21</num>)</orgName>
+          <orgName type="proseForm">21e bataillon de chasseurs à pied</orgName>
+        </org>
+        <org xml:id="o-563">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’artillerie coloniale</orgName>
+            (<num>43</num>)</orgName>
+          <orgName type="proseForm">43e régiment d’artillerie coloniale</orgName>
+        </org>
+        <org xml:id="o-564">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’artillerie de campagne</orgName>
+            (<num>231</num>)</orgName>
+          <orgName type="proseForm">231e régiment d’artillerie de campagne</orgName>
+        </org>
+        <org xml:id="o-565">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’artillerie de campagne</orgName>
+            (<num>226</num>)</orgName>
+          <orgName type="proseForm">226e régiment d’artillerie de campagne</orgName>
+        </org>
+        <org xml:id="o-566">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie coloniale</orgName>
+            (<num>3</num>)</orgName>
+          <orgName type="proseForm">3e régiment d’infanterie coloniale</orgName>
+        </org>
+        <org xml:id="o-567">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>247</num>)</orgName>
+          <orgName type="proseForm">247e régiment d’infanterie</orgName>
+        </org>
+        <org xml:id="o-568">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie coloniale</orgName>
+            (<num>35</num>)</orgName>
+          <orgName type="proseForm">35e régiment d’infanterie coloniale</orgName>
+        </org>
+        <!-- FC sept. 2022 ajouté référence biblio -->
+        <org xml:id="o-569">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Direction du service automobile du Grand Quartier
+              Général</orgName></orgName>
+          <orgName type="proseForm">direction du service automobile du Grand Quartier
+            Général</orgName>
+          <bibl>Notice sur le Grand Quartie général dans l'inventaire des archives du Grand Quartier
+            général (1914-1918), par le Service historique de la Défense : <ref type="URI"
+              >https://www.servicehistorique.sga.defense.gouv.fr/ark/627912</ref></bibl>
+        </org>
+        <org xml:id="o-570">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>313</num>)</orgName>
+          <orgName type="proseForm">313e régiment d’infanterie</orgName>
+        </org>
+        <org xml:id="o-571">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>404</num>)</orgName>
+          <orgName type="proseForm">404e régiment d’infanterie</orgName>
+        </org>
+        <!-- FC 28 sept. 2022 : revu o-572 ajouté 'r' à '1e'-->
+        <org xml:id="o-572">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment étranger</orgName> (<num>1</num>)</orgName>
+          <orgName type="proseForm">1er régiment étranger</orgName>
+        </org>
+        <org xml:id="o-573">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Bataillon de chasseurs alpins</orgName>
+            (<num>27</num>)</orgName>
+          <orgName type="proseForm">27e bataillon de chasseurs alpins</orgName>
+        </org>
+        <!-- FC 28 sept. 2022 : revu o-574 ajouté 'r' à '1e'-->
+        <org xml:id="o-574">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Bataillon territorial de chasseurs alpins</orgName>
+              (<num>1</num>)</orgName>
+          <orgName type="proseForm">1er bataillon territorial de chasseurs alpins</orgName>
+        </org>
+        <org xml:id="o-575">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>244</num>)</orgName>
+          <orgName type="proseForm">244e régiment d’infanterie</orgName>
+        </org>
+        <!--576 REMPL par id 530-->
+        <org xml:id="o-577">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>299</num>)</orgName>
+          <orgName type="proseForm">299e régiment d’infanterie</orgName>
+        </org>
+        <org xml:id="o-578">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment territorial d’infanterie</orgName>
+            (<num>288</num>)</orgName>
+          <orgName type="proseForm">288e régiment territorial d’infanterie</orgName>
+        </org>
+        <org xml:id="o-579">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’artillerie</orgName> (<num>212</num>)</orgName>
+          <orgName type="proseForm">212e régiment d’artillerie</orgName>
+        </org>
+        <org xml:id="o-580">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Section d’infirmiers militaires</orgName>
+            (<num>5</num>)</orgName>
+          <orgName type="proseForm">5e section d’infirmiers militaires</orgName>
+        </org>
+        <!--581 REMPL par id 366-->
+        <!-- FC 28 sept. 2022 : revu o-582 ajouté 'r' à '1e'-->
+        <org xml:id="o-582">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Groupe d’aviation</orgName> (<num>1</num>)</orgName>
+          <orgName type="proseForm">1er groupe d’aviation</orgName>
+        </org>
+        <org xml:id="o-583">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>211</num>)</orgName>
+          <orgName type="proseForm">211e régiment d’infanterie</orgName>
+        </org>
+        <org xml:id="o-584">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Section d’infirmiers militaires</orgName>
+            (<num>12</num>)</orgName>
+          <orgName type="proseForm">12e section d’infirmiers militaires</orgName>
+        </org>
+        <org xml:id="o-585">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>108</num>)</orgName>
+          <orgName type="proseForm">108e régiment d’infanterie</orgName>
+        </org>
+        <org xml:id="o-586">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>229</num>)</orgName>
+          <orgName type="proseForm">229e régiment d’infanterie</orgName>
+        </org>
+        <org xml:id="o-587">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>64</num>)</orgName>
+          <orgName type="proseForm">64e régiment d’infanterie</orgName>
+        </org>
+        <org xml:id="o-588">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>325</num>)</orgName>
+          <orgName type="proseForm">325e régiment d’infanterie</orgName>
+        </org>
+        <org xml:id="o-589">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie coloniale</orgName>
+            (<num>52</num>)</orgName>
+          <orgName type="proseForm">52e régiment d’infanterie coloniale</orgName>
+        </org>
+        <org xml:id="o-590">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment territorial d’infanterie</orgName>
+            (<num>128</num>)</orgName>
+          <orgName type="proseForm">128e régiment territorial d’infanterie</orgName>
+        </org>
+        <!--591 REMPL par id 11-->
+        <org xml:id="o-592">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment de dragons</orgName> (<num>19</num>)</orgName>
+          <orgName type="proseForm">19e régiment de dragons</orgName>
+        </org>
+        <!--593 REMPL par id 350-->
+        <org xml:id="o-594">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Bataillon d’infanterie légère d’Afrique</orgName>
+              (<num>5</num>)</orgName>
+          <orgName type="proseForm">5e bataillon d’infanterie légère d’Afrique</orgName>
+        </org>
+        <org xml:id="o-595">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie territoriale</orgName>
+            (<num>59</num>)</orgName>
+          <orgName type="proseForm">59e régiment d’infanterie territoriale</orgName>
+        </org>
+        <org xml:id="o-596">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Bataillon du génie</orgName> (<num>29</num>)</orgName>
+          <orgName type="proseForm">29e bataillon du génie</orgName>
+        </org>
+        <org xml:id="o-597">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>311</num>)</orgName>
+          <orgName type="proseForm">311e régiment d’infanterie</orgName>
+        </org>
+        <org xml:id="o-598">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’artillerie</orgName> (<num>47</num>)</orgName>
+          <orgName type="proseForm">47e régiment d’artillerie</orgName>
+        </org>
+        <!--599 REMPL par id 266-->
+        <org xml:id="o-600">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie territoriale</orgName>
+            (<num>322</num>)</orgName>
+          <orgName type="proseForm">322e régiment d’infanterie territoriale</orgName>
+        </org>
+        <org xml:id="o-601">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment de cuirassiers</orgName> (<num>5</num>)</orgName>
+          <orgName type="proseForm">5e régiment de cuirassiers</orgName>
+        </org>
+        <org xml:id="o-602">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>250</num>)</orgName>
+          <orgName type="proseForm">250e régiment d’infanterie</orgName>
+        </org>
+        <org xml:id="o-603">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>243</num>)</orgName>
+          <orgName type="proseForm">243e régiment d’infanterie</orgName>
+        </org>
+        <org xml:id="o-604">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’artillerie</orgName> (<num>17</num>)</orgName>
+          <orgName type="proseForm">17e régiment d’artillerie</orgName>
+        </org>
+        <org xml:id="o-605">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie territoriale</orgName>
+            (<num>15</num>)</orgName>
+          <orgName type="proseForm">15e régiment d’infanterie territoriale</orgName>
+        </org>
+        <org xml:id="o-606">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>230</num>)</orgName>
+          <orgName type="proseForm">230e régiment d’infanterie</orgName>
+        </org>
+        <org xml:id="o-607">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie coloniale</orgName>
+            (<num>56</num>)</orgName>
+          <orgName type="proseForm">56e régiment d’infanterie coloniale</orgName>
+        </org>
+        <org xml:id="o-608">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’artillerie</orgName> (<num>45</num>)</orgName>
+          <orgName type="proseForm">45e régiment d’artillerie</orgName>
+        </org>
+        <org xml:id="o-609">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>348</num>)</orgName>
+          <orgName type="proseForm">348e régiment d’infanterie</orgName>
+        </org>
+        <org xml:id="o-610">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>114</num>)</orgName>
+          <orgName type="proseForm">114e régiment d’infanterie</orgName>
+        </org>
+        <org xml:id="o-611">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment territorial d’infanterie</orgName>
+            (<num>13</num>)</orgName>
+          <orgName type="proseForm">13e régiment territorial d’infanterie</orgName>
+        </org>
+        <org xml:id="o-612">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment territorial d’infanterie</orgName>
+            (<num>131</num>)</orgName>
+          <orgName type="proseForm">131e régiment territorial d’infanterie</orgName>
+        </org>
+        <org xml:id="o-613">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’artillerie d’assaut</orgName>
+            (<num>500</num>)</orgName>
+          <orgName type="proseForm">500e régiment d’artillerie d’assaut</orgName>
+        </org>
+        <org xml:id="o-614">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>225</num>)</orgName>
+          <orgName type="proseForm">225e régiment d’infanterie</orgName>
+        </org>
+        <org xml:id="o-615">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+              Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>4</num>)</orgName>
+          <orgName type="proseForm">4e régiment d’infanterie</orgName>
+        </org>
       </listOrg>
     </body>
   </text>
