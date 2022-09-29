@@ -140,7 +140,7 @@
                 notices. Quelques changements dans les notices déjà présentes début 2021.</change>
             <change when-iso="2022-09-29" who="#FClavaud">Nouvelle version du fichier qui intègre
                 l'ensemble des notices de lieux utilisées dans la plateforme de transcription (en
-                tout 1227 notices). Restructuration des nouvelles notices et ajout des données
+                tout 1226 notices). Restructuration des nouvelles notices et ajout des données
                 d'alignement vers le référentiel des lieux des AN ; corrections et ajouts
                 manuels.</change>
         </revisionDesc>
@@ -12208,8 +12208,8 @@ Commune de Goyencourt dans la Somme > pl-852
                     <idno type="GeonamesURI">https://sws.geonames.org/2996148/</idno>
                     <idno type="ANF_RI005_authorityRecordId">d3nttk4hgg--1fgbwui8m189b</idno>
                 </place>
-                <place xml:id="pl-1009">
-                    <!-- FC sept. 2022 à supprimer probablement. Concerne testateur 750 qui d'après base MH est né à Mantes. Voir si on peut grâce à l'état civil dire laquelle des communes appelée Mantes ds les Yvelines est la commune de naissance du testateur-->
+               <!--FC 29/09/2022 lieu supprimé après recherches dans l'Etat civil des Yvelines <place xml:id="pl-1009">
+                    <!-\- FC sept. 2022 à supprimer probablement. Concerne testateur 754 qui d'après base MH est né à Mantes. Voir si on peut grâce à l'état civil dire laquelle des communes appelée Mantes ds les Yvelines est la commune de naissance du testateur-\->
 
                     <placeName><settlement>Yvelines</settlement></placeName>
                     <location>
@@ -12220,7 +12220,7 @@ Commune de Goyencourt dans la Somme > pl-852
                     </location>
                     <idno type="GeonamesURI">https://sws.geonames.org/2967196/</idno>
                     <idno type="ANF_RI005_authorityRecordId">d3ntb91vp2-1x0gbusmn6zj4</idno>
-                </place>
+                </place>-->
                 <place xml:id="pl-1010">
                     <placeName><settlement>Paissy (Aisne)</settlement></placeName>
                     <location>
