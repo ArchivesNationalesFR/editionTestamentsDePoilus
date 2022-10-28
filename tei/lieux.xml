@@ -143,7 +143,7 @@
                 tout 1226 notices). Restructuration des nouvelles notices et ajout des données
                 d'alignement vers le référentiel des lieux des AN ; corrections et ajouts
                 manuels.</change>
-            <change when-iso="2022-10-27" who="#FClavaud">Ajout de la notice 1270</change>
+            <change when-iso="2022-10" who="#FClavaud">Ajout de plusieurs notices</change>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -15228,6 +15228,31 @@ Commune de Goyencourt dans la Somme > pl-852
                     </location>
                     <idno type="GeonamesURI">https://sws.geonames.org/6617065/</idno>
                     <idno type="ANF_RI005_authorityRecordId">d3ntlaz2x7--1ka7pq7n4m1xu</idno>
+                </place>
+                <!-- notices 1271 et 1272 ajoutées le 28 octobre 2022 -->
+                <place xml:id="pl-1271">
+                    <placeName><settlement>Domptin (Aisne)</settlement></placeName>
+                    <location>
+                        <region type="FrenchDepartement">Aisne</region>
+                        <country>France</country>
+                    </location>
+                    <location type="geographicalCoordinates">
+                        <geo>49.01639 3.27694</geo>
+                    </location>
+                    <idno type="GeonamesURI">https://sws.geonames.org/6424880/</idno>
+                    <idno type="ANF_RI005_authorityRecordId">d3ntcuqrsx-iw36169fcadv</idno>
+                </place>
+                <place xml:id="pl-1272">
+                    <placeName><settlement>Mortrée (Orne)</settlement></placeName>
+                    <location>
+                        <region type="FrenchDepartement">Orne</region>
+                        <country>France</country>
+                    </location>
+                    <location type="geographicalCoordinates">
+                        <geo>48.63944 0.07806</geo>
+                    </location>
+                    <idno type="GeonamesURI">https://sws.geonames.org/6439177/</idno>
+                    <idno type="ANF_RI005_authorityRecordId">d3ntp38v94--lc2tkjig0dun</idno>
                 </place>
                 <!--FIN DES NOTICES A RELIRE-->
                 <place xml:id="pl-2001">
