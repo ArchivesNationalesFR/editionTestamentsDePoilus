@@ -143,6 +143,7 @@
                 tout 1226 notices). Restructuration des nouvelles notices et ajout des données
                 d'alignement vers le référentiel des lieux des AN ; corrections et ajouts
                 manuels.</change>
+            <change when-iso="2022-10-27" who="#FClavaud">Ajout de la notice 1270</change>
         </revisionDesc>
     </teiHeader>
     <text>
@@ -12591,7 +12592,7 @@ Commune de Goyencourt dans la Somme > pl-852
                     <idno type="GeonamesURI">https://sws.geonames.org/3037316/</idno>
                     <idno type="ANF_RI005_authorityRecordId">d3ntispqbp-15mex78arbx18</idno>
                 </place>
-                <!--  FC sept. 2022 : 1043. Le bon lieu est en fait Pommerit-Jaudy . Concerne testateur 754, né dans cette commune des Côtes-d'Armor  d'après MH -->
+                <!--  FC sept. 2022 : 1043. Le bon lieu est en fait Pommerit-Jaudy . Concerne testateur 778, né dans cette commune des Côtes-d'Armor  d'après MH -->
                 <place xml:id="pl-1043">
 
                     <!-- <placeName><settlement>Côtes-d’Armor</settlement></placeName>-->
@@ -15214,6 +15215,19 @@ Commune de Goyencourt dans la Somme > pl-852
                     </location>
                     <idno type="GeonamesURI">https://sws.geonames.org/2992292/</idno>
                     <idno type="ANF_RI005_authorityRecordId">d3ntd3g97e-nlchqw6yhdb</idno>
+                </place>
+                <!-- notice 1270 ajoutée le 27 octobre 2022 -->
+                <place xml:id="pl-1270">
+                    <placeName><settlement>Beaumont-en-Verdunois (Meuse)</settlement></placeName>
+                    <location>
+                        <region type="FrenchDepartement">Meuse</region>
+                        <country>France</country>
+                    </location>
+                    <location type="geographicalCoordinates">
+                        <geo>49.2588 5.408</geo>
+                    </location>
+                    <idno type="GeonamesURI">https://sws.geonames.org/6617065/</idno>
+                    <idno type="ANF_RI005_authorityRecordId">d3ntlaz2x7--1ka7pq7n4m1xu</idno>
                 </place>
                 <!--FIN DES NOTICES A RELIRE-->
                 <place xml:id="pl-2001">
