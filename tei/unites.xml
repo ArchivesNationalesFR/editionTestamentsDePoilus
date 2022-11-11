@@ -132,6 +132,7 @@
         des unités (en tout désormais 505 unités). Quelques corrections (dédoublonnages et
         modifications de contenu) dans les notices déjà présentes dans la version précédente du
         fichier.</change>
+      <change when-iso="2022-11-11" who="#FClavaud">Ajout de la notice 616.</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -3026,6 +3027,11 @@
           <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
               Terre</orgName>. <orgName>Régiment d’infanterie</orgName> (<num>4</num>)</orgName>
           <orgName type="proseForm">4e régiment d’infanterie</orgName>
+        </org>
+        <org xml:id="o-616">
+          <orgName type="fullIndexEntryForm"><orgName>France</orgName>. <orgName>Armée de
+            Terre</orgName>. <orgName>Régiment du génie</orgName> (<num>11</num>)</orgName>
+          <orgName type="proseForm">11e régiment du génie</orgName>
         </org>
       </listOrg>
     </body>
