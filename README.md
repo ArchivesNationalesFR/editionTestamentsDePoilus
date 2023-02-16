@@ -1,4 +1,4 @@
-# editionTestamentsDePoilus
+# Projet Testaments de Poilus : fichiers TEI source de l'édition numérique collaborative
 
 This repository contains the TEI source files of the 'Testaments de Poilus' digital edition available at <https://edition-testaments-de-poilus.huma-num.fr>.
 
