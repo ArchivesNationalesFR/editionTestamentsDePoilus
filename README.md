@@ -13,6 +13,7 @@ Ces fichiers sont conformes à la version 4.1.0 des TEI Guidelines (<https://www
 
 Les fichiers TEI sont placés sous licence Creative Commons « Attribution 4.0 international (CC-BY 4.0) » (<https://creativecommons.org/licenses/by/4.0/deed.fr>). Voir aussi la page de mentions légales du site web d'édition numérique : <https://edition-testaments-de-poilus.huma-num.fr/apropos/-hqvnHUBighAQ_8Sp2m5>.
 
+test 13 janvier 2025
 
 ## For more information | Pour plus d'informations
 
